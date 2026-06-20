@@ -1,0 +1,48 @@
+name: Refresh docs from Obsidian vault
+
+on:
+  # Run weekly on Monday at 02:00 UTC (9:00 AM Vietnam time)
+  schedule:
+    - cron: '0 2 * * 1'
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual refresh'
+        required: false
+        default: 'manual'
+
+jobs:
+  refresh:
+    name: Refresh from Obsidian vault
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # NOTE: This workflow documents the design but is INACTIVE by default.
+      # To enable it, you need to:
+      # 1. Sync your Obsidian vault to a private GitHub repo
+      # 2. Add it as a git submodule or git subtree at .obsidian-source/
+      # 3. Add the source repo as a checkout step here
+      # 4. Run: python scripts/convert_obsidian.py --source .obsidian-source/Tennis-Wiki --out docs
+      # 5. Commit and push back
+      #
+      # For now, refresh the wiki manually:
+      #   python scripts/convert_obsidian.py --out docs
+      #   git add docs/ && git commit -m "Refresh from Obsidian" && git push
+
+      - name: (Documentation) How to enable auto-refresh
+        run: |
+          echo "To enable automatic refresh:"
+          echo "  1. Create a private GitHub repo for your Obsidian vault (e.g. tennis-obsidian-private)"
+          echo "  2. Push your vault: cd ~/Documents/MY\ VAULT && git init && git remote add origin ... && git push"
+          echo "  3. Edit this workflow to clone the private repo into .obsidian-source/"
+          echo "  4. Add a deploy key with read access to the private repo"
+          echo ""
+          echo "See scripts/convert_obsidian.py for the converter."
