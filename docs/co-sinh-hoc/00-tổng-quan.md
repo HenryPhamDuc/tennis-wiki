@@ -228,7 +228,6 @@ Vault tiếng Việt tổng hợp từ **232 bài viết canonical** trong hai f
 
 - [art-of-redirection](../ky-thuat/art-of-redirection.md)
 - [complete-embodied-methodology](../ky-thuat/complete-embodied-methodology.md)
-- [cẩm-nang-tennis-hiện-đại-mang-phong-cách-đạo-gia](../wiki/cẩm-nang-tennis-hiện-đại-mang-phong-cách-đạo-gia.md)
 - [feedback-feedforward-control](../ky-thuat/feedback-feedforward-control.md)
 - [nghe-thuat-chuyen-huong](../ky-thuat/nghe-thuat-chuyen-huong.md)
 - [quan-ly-ap-luc](../ky-thuat/quan-ly-ap-luc.md)
