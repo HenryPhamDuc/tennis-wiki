@@ -65,7 +65,7 @@ Focuses on the reality that tennis is a track-and-field sport played with a racq
 ### Module 4: Tactics, Psychology & Longevity
 Focuses on managing risk, probability, and cognitive load rather than winning through physical dominance.
 - _Serve Mechanics_
-- _Return of Serve_
+- [Return of Serve](return-of-serve.md)
 - _Percentage Tennis_
 - _Winning Patterns_
 - _Cognitive Load Management_
