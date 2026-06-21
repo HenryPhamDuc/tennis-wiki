@@ -163,7 +163,6 @@ Vault tiếng Việt tổng hợp từ **232 bài viết canonical** trong hai f
 - [forehand-visual-analysis](../ky-thuat/forehand-visual-analysis.md)
 - [head-position-balance-system](../wiki/head-position-balance-system.md)
 - [khoa-vai-thuc-hu](../ky-thuat/khoa-vai-thuc-hu.md)
-- [know-your-body](know-your-body.md)
 - [loi-volley-thuong-gap](../ky-thuat/loi-volley-thuong-gap.md)
 - [nguyen-ly-mat-vot-som](../ky-thuat/nguyen-ly-mat-vot-som.md)
 - [palm-up-palm-down](../ky-thuat/palm-up-palm-down.md)

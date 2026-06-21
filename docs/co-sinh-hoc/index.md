@@ -94,7 +94,4 @@
 - [Weight Transfer Forward](weight-transfer-forward.md)
 - [Wrist Lag and Release](wrist-lag-and-release.md)
 - [X-Factor Anatomy — The 45° Pre-Load | X-Factor Giải Phẫu — Tiền Tải 45°](x-factor-anatomy.md)
-- [🎾 DEPLOYMENT COMPLETE — Anatomy Lab is LIVE](know-your-body.md)
 - [🎾 Tennis Wiki-Vietnamese — Tổng Quan](00-tổng-quan.md)
-- [🏷️ TỪ ĐIỂN TAGS — OBSIDIAN](tags-dictionary.md)
-- [🗺️ MỤC LỤC TỔNG THỂ OBSIDIAN VAULT](mục-lục-tổng-thể.md)

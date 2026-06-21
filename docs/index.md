@@ -2,7 +2,7 @@
 
 > **Bách khoa toàn thư mở về quần vợt hiện đại — tiếng Việt**
 >
-> Tổng hợp từ hệ thống nghiên cứu của [Henry Phạm](https://github.com/henryPhamDuc)
+> Tổng hợp từ hệ thống nghiên cứu của **Henry Phạm**
 
 > 🌐 **[Read in English](https://henryPhamDuc.github.io/tennis-wiki-en/)** — English version of this wiki
 >
@@ -95,17 +95,9 @@ Nội dung bao gồm:
 - 🇬🇧 **English** — https://henryPhamDuc.github.io/tennis-wiki-en/
 - 📘 **Tennis Manual (Master Reference v2)** — https://henryPhamDuc.github.io/tennis/ (Complete bilingual EN-VI coaching manual)
 
-## Đóng góp
-
-Wiki này là mã nguồn mở. Bạn có thể:
-
-- :material-github:{ .lg } **[GitHub Repository](https://github.com/henryPhamDuc/tennis-wiki)** — xem mã nguồn, đề xuất chỉnh sửa
-- :fontawesome-brands-youtube:{ .lg } **[Tennis for Everyone Blog](https://tennis-for-everyone.blogspot.com/)** — bài viết bằng song ngữ Anh-Việt
-- :fontawesome-brands-facebook:{ .lg } **[Facebook Page](https://www.facebook.com/share/1BmokPQjf2/)** — cộng đồng
-
 ## Giấy phép
 
-Nội dung được phát hành theo [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+Wiki này là mã nguồn mở, phát hành theo [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 !!! quote "Ghi công"
-    Khi sử dụng lại nội dung, vui lòng ghi: *"Tennis WIKI by Henry Phạm, [https://tennis-wiki.example.com](https://github.com/henryPhamDuc/tennis-wiki)"*
+    Khi sử dụng lại nội dung, vui lòng ghi: *"Tennis WIKI by Henry Phạm"*
