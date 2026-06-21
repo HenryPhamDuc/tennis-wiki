@@ -87,7 +87,6 @@ Vault tiếng Việt tổng hợp từ **232 bài viết canonical** trong hai f
 - [forehand-technique-a-biomechanical-breakthrough-in-tennis](../ky-thuat/forehand-technique-a-biomechanical-breakthrough-in-tennis.md)
 - [giao-trinh-5-nam](giao-trinh-5-nam.md)
 - [giao-trinh-trung-nien](../wiki/giao-trinh-trung-nien.md)
-- [giáo-trình-tennis-5-năm-by-chat-gpt](giáo-trình-tennis-5-năm-by-chat-gpt.md)
 - [hệ-trục-52-complete-20-chapter-content-structure](../chien-thuat/hệ-trục-52-complete-20-chapter-content-structure.md)
 - [hệ-trục-52-vận-hành-không-tải-tái-tạo-năng-lượng](../wiki/hệ-trục-52-vận-hành-không-tải-tái-tạo-năng-lượng.md)
 - [is-techniques-through-the-lens-of-industrial-control-systems](../ky-thuat/is-techniques-through-the-lens-of-industrial-control-systems.md)

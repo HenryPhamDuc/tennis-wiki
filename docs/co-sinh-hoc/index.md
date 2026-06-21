@@ -6,7 +6,6 @@
 
 ## Danh sách bài viết
 
-- [**1\. Thêm “Diagnostic Layer” đầu mỗi module**](giáo-trình-tennis-5-năm-by-chat-gpt.md)
 - [**8. Tennis Tension: Neural & Biomechanical Analysis**](tennis-tension-neural-biomechanical-analysis.md)
 - [**APPENDIX**](art-of-modern-tennis.md)
 - [**FOREWORD: THE INVISIBLE ADVANTAGE**](training-kình-grf-taichi-24-forms-and-delibrate-practice.md)
