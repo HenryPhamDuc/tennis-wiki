@@ -13,11 +13,6 @@ site_author: Henry Phạm
 #   https://henryPhamDuc.github.io/tennis-wiki/
 site_url: https://henryPhamDuc.github.io/tennis-wiki/
 
-# Repository link shown in the top bar
-repo_name: henryPhamDuc/tennis-wiki
-repo_url: https://github.com/henryPhamDuc/tennis-wiki
-edit_uri: edit/main/docs/
-
 # Use the directory 'docs/' as source (matches our converter output)
 docs_dir: docs
 site_dir: site
@@ -147,8 +142,4 @@ copyright: >
 
 # Social links shown in footer
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/henryPhamDuc
-      name: GitHub
   generator: false                # Hide "Made with Material for MkDocs"
