@@ -6,7 +6,6 @@
 
 ## Danh sách bài viết
 
-- [**_Advanced_ _Neuro_-_Bio[[mechanical_ ]]Tennis \- The _next frontier_ for _Elite Per[[form_ance]] _Manual_**](ical-tennis-the-next-frontier-for-elite-performance-manual.md)
 - [**Advanced Tennis Kinetic‑Chain Manual**](advanced-tennis-kinetic-chain-manual.md)
 - [**Chapter 3: The ATP Forehand: A Five-Link Kinetic Sequence**](chapter-3-neuro-motor-manual.md)
 - [**Chapter 5: The Two-Handed Backhand: The Non-Dominant Forehand**](chapter-5-neuro-motor-manual.md)

@@ -96,7 +96,6 @@ Vault tiếng Việt tổng hợp từ **232 bài viết canonical** trong hai f
 - [giáo-trình-tennis-5-năm-by-chat-gpt](giáo-trình-tennis-5-năm-by-chat-gpt.md)
 - [hệ-trục-52-complete-20-chapter-content-structure](../chien-thuat/hệ-trục-52-complete-20-chapter-content-structure.md)
 - [hệ-trục-52-vận-hành-không-tải-tái-tạo-năng-lượng](../wiki/hệ-trục-52-vận-hành-không-tải-tái-tạo-năng-lượng.md)
-- [ical-tennis-the-next-frontier-for-elite-performance-manual](../ky-thuat/ical-tennis-the-next-frontier-for-elite-performance-manual.md)
 - [is-techniques-through-the-lens-of-industrial-control-systems](../ky-thuat/is-techniques-through-the-lens-of-industrial-control-systems.md)
 - [khung-cơ-thể-tennis](../ky-thuat/khung-cơ-thể-tennis.md)
 - [kỹ-thuật-tay-trái-trong-tennis](../ky-thuat/kỹ-thuật-tay-trái-trong-tennis.md)
