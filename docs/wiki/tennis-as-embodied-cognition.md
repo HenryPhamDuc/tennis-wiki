@@ -106,7 +106,7 @@ In tennis, players do not first calculate and then move.
 
 Instead, movement itself becomes a form of cognition.
 
-This view aligns with broader embodied cognition research emphasizing that cognitive processes arise from sensorimotor engagement with the world rather than solely from internal symbolic computation. ([arXiv](https://arxiv.org/abs/1202.0440?utm_source=chatgpt.com "The implications of embodiment for behavior and cognition: animal and robotic case studies"))
+This view aligns with broader embodied cognition research emphasizing that cognitive processes arise from sensorimotor engagement with the world rather than solely from internal symbolic computation. ([arXiv](https://arxiv.org/abs/1202.0440 "The implications of embodiment for behavior and cognition: animal and robotic case studies"))
 
 * * *
 
@@ -127,9 +127,9 @@ After sufficient practice:
 
 * A tennis racket extends the striking surface of the upper limb.
 
-Neuroscientific studies show that tool use modifies neural representations of peripersonal space and body representation, effectively treating the tool as an extension of the body. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/?utm_source=chatgpt.com "Tools for the body (schema) - PubMed"))
+Neuroscientific studies show that tool use modifies neural representations of peripersonal space and body representation, effectively treating the tool as an extension of the body. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/ "Tools for the body (schema) - PubMed"))
 
-Further evidence suggests that tool incorporation can occur rapidly and is strengthened through practice and expertise. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962?utm_source=chatgpt.com "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
+Further evidence suggests that tool incorporation can occur rapidly and is strengthened through practice and expertise. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962 "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
 
 Thus, elite tennis players do not experience the racket as an external object.
 
@@ -238,7 +238,7 @@ The cognitive system is therefore not located solely inside the skull.
 
 Instead, cognition emerges from the entire player-environment system.
 
-This perspective is consistent with theoretical work arguing that cognition can be constituted by dynamically coupled interactions extending beyond the brain alone. ([arXiv](https://arxiv.org/abs/1305.1958?utm_source=chatgpt.com "The Dynamically Extended Mind -- A Minimal Modeling Case Study"))
+This perspective is consistent with theoretical work arguing that cognition can be constituted by dynamically coupled interactions extending beyond the brain alone. ([arXiv](https://arxiv.org/abs/1305.1958 "The Dynamically Extended Mind -- A Minimal Modeling Case Study"))
 
 * * *
 
@@ -250,11 +250,11 @@ This perspective is consistent with theoretical work arguing that cognition can 
 
 Research on tool embodiment demonstrates that tools can become integrated into body representation.
 
-Maravita and Iriki argued that neural representations adapt to include tools as extensions of bodily effectors. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/?utm_source=chatgpt.com "Tools for the body (schema) - PubMed"))
+Maravita and Iriki argued that neural representations adapt to include tools as extensions of bodily effectors. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/ "Tools for the body (schema) - PubMed"))
 
-Ganesh and colleagues further demonstrated that tool incorporation can occur immediately during motor planning rather than only after prolonged exposure. ([Nature](https://www.nature.com/articles/ncomms5524?utm_source=chatgpt.com "Immediate tool incorporation processes determine human motor planning with tools | Nature Communications"))
+Ganesh and colleagues further demonstrated that tool incorporation can occur immediately during motor planning rather than only after prolonged exposure. ([Nature](https://www.nature.com/articles/ncomms5524 "Immediate tool incorporation processes determine human motor planning with tools | Nature Communications"))
 
-Similarly, Carlson et al. found rapid assimilation of external objects into body schema, suggesting that the nervous system possesses remarkable plasticity in extending bodily boundaries. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962?utm_source=chatgpt.com "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
+Similarly, Carlson et al. found rapid assimilation of external objects into body schema, suggesting that the nervous system possesses remarkable plasticity in extending bodily boundaries. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962 "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
 
 These findings have profound implications for tennis coaching.
 
@@ -310,19 +310,19 @@ Consequently, cognition emerges from continuous interaction rather than isolated
 
 ### Selected References
 
-* Maravita, A., & Iriki, A. (2004). _Tools for the body (schema)._ Trends in Cognitive Sciences. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/?utm_source=chatgpt.com "Tools for the body (schema) - PubMed"))
+* Maravita, A., & Iriki, A. (2004). _Tools for the body (schema)._ Trends in Cognitive Sciences. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/15588812/ "Tools for the body (schema) - PubMed"))
 
-* Ganesh, G., et al. (2014). _Immediate tool incorporation processes determine human motor planning with tools._ Nature Communications. ([Nature](https://www.nature.com/articles/ncomms5524?utm_source=chatgpt.com "Immediate tool incorporation processes determine human motor planning with tools | Nature Communications"))
+* Ganesh, G., et al. (2014). _Immediate tool incorporation processes determine human motor planning with tools._ Nature Communications. ([Nature](https://www.nature.com/articles/ncomms5524 "Immediate tool incorporation processes determine human motor planning with tools | Nature Communications"))
 
-* Carlson, T. A., Alvarez, G., Wu, D., & Verstraten, F. (2010). _Rapid Assimilation of External Objects Into the Body Schema._ Psychological Science. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962?utm_source=chatgpt.com "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
+* Carlson, T. A., Alvarez, G., Wu, D., & Verstraten, F. (2010). _Rapid Assimilation of External Objects Into the Body Schema._ Psychological Science. ([Sage Journals](https://journals.sagepub.com/doi/10.1177/0956797610371962 "Rapid Assimilation of External Objects Into the Body Schema - Thomas A. Carlson, George Alvarez, Daw-an Wu, Frans A.J. Verstraten, 2010"))
 
-* Baccarini, M., et al. (2014). _Tool Use Imagery Triggers Tool Incorporation in the Body Schema._ Frontiers in Psychology. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/24910624/?utm_source=chatgpt.com "Tool use imagery triggers tool incorporation in the body schema - PubMed"))
+* Baccarini, M., et al. (2014). _Tool Use Imagery Triggers Tool Incorporation in the Body Schema._ Frontiers in Psychology. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/24910624/ "Tool use imagery triggers tool incorporation in the body schema - PubMed"))
 
-* Cardinali, L., et al. (2014). _Intensive Tool-Practice and Skillfulness Facilitate the Extension of Body Representations in Humans._ Neuropsychologia. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0028393214000232?utm_source=chatgpt.com "Intensive tool-practice and skillfulness facilitate the extension of body representations in humans - ScienceDirect"))
+* Cardinali, L., et al. (2014). _Intensive Tool-Practice and Skillfulness Facilitate the Extension of Body Representations in Humans._ Neuropsychologia. ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0028393214000232 "Intensive tool-practice and skillfulness facilitate the extension of body representations in humans - ScienceDirect"))
 
-* Froese, T., Gershenson, C., & Rosenblueth, D. (2013). _The Dynamically Extended Mind._ ([arXiv](https://arxiv.org/abs/1305.1958?utm_source=chatgpt.com "The Dynamically Extended Mind -- A Minimal Modeling Case Study"))
+* Froese, T., Gershenson, C., & Rosenblueth, D. (2013). _The Dynamically Extended Mind._ ([arXiv](https://arxiv.org/abs/1305.1958 "The Dynamically Extended Mind -- A Minimal Modeling Case Study"))
 
-* Hoffmann, M., & Pfeifer, R. (2012). _The Implications of Embodiment for Behavior and Cognition._ ([arXiv](https://arxiv.org/abs/1202.0440?utm_source=chatgpt.com "The implications of embodiment for behavior and cognition: animal and robotic case studies"))
+* Hoffmann, M., & Pfeifer, R. (2012). _The Implications of Embodiment for Behavior and Cognition._ ([arXiv](https://arxiv.org/abs/1202.0440 "The implications of embodiment for behavior and cognition: animal and robotic case studies"))
 
 Phần tiếp theo có thể phát triển thành:
 

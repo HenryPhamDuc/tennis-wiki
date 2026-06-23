@@ -464,7 +464,7 @@ Would you like a "System Prompt" that tells Hermes to act as a _Researcher_ spec
 
 [7] [https://www.reddit.com](https://www.reddit.com/r/LocalLLaMA/comments/1giy3pt/your_best_3b_model_llama_32_kwen_25_or_phi_35/)
 
-[8] [https://help.manus.im](https://help.manus.im/en/articles/11711097-what-are-the-rules-for-credits-consumption-and-how-can-i-obtain-them)
+[8] 
 
 [9] [https://www.eweek.com](https://www.eweek.com/artificial-intelligence/gpt4-vs-claude/)
 

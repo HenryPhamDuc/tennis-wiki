@@ -14,8 +14,6 @@ updated: 2026-06-20
 **Created:** 5/25/2026 6:58:15  
 **Updated:** 5/25/2026 7:06:44  
 **Exported:** 5/25/2026 8:42:14  
-**Link:** [https://chatgpt.com/c/6a14551a-f2f4-83ea-b5b2-53633ad09cca](https://chatgpt.com/c/6a14551a-f2f4-83ea-b5b2-53633ad09cca)  
-
 ## Prompt:
 5/25/2026, 6:58:15 AM
 

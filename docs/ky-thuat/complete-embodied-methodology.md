@@ -27,7 +27,7 @@ Trong mô hình truyền thống:
 Trong mô hình embodied:
     Perception → Action → Adaptation → Skill
 
-Kỹ thuật xuất hiện như kết quả của sự thích nghi với môi trường, thay vì là mục tiêu ban đầu. Đây là nền tảng của Ecological Dynamics và Perception-Action Coupling trong khoa học học kỹ năng hiện đại. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/?utm_source=chatgpt.com "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
+Kỹ thuật xuất hiện như kết quả của sự thích nghi với môi trường, thay vì là mục tiêu ban đầu. Đây là nền tảng của Ecological Dynamics và Perception-Action Coupling trong khoa học học kỹ năng hiện đại. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/ "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
 
 * * *
 
@@ -117,7 +117,7 @@ Level 2: Body Schema Expansion
 Making the Racket Part of the Body
 ----------------------------------
 
-Nghiên cứu về tool embodiment cho thấy công cụ có thể được tích hợp vào body schema. Sau luyện tập, não bắt đầu xem công cụ như một phần cơ thể. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7644965/?utm_source=chatgpt.com "How Enaction and Ecological Approaches Can Contribute to Sports and Skill Learning - PMC"))
+Nghiên cứu về tool embodiment cho thấy công cụ có thể được tích hợp vào body schema. Sau luyện tập, não bắt đầu xem công cụ như một phần cơ thể. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7644965/ "How Enaction and Ecological Approaches Can Contribute to Sports and Skill Learning - PMC"))
 
 Mục tiêu:
 
@@ -191,7 +191,7 @@ Người giỏi:
     See-Move
     See-Move
 
-Perception và Action là một vòng lặp liên tục. ([Edinburgh Research](https://www.research.ed.ac.uk/en/publications/promoting-perceptionaction-coupling-in-sport-the-role-of-preparat/?utm_source=chatgpt.com "Promoting perception–action coupling in sport: The role of preparation within coaching environments - University of Edinburgh Research Explorer"))
+Perception và Action là một vòng lặp liên tục. ([Edinburgh Research](https://www.research.ed.ac.uk/en/publications/promoting-perceptionaction-coupling-in-sport-the-role-of-preparat/ "Promoting perception–action coupling in sport: The role of preparation within coaching environments - University of Edinburgh Research Explorer"))
 
 * * *
 
@@ -255,7 +255,7 @@ Level 4: Predictive Processing
 Learning to See the Future
 --------------------------
 
-Não bộ hoạt động như một cỗ máy dự đoán liên tục. Trong thể thao trình độ cao, vận động viên thường di chuyển dựa trên dự đoán hơn là phản ứng thuần túy. ([Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01825/full?utm_source=chatgpt.com "Frontiers | Embodied Cognition With and Without Mental Representations: The Case of Embodied Choices in Sports"))
+Não bộ hoạt động như một cỗ máy dự đoán liên tục. Trong thể thao trình độ cao, vận động viên thường di chuyển dựa trên dự đoán hơn là phản ứng thuần túy. ([Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01825/full "Frontiers | Embodied Cognition With and Without Mental Representations: The Case of Embodied Choices in Sports"))
 
 * * *
 
@@ -327,7 +327,7 @@ Theo Ecological Dynamics:
 
 Người chơi giỏi không nhìn vật thể.
 
-Họ nhìn cơ hội hành động (affordances). ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/?utm_source=chatgpt.com "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
+Họ nhìn cơ hội hành động (affordances). ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/ "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
 
 * * *
 
@@ -368,7 +368,7 @@ Level 6: Self-Organization
 Let the Body Solve the Problem
 ------------------------------
 
-Ecological Dynamics cho rằng kỹ năng xuất hiện từ tự tổ chức (self-organization) dưới các ràng buộc nhiệm vụ và môi trường. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/?utm_source=chatgpt.com "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
+Ecological Dynamics cho rằng kỹ năng xuất hiện từ tự tổ chức (self-organization) dưới các ràng buộc nhiệm vụ và môi trường. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/ "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
 
 * * *
 
@@ -551,6 +551,6 @@ Mà là tạo ra một vận động viên mà trong đó:
 
 hoạt động như một hệ thống duy nhất.
 
-Đó là trạng thái mà các nhà nghiên cứu về Ecological Dynamics mô tả là sự phối hợp giữa người chơi và môi trường thông qua perception-action coupling, self-organization và affordance detection. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/?utm_source=chatgpt.com "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
+Đó là trạng thái mà các nhà nghiên cứu về Ecological Dynamics mô tả là sự phối hợp giữa người chơi và môi trường thông qua perception-action coupling, self-organization và affordance detection. ([Universidade de Lisboa](https://researchportal.ulisboa.pt/en/publications/an-ecological-dynamics-approach-to-skill-acquisition-implications/ "An ecological dynamics approach to skill acquisition: Implications for development of talent in sport - University of Lisbon"))
 
-Ở cấp độ cao nhất, người chơi không còn "thực hiện kỹ thuật". Họ chỉ nhận biết cơ hội hành động, và cơ thể tự tổ chức để tạo ra lời giải vận động phù hợp trong thời gian thực. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7644965/?utm_source=chatgpt.com "How Enaction and Ecological Approaches Can Contribute to Sports and Skill Learning - PMC"))
+Ở cấp độ cao nhất, người chơi không còn "thực hiện kỹ thuật". Họ chỉ nhận biết cơ hội hành động, và cơ thể tự tổ chức để tạo ra lời giải vận động phù hợp trong thời gian thực. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7644965/ "How Enaction and Ecological Approaches Can Contribute to Sports and Skill Learning - PMC"))
