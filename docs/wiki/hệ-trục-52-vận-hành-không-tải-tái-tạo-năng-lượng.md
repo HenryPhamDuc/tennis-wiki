@@ -9,9 +9,6 @@ updated: 2026-06-20
 
 
 # 18\. Hệ Trục 52: Vận Hành Không Tải & Tái Tạo Năng Lượng 
-
-[https://gemini.google.com/app/36a3378d472ac801](https://gemini.google.com/app/36a3378d472ac801)
-
 **Prompt:** Với những kiến thức trong notebooks trên, hãy tạo ra một framework cho tôi, một người 52 tuổi, đang đi làm và chơi tennis đều hàng ngày, một lối sống lành mạnh. Viết ít nhất 20 chương, mỗi chương it nhất 40 trang.
 
 **Gemini:**

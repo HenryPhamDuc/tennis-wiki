@@ -9,9 +9,6 @@ updated: 2026-06-20
 
 
 # **8. Tennis Tension: Neural & Biomechanical Analysis**
-
-[https://gemini.google.com/app/0b26a0697c5e1681](https://gemini.google.com/app/0b26a0697c5e1681)
-
 **Prompt:**
 
 From this subsection, find new ideas and update the next subsection. Remember the 20 pages one subsection rule and do not repeat what have already been written here.

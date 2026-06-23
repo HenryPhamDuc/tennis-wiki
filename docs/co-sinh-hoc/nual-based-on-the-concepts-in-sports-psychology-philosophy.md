@@ -10,7 +10,7 @@ updated: 2026-06-20
 
 
 **14\. Tennis Training Manual based on the Concepts in Sports, Psychology, Philosophy**  
-[**https://gemini.google.com/app/37f9bf5fc43d8fd5**](https://gemini.google.com/app/37f9bf5fc43d8fd5)
+[**]()
 
 **Prompt:** Based on the manuscripts and NotebookLM notebooks  I've uploaded, give me a complete list of every key concept, theory, and term I need to know — organized by topic or module. Keep each explanation to one or two sentences max. I don't need deep dives right now, just a high-level rundown I can skim to see everything at a glance. 
 

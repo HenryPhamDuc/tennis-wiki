@@ -11,8 +11,6 @@ updated: 2026-06-20
 # Temporary Chat
 
 **Exported:** 4/23/2026 11:53:19  
-**Link:** [https://gemini.google.com/app/0b26a0697c5e1681](https://gemini.google.com/app/0b26a0697c5e1681)
-
 ## Prompt:
 > The Hidden... of Tennis - MD
 

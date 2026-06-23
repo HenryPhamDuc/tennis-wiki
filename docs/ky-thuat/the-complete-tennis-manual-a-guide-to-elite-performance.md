@@ -9,8 +9,6 @@ updated: 2026-06-20
 
 
 **15\. The Complete Tennis Manual: A Guide to Elite Performance**  
-[https://gemini.google.com/app/1c1502ad8ea3358a](https://gemini.google.com/app/1c1502ad8ea3358a)
-
 **Prompt:** 
 
 generate a full manual on tennis from the 10 note books, including a table of content, index and vocabulary

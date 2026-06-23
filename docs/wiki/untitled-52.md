@@ -31,7 +31,7 @@ I_{\text{racket}}\,\omega_{\text{pre}} = I_{\text{racket}}\,\omega_{\text{post}}
 
 Khi **\(I_{\text{racket}}\)** tăng (racket nặng hơn), **\(\omega_{\text{pre}}\)** chỉ cần giảm nhẹ để duy trì **\(\Delta L_{\text{cơ}}\)**, giảm tải lên bắp tay và vai, đồng thời **tăng \(\omega_{\text{post}}\)** thông qua *lag‑snap* (độ trễ) lớn hơn.
 
-Dưới đây là lời giải thích đơn giản và thực tế cho phương trình **Bảo toàn Mô-men Động lượng** của bạn, tập trung vào sinh cơ học của chuỗi chuyển động:
+Dưới đây là lời giải thích đơn giản và thực tế cho phương trình **Bảo toàn Mô-men Động lượng** của bạn, tập trung vào sinh cơ học của chuỗi chuyển động.
 
 ### **Ý Nghĩa Cốt Lõi (Bản Dịch Đơn Giản)**
 
@@ -57,7 +57,7 @@ Trong sinh cơ học quần vợt, phương trình này mô tả **Giai đoạn 
 
 ### **Góc Nhìn Chuyên Sâu (Sinh Cơ Học & Chuyển Động)**
 
-Nếu chúng ta sắp xếp lại phương trình một chút:
+Nếu chúng ta sắp xếp lại phương trình một chút.
 
 $$\Delta L_{\text{cơ}} = I_{\text{racket}} \cdot (\omega_{\text{pre}} - \omega_{\text{post}})$$
 
@@ -65,13 +65,13 @@ $$\Delta L_{\text{cơ}} = I_{\text{racket}} \cdot (\omega_{\text{pre}} - \omega_
 
 Nếu cấu trúc cơ thể không vững, hoặc không biết cách dùng sự thư giãn của hệ mạc để "dẫn" lực này xuống đất qua hệ trục trung tâm, lực dội ngược này sẽ bẻ gãy các khớp yếu nhất — dẫn đến chấn thương điển hình như Tennis Elbow (viêm lồi cầu ngoài xương cánh tay) hoặc rách chóp xoay vai. Nó đòi hỏi cấu trúc phải duy trì được sự tĩnh tại vững chắc ngay cả khi đang chuyển động ở tốc độ cao nhất.
 
-Dưới đây là một công cụ giúp bạn mô phỏng sức tải mà cơ thể phải chịu dựa trên các thông số của vợt và tốc độ vung:
+Dưới đây là một công cụ giúp bạn mô phỏng sức tải mà cơ thể phải chịu dựa trên các thông số của vợt và tốc độ vung.
 
 
 
 ### 3.1.2. Độ bền và tán xạ năng lượng (Energy Dissipation)
 
-Racket nặng hơn có **độ cứng (stiffness) \(k\) cao** và **tỉ lệ đàn hồi (elastic ratio) \(e\) > 0.68\)**. Phương trình truyền năng lượng:
+Racket nặng hơn có **độ cứng (stiffness) \(k\) cao** và **tỉ lệ đàn hồi (elastic ratio) \(e\) > 0.68\)**. Phương trình truyền năng lượng.
 
 \[
 E_{\text{stored}} = \frac{1}{2}\,k\,\Delta x^{2}\quad\text{và}\quad
@@ -81,7 +81,7 @@ E_{\text{released}} = e\;E_{\text{stored}}
 * \(\Delta x\) – độ dãn (mm) khi racket “drop”.  
 * Khi \(k\) ↑, \(\Delta x\) ↓, nhưng năng lượng lưu trữ vẫn lớn vì \(\Delta x^{2}\) giảm không đáng kể; do đó **\(E_{\text{released}}\)** tăng.
 
-Đây là phiên bản giải thích đơn giản và thực tế cho hai công thức của bạn, đặc biệt liên quan đến **sinh cơ học trong thể thao (như quần vợt)** mà bạn đang nghiên cứu: 
+Đây là phiên bản giải thích đơn giản và thực tế cho hai công thức của bạn, đặc biệt liên quan đến **sinh cơ học trong thể thao (như quần vợt)** mà bạn đang nghiên cứu.
 
 ### **Ý Nghĩa Cốt Lõi (Bản Dịch Đơn Giản)**
 
@@ -113,7 +113,7 @@ $$E_{\text{released}} = e \cdot E_{\text{stored}}$$
 
 * * *
 
-Dưới đây là một công cụ mô phỏng trực quan giúp bạn thấy rõ sự thay đổi của độ kéo dãn ($\Delta x$) và hiệu suất ($e$) ảnh hưởng mạnh mẽ như thế nào đến năng lượng tổng thể:
+Dưới đây là một công cụ mô phỏng trực quan giúp bạn thấy rõ sự thay đổi của độ kéo dãn ($\Delta x$) và hiệu suất ($e$) ảnh hưởng mạnh mẽ như thế nào đến năng lượng tổng thể.
 
 Bạn có thể thấy rằng, nhờ vào bình phương của $\Delta x$, một sự cải thiện nhỏ trong độ linh hoạt của chuỗi động lực (kéo dãn thêm vài cm) sẽ mang lại mức tăng theo cấp số nhân cho sức mạnh cú đánh! 
 
@@ -155,7 +155,7 @@ In sports biomechanics (like in tennis or squash), this formula calculates how e
 
 ### **The Simplified Math Form**
 
-If you want a cleaner, standard algebraic equation without the bulky text subscripts, you can write it like this:
+If you want a cleaner, standard algebraic equation without the bulky text subscripts, you can write it like this.
 
 $$D = \frac{I \cdot \Delta\omega}{m}$$
 
@@ -297,7 +297,7 @@ Nếu bạn đang phân tích động lực học của cú đánh hoặc cách 
 
 ### **Giải Mã Từng Ký Hiệu**
 
-Phương trình này chia cây vợt thành hàng ngàn mảnh nhỏ li ti và cộng dồn "độ nặng khi vung" của từng mảnh lại với nhau:
+Phương trình này chia cây vợt thành hàng ngàn mảnh nhỏ li ti và cộng dồn "độ nặng khi vung" của từng mảnh lại với nhau.
 
 * **$I_{\text{head}}$ (hoặc $I_{\text{racket}}$)**: Tổng mô-men quán tính (Swing weight). Giá trị này càng lớn, vợt càng cày bóng mạnh, nhưng cũng càng khó tăng tốc và hãm phanh.
 
@@ -319,7 +319,7 @@ Trong thực tế, người ta áp dụng tích phân này khi dán thêm chì (
 
 * Nếu bạn dán 5 gram chì ở góc 12 giờ (đỉnh đầu vợt, $x$ lớn), do yếu tố $x^2$, Swing weight sẽ tăng vọt. Vợt vung đầm hơn, nhưng hãy nhớ lại công thức trước đó của chúng ta: $I$ tăng đồng nghĩa với việc lực hãm phanh dội ngược vào cơ thể ($\Delta L_{\text{cơ}}$) cũng sẽ tăng mạnh, đòi hỏi hệ trục trung tâm và cấu trúc mạc phải đủ khỏe để gánh vác.
 
-Dưới đây là một công cụ giúp bạn thấy rõ sức mạnh của biến $x^2$. Bạn có thể thử dán cùng một khối lượng chì vào các vị trí khác nhau trên vợt để xem Swing weight bị bóp méo như thế nào: https://gemini.google.com/app/44833411b46f7a0b 
+Dưới đây là một công cụ giúp bạn thấy rõ sức mạnh của biến $x^2$. Bạn có thể thử dán cùng một khối lượng chì vào các vị trí khác nhau trên vợt để xem Swing weight bị bóp méo như thế nào: .
 
 ### 7.2. Tối ưu “Taper‑Shift”
 
@@ -348,7 +348,7 @@ Nghe có vẻ hiển nhiên, nhưng trong nghệ thuật tùy chỉnh (customiza
 
 Khi tổng khối lượng ($m_{\text{total}}$) không đổi, việc dịch chuyển khối lượng từ $m_{\text{head}}$ sang $m_{\text{handle}}$ (hoặc ngược lại) chính là cách chúng ta dịch chuyển Điểm cân bằng của vợt: từ Nặng đầu (Head Heavy) sang Nhẹ đầu (Head Light).
 
-Dưới đây là một công cụ giúp bạn mô phỏng trò chơi "kéo co" trọng lượng này để tìm ra điểm cân bằng tối ưu:
+Dưới đây là một công cụ giúp bạn mô phỏng trò chơi "kéo co" trọng lượng này để tìm ra điểm cân bằng tối ưu.
 
 Giảm 20 g ở handle (bằng **đế găng tay titanium**) để **giữ cân bằng** (CG ≈ 0,67 L).  
 
@@ -394,7 +394,7 @@ e = \frac{E_{\text{released}}}{E_{\text{stored}}}
   
   * * *
   
-  Dưới đây là một công cụ mô phỏng giúp bạn hình dung cách cấu trúc dây (hoặc bó cơ) thay đổi đặc tính khi bạn điều chỉnh vật liệu, độ dày và chiều dài: https://gemini.google.com/app/44833411b46f7a0b 
+  Dưới đây là một công cụ mô phỏng giúp bạn hình dung cách cấu trúc dây (hoặc bó cơ) thay đổi đặc tính khi bạn điều chỉnh vật liệu, độ dày và chiều dài: .
 
 ---
 

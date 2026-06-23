@@ -9,9 +9,6 @@ updated: 2026-06-20
 
 
 **9\. Analysis of tennis techniques from elite players**
-
-[https://gemini.google.com/app/cec5df3476fc0377](https://gemini.google.com/app/cec5df3476fc0377)
-
 **Prompt:** Doing a Full Analysis of tennis techniques from elite players based on the uploaded files and the Internet. Review all uploaded materials and generate 10 essential questions that capture the core meaning. Focus on: core topics and definitions, key concepts emphasized, relationships between concepts, and practical applications mentioned.
 
 **Gemini Report:**

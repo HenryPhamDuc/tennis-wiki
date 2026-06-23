@@ -8,8 +8,6 @@ updated: 2026-06-20
 
 
 **Exported:** 4/23/2026 11:13:15  
-**Link:** [https://gemini.google.com/app/51cf1a3843f2cdbd?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all](https://gemini.google.com/app/51cf1a3843f2cdbd?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)
-
 ## Prompt:
 
 What's a realistic goal I could achieve this year?
