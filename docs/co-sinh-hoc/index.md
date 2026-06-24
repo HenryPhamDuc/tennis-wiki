@@ -43,6 +43,7 @@
 - [🎾 Duane Knudson Fundamentals Of Biomechani](duane_knudson_fundamentals_of_biomechani.md)
 - [Forehand Technique](forehand-technique.md)
 - [Giao Trinh 5 Nam](giao-trinh-5-nam.md)
+- [**Hidden Engine of Tennis — Chương 3–12: Phân Tích Chuyên Sâu**](hidden-engine-of-tennis-chapters-3-12.md)
 - [Grip Tension](grip-tension.md)
 - [Injury Causation Chain](injury-causation-chain.md)
 - [🎾 Introdution To Sport Cơ Sinh Học - Biomecanica - Deportiva](introdution-to-sport-biomechanics-biomecanica-deportiva.md)
