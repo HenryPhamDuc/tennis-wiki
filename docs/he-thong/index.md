@@ -2,7 +2,7 @@
 
 *Các hệ thống tennis toàn diện*
 
-**Tổng số bài viết:** 81
+**Tổng số bài viết:** 85
 
 ## Danh sách bài viết
 
@@ -87,3 +87,7 @@
 - [🧬 Digital Twin & Monte Carlo Simulation](07.3_digital_twin_monte_carlo.md)
 - [🧱 Reflex Wall (Volley) — Lên lưới & kết thúc](03.3_reflex_wall_volley.md)
 - [🧱 Volley Drills — Bức tường phản xạ](09.6_volley_drills.md)
+- [Myelination](myelination.md)
+- [Self-Coaching Discipline](self-coaching-discipline.md)
+- [Skeletal Architecture & Connective Tissue](skeletal-connective-tissue.md)
+- [Tennis Control System Manual](tennis-control-system-manual-final.md)

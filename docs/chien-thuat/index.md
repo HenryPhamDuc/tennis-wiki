@@ -2,7 +2,7 @@
 
 *70% Rule, 3-shot patterns, serve & volley*
 
-**Tổng số bài viết:** 22
+**Tổng số bài viết:** 26
 
 ## Danh sách bài viết
 
@@ -28,3 +28,7 @@
 - [Đánh Bại Đội Đánh Đôi Phòng Thủ](đánh-bại-đội-đánh-đôi-phòng-thủ.md)
 - [Đánh Cao — Overhead Và Điểm Tiếp Xúc](đánh-cao-—-overhead-và-điểm-tiếp-xúc.md)
 - [Đội Hình Hai Lên Lưới](đội-hình-hai-lên-lưới.md)
+- [Asymmetric Degradation Under Pressure](asymmetric-degradation-under-pressure.md)
+- [Bài Toán Chiến Thuật](bai-toan-chien-thuat.md)
+- [Chiến Thuật Thắng Người Trẻ Hơn và Nhanh Hơn](chiến-thuật-thắng-người-trẻ-hơn-và-nhanh-hơn.md)
+- [Nhận Biết Thời Gian](nhận-biết-thời-gian.md)

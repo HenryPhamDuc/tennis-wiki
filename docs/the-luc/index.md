@@ -2,7 +2,7 @@
 
 *Proprioception programs, spiral chain, age-50+ safety*
 
-**Tổng số bài viết:** 31
+**Tổng số bài viết:** 32
 
 ## Danh sách bài viết
 
@@ -37,3 +37,4 @@
 - [Vật Nhập Thể](vật-nhập-thể.md)
 - [Vị Trí Chân](vị-trí-chân.md)
 - [🗺️ Bản đồ nội dung](bản-đồ-nội-dung.md)
+- [Undulating Periodisation](undulating-periodisation.md)

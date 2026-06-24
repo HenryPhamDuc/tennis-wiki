@@ -2,7 +2,7 @@
 
 *Pre-performance routine, breathing, pressure management*
 
-**Tổng số bài viết:** 13
+**Tổng số bài viết:** 27
 
 ## Danh sách bài viết
 
@@ -19,3 +19,17 @@
 - [Sức Mạnh Tinh Thần: Yếu Tố Phân Biệt Giữa Cầu Thủ Giỏi Và Xuất Sắc](suc-manh-tinh-than.md)
 - [Tennis Embodied Cognitive Sport](tennis-embodied-cognitive-sport.md)
 - [Timing Đúng](timing-đúng.md)
+- [Central Governor Model](central-governor-model.md)
+- [Cấp Độ Sức Mạnh Tinh Thần](cấp-độ-sức-mạnh-tinh-thần.md)
+- [Flow Break Triggers](flow-break-triggers.md)
+- [Focus - Tập Trung](focus---tập-trung.md)
+- [Hidden Speed](hidden-speed.md)
+- [HRV-Guided Training](hrv-guided-training.md)
+- [Kình & Mushin](ki-nh-mushin.md)
+- [Myelin Hóa](myelin-hóa.md)
+- [Neural Pressure Training](neural-pressure-training.md)
+- [Pressure Inoculation](pressure-inoculation.md)
+- [Tennis as Embodied Cognition](tennis-as-embodied-cognition.md)
+- [The Tennis Neurological Specialist](tennis-neurological-specialist.md)
+- [The Tennis Neurological Specialist (Deep Research)](tennis-neurological-specialist-deep-research.md)
+- [Thói Quen Tâm Lý Tích Cực](thói-quen-tâm-lý-tích-cực.md)
