@@ -405,7 +405,6 @@
 - [🎾 Tennis Chiến Lược Booklet](tennis-strategy-booklet.md)
 - [🎾 Tennis Chiến Lược Encyclopedia Mindgame](tennis-strategy-encyclopedia-mindgame.md)
 - [TENNIS CULTURE AND HISTORY](chuong-46.md)
-- [🎾 Tennis For Dummies](tennis-for-dummies-pdfdrive.md)
 - [Tennis Forehand Biomechanics: A Visual Analysis](forehand-visual-analysis.md)
 - [🎾 Tennis Forehand Kỹ Thuật](tennis-forehand-technique.md)
 - [🎾 Tennis Giải Phẫu](tennis-anatomy-pdfdrive.md)
