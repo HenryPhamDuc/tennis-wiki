@@ -415,7 +415,6 @@
 - [Tennis King Equation](tennis-king-equation.md)
 - [🎾 Tennis Sciences](tennis_sciences.md)
 - [🎾 Tennis Skills & Drills](tennis-skills-drills-pdfdrive.md)
-- [🎾 Tennis Strokes And Chiến Thuật](tennis-strokes-and-tactics.md)
 - [TENNIS TRAINING MANUAL](your-manual-fixed.md)
 - [🎾 Tennis Tutorial](tennis-tutorial.md)
 - [🎾 Tennis Wikipedia](tennis-wikipedia.md)

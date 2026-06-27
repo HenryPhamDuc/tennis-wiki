@@ -190,11 +190,3 @@ Làm **3 buổi** rồi chuyển sang Tuần 2.
 - [ ] Cổ tay không đau buổi sáng hôm sau
 
 ---
-
-📌 **Liên kết:**
-
-- 🛡️ [Nguyên tắc an toàn tuổi 52](../ky-thuat/nguyên-tắc-an-toàn-tuổi-52.md)
-- ⬆️ [Proprioception vs Sức mạnh](proprioception-vs-sức-mạnh.md)
-- ⬅️ _Lớp trong - Vật nhập thể_
-- 📚 [Nghiên cứu tham khảo](../ky-thuat/nghiên-cứu-tham-khảo.md)
-  ```
