@@ -47,3 +47,6 @@ drafts/
 
 # Image assets (place where user uploads go) - keep empty dir
 # docs/images/.gitkeep
+# Auth tokens (NEVER commit)
+github-token.txt
+.token.tmp
