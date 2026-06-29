@@ -1,36 +1,36 @@
 # 🎨 Thư Viện Hình Ảnh Tennis
 
-> **Visual Coaching Library — 42 sơ đồ sinh học & chiến thuật tennis**
+> **Visual Coaching Library — 38 sơ đồ sinh học & chiến thuật tennis**
 >
-> Tổng hợp **42 sơ đồ infographic** chất lượng cao từ chuỗi nghiên cứu sinh học và chiến thuật tennis (16 từ ChatGPT + 26 từ Gemini). Mỗi sơ đồ có **trang riêng** với ảnh full + zoom chi tiết (trái/phải) + mô tả song ngữ EN-VI.
+> Tổng hợp **38 sơ đồ infographic** chất lượng cao từ chuỗi nghiên cứu sinh học và chiến thuật tennis (16 từ ChatGPT + 22 từ Gemini). Mỗi sơ đồ có **trang riêng** với ảnh full + zoom chi tiết (trái/phải) + mô tả song ngữ EN-VI.
 ---
 
 ## 📊 Tổng quan
 
 | 🇻🇳 Tiếng Việt | 🇺🇸 English |
 |---|---|
-| Thư viện **42 sơ đồ tennis** được sắp xếp theo **7 chủ đề** (16 ChatGPT + 26 Gemini). Mỗi sơ đồ → trang detail riêng với ảnh full + 2 crops (trái/phải) + mô tả song ngữ. | Visual library of **42 tennis diagrams** organized into **7 categories** (16 ChatGPT + 26 Gemini). Each diagram → dedicated detail page with full image + 2 crops (left/right) + bilingual description. |
+| Thư viện **38 sơ đồ tennis** được sắp xếp theo **7 chủ đề** (16 ChatGPT + 22 Gemini). Mỗi sơ đồ → trang detail riêng với ảnh full + 2 crops (trái/phải) + mô tả song ngữ. | Visual library of **38 tennis diagrams** organized into **7 categories** (16 ChatGPT + 22 Gemini). Each diagram → dedicated detail page with full image + 2 crops (left/right) + bilingual description. |
 
-**Tổng sơ đồ:** 42 (16 ChatGPT + 26 Gemini) • **Tổng trang detail:** 42 • **Tổng ảnh embed:** 126 (1 full + 2 crops per diagram) • **Nguồn:** ChatGPT Image Generator (2026-06-28) + Google Gemini Image Generator (2026-06-29)
+**Tổng sơ đồ:** 38 (16 ChatGPT + 22 Gemini) • **Tổng trang detail:** 38 • **Tổng ảnh embed:** 114 (1 full + 2 crops per diagram) • **Nguồn:** ChatGPT Image Generator (2026-06-28) + Google Gemini Image Generator (2026-06-29)
 
 ---
 
 ## 🗂️ Mục lục nhanh / Quick Navigation
 
-- 🎯 **[Forehand (Thuận tay)](#forehand)** — Forehand (7 sơ đồ / diagrams)
-- ↩️ **[Backhand (Trái tay)](#backhand)** — Backhand (4 sơ đồ / diagrams)
+- 🎯 **[Forehand (Thuận tay)](#forehand)** — Forehand (6 sơ đồ / diagrams)
+- ↩️ **[Backhand (Trái tay)](#backhand)** — Backhand (3 sơ đồ / diagrams)
 - 🚀 **[Serve (Giao bóng)](#serve)** — Serve (6 sơ đồ / diagrams)
 - 🦶 **[Footwork & Kinetic Chain](#footwork)** — Footwork (7 sơ đồ / diagrams)
-- ✋ **[Nền tảng kỹ thuật](#fundamentals)** — Fundamentals (3 sơ đồ / diagrams)
+- ✋ **[Nền tảng kỹ thuật](#fundamentals)** — Fundamentals (2 sơ đồ / diagrams)
 - 🔪 **[Slice (Bóng xoáy âm)](#slice)** — Slice (2 sơ đồ / diagrams)
-- 🧠 **[Chiến thuật & Tư duy](#strategy)** — Strategy & Mental (13 sơ đồ / diagrams)
+- 🧠 **[Chiến thuật & Tư duy](#strategy)** — Strategy & Mental (12 sơ đồ / diagrams)
 
 ---
 
 <a id="forehand"></a>
 ## 🎯 Forehand (Thuận tay) / Forehand
 
-**7 sơ đồ trong chủ đề — **Forehand** diagrams**
+**6 sơ đồ trong chủ đề — **Forehand** diagrams**
 
 Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
@@ -86,15 +86,6 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
 </a>
 
-<a href="g_racquet_head_speed_drop_figure8_45whip/" class="gallery-card">
-
-  <img alt="Quy Trình Tạo Tốc Độ Đầu Vợt: Drop • Figure-8 • 45° Whip" src="../../assets/thu-vien/g_racquet_head_speed_drop_figure8_45whip.png" loading="lazy" />
-
-  <strong>Quy Trình Tạo Tốc Độ Đầu Vợt: Drop • Figure-8 • 45° Whip 🅖</strong>
-
-  <em>Racquet Head Speed Process: Drop • Figure-8 • 45° Whip</em>
-
-</a>
 
 <a href="rotational_vs_linear_engine_open_vs_closed/" class="gallery-card">
 
@@ -115,7 +106,7 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 <a id="backhand"></a>
 ## ↩️ Backhand (Trái tay) / Backhand
 
-**4 sơ đồ trong chủ đề — **Backhand** diagrams**
+**3 sơ đồ trong chủ đề — **Backhand** diagrams**
 
 Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
@@ -151,15 +142,6 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
 </a>
 
-<a href="g_one_handed_backhand_essential_process/" class="gallery-card">
-
-  <img alt="Backhand Một Tay – Quy Trình Cốt Lõi (Tạo Không Gian → Tiếp Xúc Phía Trước → Xoay)" src="../../assets/thu-vien/g_one_handed_backhand_essential_process.png" loading="lazy" />
-
-  <strong>Backhand Một Tay – Quy Trình Cốt Lõi (Tạo Không Gian → Tiếp Xúc Phía Trước → Xoay) 🅖</strong>
-
-  <em>One-Handed Backhand – The Essential Process (Create Space → Contact Out Front → Rotate)</em>
-
-</a>
 
 </div>
 
@@ -330,7 +312,7 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 <a id="fundamentals"></a>
 ## ✋ Nền tảng kỹ thuật / Fundamentals
 
-**3 sơ đồ trong chủ đề — **Fundamentals** diagrams**
+**2 sơ đồ trong chủ đề — **Fundamentals** diagrams**
 
 Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
@@ -346,15 +328,6 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
 </a>
 
-<a href="g_grip_forearm_turn_racquet_face_4_strokes/" class="gallery-card">
-
-  <img alt="Grip – Forearm Turn – Racquet Face: Hệ Thống Cho 4 Cú Đánh Chính" src="../../assets/thu-vien/g_grip_forearm_turn_racquet_face_4_strokes.png" loading="lazy" />
-
-  <strong>Grip – Forearm Turn – Racquet Face: Hệ Thống Cho 4 Cú Đánh Chính 🅖</strong>
-
-  <em>Grip – Forearm Turn – Racquet Face: Complete System for 4 Main Strokes</em>
-
-</a>
 
 <a href="neuromechanical_process_tennis_stroke/" class="gallery-card">
 
@@ -410,7 +383,7 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 <a id="strategy"></a>
 ## 🧠 Chiến thuật & Tư duy / Strategy & Mental
 
-**13 sơ đồ trong chủ đề — **Strategy & Mental** diagrams**
+**12 sơ đồ trong chủ đề — **Strategy & Mental** diagrams**
 
 Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
@@ -526,15 +499,6 @@ Click thumbnail để mở trang detail (với ảnh full + zoom crops).
 
 </a>
 
-<a href="g_exposed_angles_geometry_court_control/" class="gallery-card">
-
-  <img alt="Góc Mở Trong Tennis: Hình Học Của Kiểm Soát Sân" src="../../assets/thu-vien/g_exposed_angles_geometry_court_control.png" loading="lazy" />
-
-  <strong>Góc Mở Trong Tennis: Hình Học Của Kiểm Soát Sân 🅖</strong>
-
-  <em>Exposed Angles in Tennis: The Geometry of Court Control</em>
-
-</a>
 
 <a href="playbook_doubles_3_complete_process/" class="gallery-card">
 

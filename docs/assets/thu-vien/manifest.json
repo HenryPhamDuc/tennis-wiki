@@ -135,22 +135,6 @@
     "category": "forehand",
     "source": "gemini"
   },
-  "g_grip_forearm_turn_racquet_face_4_strokes.png": {
-    "vi_title": "Grip – Forearm Turn – Racquet Face: Hệ Thống Cho 4 Cú Đánh Chính",
-    "en_title": "Grip – Forearm Turn – Racquet Face: Complete System for 4 Main Strokes",
-    "vi_desc": "Công thức cốt lõi GRIP + FOREARM TURN + SWING PATH = RACQUET FACE AT CONTACT. Áp dụng cho 4 cú: FH topspin, FH slice, BH topspin, BH slice. Kèm 15-min practice plan.",
-    "en_desc": "Core formula GRIP + FOREARM TURN + SWING PATH = RACQUET FACE AT CONTACT, applied to all 4 main strokes. Includes 15-minute practice plan and common mistakes.",
-    "category": "fundamentals",
-    "source": "gemini"
-  },
-  "g_racquet_head_speed_drop_figure8_45whip.png": {
-    "vi_title": "Quy Trình Tạo Tốc Độ Đầu Vợt: Drop • Figure-8 • 45° Whip",
-    "en_title": "Racquet Head Speed Process: Drop • Figure-8 • 45° Whip",
-    "vi_desc": "Quy trình 7 bước tạo tốc độ đầu vợt cho topspin forehand hiện đại: Relax → Drop → Lag → Rotate → Whip → Brush 45° → Finish.",
-    "en_desc": "7-step process for racquet head speed in modern topspin forehand with figure-8 trajectory diagram and 45° side view.",
-    "category": "forehand",
-    "source": "gemini"
-  },
   "complete_tennis_system_technique_patterns_decisions.png": {
     "vi_title": "Hệ Thống Tennis Hoàn Chỉnh: Kỹ Thuật → Patterns → Quyết Định → Kết Quả",
     "en_title": "Complete Tennis System: Technique → Patterns → Decisions → Results",
@@ -215,28 +199,12 @@
     "category": "footwork",
     "source": "gemini"
   },
-  "g_exposed_angles_geometry_court_control.png": {
-    "vi_title": "Góc Mở Trong Tennis: Hình Học Của Kiểm Soát Sân",
-    "en_title": "Exposed Angles in Tennis: The Geometry of Court Control",
-    "vi_desc": "Quy trình tấn công 4 bước: Create Displacement → Expose Angle → Exploit Angle → Finish. Quy trình phòng thủ: Recognize → Neutralize → Recover → Reset.",
-    "en_desc": "Offensive 4-step process. Defensive: Recognize → Neutralize → Recover → Reset.",
-    "category": "strategy",
-    "source": "gemini"
-  },
   "endurance_tennis_system_5_pillars.png": {
     "vi_title": "Hệ Thống Tennis Sức Bền: 5 Trụ Cột (Chân · Tay · Thở · Nhịp · Mệt)",
     "en_title": "Endurance Tennis System: 5 Pillars (Legs · Arm · Breath · Rhythm · Fatigue)",
     "vi_desc": "Hệ thống 5 trụ cột: Chân (ĐI SỚM) · Tay (THẢ RA) · Thở (THỞ RA khi đánh) · Nhịp · Mệt. Mindset: Không cần mạnh hơn – chỉ cần ít mệt hơn.",
     "en_desc": "5 pillars: Legs (Move Early) · Arm (Relax) · Breath (Exhale on Hit) · Rhythm · Fatigue.",
     "category": "strategy",
-    "source": "gemini"
-  },
-  "g_one_handed_backhand_essential_process.png": {
-    "vi_title": "Backhand Một Tay – Quy Trình Cốt Lõi (Tạo Không Gian → Tiếp Xúc Phía Trước → Xoay)",
-    "en_title": "One-Handed Backhand – The Essential Process (Create Space → Contact Out Front → Rotate)",
-    "vi_desc": "Quy trình 6 bước: SPLIT & READ → TURN & LOAD → MOVE & CREATE SPACE → CONTACT OUT IN FRONT → ROTATE & DRIVE → FINISH & RECOVER. 4 trụ cột nền tảng.",
-    "en_desc": "6-step process for the one-handed backhand. 4 foundation pillars.",
-    "category": "backhand",
     "source": "gemini"
   },
   "force_transmission_heel_to_hand.png": {
