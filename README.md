@@ -15,8 +15,8 @@
 
 - 🏥 **[Tennis Doctor](https://tennis-doctor.henry-phamduc.workers.dev/)** — Trang chính, AI Chat tennis đa ngôn ngữ / Main hub, multilingual AI tennis chat
 - 📚 **[Henry's Tennis Knowledge Vault](https://henryphamduc.github.io/tennis/)** — Cẩm nang tennis đầy đủ 14 phần / Complete tennis manual, 14 Parts
-- 📖 **[Tennis Wiki EN](https://henryphamduc.github.io/tennis-wiki-en/)** — Bách khoa tennis tiếng Anh / English version
-- 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis-future-lab/)** — Khung sinh học + AI phân tích video / Biomechanics + AI video analyzer
+- 📖 **[Tennis Wiki EN](https://henryphamduc.github.io/tennis/tennis-wiki-en/)** — Bách khoa tennis tiếng Anh / English version
+- 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis/tennis-future-lab/)** — Khung sinh học + AI phân tích video / Biomechanics + AI video analyzer
 - 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Upload video tennis, AI phân tích so với Federer / Upload tennis video, AI analyzes vs Federer
 
 ## 🌟 Tổng quan
