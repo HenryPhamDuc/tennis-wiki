@@ -283,10 +283,13 @@ hide:
     }
     
     .stats-container {
-      grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     }
-  }
-</style>
+    }
+    .footer.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray {
+    display: none !important;
+    }
+    </style>
 
 ## 🌟 Visual Coaching Library
 
