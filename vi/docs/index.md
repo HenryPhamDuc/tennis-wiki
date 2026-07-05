@@ -4,7 +4,7 @@
 >
 > Tổng hợp từ hệ thống nghiên cứu của **Henry Phạm**
 
-> 🌐 **[Read in English](https://henryphamduc.github.io/tennis-wiki/en/)** — English version of this wiki
+> 🌐 **[Read in English](https://henryPhamDuc.github.io/tennis-wiki-en/)** — English version of this wiki
 >
 > 📘 **[Tennis Manual (Master Reference v2)](https://henryPhamDuc.github.io/tennis/)** — Complete bilingual EN-VI coaching manual (22 deep dives + anatomy lab)
 >
@@ -115,7 +115,7 @@ Nội dung bao gồm:
 
 ## Phiên bản ngôn ngữ
 - 🇻🇳 **Tiếng Việt** (bạn đang đọc) — https://henryPhamDuc.github.io/tennis-wiki/
-- 🇬🇧 **English** — https://henryphamduc.github.io/tennis-wiki/en/
+- 🇬🇧 **English** — https://henryPhamDuc.github.io/tennis-wiki-en/
 - 📘 **Tennis Manual (Master Reference v2)** — https://henryPhamDuc.github.io/tennis/ (Complete bilingual EN-VI coaching manual)
 
 ## Giấy phép
