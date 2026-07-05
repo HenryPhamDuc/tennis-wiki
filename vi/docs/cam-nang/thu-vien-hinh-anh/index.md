@@ -1,6 +1,7 @@
 ---
 hide:
-  - toc
+ - toc
+ - edit
 ---
 
 # 🎨 Thư Viện Hình Ảnh Tennis
@@ -791,5 +792,5 @@ Click thumbnail để mở trang detail. Có thêm link Xem file gốc bên dư�
 ---
 
 <div class="footer-note">
-<sub>🎾 Tất cả sơ đồ được tạo từ AI image generators, watermarked & shipped by Henry Phạm Đức · 2026-07-05</sub>
+<sub>© 2026 Henry Phạm Đức · Tennis Future Lab · All site content is for educational purposes.</sub>
 </div>
