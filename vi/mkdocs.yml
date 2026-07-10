@@ -11,7 +11,7 @@ site_author: Henry Phạm
 # The URL where the site will be hosted
 # After you create the repo, change this to your real GitHub Pages URL:
 #   https://henryPhamDuc.github.io/tennis-wiki/
-site_url: https://henryPhamDuc.github.io/tennis-wiki/
+site_url: https://henryphamduc.github.io/tennis-wiki/vi/
 
 # Use the directory 'docs/' as source (matches our converter output)
 docs_dir: docs
@@ -70,6 +70,12 @@ plugins:
   - search:
       lang: vi                     # Vietnamese full-text search
       separator: '[\s\-\.\_]+'
+
+# Extra CSS and JS - custom color overrides + smooth scroll
+extra_css:
+  - assets/custom.css
+extra_javascript:
+  - assets/custom.js
 
 # Markdown extensions
 markdown_extensions:
