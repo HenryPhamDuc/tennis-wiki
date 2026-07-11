@@ -1,0 +1,41 @@
+name: Sync English site to tennis-wiki-en
+on:
+  push:
+    paths:
+      - 'en/**'
+      - '.github/workflows/sync-en-to-tennis-wiki-en.yml'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source repo (this repo)
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout target repo (tennis-wiki-en)
+        uses: actions/checkout@v4
+        with:
+          repository: HenryPhamDuc/tennis-wiki-en
+          token: ${{ secrets.SYNC_PAT }}
+          path: target
+
+      - name: Copy English site files
+        run: |
+          # remove everything in target (except .git) then copy files from source/en
+          rm -rf target/* || true
+          cp -a source/en/. target/
+
+      - name: Commit & push if changed
+        run: |
+          cd target
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Sync English site from tennis-wiki: $GITHUB_SHA"
+            git push origin HEAD:main
+          else
+            echo "No changes to push"
+          fi
