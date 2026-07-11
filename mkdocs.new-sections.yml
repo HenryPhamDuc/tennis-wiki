@@ -34,23 +34,23 @@ theme:
 nav:
   - Vietnamese Basics:
       - CẨM NANG QUẦN VỢT TOÀN DIỆN: vi/cam-nang-quan-vot-toan-dien/index.md
-      - Approach Shot: vi/cam-nang-quan-vot-toan-dien/approach-shot.md
-      - Backhand: vi/cam-nang-quan-vot-toan-dien/backhand.md
-      - Balance: vi/cam-nang-quan-vot-toan-dien/balance.md
-      - Conclusion: vi/cam-nang-quan-vot-toan-dien/conclusion.md
-      - Doubles: vi/cam-nang-quan-vot-toan-dien/doubles.md
-      - Drop Shot and Lob: vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.md
-      - Fitness: vi/cam-nang-quan-vot-toan-dien/fitness.md
-      - Forehand: vi/cam-nang-quan-vot-toan-dien/forehand.md
-      - Future Strokes: vi/cam-nang-quan-vot-toan-dien/future-strokes.md
-      - Grips: vi/cam-nang-quan-vot-toan-dien/grips.md
-      - Kinetic Chain: vi/cam-nang-quan-vot-toan-dien/kinetic-chain.md
-      - Movement: vi/cam-nang-quan-vot-toan-dien/movement.md
-      - Psychology: vi/cam-nang-quan-vot-toan-dien/psychology.md
-      - Return of Serve: vi/cam-nang-quan-vot-toan-dien/return-of-serve.md
-      - Serve: vi/cam-nang-quan-vot-toan-dien/serve.md
-      - Singles: vi/cam-nang-quan-vot-toan-dien/singles.md
-      - Volleys: vi/cam-nang-quan-vot-toan-dien/volleys.md
+      - 1. Thăng bằng (Balance): vi/cam-nang-quan-vot-toan-dien/balance.md
+      - 2. Chuỗi động học (Kinetic Chain): vi/cam-nang-quan-vot-toan-dien/kinetic-chain.md
+      - 3. Di chuyển (Movement): vi/cam-nang-quan-vot-toan-dien/movement.md
+      - 4. Cách cầm vợt (Grips): vi/cam-nang-quan-vot-toan-dien/grips.md
+      - 5. Giao bóng (Serve): vi/cam-nang-quan-vot-toan-dien/serve.md
+      - 6. Đỡ giao bóng (Return of Serve): vi/cam-nang-quan-vot-toan-dien/return-of-serve.md
+      - 7. Đánh thuận tay (Forehand): vi/cam-nang-quan-vot-toan-dien/forehand.md
+      - 8. Đánh trái tay (Backhand): vi/cam-nang-quan-vot-toan-dien/backhand.md
+      - 9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob): vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.md
+      - 10. Đánh bóng tấn công (Approach Shot): vi/cam-nang-quan-vot-toan-dien/approach-shot.md
+      - 11. Đánh bóng bổng (Volleys): vi/cam-nang-quan-vot-toan-dien/volleys.md
+      - 12. Cú đánh tương lai (Future Strokes): vi/cam-nang-quan-vot-toan-dien/future-strokes.md
+      - 13. Đơn (Singles): vi/cam-nang-quan-vot-toan-dien/singles.md
+      - 14. Đôi (Doubles): vi/cam-nang-quan-vot-toan-dien/doubles.md
+      - 15. Tâm lý (Psychology): vi/cam-nang-quan-vot-toan-dien/psychology.md
+      - 16. Thể lực (Fitness): vi/cam-nang-quan-vot-toan-dien/fitness.md
+      - Kết luận (Conclusion): vi/cam-nang-quan-vot-toan-dien/conclusion.md
   - Absolute Tennis Manual:
       - ABSOLUTE TENNIS Manual: en/manual/absolute-tennis/index.md
       - Training Programs:
