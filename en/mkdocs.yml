@@ -15,13 +15,46 @@ site_url: https://henryPhamDuc.github.io/tennis-wiki-en/
 docs_dir: docs
 site_dir: site
 
-# Theme: Use the default MkDocs theme to match mkdocs.org style
-# This gives the same clean Bootstrap-based look as the official MkDocs site
+# Material theme (English UI)
 theme:
-  name: mkdocs
-  navigation_depth: 4
-  include_sidebar: true
-  include_nav: true
+  name: material
+  language: en                     # English UI strings
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/tennis
 
 # Plugins
 plugins:
@@ -43,9 +76,10 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.details
   - pymdownx.superfences:
-     custom_fences:
-     - name: mermaid
-       class: mermaid
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
@@ -57,6 +91,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.caret
   - pymdownx.tilde
   - pymdownx.mark
@@ -697,7 +733,7 @@ nav:
   - References: references/index.md
   - System: system/index.md
   - 📘 Tennis Control System Interactive Guide: system/tennis-control-system-interactive-guide.md
-  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis/tennis-wiki/
+  - 🌐 Tiếng Việt: https://henryphamduc.github.io/tennis-wiki/
   - 📘 Tennis Manual: https://henryphamduc.github.io/tennis/
   - 🤖 Tennis Doctor (AI Chat): https://tennis-doctor.henry-pham-duc.workers.dev/
 extra_css:

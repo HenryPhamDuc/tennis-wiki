@@ -1,0 +1,584 @@
+{
+  "written": [
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\00_Index.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\00_index.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "00_index"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\01.1_Footwork_3_Stance.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\01.1_footwork_3_stance.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "01.1_footwork_3_stance"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\01.2_Coil_Styles_X_Factor.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\01.2_coil_styles_x_factor.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "01.2_coil_styles_x_factor"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\01.3_Racquet_Face_Pre_Compensation.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\01.3_racquet_face_pre_compensation.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "01.3_racquet_face_pre_compensation"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\01.4_Loose_Wrist_Ulnar_Deviation.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\01.4_loose_wrist_ulnar_deviation.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "01.4_loose_wrist_ulnar_deviation"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\02.1_Tensegrity_Cradle.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.1_tensegrity_cradle.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "02.1_tensegrity_cradle"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\02.2_Compact_Power_Hop.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.2_compact_power_hop.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "02.2_compact_power_hop"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\02.3_Salsa_Figure_8.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.3_salsa_figure_8.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "02.3_salsa_figure_8"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\02.4_Optimal_Arm_Configuration.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.4_optimal_arm_configuration.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "02.4_optimal_arm_configuration"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\02.5_Volley_Redirect.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.5_volley_redirect.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "02.5_volley_redirect"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\03_Power_Wave_Theory.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\03_power_wave_theory.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "03_power_wave_theory"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\04.1_Continental_vs_Semi_Western.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\04.1_continental_vs_semi_western.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "04.1_continental_vs_semi_western"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\04_THE_LY_THUYET.md (Tổng hợp).md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\04_the_ly_thuyet.md-(tổng-hợp).md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "04_the_ly_thuyet.md-(tổng-hợp)"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\05.1_Head_Position_Control_Loop.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\05.1_head_position_control_loop.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "05.1_head_position_control_loop"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\05.2_Forward_Head_Training.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\05.2_forward_head_training.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "05.2_forward_head_training"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\06.1_Dantian_Dan_Dien.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.1_dantian_dan_dien.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "06.1_dantian_dan_dien"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\06.2_Mingmen_Menh_Mon.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.2_mingmen_menh_mon.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "06.2_mingmen_menh_mon"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\06.3_Center_of_Gravity.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.3_center_of_gravity.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "06.3_center_of_gravity"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\06.4_Recovery_Tennis.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.4_recovery_tennis.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "06.4_recovery_tennis"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\06.5_Serve_Wide_Alcaraz.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.5_serve_wide_alcaraz.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "06.5_serve_wide_alcaraz"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.1_Andrey_Rublev.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.1_andrey_rublev.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.1_andrey_rublev"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.2_Carlos_Alcaraz.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.2_carlos_alcaraz.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.2_carlos_alcaraz"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.3_Jannik_Sinner.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.3_jannik_sinner.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.3_jannik_sinner"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.4_Roger_Federer.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.4_roger_federer.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.4_roger_federer"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.5_Novak_Djokovic.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.5_novak_djokovic.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.5_novak_djokovic"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.6_Joao_Fonseca.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.6_joao_fonseca.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.6_joao_fonseca"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\07.7_Miomir_Kecmanovic.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.7_miomir_kecmanovic.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "07.7_miomir_kecmanovic"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\08.1_Forehand_Cua_Toi.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\08.1_forehand_cua_toi.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "08.1_forehand_cua_toi"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\08.2_Video_Tennis_Co_Ban.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\08.2_video_tennis_co_ban.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "08.2_video_tennis_co_ban"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\09.1_Kinetic_Sequence.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.1_kinetic_sequence.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "09.1_kinetic_sequence"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\10.1_Drill_5_Phut.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\10.1_drill_5_phut.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "10.1_drill_5_phut"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\10.2_Drill_15_Phut.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\10.2_drill_15_phut.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "10.2_drill_15_phut"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\10.3_Drill_Volley.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\10.3_drill_volley.md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "10.3_drill_volley"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\README_VAULT.md (Hướng dẫn sử dụng vault).md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\readme_vault.md-(hướng-dẫn-sử-dụng-vault).md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "readme_vault.md-(hướng-dẫn-sử-dụng-vault)"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống phân tích Tennis & Nội công\\THE_Frame_Hit_With_Purpose.md (Bonus).md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\the_frame_hit_with_purpose.md-(bonus).md",
+      "sub": "Hệ thống phân tích Tennis & Nội công",
+      "slug": "the_frame_hit_with_purpose.md-(bonus)"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\01_INTRODUCTION.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\01_introduction.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "01_introduction"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\02.1_DET_Dynamic_Energy_Transfer.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.1_det_dynamic_energy_transfer.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "02.1_det_dynamic_energy_transfer"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\02.2_NKF_Neuro_Kinetic_Fusion.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.2_nkf_neuro_kinetic_fusion.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "02.2_nkf_neuro_kinetic_fusion"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\02.3_DIT_Dynamic_Inertia_Transfer.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\02.3_dit_dynamic_inertia_transfer.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "02.3_dit_dynamic_inertia_transfer"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\03.1_VE_Vertical_Explosion_Serve.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\03.1_ve_vertical_explosion_serve.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "03.1_ve_vertical_explosion_serve"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\03.2_DL_Direct_Load_Return.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\03.2_dl_direct_load_return.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "03.2_dl_direct_load_return"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\03.3_Reflex_Wall_Volley.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\03.3_reflex_wall_volley.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "03.3_reflex_wall_volley"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\04.1_GSM_Gravitational_Boost.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\04.1_gsm_gravitational_boost.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "04.1_gsm_gravitational_boost"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\04.2_DSI_Dynamic_Stability_Index.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\04.2_dsi_dynamic_stability_index.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "04.2_dsi_dynamic_stability_index"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\05.1_Meta_Strategy_Perror.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\05.1_meta_strategy_perror.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "05.1_meta_strategy_perror"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\05.2_Bio_Agentic_Recovery.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\05.2_bio_agentic_recovery.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "05.2_bio_agentic_recovery"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.01_DET_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.01_det_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.01_det_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.02_NKF_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.02_nkf_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.02_nkf_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.03_DIT_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.03_dit_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.03_dit_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.04_VE_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.04_ve_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.04_ve_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.05_DL_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.05_dl_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.05_dl_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.06_Volley_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.06_volley_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.06_volley_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.07_Footwork_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.07_footwork_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.07_footwork_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.08_Meta_Strategy_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.08_meta_strategy_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.08_meta_strategy_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.09_Bio_Engine_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.09_bio_engine_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.09_bio_engine_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.10_Super_Agent_Deep_Dive.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.10_super_agent_deep_dive.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.10_super_agent_deep_dive"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.11_Micro_Biomechanics.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.11_micro_biomechanics.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.11_micro_biomechanics"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\06.12_Future_Ecosystem.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\06.12_future_ecosystem.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "06.12_future_ecosystem"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\07.1_AI_Config_Prompts.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.1_ai_config_prompts.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "07.1_ai_config_prompts"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\07.2_Real_Time_Tactical_Meta.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.2_real_time_tactical_meta.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "07.2_real_time_tactical_meta"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\07.3_Digital_Twin_Monte_Carlo.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\07.3_digital_twin_monte_carlo.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "07.3_digital_twin_monte_carlo"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\08.1_Master_Equations.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\08.1_master_equations.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "08.1_master_equations"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\08.2_Constants_KPIs.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\08.2_constants_kpis.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "08.2_constants_kpis"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.1_DET_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.1_det_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.1_det_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.2_NKF_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.2_nkf_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.2_nkf_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.3_DIT_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.3_dit_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.3_dit_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.4_VE_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.4_ve_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.4_ve_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.5_DL_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.5_dl_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.5_dl_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.6_Volley_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.6_volley_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.6_volley_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.7_Footwork_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.7_footwork_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.7_footwork_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\09.8_Bio_Recovery_Drills.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\09.8_bio_recovery_drills.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "09.8_bio_recovery_drills"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\10.1_Player_Checklist.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\10.1_player_checklist.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "10.1_player_checklist"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\10.2_12_Week_Master_Plan.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\10.2_12_week_master_plan.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "10.2_12_week_master_plan"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\README_VAULT.md (Hướng dẫn sử dụng).md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\readme_vault.md-(hướng-dẫn-sử-dụng).md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "readme_vault.md-(hướng-dẫn-sử-dụng)"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\Summary - Tổng quan.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\summary-tổng-quan.md",
+      "sub": "Hệ thống Triết lý Tennis 2026",
+      "slug": "summary-tổng-quan"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\C01_Motor_Map.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\c01_motor_map.md",
+      "sub": "TFL Tennis 3.0 — Framework RPM",
+      "slug": "c01_motor_map"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\Index_Tong_Quan.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\index_tong_quan.md",
+      "sub": "TFL Tennis 3.0 — Framework RPM",
+      "slug": "index_tong_quan"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\Lo_Trinh_4_Thang.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\lo_trinh_4_thang.md",
+      "sub": "TFL Tennis 3.0 — Framework RPM",
+      "slug": "lo_trinh_4_thang"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\Split_step.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\split_step.md",
+      "sub": "TFL Tennis 3.0 — Framework RPM",
+      "slug": "split_step"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Forehand Technique Comparison - Rublev vs Alcaraz vs Sinner.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\forehand-technique-comparison-rublev-vs-alcaraz-vs-sinner.md",
+      "sub": "Wave theory",
+      "slug": "forehand-technique-comparison-rublev-vs-alcaraz-vs-sinner"
+    },
+    {
+      "src": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Volley Technique - Loose Grip.md",
+      "out": "C:\\Users\\Henry\\Documents\\tennis-wiki\\docs\\he-thong\\volley-technique-loose-grip.md",
+      "sub": "Wave theory",
+      "slug": "volley-technique-loose-grip"
+    }
+  ],
+  "skipped": [
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Automaticity.md",
+      "reason": "slug exists: automaticity"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Ba Vòng Phản Xạ Thần Kinh.md",
+      "reason": "slug exists: ba-vòng-phản-xạ-thần-kinh"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Choke-Up.md",
+      "reason": "slug exists: choke-up"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Chương Trình 4 Tuần Proprioception.md",
+      "reason": "slug exists: chương-trình-4-tuần-proprioception"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Compact Swing.md",
+      "reason": "slug exists: compact-swing"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Không Gian Là Cấu Trúc.md",
+      "reason": "slug exists: không-gian-là-cấu-trúc"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Myelin Hóa.md",
+      "reason": "slug exists: myelin-hóa"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Proprioception.md",
+      "reason": "slug exists: proprioception"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Tennis Toàn diện\\Vật Nhập Thể.md",
+      "reason": "slug exists: vật-nhập-thể"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Hệ thống Triết lý Tennis 2026\\00_INDEX.md",
+      "reason": "slug exists: 00_index"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\Directory.md",
+      "reason": "slug exists: directory"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\TFL Tennis 3.0 — Framework RPM\\Readme.md",
+      "reason": "slug exists: readme"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\45-Degree Swing System.md",
+      "reason": "slug exists: 45-degree-swing-system"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Dantian-Mingmen-COG Framework.md",
+      "reason": "slug exists: dantian-mingmen-cog-framework"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Footwork Stances.md",
+      "reason": "slug exists: footwork-stances"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Ground Reaction Force.md",
+      "reason": "slug exists: ground-reaction-force"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Head Position and Balance.md",
+      "reason": "slug exists: head-position-and-balance"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Kinetic Chain.md",
+      "reason": "slug exists: kinetic-chain"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Posterior Chain Activation.md",
+      "reason": "slug exists: posterior-chain-activation"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Power Wave Theory.md",
+      "reason": "slug exists: power-wave-theory"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Recovery Mechanics.md",
+      "reason": "slug exists: recovery-mechanics"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Weight Transfer Forward.md",
+      "reason": "slug exists: weight-transfer-forward"
+    },
+    {
+      "file": "C:\\Users\\Henry\\Documents\\MY VAULT\\Documents\\Obsidian Vault\\tennis-vault\\Hệ  thong\\Wave theory\\Wrist Lag and Release.md",
+      "reason": "slug exists: wrist-lag-and-release"
+    }
+  ]
+}
