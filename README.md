@@ -21,7 +21,7 @@
 
 ## 🌟 Tổng quan
 
-Tennis WIKI là một **wiki tĩnh (static wiki)** được xây dựng với [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) — framework documentation phổ biến nhất thế giới, được dùng bởi Google, AWS, Kubernetes. Wiki chứa **~350 bài viết chuyên sâu** về quần vợt hiện đại, được dịch và biên soạn từ kho tài liệu cá nhân của **Henry Phạm** — huấn luyện viên quần vợt và nhà nghiên cứu cơ sinh học thể thao tại Việt Nam.
+Tennis WIKI được xây dựng với ~350 bài viết chuyên sâu về quần vợt hiện đại, được dịch và biên soạn từ kho tài liệu cá nhân của **Henry Phạm**.
 
 ### 🎾 Các chủ đề chính
 
