@@ -1,0 +1,107 @@
+site_name: Tennis Knowledge Base
+site_url: http://127.0.0.1:8000/
+site_description: Bilingual (EN/VI) tennis knowledge base for the 3.5+ player, master coach reference.
+# No repo links to keep it clean
+
+docs_dir: docs
+use_directory_urls: false
+
+# Theme configuration - using mkdocs default theme (Bootstrap-based)
+theme:
+  name: mkdocs
+  custom_dir: overrides
+  navigation_depth: 4
+  color_mode: light
+  nav_style: primary
+  highlightjs: true
+  hljs_style: github
+  hljs_languages:
+    - yaml
+    - python
+    - bash
+
+# Navigation - 3-item top nav pointing to sub-sites
+nav:
+  - Home: index.md
+  - English Site: https://henryphamduc.github.io/tennisknowledgebase/en/index.html
+  - Vietnamese Site: https://henryphamduc.github.io/tennisknowledgebase/vi/index.html
+  - Vietnamese Basics:
+      - CẨM NANG QUẦN VỢT TOÀN DIỆN: vi/cam-nang-quan-vot-toan-dien/index.md
+      - Approach Shot: vi/cam-nang-quan-vot-toan-dien/approach-shot.md
+      - Backhand: vi/cam-nang-quan-vot-toan-dien/backhand.md
+      - Balance: vi/cam-nang-quan-vot-toan-dien/balance.md
+      - Conclusion: vi/cam-nang-quan-vot-toan-dien/conclusion.md
+      - Doubles: vi/cam-nang-quan-vot-toan-dien/doubles.md
+      - Drop Shot and Lob: vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.md
+      - Fitness: vi/cam-nang-quan-vot-toan-dien/fitness.md
+      - Forehand: vi/cam-nang-quan-vot-toan-dien/forehand.md
+      - Future Strokes: vi/cam-nang-quan-vot-toan-dien/future-strokes.md
+      - Grips: vi/cam-nang-quan-vot-toan-dien/grips.md
+      - Kinetic Chain: vi/cam-nang-quan-vot-toan-dien/kinetic-chain.md
+      - Movement: vi/cam-nang-quan-vot-toan-dien/movement.md
+      - Psychology: vi/cam-nang-quan-vot-toan-dien/psychology.md
+      - Return of Serve: vi/cam-nang-quan-vot-toan-dien/return-of-serve.md
+      - Serve: vi/cam-nang-quan-vot-toan-dien/serve.md
+      - Singles: vi/cam-nang-quan-vot-toan-dien/singles.md
+      - Volleys: vi/cam-nang-quan-vot-toan-dien/volleys.md
+  - Absolute Tennis Manual:
+      - ABSOLUTE TENNIS Manual: en/manual/absolute-tennis/index.md
+      - Training Programs:
+          - Agassi Return Mastery: en/manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.md
+          - Djokovic Flexibility & Adaptability: en/manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.md
+          - Federer All-Court Game: en/manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.md
+          - Nadal Physical Training: en/manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.md
+          - Sampras Serve Development: en/manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.md
+      - Technical Analysis:
+          - Forehand Evolution: en/manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.md
+          - Serve Biomechanics: en/manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.md
+  - Advanced Deep Dives:
+      - 01 Embodied Cognition: en/advanced/deep-dives/01 Embodied Cognition/Embodied Cognition — Tennis as a Living Lab.md
+      - 02 Two Engines: en/advanced/deep-dives/02 Two Engines/Two Engines — Rotational vs. Linear Power.md
+      - 03 Proprioception: en/advanced/deep-dives/03 Proprioception/Proprioception — Your Hidden GPS.md
+      - 04 Reflex Arcs: en/advanced/deep-dives/04 Reflex Arcs/Reflex Arcs — The 3 Speeds of Your Body.md
+      - 05 Tensegrity Body: en/advanced/deep-dives/05 Tensegrity Body/Tensegrity Body — The Skeleton That Floats.md
+      - 06 Fascia Spiral: en/advanced/deep-dives/06 Fascia Spiral/Fascia Spirals — The Anatomy Trains Connection.md
+      - 07 X-Factor Anatomy: en/advanced/deep-dives/07 X-Factor Anatomy/X-Factor Anatomy — The 45° Pre-Load.md
+      - 08 Head Position: en/advanced/deep-dives/08 Head Position and Vestibular/Head Position and Vestibular — The First Balance Decision.md
+  - System:
+      - Training Programs: system/training-programs/index.md
+      - Technical Analysis: system/technical-analysis/index.md
+  - Players:
+      - Rivalry Analyses: players/rivalry-analyses/index.md
+      - Player Profiles: players/player-profiles/index.md
+      - System:
+          - Training Programs: system/training-programs/index.md
+          - Technical Analysis: system/technical-analysis/index.md
+      - Players:
+          - Rivalry Analyses: players/rivalry-analyses/index.md
+          - Player Profiles: players/player-profiles/index.md
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - tables
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+
+# Plugins
+plugins:
+  - search
+
+# Extra CSS and JS - custom color overrides + smooth scroll
+extra_css:
+  - assets/custom.css
+
+extra_javascript:
+  - assets/custom.js
+
+# Copyright
+copyright: '© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.'

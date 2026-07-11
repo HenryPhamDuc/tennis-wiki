@@ -1,0 +1,83 @@
+site_name: Tennis Knowledge Base
+site_url: http://127.0.0.1:8000/
+site_description: Bilingual (EN/VI) tennis knowledge base for the 3.5+ player, master coach reference.
+
+docs_dir: docs
+use_directory_urls: false
+
+theme:
+  name: material
+  navigation_depth: 4
+  color_mode: light
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Vietnamese Basics:
+      - CẨM NANG QUẦN VỢT TOÀN DIỆN: vi/cam-nang-quan-vot-toan-dien/index.md
+      - Approach Shot: vi/cam-nang-quan-vot-toan-dien/approach-shot.md
+      - Backhand: vi/cam-nang-quan-vot-toan-dien/backhand.md
+      - Balance: vi/cam-nang-quan-vot-toan-dien/balance.md
+      - Conclusion: vi/cam-nang-quan-vot-toan-dien/conclusion.md
+      - Doubles: vi/cam-nang-quan-vot-toan-dien/doubles.md
+      - Drop Shot and Lob: vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.md
+      - Fitness: vi/cam-nang-quan-vot-toan-dien/fitness.md
+      - Forehand: vi/cam-nang-quan-vot-toan-dien/forehand.md
+      - Future Strokes: vi/cam-nang-quan-vot-toan-dien/future-strokes.md
+      - Grips: vi/cam-nang-quan-vot-toan-dien/grips.md
+      - Kinetic Chain: vi/cam-nang-quan-vot-toan-dien/kinetic-chain.md
+      - Movement: vi/cam-nang-quan-vot-toan-dien/movement.md
+      - Psychology: vi/cam-nang-quan-vot-toan-dien/psychology.md
+      - Return of Serve: vi/cam-nang-quan-vot-toan-dien/return-of-serve.md
+      - Serve: vi/cam-nang-quan-vot-toan-dien/serve.md
+      - Singles: vi/cam-nang-quan-vot-toan-dien/singles.md
+      - Volleys: vi/cam-nang-quan-vot-toan-dien/volleys.md
+  - Absolute Tennis Manual:
+      - ABSOLUTE TENNIS Manual: en/manual/absolute-tennis/index.md
+      - Training Programs:
+          - Agassi Return Mastery: en/manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.md
+          - Djokovic Flexibility & Adaptability: en/manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.md
+          - Federer All-Court Game: en/manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.md
+          - Nadal Physical Training: en/manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.md
+          - Sampras Serve Development: en/manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.md
+      - Technical Analysis:
+          - Forehand Evolution: en/manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.md
+          - Serve Biomechanics: en/manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+
+plugins:
+  - search
+
+copyright: '© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.'
