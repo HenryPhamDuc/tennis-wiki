@@ -1,0 +1,293 @@
+# =============================================================================
+# Sveltia CMS config for the Tennis Knowledge Base (HenryPhamDuc/tennis-wiki)
+# =============================================================================
+# Lives at: docs/admin/config.yml
+# Editor URL: https://henryphamduc.github.io/tennis-wiki/admin/
+#
+# Authentication: GitHub OAuth (Sveltia supports the same flow as Decap).
+# Until you wire an OAuth proxy, "Sign in with GitHub" requires the browser
+# extension bypass OR a local proxy. Easiest path is `npx decap-cms-oauth`
+# or a Cloudflare Worker. See:
+#   https://sveltia.com/docs/configuration/backends#github-backend
+#   https://github.com/vencax/netlify-cms-oauth-provider
+#
+# Content schema: one folder collection per MkDocs section.
+# Each collection edits files IN PLACE under docs/<lang>/<section>/ — no
+# file moves, no content reformatting, no risk of breaking MkDocs nav.
+# =============================================================================
+
+backend:
+  name: github
+  repo: HenryPhamDuc/tennis-wiki          # owner/repo
+  branch: main                             # site is deployed from main
+  commit_messages:
+    create: 'cms: create {{collection}} "{{slug}}"'
+    update: 'cms: edit {{collection}} "{{slug}}"'
+    delete: 'cms: delete {{collection}} "{{slug}}"'
+    uploadMedia: 'cms: upload media "{{path}}"'
+    deleteMedia: 'cms: delete media "{{path}}"'
+    openAuthoring: 'cms: {{message}}'
+  squash_merges: true
+  open_authoring: false                    # only Henry can edit (private site)
+
+# Media uploads go to docs/assets/uploads/<collection>/<filename>
+# MkDocs already serves docs/assets/ at /assets/, so images Just Work.
+media_folder: "docs/assets/uploads/{{collection_name}}"
+public_folder: "/tennis-wiki/assets/uploads/{{collection_name}"
+
+# Site-wide settings
+site_url: https://henryphamduc.github.io/tennis-wiki
+display_url: https://henryphamduc.github.io/tennis-wiki
+logo_url: /tennis-wiki/assets/images/logo.png   # optional, can be empty
+
+# Editor preferences
+locale: en
+search: true
+live_preview: false                        # MkDocs doesn't have an HMR dev URL
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+# One collection per MkDocs section. The `folder` field points at the existing
+# directory; `extension: md` reads/writes the .md files MkDocs already serves.
+# `frontmatter_delimiter: ["---", "---"]` works on existing files that have
+# frontmatter; files without frontmatter get it added on first save.
+#
+# For each section the schema is intentionally minimal:
+#   - title (H1, derived from first # heading)
+#   - body (everything after H1)
+# This matches the existing MkDocs convention and avoids forcing Henry to
+# restructure hundreds of files just to onboard the CMS.
+# -----------------------------------------------------------------------------
+
+collections:
+
+  # ============================ ENGLISH ====================================
+  - name: "en-home"
+    label: "🇬🇧 EN — Home"
+    label_singular: "EN Home"
+    description: "English landing page at /en/"
+    folder: "docs/en"
+    create: false                          # only index.md exists
+    delete: false
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    path: "{{slug}}/index"                 # writes to docs/en/<slug>/index.md
+    media_folder: "/docs/assets/uploads/en-home"
+    public_folder: "/tennis-wiki/assets/uploads/en-home"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-foundation"
+    label: "🇬🇧 EN — Foundation (141 files)"
+    label_singular: "EN Foundation Page"
+    description: "Grips, footwork, strokes, doubles — the building blocks."
+    folder: "docs/en/foundation"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-foundation"
+    public_folder: "/tennis-wiki/assets/uploads/en-foundation"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "text", required: false}
+      - {label: "Order", name: "order", widget: "number", required: false, default: 100}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-advanced"
+    label: "🇬🇧 EN — Advanced (21 files)"
+    folder: "docs/en/advanced"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-advanced"
+    public_folder: "/tennis-wiki/assets/uploads/en-advanced"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "text", required: false}
+      - {label: "Order", name: "order", widget: "number", required: false, default: 100}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-anatomy-lab"
+    label: "🇬🇧 EN — Anatomy Lab (19 files)"
+    folder: "docs/en/anatomy-lab"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-anatomy-lab"
+    public_folder: "/tennis-wiki/assets/uploads/en-anatomy-lab"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-angle-atlas"
+    label: "🇬🇧 EN — Angle Atlas (19 files)"
+    folder: "docs/en/angle-atlas"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-angle-atlas"
+    public_folder: "/tennis-wiki/assets/uploads/en-angle-atlas"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-elite"
+    label: "🇬🇧 EN — Elite (31 files)"
+    folder: "docs/en/elite"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-elite"
+    public_folder: "/tennis-wiki/assets/uploads/en-elite"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-manual"
+    label: "🇬🇧 EN — Manual (8 files)"
+    folder: "docs/en/manual"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-manual"
+    public_folder: "/tennis-wiki/assets/uploads/en-manual"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-players"
+    label: "🇬🇧 EN — Players (33 files)"
+    folder: "docs/en/players"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-players"
+    public_folder: "/tennis-wiki/assets/uploads/en-players"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "en-system"
+    label: "🇬🇧 EN — System (9 files)"
+    folder: "docs/en/system"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/en-system"
+    public_folder: "/tennis-wiki/assets/uploads/en-system"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  # ============================ VIETNAMESE ================================
+  # (Same structure, paths under docs/vi/. Language purity is enforced by
+  # the section structure itself — VI files live in vi/, EN files in en/.)
+  - name: "vi-home"
+    label: "🇻🇳 VI — Trang chủ"
+    label_singular: "VI Home"
+    description: "Vietnamese landing page at /vi/"
+    folder: "docs/vi"
+    create: false
+    delete: false
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "/docs/assets/uploads/vi-home"
+    public_folder: "/tennis-wiki/assets/uploads/vi-home"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-foundation"
+    label: "🇻🇳 VI — Nền Tảng (141 files)"
+    folder: "docs/vi/foundation"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-foundation"
+    public_folder: "/tennis-wiki/assets/uploads/vi-foundation"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Tóm tắt", name: "summary", widget: "text", required: false}
+      - {label: "Thứ tự", name: "order", widget: "number", required: false, default: 100}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-advanced"
+    label: "🇻🇳 VI — Nâng Cao (21 files)"
+    folder: "docs/vi/advanced"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-advanced"
+    public_folder: "/tennis-wiki/assets/uploads/vi-advanced"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-anatomy-lab"
+    label: "🇻🇳 VI — Phòng Giải Phẫu (19 files)"
+    folder: "docs/vi/anatomy-lab"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-anatomy-lab"
+    public_folder: "/tennis-wiki/assets/uploads/vi-anatomy-lab"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-angle-atlas"
+    label: "🇻🇳 VI — Tập Bản Đồ Góc (19 files)"
+    folder: "docs/vi/angle-atlas"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-angle-atlas"
+    public_folder: "/tennis-wiki/assets/uploads/vi-angle-atlas"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-elite"
+    label: "🇻🇳 VI — Cao Thủ (31 files)"
+    folder: "docs/vi/elite"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-elite"
+    public_folder: "/tennis-wiki/assets/uploads/vi-elite"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
+
+  - name: "vi-cam-nang"
+    label: "🇻🇳 VI — Cẩm Nang Quần Vợt Toàn Diện (18 files)"
+    folder: "docs/vi/cam-nang-quan-vot-toan-dien"
+    extension: "md"
+    format: "frontmatter"
+    frontmatter_delimiter: ["---", "---"]
+    slug: "{{slug}}"
+    media_folder: "/docs/assets/uploads/vi-cam-nang"
+    public_folder: "/tennis-wiki/assets/uploads/vi-cam-nang"
+    fields:
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
