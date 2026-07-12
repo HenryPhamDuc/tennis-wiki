@@ -23,8 +23,14 @@ jobs:
         run: |
           mkdir -p site/admin
           # rsync-like mirror: copy full docs/admin tree to site/admin
-          # (not just 2 hardcoded files -- that misses anything else in docs/admin/)
+          # AND delete any files in site/admin that aren't in docs/admin
+          # (otherwise renamed/removed files would leak forever)
           cp -rT docs/admin site/admin
+          # Find files in site/admin not in docs/admin and remove them
+          comm -23 \
+            <(cd site/admin && find . -type f | sort) \
+            <(cd docs/admin && find . -type f | sort) \
+          | while read f; do rm -f "site/admin/$f"; done
           cp -f docs/.nojekyll site/.nojekyll 2>/dev/null || true
           echo "Mirrored site/admin/ contents:"
           ls -la site/admin/
