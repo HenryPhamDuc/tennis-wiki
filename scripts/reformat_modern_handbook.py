@@ -19,6 +19,7 @@ SRC = r"C:\Users\Henry\GITHUB\tennis-wiki\site\cam-nang\tfl\Modern_Tennis_Handbo
 DST = SRC
 BAK = SRC + ".bak"
 
+
 VI_CSS = r"""
 body {
   font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
@@ -185,7 +186,9 @@ def classify_card(tbl):
     return "note"
 
 def build_card_html(tbl, css_class):
-    td = tbl.find("td")
+    td = tbl.find("td") or tbl.find("th")
+    if td is None:
+        return ""
     inner_parts = []
     for child in list(td.children):
         if isinstance(child, NavigableString):
@@ -242,14 +245,19 @@ def tag_step_tables(soup):
     return n
 
 def main():
-    print("Reading " + SRC)
-    with open(SRC, "r", encoding="utf-8") as f:
+    import sys
+    src = sys.argv[1] if len(sys.argv) > 1 else SRC
+    print("Reading " + src)
+    with open(src, "r", encoding="utf-8") as f:
         original = f.read()
 
-    if not os.path.exists(BAK):
-        with open(BAK, "w", encoding="utf-8") as f:
+    bak = src + ".bak"
+    if not os.path.exists(bak):
+        with open(bak, "w", encoding="utf-8") as f:
             f.write(original)
-        print("Backup saved to " + BAK)
+        print("Backup saved to " + bak)
+    else:
+        print("Backup already exists: " + bak)
 
     soup = BeautifulSoup(original, "html5lib")
 
@@ -267,6 +275,17 @@ def main():
     print("Card transformations: " + str(counts))
     print("Step tables tagged:  " + str(step_count))
 
+    # Derive title and lang from file content (not filename — VI files have ASCII basenames)
+    basename = os.path.splitext(os.path.basename(src))[0]
+    visible_for_meta = soup.get_text(" ", strip=True)
+    has_vi = bool(re.search(r"[ăâđêôơưĂÂĐÊÔƠƯáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]", visible_for_meta))
+    if has_vi:
+        lang = "vi"
+    else:
+        lang = "en"
+    title = basename.replace("_", " ").strip()
+    print("lang: " + lang + " | title: " + title)
+
     if soup.html:
         soup.html.unwrap()
     if soup.head:
@@ -275,12 +294,12 @@ def main():
         soup.body.unwrap()
 
     doctype = "<!DOCTYPE html>\n"
-    html_open = '<html lang="en">\n'
+    html_open = '<html lang="' + lang + '">\n'
     head = (
         "<head>\n"
         '<meta charset="UTF-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
-        '<title>The Complete Modern Tennis Handbook</title>\n'
+        '<title>' + title + '</title>\n'
         "<style>\n" + VI_CSS + "</style>\n"
         "</head>\n"
     )
@@ -292,7 +311,7 @@ def main():
 
     final = doctype + html_open + head + body_open + inner + body_close + html_close
 
-    with open(DST, "w", encoding="utf-8") as f:
+    with open(src, "w", encoding="utf-8") as f:
         f.write(final)
 
     soup2 = BeautifulSoup(final, "html5lib")
