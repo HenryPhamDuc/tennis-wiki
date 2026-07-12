@@ -1,0 +1,35 @@
+name: Mirror CMS files from docs/ to site/
+on:
+  push:
+    paths:
+      - 'docs/admin/**'
+      - '.github/workflows/mirror-admin.yml'
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Mirror docs/admin -> site/admin
+        run: |
+          mkdir -p site/admin
+          cp -f docs/admin/index.html site/admin/index.html
+          cp -f docs/admin/config.yml  site/admin/config.yml
+          cp -f docs/.nojekyll         site/.nojekyll 2>/dev/null || true
+          echo "Mirrored:"
+          ls -la site/admin/
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain site/admin/ .nojekyll 2>/dev/null)" ]; then
+            git add site/admin/ .nojekyll
+            git commit -m "cms: mirror docs/admin/ to site/admin/ [skip ci]"
+            git push origin HEAD:main
+          else
+            echo "site/admin/ already in sync, nothing to commit"
+          fi
