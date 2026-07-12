@@ -1,58 +1,183 @@
-<html>
- <head>
- </head>
- <body>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Complete Modern Tennis Handbook</title>
+<style>
+
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 24px 28px;
+  color: #1f2937;
+  line-height: 1.7;
+}
+h1, h2, h3, h4 {
+  color: #14285a;
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+h1 { font-size: 1.8em; border-bottom: 3px solid #b41e1e; padding-bottom: 8px; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.15em; }
+p { margin-bottom: 0.9em; }
+img { max-width: 100%; height: auto; display: block; margin: 16px auto; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 16px 0;
+}
+th, td {
+  border: 1px solid #e5e7eb;
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+th {
+  color: #14285a;
+  font-weight: 700;
+}
+ul, ol { margin-bottom: 0.9em; padding-left: 1.6em; }
+li { margin-bottom: 0.25em; }
+pre.tfl-ascii-art {
+  font-family: 'Consolas', 'Menlo', 'Courier New', monospace;
+  border: 1px solid #e5e7eb;
+  border-left: 3px solid #b41e1e;
+  padding: 10px 14px;
+  margin: 12px 0;
+  white-space: pre;
+  overflow-x: auto;
+  font-size: 0.9em;
+  line-height: 1.25;
+}
+.card {
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #14285a;
+  padding: 16px 20px;
+  border-radius: 6px;
+  margin: 18px 0;
+}
+.card.chapter {
+  border: 1px solid #14285a;
+  border-left: 6px solid #14285a;
+  padding: 18px 22px;
+}
+.card.chapter p { margin-bottom: 0.4em; }
+.card.chapter p strong { font-size: 1.1em; letter-spacing: 0.02em; color: #14285a; }
+.card.chapter p em { color: #b41e1e; font-style: normal; font-weight: 600; }
+.card.cover {
+  text-align: center;
+  border: 2px solid #14285a;
+  border-top: 4px solid #b41e1e;
+  border-bottom: 4px solid #b41e1e;
+  padding: 32px 24px;
+}
+.card.cover p { margin-bottom: 0.5em; }
+.card.cover p.title { font-size: 1.6em; font-weight: 800; letter-spacing: 0.04em; line-height: 1.2; color: #14285a; }
+.card.cover p.subtitle { color: #b41e1e; font-weight: 600; }
+.card.cover p.tagline { color: #6b7280; font-size: 0.95em; }
+.card.closing {
+  text-align: center;
+  border: 1px solid #14285a;
+  border-left: 6px solid #b41e1e;
+  padding: 22px 24px;
+}
+.card.closing p { margin-bottom: 0.4em; }
+.card.closing p strong { color: #b41e1e; }
+.card.ascii {
+  border: 1px solid #e5e7eb;
+  border-left: 3px solid #b41e1e;
+  padding: 12px 16px;
+  margin: 14px 0;
+  font-family: 'Consolas', 'Menlo', 'Courier New', monospace;
+  font-size: 0.88em;
+  line-height: 1.2;
+  white-space: pre;
+  overflow-x: auto;
+}
+.nav {
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #b41e1e;
+  padding: 12px 16px;
+  border-radius: 6px;
+  margin-bottom: 24px;
+  font-size: 0.92em;
+}
+.nav a {
+  color: #14285a;
+  font-weight: 600;
+  text-decoration: none;
+}
+.nav a:hover { text-decoration: underline; }
+.meta {
+  color: #6b7280;
+  font-size: 0.88em;
+  border-top: 1px solid #e5e7eb;
+  margin-top: 32px;
+  padding-top: 16px;
+}
+
+/* Numbered step tables: 1-row 2-cell with a tiny "1"/"2" badge on the left */
+td.step-num {
+  width: 56px;
+  text-align: center;
+  border-right: 3px solid #b41e1e;
+  color: #b41e1e;
+  font-weight: 800;
+  font-size: 1.6em;
+  vertical-align: middle;
+}
+td.step-num p { margin: 0; }
+td.step-num strong { color: #b41e1e; font-size: 1.4em; }
+td.step-body strong { font-size: 1.1em; color: #14285a; display: block; margin-bottom: 4px; }
+td.step-body p { margin-bottom: 0.6em; }
+
+@media (max-width: 720px) {
+  body { margin: 12px auto; padding: 14px 14px; }
+  h1 { font-size: 1.5em; }
+  h2 { font-size: 1.25em; }
+  pre.tfl-ascii-art, .card.ascii { font-size: 0.78em; }
+  td.step-num { width: 44px; font-size: 1.3em; }
+}
+</style>
+</head>
+<body>
+
+ 
+  <html><head></head><body><div class="card cover"><p>
        <strong>
         THE COMPLETE
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         MODERN TENNIS
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         HANDBOOK
        </strong>
-      </p>
-      <pre class="tfl-ascii-art">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
-      <p>
+      </p><pre class="tfl-ascii-art">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre><p>
        From Fundamentals to Specialty Shots
-      </p>
-      <p>
+      </p><p>
        Breaking Free into Modern, Elite-Level Tennis
-      </p>
-      <pre class="tfl-ascii-art">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</pre>
-      <p>
+      </p><pre class="tfl-ascii-art">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre><p>
        Based on Absolute Tennis | Tennis Doctor Modern Tennis | Biomechanics of Tennis
-      </p>
-      <p>
-       ITF Level 2 Biomechanics | Winning Tennis Tactics | Tennis Strategy & Technique
-      </p>
-      <p>
-       & More Than 50 Expert Sources
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       ITF Level 2 Biomechanics | Winning Tennis Tactics | Tennis Strategy &amp; Technique
+      </p><p>
+       &amp; More Than 50 Expert Sources
+      </p></div></body></html>
   <h1>
    <strong>
     HOW TO USE THIS HANDBOOK
    </strong>
   </h1>
   <p>
-   This handbook is organised in a deliberate learning sequence that mirrors how the world's best players actually develop &mdash; from rock-solid fundamentals, through specialty and advanced shots, and finally into the free-flowing, instinctive modern game.
+   This handbook is organised in a deliberate learning sequence that mirrors how the world's best players actually develop — from rock-solid fundamentals, through specialty and advanced shots, and finally into the free-flowing, instinctive modern game.
   </p>
   <table>
    <tbody>
@@ -82,7 +207,7 @@
      </td>
      <td>
       <p>
-       The Fundamentals &mdash; grips, stances, footwork, and the six core strokes
+       The Fundamentals — grips, stances, footwork, and the six core strokes
       </p>
      </td>
     </tr>
@@ -96,7 +221,7 @@
      </td>
      <td>
       <p>
-       Specialty Shots &mdash; the weapons that win matches: kick serve, drop shot, lob, swinging volley, slice, and more
+       Specialty Shots — the weapons that win matches: kick serve, drop shot, lob, swinging volley, slice, and more
       </p>
      </td>
     </tr>
@@ -110,7 +235,7 @@
      </td>
      <td>
       <p>
-       Breaking Free &mdash; modern footwork, contact moves, body rotation, open-skill tennis
+       Breaking Free — modern footwork, contact moves, body rotation, open-skill tennis
       </p>
      </td>
     </tr>
@@ -124,7 +249,7 @@
      </td>
      <td>
       <p>
-       Strategy & Tactics &mdash; patterns of play, singles strategy, doubles, tiebreakers
+       Strategy &amp; Tactics — patterns of play, singles strategy, doubles, tiebreakers
       </p>
      </td>
     </tr>
@@ -138,7 +263,7 @@
      </td>
      <td>
       <p>
-       The Mental Game &mdash; visualisation, muscle memory, choking, the art of winning
+       The Mental Game — visualisation, muscle memory, choking, the art of winning
       </p>
      </td>
     </tr>
@@ -152,28 +277,19 @@
      </td>
      <td>
       <p>
-       Physical Development &mdash; fitness, kinetic chain, injury prevention
+       Physical Development — fitness, kinetic chain, injury prevention
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         The Golden Rule
        </strong>
-      </p>
-      <p>
-       Master the fundamentals so completely that you no longer need to think about them. Only then can you play freely, instinctively, and at a truly high level. Technique is not the ceiling &mdash; it is the floor.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       Master the fundamentals so completely that you no longer need to think about them. Only then can you play freely, instinctively, and at a truly high level. Technique is not the ceiling — it is the floor.
+      </p></div></body></html>
   <p>
    <strong>
     PART ONE
@@ -185,31 +301,21 @@
    </strong>
   </p>
   <p>
-   Grips &middot; Stances &middot; Footwork &middot; Core Strokes &middot; Volleys &middot; Serve
+   Grips · Stances · Footwork · Core Strokes · Volleys · Serve
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 1
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         GRIPS
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Foundation of Every Stroke in Tennis
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   A grip is not merely how you hold a racket &mdash; it is the primary determinant of your contact zone, your natural swing path, the amount of topspin you can generate, and how effectively you handle low, mid, and high balls. All pro players have common threads in their technique; the differences observers notice are almost entirely due to grip variation.
+   A grip is not merely how you hold a racket — it is the primary determinant of your contact zone, your natural swing path, the amount of topspin you can generate, and how effectively you handle low, mid, and high balls. All pro players have common threads in their technique; the differences observers notice are almost entirely due to grip variation.
   </p>
   <h2>
    <strong>
@@ -217,7 +323,7 @@
    </strong>
   </h2>
   <p>
-   The racket handle has 8 bevels, numbered 1&ndash;8 (for right-handers, starting at the top). The grip is identified by where the index knuckle (IK) and heel pad (HP) rest on these bevels.
+   The racket handle has 8 bevels, numbered 1–8 (for right-handers, starting at the top). The grip is identified by where the index knuckle (IK) and heel pad (HP) rest on these bevels.
   </p>
   <table>
    <tbody>
@@ -232,7 +338,7 @@
      <td>
       <p>
        <strong>
-        Description & Key Details
+        Description &amp; Key Details
        </strong>
       </p>
      </td>
@@ -247,7 +353,7 @@
      </td>
      <td>
       <p>
-       IK & HP on bevel 2. Universal grip for serve, volley, overhead, slice. Essential for net play.
+       IK &amp; HP on bevel 2. Universal grip for serve, volley, overhead, slice. Essential for net play.
       </p>
      </td>
     </tr>
@@ -361,19 +467,19 @@
        </strong>
       </p>
       <pre class="tfl-ascii-art">
-  &boxDR;&boxH;&boxH;&boxH;&boxH;&boxH;&boxH;&boxDL;  
+  ╔══════╗  
 </pre>
       <p>
-       &boxV;  8   &boxV;
+       ║  8   ║
       </p>
       <p>
-       7&boxV;      &boxV;1
+       7║      ║1
       </p>
       <p>
-       &boxV;  4   &boxV;
+       ║  4   ║
       </p>
       <pre class="tfl-ascii-art">
-  &boxUR;&boxH;&boxH;&boxH;&boxH;&boxH;&boxH;&boxUL;  
+  ╚══════╝  
 </pre>
       <p>
        <strong>
@@ -399,19 +505,19 @@
        </strong>
       </p>
       <pre class="tfl-ascii-art">
-  &boxDR;&boxH;&boxH;&boxH;&boxH;&boxH;&boxH;&boxDL;  
+  ╔══════╗  
 </pre>
       <p>
-       &boxV;  8   &boxV;
+       ║  8   ║
       </p>
       <p>
-       7&boxV;      &boxV;1
+       7║      ║1
       </p>
       <p>
-       &boxV;  4   &boxV;
+       ║  4   ║
       </p>
       <pre class="tfl-ascii-art">
-  &boxUR;&boxH;&boxH;&boxH;&boxH;&boxH;&boxH;&boxUL;  
+  ╚══════╝  
 </pre>
       <p>
        <strong>
@@ -421,7 +527,7 @@
      </td>
      <td>
       <p>
-       The most common modern forehand grip. Move the hand one bevel clockwise from the eastern. The palm is slightly under the handle. Ideal for the modern baseline game &mdash; produces natural topspin, excellent mid-height contact, comfortable with high-bouncing balls. Federer uses a modified eastern; Djokovic uses semi-western. Choose based on your ball-strike height preference.
+       The most common modern forehand grip. Move the hand one bevel clockwise from the eastern. The palm is slightly under the handle. Ideal for the modern baseline game — produces natural topspin, excellent mid-height contact, comfortable with high-bouncing balls. Federer uses a modified eastern; Djokovic uses semi-western. Choose based on your ball-strike height preference.
       </p>
      </td>
     </tr>
@@ -439,7 +545,7 @@
      </td>
      <td>
       <p>
-       The grip you choose is not right or wrong &mdash; it is a trade-off. More extreme grips create more topspin but reduce your ability to flatten out shots. Continental/Eastern grips allow flat, attacking shots but require more precise footwork to handle high balls.
+       The grip you choose is not right or wrong — it is a trade-off. More extreme grips create more topspin but reduce your ability to flatten out shots. Continental/Eastern grips allow flat, attacking shots but require more precise footwork to handle high balls.
       </p>
      </td>
     </tr>
@@ -451,45 +557,26 @@
    </strong>
   </h2>
   <p>
-   Grip pressure should be a 3-4 out of 10 at the point of preparing for a shot, then briefly firming to 6-7 at the moment of impact. A death-grip kills racket head speed, kills feel, and causes arm injuries. Pros describe their grip as 'firm but relaxed' &mdash; the racket is controlled but the arm stays loose. Think of holding a small bird: tight enough that it cannot fly away, loose enough that you do not crush it.
+   Grip pressure should be a 3-4 out of 10 at the point of preparing for a shot, then briefly firming to 6-7 at the moment of impact. A death-grip kills racket head speed, kills feel, and causes arm injuries. Pros describe their grip as 'firm but relaxed' — the racket is controlled but the arm stays loose. Think of holding a small bird: tight enough that it cannot fly away, loose enough that you do not crush it.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Common Grip Mistake
        </strong>
-      </p>
-      <p>
-       Switching to a full Western forehand grip too early. This locks you into deep-baseline, defensive tennis. Learn the eastern or modified eastern first &mdash; it builds the attacking skills you need before adopting heavier topspin grips.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+      </p><p>
+       Switching to a full Western forehand grip too early. This locks you into deep-baseline, defensive tennis. Learn the eastern or modified eastern first — it builds the attacking skills you need before adopting heavier topspin grips.
+      </p></div></body></html>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 2
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
-        STANCES & READY POSITION
+        STANCES &amp; READY POSITION
        </strong>
-      </p>
-      <p>
+      </p><p>
        Setting the Platform for Power and Control
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
    Modern tennis has evolved dramatically in stance use. Where classical instruction taught a closed or neutral stance on almost every shot, today's professionals use open, semi-open, closed, and neutral stances fluidly depending on court position, ball trajectory, time available, and tactical intent.
   </p>
@@ -580,26 +667,26 @@
    </strong>
   </h2>
   <p>
-   The ready position is your reset point between every shot. Getting it wrong costs you fractions of a second on every ball &mdash; enough to lose the point.
+   The ready position is your reset point between every shot. Getting it wrong costs you fractions of a second on every ball — enough to lose the point.
   </p>
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Feet
        </strong>
       </p>
       <p>
-       Shoulder-width apart. Weight on the balls of the feet (not the heels). Knees slightly bent &mdash; like an athlete about to react, not a tired person leaning on their legs.
+       Shoulder-width apart. Weight on the balls of the feet (not the heels). Knees slightly bent — like an athlete about to react, not a tired person leaning on their legs.
       </p>
      </td>
     </tr>
@@ -608,14 +695,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Torso
@@ -631,21 +718,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
-        Racket & Arms
+        Racket &amp; Arms
        </strong>
       </p>
       <p>
-       Racket held at the throat with non-dominant hand. Racket face roughly parallel to net, elbow slightly in front of hips. Both arms comfortably extended in front &mdash; never tucked against body.
+       Racket held at the throat with non-dominant hand. Racket face roughly parallel to net, elbow slightly in front of hips. Both arms comfortably extended in front — never tucked against body.
       </p>
      </td>
     </tr>
@@ -654,14 +741,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Eyes
@@ -677,21 +764,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Split Step
        </strong>
       </p>
       <p>
-       As opponent contacts the ball, perform a small hop (2-4 inches). Land as they hit &mdash; this loads both legs and allows you to push off explosively in any direction.
+       As opponent contacts the ball, perform a small hop (2-4 inches). Land as they hit — this loads both legs and allows you to push off explosively in any direction.
       </p>
      </td>
     </tr>
@@ -709,35 +796,25 @@
      </td>
      <td>
       <p>
-       The split step is the single most important footwork habit you can build. It does not need to be large &mdash; it needs to be timed. Land as your opponent's racket meets the ball, not before or after.
+       The split step is the single most important footwork habit you can build. It does not need to be large — it needs to be timed. Land as your opponent's racket meets the ball, not before or after.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 3
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         FOOTWORK
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Engine That Drives Every Shot
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Footwork in tennis is not simply running to the ball. It is a sophisticated system of steps, stops, pivots, hops, and recovery patterns that position your body optimally for each unique shot situation. World-class players have mastered 15 distinct 'Contact Moves' &mdash; footwork patterns that occur during the actual strike of the ball.
+   Footwork in tennis is not simply running to the ball. It is a sophisticated system of steps, stops, pivots, hops, and recovery patterns that position your body optimally for each unique shot situation. World-class players have mastered 15 distinct 'Contact Moves' — footwork patterns that occur during the actual strike of the ball.
   </p>
   <h2>
    <strong>
@@ -814,7 +891,7 @@
      </td>
      <td>
       <p>
-       Maintaining weight shift even when both feet are off the ground &mdash; common on running forehands and jump forehands.
+       Maintaining weight shift even when both feet are off the ground — common on running forehands and jump forehands.
       </p>
      </td>
     </tr>
@@ -854,7 +931,7 @@
    </strong>
   </h2>
   <p>
-   The Contact Move is a revolutionary concept: footwork does not stop when you hit the ball &mdash; it is dynamic before, during, and after contact. These 15 moves are grouped into four categories:
+   The Contact Move is a revolutionary concept: footwork does not stop when you hit the ball — it is dynamic before, during, and after contact. These 15 moves are grouped into four categories:
   </p>
   <ul>
    <li>
@@ -888,7 +965,7 @@
    </strong>
   </h3>
   <p>
-   The Step Down is where a player steps into the ball with their front foot from a neutral stance. It is the most fundamental offensive contact move &mdash; used when players have time to set up properly and want maximum control.
+   The Step Down is where a player steps into the ball with their front foot from a neutral stance. It is the most fundamental offensive contact move — used when players have time to set up properly and want maximum control.
   </p>
   <table>
    <tbody>
@@ -1025,7 +1102,7 @@
      </td>
      <td>
       <p>
-       Federer makes contact before his front foot lands. Nadal uses an extremely wide open stance with a crossing right foot after contact. Both techniques maintain momentum while preserving balance &mdash; study high-speed video of both to understand the difference.
+       Federer makes contact before his front foot lands. Nadal uses an extremely wide open stance with a crossing right foot after contact. Both techniques maintain momentum while preserving balance — study high-speed video of both to understand the difference.
       </p>
      </td>
     </tr>
@@ -1037,7 +1114,7 @@
    </strong>
   </h3>
   <p>
-   An extreme version of the running open stance. The back leg loads explosively before a powerful lunge into the ball. This converts a defensive, wide-running shot into an offensive weapon. The back leg generates a 'slingshot' effect &mdash; think of a sprinter pushing off their starting block.
+   An extreme version of the running open stance. The back leg loads explosively before a powerful lunge into the ball. This converts a defensive, wide-running shot into an offensive weapon. The back leg generates a 'slingshot' effect — think of a sprinter pushing off their starting block.
   </p>
   <h3>
    <strong>
@@ -1049,7 +1126,7 @@
   </p>
   <ul>
    <li>
-    Move one step beyond the ball &mdash; not more
+    Move one step beyond the ball — not more
    </li>
    <li>
     Stay low, maintain bent knees throughout
@@ -1067,7 +1144,7 @@
    </strong>
   </h3>
   <p>
-   Used on full-speed running forehands when the player must hit while airborne. Both feet briefly leave the ground at contact. The hips and shoulders stay relatively closed, limiting body rotation &mdash; power comes from explosive leg drive and upward swing path.
+   Used on full-speed running forehands when the player must hit while airborne. Both feet briefly leave the ground at contact. The hips and shoulders stay relatively closed, limiting body rotation — power comes from explosive leg drive and upward swing path.
   </p>
   <h3>
    <strong>
@@ -1083,7 +1160,7 @@
    </strong>
   </h3>
   <p>
-   Pivot moves manage low, hard-hit balls, half-volleys, and shots taken on the rise. Two types: the Two-Foot Pivot (open/semi-open stance, both feet rotate 90-180 degrees during swing) and the One-Foot Pivot (pivot on outside foot while front foot lifts &mdash; primarily for high topspin balls in men's tennis).
+   Pivot moves manage low, hard-hit balls, half-volleys, and shots taken on the rise. Two types: the Two-Foot Pivot (open/semi-open stance, both feet rotate 90-180 degrees during swing) and the One-Foot Pivot (pivot on outside foot while front foot lifts — primarily for high topspin balls in men's tennis).
   </p>
   <h3>
    <strong>
@@ -1093,68 +1170,29 @@
   <p>
    Used when approaching the net aggressively. The player moves forward smoothly, taking a 'float step' that keeps feet light and mobile. This prevents planting too hard before a first volley and allows rapid adjustment when the opponent hits a passing shot.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Recovery Myth Debunked
        </strong>
-      </p>
-      <p>
-       High-speed video proves that top players do NOT begin their recovery step until the forward swing is complete. Starting recovery early disrupts body rotation and timing. Let the swing finish naturally &mdash; then recover. This feels counterintuitive but is biomechanically essential.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       High-speed video proves that top players do NOT begin their recovery step until the forward swing is complete. Starting recovery early disrupts body rotation and timing. Let the swing finish naturally — then recover. This feels counterintuitive but is biomechanically essential.
+      </p></div></body></html>
   <h2>
    <strong>
     Court Zones and Positioning
    </strong>
   </h2>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
-       <strong>
-        TENNIS COURT
-       </strong>
-      </p>
-      <pre class="tfl-ascii-art">
-&boxdr;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxdl;
-</pre>
-      <p>
-       &boxv;    Deuce   &boxv;   Ad Court             &boxv;
-      </p>
-      <p>
-       &boxv;   Service  &boxv;   Service Box          &boxv;
-      </p>
-      <pre class="tfl-ascii-art">
-&boxv;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxvh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxv;
-&boxv;━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━&boxv;
-&boxv;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxvh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxv;
-</pre>
-      <p>
-       &boxv;   Service  &boxv;   Service Box          &boxv;
-      </p>
-      <p>
-       &boxv;   Deuce    &boxv;   Ad Court             &boxv;
-      </p>
-      <pre class="tfl-ascii-art">
-&boxur;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxul;
-</pre>
-      <p>
-       <strong>
-        [ Court Zones: Baseline, No-Man's Land, Net Zone ]
-       </strong>
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+  <html><head></head><body><pre class="card ascii">TENNIS COURT
+┌────────────────────────────────────┐
+│    Deuce   │   Ad Court             │
+│   Service  │   Service Box          │
+│────────────┼────────────────────────│
+│━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│
+│────────────┼────────────────────────│
+│   Service  │   Service Box          │
+│   Deuce    │   Ad Court             │
+└────────────────────────────────────┘
+[ Court Zones: Baseline, No-Man's Land, Net Zone ]</pre></body></html>
   <table>
    <tbody>
     <tr>
@@ -1211,7 +1249,7 @@
      </td>
      <td>
       <p>
-       Avoid lingering here &mdash; balls at your feet are hardest to handle. Transition through quickly.
+       Avoid lingering here — balls at your feet are hardest to handle. Transition through quickly.
       </p>
      </td>
     </tr>
@@ -1245,29 +1283,19 @@
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 4
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE FOREHAND
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Cornerstone of the Modern Game
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   The forehand is the most studied stroke in tennis, and for good reason &mdash; it is the primary attacking weapon for most players. Modern high-speed filming has revealed that despite apparent differences, every elite forehand shares common biomechanical threads. Understanding these threads allows any player to dramatically improve their forehand.
+   The forehand is the most studied stroke in tennis, and for good reason — it is the primary attacking weapon for most players. Modern high-speed filming has revealed that despite apparent differences, every elite forehand shares common biomechanical threads. Understanding these threads allows any player to dramatically improve their forehand.
   </p>
   <h2>
    <strong>
@@ -1275,7 +1303,7 @@
    </strong>
   </h2>
   <p>
-   The forehand does NOT begin with the racket. It begins with a simultaneous rotation of the feet and shoulders &mdash; the 'unit turn.' The moment you recognise a ball coming to your forehand side, your feet and shoulders turn together as a single unit toward the fence behind you. This is the most important technical concept in the forehand.
+   The forehand does NOT begin with the racket. It begins with a simultaneous rotation of the feet and shoulders — the 'unit turn.' The moment you recognise a ball coming to your forehand side, your feet and shoulders turn together as a single unit toward the fence behind you. This is the most important technical concept in the forehand.
   </p>
   <p>
    Common mistake: Moving the racket arm back independently before the unit turn. This limits shoulder rotation, produces arm-only swings, and causes the dreaded 'fly swatter' stroke. Always lead with the body rotation, never with the arm.
@@ -1290,16 +1318,16 @@
   </p>
   <ul>
    <li>
-    Do NOT drop the non-racket arm to the side early &mdash; this limits coil
+    Do NOT drop the non-racket arm to the side early — this limits coil
    </li>
    <li>
-    Do NOT cross the non-racket arm too far left &mdash; creates a blocking force
+    Do NOT cross the non-racket arm too far left — creates a blocking force
    </li>
    <li>
     Use it as a 'measuring device' to stay the right distance from the ball
    </li>
    <li>
-    At the follow-through, the non-racket arm should 'catch' the racket &mdash; this drill reinforces proper motion
+    At the follow-through, the non-racket arm should 'catch' the racket — this drill reinforces proper motion
    </li>
   </ul>
   <h2>
@@ -1308,7 +1336,7 @@
    </strong>
   </h2>
   <p>
-   'Get your racket back early' is one of the most damaging myths in tennis. The backswing is secondary &mdash; it is the unit turn that matters. Once the body has turned properly, the racket finds its position naturally. The loop backswing used by pros is a consequence of good technique, not a cause of it.
+   'Get your racket back early' is one of the most damaging myths in tennis. The backswing is secondary — it is the unit turn that matters. Once the body has turned properly, the racket finds its position naturally. The loop backswing used by pros is a consequence of good technique, not a cause of it.
   </p>
   <table>
    <tbody>
@@ -1334,7 +1362,7 @@
    </strong>
   </h2>
   <p>
-   The position of the hitting arm at the start of the forward swing is the most overlooked element in most tennis instruction. The arm should form a relaxed 'L' or 'U' shape, with the elbow slightly in front of the body &mdash; not glued to the ribs and not extended outward. The racket head is below wrist level, allowing for a low-to-high swing path.
+   The position of the hitting arm at the start of the forward swing is the most overlooked element in most tennis instruction. The arm should form a relaxed 'L' or 'U' shape, with the elbow slightly in front of the body — not glued to the ribs and not extended outward. The racket head is below wrist level, allowing for a low-to-high swing path.
   </p>
   <h2>
    <strong>
@@ -1342,7 +1370,7 @@
    </strong>
   </h2>
   <p>
-   The forward swing is initiated by the lower body and core rotating through &mdash; the arm follows this rotation, not the other way around. The sequence is: legs push up and forward, hips rotate, shoulders follow, arm and racket arrive at contact as the natural end of the kinetic chain. The contact point should be in front of the body &mdash; roughly at or in front of the lead hip.
+   The forward swing is initiated by the lower body and core rotating through — the arm follows this rotation, not the other way around. The sequence is: legs push up and forward, hips rotate, shoulders follow, arm and racket arrive at contact as the natural end of the kinetic chain. The contact point should be in front of the body — roughly at or in front of the lead hip.
   </p>
   <h2>
    <strong>
@@ -1377,7 +1405,7 @@
      </td>
      <td>
       <p>
-       Reality: The 'wrist snap' seen in slow-motion is a consequence of body rotation and forearm pronation &mdash; not an intentional wrist flip. Deliberately snapping the wrist creates tension and reduces power.
+       Reality: The 'wrist snap' seen in slow-motion is a consequence of body rotation and forearm pronation — not an intentional wrist flip. Deliberately snapping the wrist creates tension and reduces power.
       </p>
      </td>
     </tr>
@@ -1405,7 +1433,7 @@
      </td>
      <td>
       <p>
-       Reality: The 'lag' is a consequence of proper body sequence; the 'snap' is forearm pronation. Neither is intentionally manufactured &mdash; both result from correct technique.
+       Reality: The 'lag' is a consequence of proper body sequence; the 'snap' is forearm pronation. Neither is intentionally manufactured — both result from correct technique.
       </p>
      </td>
     </tr>
@@ -1442,7 +1470,7 @@
    </li>
    <li>
     <strong>
-     The forearm and hand rotate over after contact, creating the windshield wiper effect. This is particularly pronounced with western grips. It is not a conscious act &mdash; it is the natural release of forearm rotation.
+     The forearm and hand rotate over after contact, creating the windshield wiper effect. This is particularly pronounced with western grips. It is not a conscious act — it is the natural release of forearm rotation.
     </strong>
     Rotation (Windshield Wiper)
    </li>
@@ -1532,7 +1560,7 @@
      <td>
       <p>
        <strong>
-        Contact Zone & Best Use
+        Contact Zone &amp; Best Use
        </strong>
       </p>
      </td>
@@ -1623,45 +1651,26 @@
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         The High Ball Challenge
        </strong>
-      </p>
-      <p>
-       The more extreme your grip, the better you handle high balls &mdash; and the more you struggle with low balls. Conversely, eastern grips excel on low, flat balls but are harder to use on high-bouncing topspin. Choose your grip based on the surfaces and opponents you face most.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+      </p><p>
+       The more extreme your grip, the better you handle high balls — and the more you struggle with low balls. Conversely, eastern grips excel on low, flat balls but are harder to use on high-bouncing topspin. Choose your grip based on the surfaces and opponents you face most.
+      </p></div></body></html>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 5
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE BACKHAND
        </strong>
-      </p>
-      <p>
-       One-Handed Elegance & Two-Handed Power
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       One-Handed Elegance &amp; Two-Handed Power
+      </p></div></body></html>
   <p>
-   The backhand is often a player's most psychologically vulnerable stroke, yet executed correctly it can be a devastating weapon. The modern game features two dominant styles &mdash; the two-handed backhand and the single-handed backhand &mdash; each with distinct advantages, biomechanics, and tactical applications.
+   The backhand is often a player's most psychologically vulnerable stroke, yet executed correctly it can be a devastating weapon. The modern game features two dominant styles — the two-handed backhand and the single-handed backhand — each with distinct advantages, biomechanics, and tactical applications.
   </p>
   <h2>
    <strong>
@@ -1693,7 +1702,7 @@
      <td>
       <p>
        <strong>
-        Grip &mdash; Bottom Hand
+        Grip — Bottom Hand
        </strong>
       </p>
      </td>
@@ -1707,7 +1716,7 @@
      <td>
       <p>
        <strong>
-        Grip &mdash; Top Hand
+        Grip — Top Hand
        </strong>
       </p>
      </td>
@@ -1727,7 +1736,7 @@
      </td>
      <td>
       <p>
-       A full shoulder turn &mdash; deeper than the forehand. Both arms and shoulders rotate together.
+       A full shoulder turn — deeper than the forehand. Both arms and shoulders rotate together.
       </p>
      </td>
     </tr>
@@ -1853,7 +1862,7 @@
      </td>
      <td>
       <p>
-       Extreme shoulder coil &mdash; turn past 90 degrees. Non-dominant hand holds racket at throat during backswing.
+       Extreme shoulder coil — turn past 90 degrees. Non-dominant hand holds racket at throat during backswing.
       </p>
      </td>
     </tr>
@@ -1940,21 +1949,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Grip
        </strong>
       </p>
       <p>
-       Continental grip. This is essential for the correct brushing action. Do not use a forehand grip &mdash; it will close the face and kill the underspin.
+       Continental grip. This is essential for the correct brushing action. Do not use a forehand grip — it will close the face and kill the underspin.
       </p>
      </td>
     </tr>
@@ -1963,21 +1972,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Unit Turn
        </strong>
       </p>
       <p>
-       Full shoulder turn &mdash; more than you think. The non-dominant hand stays on the racket at the throat until the start of the forward swing.
+       Full shoulder turn — more than you think. The non-dominant hand stays on the racket at the throat until the start of the forward swing.
       </p>
      </td>
     </tr>
@@ -1986,14 +1995,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Backswing
@@ -2009,14 +2018,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Contact
@@ -2032,21 +2041,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Follow-Through
        </strong>
       </p>
       <p>
-       Racket finishes forward and low, roughly at hip height. Avoid letting the face collapse &mdash; keep it open through the entire swing.
+       Racket finishes forward and low, roughly at hip height. Avoid letting the face collapse — keep it open through the entire swing.
       </p>
      </td>
     </tr>
@@ -2064,7 +2073,7 @@
      </td>
      <td>
       <p>
-       The slice is not a defensive 'push' &mdash; it is an attacking tool. Fed to a right-hander's one-handed backhand, a heavy slice that stays low can produce a forced error. Federer's slice backhand has been ranked by analysts as one of the most effective shots in tennis history.
+       The slice is not a defensive 'push' — it is an attacking tool. Fed to a right-hander's one-handed backhand, a heavy slice that stays low can produce a forced error. Federer's slice backhand has been ranked by analysts as one of the most effective shots in tennis history.
       </p>
      </td>
     </tr>
@@ -2076,47 +2085,28 @@
    </strong>
   </h2>
   <p>
-   A tactical gem used by Djokovic and Murray &mdash; hitting a crosscourt backhand from the ad court targeting the wide corner. Used for: return of serve in the deuce court (safer diagonal), attacking short balls, and disrupting aggressive opponents who crowd the centre.
+   A tactical gem used by Djokovic and Murray — hitting a crosscourt backhand from the ad court targeting the wide corner. Used for: return of serve in the deuce court (safer diagonal), attacking short balls, and disrupting aggressive opponents who crowd the centre.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Backhand Performance Factors
        </strong>
-      </p>
-      <p>
+      </p><p>
        Research shows backhand effectiveness is primarily determined by: (1) grip stability at impact, (2) shoulder coil depth, (3) contact point height relative to the swing path, and (4) topspin vs. flat ratio. Players with weak backhands almost always fail in one of these four areas.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+      </p></div></body></html>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 6
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE SERVE
        </strong>
-      </p>
-      <p>
-       Your Most Powerful Weapon &mdash; And How to Master It
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       Your Most Powerful Weapon — And How to Master It
+      </p></div></body></html>
   <p>
-   The serve is the only shot in tennis where you have complete control &mdash; you choose the pace, spin, placement, and timing. A great serve is not just about winning free points; it sets up the entire point structure, creating shorter rallies, easier approach shots, and psychological dominance over your opponent.
+   The serve is the only shot in tennis where you have complete control — you choose the pace, spin, placement, and timing. A great serve is not just about winning free points; it sets up the entire point structure, creating shorter rallies, easier approach shots, and psychological dominance over your opponent.
   </p>
   <h2>
    <strong>
@@ -2124,24 +2114,15 @@
    </strong>
   </h2>
   <p>
-   The continental grip is the required grip for all serves. Eastern forehand grips create a 'waiter's tray' effect &mdash; the wrist lays back, the racket face points to the sky, and the serve becomes flat, weak, and inconsistent under pressure. If you use a forehand grip on your serve, this is the single most important change to make.
+   The continental grip is the required grip for all serves. Eastern forehand grips create a 'waiter's tray' effect — the wrist lays back, the racket face points to the sky, and the serve becomes flat, weak, and inconsistent under pressure. If you use a forehand grip on your serve, this is the single most important change to make.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Why Continental?
        </strong>
-      </p>
-      <p>
+      </p><p>
        The continental grip allows internal rotation of the shoulder to drive through the ball, forearm pronation to add speed and spin, and wrist roll to create topspin on kick serves. Forehand grips mechanically prevent all three of these power sources from engaging properly.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <h2>
    <strong>
     The 1-2 Rhythm System
@@ -2178,7 +2159,7 @@
      </td>
      <td>
       <p>
-       Smooth, deliberate, and relaxed. Begins with ball toss arm moving slightly down and back, then up. Racket starts its windmill toward the trophy position. Duration varies by player (0.44s&ndash;0.88s). Think: calm, measured, unhurried.
+       Smooth, deliberate, and relaxed. Begins with ball toss arm moving slightly down and back, then up. Racket starts its windmill toward the trophy position. Duration varies by player (0.44s–0.88s). Think: calm, measured, unhurried.
       </p>
      </td>
     </tr>
@@ -2206,7 +2187,7 @@
      </td>
      <td>
       <p>
-       Not marked by trophy position &mdash; marked by the synchronisation of tossing arm extension with leg drive. This is the trigger for Phase 2.
+       Not marked by trophy position — marked by the synchronisation of tossing arm extension with leg drive. This is the trigger for Phase 2.
       </p>
      </td>
     </tr>
@@ -2220,14 +2201,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Starting Position
@@ -2243,14 +2224,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         The Ritual
@@ -2266,21 +2247,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         The Toss
        </strong>
       </p>
       <p>
-       The tossing arm moves smoothly down and up. Release the ball at full arm extension &mdash; not from the fingers flicking but from the hand opening. Ball should rise to 1-2 feet above contact height. For flat serve: toss slightly in front of body. For kick serve: toss slightly behind head (more to the left).
+       The tossing arm moves smoothly down and up. Release the ball at full arm extension — not from the fingers flicking but from the hand opening. Ball should rise to 1-2 feet above contact height. For flat serve: toss slightly in front of body. For kick serve: toss slightly behind head (more to the left).
       </p>
      </td>
     </tr>
@@ -2289,21 +2270,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Trophy Position
        </strong>
       </p>
       <p>
-       Knees bent (70-degree squat), hitting arm elbow at shoulder height, wrist and racket dropped behind. Tossing arm is still raised. This is not a static position &mdash; it is a moment passing through.
+       Knees bent (70-degree squat), hitting arm elbow at shoulder height, wrist and racket dropped behind. Tossing arm is still raised. This is not a static position — it is a moment passing through.
       </p>
      </td>
     </tr>
@@ -2312,14 +2293,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         The Racket Drop (Butt-Scratch)
@@ -2335,21 +2316,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         6
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
-        Explosive Leg Drive & Hip/Shoulder Separation
+        Explosive Leg Drive &amp; Hip/Shoulder Separation
        </strong>
       </p>
       <p>
-       Legs drive upward and forward. Hips begin rotating first, then shoulders surge ahead of hips just before contact &mdash; this hip-shoulder separation is the primary power source. The back leg kicks backward for balance (platform stance) or forward to join the front (pinpoint).
+       Legs drive upward and forward. Hips begin rotating first, then shoulders surge ahead of hips just before contact — this hip-shoulder separation is the primary power source. The back leg kicks backward for balance (platform stance) or forward to join the front (pinpoint).
       </p>
      </td>
     </tr>
@@ -2358,21 +2339,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         7
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Contact: Pronation and Full Extension
        </strong>
       </p>
       <p>
-       At contact, the body is fully extended from toes to fingertips. The shoulder internally rotates, and the forearm pronates (turns over), driving the racket face into the ball. Contact should be at maximum reach &mdash; 6-8 inches in front of the baseline. Wrist snaps naturally as a consequence.
+       At contact, the body is fully extended from toes to fingertips. The shoulder internally rotates, and the forearm pronates (turns over), driving the racket face into the ball. Contact should be at maximum reach — 6-8 inches in front of the baseline. Wrist snaps naturally as a consequence.
       </p>
      </td>
     </tr>
@@ -2381,21 +2362,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         8
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Follow-Through
        </strong>
       </p>
       <p>
-       Racket decelerates rapidly after contact (from 90 mph to 30 mph in 1/10th second). The arm follows across the body and finishes on the left hip (right-handed). The front foot lands 1-1.5 feet inside the court &mdash; proper leg drive indicator.
+       Racket decelerates rapidly after contact (from 90 mph to 30 mph in 1/10th second). The arm follows across the body and finishes on the left hip (right-handed). The front foot lands 1-1.5 feet inside the court — proper leg drive indicator.
       </p>
      </td>
     </tr>
@@ -2486,7 +2467,7 @@
      <td>
       <p>
        <strong>
-        Technique & Tactical Use
+        Technique &amp; Tactical Use
        </strong>
       </p>
      </td>
@@ -2529,7 +2510,7 @@
      </td>
      <td>
       <p>
-       Heavy topspin creates high, kicking bounce. Essential second serve. Back arch is required (push chest out, pull up from ribcage &mdash; not bending at waist). Toss slightly to left/behind. Brush up the ball from 6 to 12 o'clock (topspin) or 7 to 1 o'clock (topspin-slice).
+       Heavy topspin creates high, kicking bounce. Essential second serve. Back arch is required (push chest out, pull up from ribcage — not bending at waist). Toss slightly to left/behind. Brush up the ball from 6 to 12 o'clock (topspin) or 7 to 1 o'clock (topspin-slice).
       </p>
      </td>
     </tr>
@@ -2556,19 +2537,19 @@
   </h3>
   <ul>
    <li>
-    Bending at the Waist (not the thoracic spine) &mdash; causes lower back strain and limits arch
+    Bending at the Waist (not the thoracic spine) — causes lower back strain and limits arch
    </li>
    <li>
-    Tossing too far behind &mdash; reduces power, stresses shoulder
+    Tossing too far behind — reduces power, stresses shoulder
    </li>
    <li>
-    Over-rotating shoulders past 45 degrees &mdash; reduces spin and control
+    Over-rotating shoulders past 45 degrees — reduces spin and control
    </li>
    <li>
-    Not squatting deeply enough &mdash; insufficient leg drive for height and speed
+    Not squatting deeply enough — insufficient leg drive for height and speed
    </li>
    <li>
-    Initiating back arch too early &mdash; creates jerk in motion, reduces power
+    Initiating back arch too early — creates jerk in motion, reduces power
    </li>
   </ul>
   <table>
@@ -2583,35 +2564,25 @@
      </td>
      <td>
       <p>
-       New biomechanical data shows that racket speed surges from 30 mph to 90 mph in just 1/10th of a second &mdash; mostly in the final phase before contact. The early phases are positioning, not power-generating. Slow down your early arm movement and focus explosive effort only at the very end of the swing.
+       New biomechanical data shows that racket speed surges from 30 mph to 90 mph in just 1/10th of a second — mostly in the final phase before contact. The early phases are positioning, not power-generating. Slow down your early arm movement and focus explosive effort only at the very end of the swing.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 7
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
-        VOLLEYS & NET PLAY
+        VOLLEYS &amp; NET PLAY
        </strong>
-      </p>
-      <p>
+      </p><p>
        Controlling the Court from the Net
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   The volley is the most technically demanding stroke to teach because it violates every instinct beginners have &mdash; they want to swing, but the volley is a stop. The professionals make it look effortless because they have mastered readiness, minimal backswing, and perfect arm framework.
+   The volley is the most technically demanding stroke to teach because it violates every instinct beginners have — they want to swing, but the volley is a stop. The professionals make it look effortless because they have mastered readiness, minimal backswing, and perfect arm framework.
   </p>
   <h2>
    <strong>
@@ -2688,7 +2659,7 @@
      </td>
      <td>
       <p>
-       The elbow maintains a U-shape (upper arm and racket at 45 degrees to forearm). This shape ensures the shoulder drives the motion rather than the wrist. Wrist stays 'back against itself' &mdash; firm and slightly angled.
+       The elbow maintains a U-shape (upper arm and racket at 45 degrees to forearm). This shape ensures the shoulder drives the motion rather than the wrist. Wrist stays 'back against itself' — firm and slightly angled.
       </p>
      </td>
     </tr>
@@ -2728,7 +2699,7 @@
    </strong>
   </h2>
   <p>
-   The hitting arm forms an Open U shape (upper arm and racket angled at 45 degrees to forearm). The shoulder drives the forward motion. Swing plane is slightly downward to impart underspin (which keeps the ball low and controlled). For high volleys, the upper arm rotates backward then forward in the shoulder joint with a flatter string bed &mdash; drive these aggressively.
+   The hitting arm forms an Open U shape (upper arm and racket angled at 45 degrees to forearm). The shoulder drives the forward motion. Swing plane is slightly downward to impart underspin (which keeps the ball low and controlled). For high volleys, the upper arm rotates backward then forward in the shoulder joint with a flatter string bed — drive these aggressively.
   </p>
   <h2>
    <strong>
@@ -2743,47 +2714,17 @@
     Net Positioning on the Court
    </strong>
   </h2>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
-       <strong>
-        TENNIS COURT
-       </strong>
-      </p>
-      <pre class="tfl-ascii-art">
-&boxdr;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxdl;
-</pre>
-      <p>
-       &boxv;    Deuce   &boxv;   Ad Court             &boxv;
-      </p>
-      <p>
-       &boxv;   Service  &boxv;   Service Box          &boxv;
-      </p>
-      <pre class="tfl-ascii-art">
-&boxv;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxvh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxv;
-&boxv;━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━&boxv;
-&boxv;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxvh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxv;
-</pre>
-      <p>
-       &boxv;   Service  &boxv;   Service Box          &boxv;
-      </p>
-      <p>
-       &boxv;   Deuce    &boxv;   Ad Court             &boxv;
-      </p>
-      <pre class="tfl-ascii-art">
-&boxur;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxh;&boxul;
-</pre>
-      <p>
-       <strong>
-        [ Optimal Net Position: Half-Way Between Service Line and Net ]
-       </strong>
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+  <html><head></head><body><pre class="card ascii">TENNIS COURT
+┌────────────────────────────────────┐
+│    Deuce   │   Ad Court             │
+│   Service  │   Service Box          │
+│────────────┼────────────────────────│
+│━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│
+│────────────┼────────────────────────│
+│   Service  │   Service Box          │
+│   Deuce    │   Ad Court             │
+└────────────────────────────────────┘
+[ Optimal Net Position: Half-Way Between Service Line and Net ]</pre></body></html>
   <table>
    <tbody>
     <tr>
@@ -2796,7 +2737,7 @@
      </td>
      <td>
       <p>
-       The best volleyers in history &mdash; McEnroe, Edberg, Navratilova &mdash; all had one thing in common: they were never caught flat-footed. Their split step timing was impeccable. Practice split-step timing before anything else. Without it, even perfect technique fails.
+       The best volleyers in history — McEnroe, Edberg, Navratilova — all had one thing in common: they were never caught flat-footed. Their split step timing was impeccable. Practice split-step timing before anything else. Without it, even perfect technique fails.
       </p>
      </td>
     </tr>
@@ -2813,67 +2754,48 @@
    </strong>
   </p>
   <p>
-   Drop Shot &middot; Lob &middot; Overhead &middot; Swing Volley &middot; Half-Volley &middot; Drive Volley &middot; Topspin Lob
+   Drop Shot · Lob · Overhead · Swing Volley · Half-Volley · Drive Volley · Topspin Lob
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 8
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE OVERHEAD SMASH
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Lynchpin of an Attacking Game
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   The overhead smash is the put-away shot &mdash; when you have the opportunity to hit one, the point should be over. Players like Sampras, Agassi, and McEnroe almost never missed smashes. If your overhead is weak, your entire net game crumbles because opponents will lob freely, neutralising your attacks.
+   The overhead smash is the put-away shot — when you have the opportunity to hit one, the point should be over. Players like Sampras, Agassi, and McEnroe almost never missed smashes. If your overhead is weak, your entire net game crumbles because opponents will lob freely, neutralising your attacks.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Psychological Power of the Overhead
        </strong>
-      </p>
-      <p>
-       A great overhead smash creates FEAR in your opponent &mdash; fear to lob. This simplifies your net game dramatically: without the lob threat, opponents can only pass left or right. One powerful overhead in the warm-up communicates to your opponent: 'Don't lob me.'
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       A great overhead smash creates FEAR in your opponent — fear to lob. This simplifies your net game dramatically: without the lob threat, opponents can only pass left or right. One powerful overhead in the warm-up communicates to your opponent: 'Don't lob me.'
+      </p></div></body></html>
   <h2>
    <strong>
-    Overhead Smash Technique &mdash; Step by Step
+    Overhead Smash Technique — Step by Step
    </strong>
   </h2>
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
-        Unit Turn & Continental Grip
+        Unit Turn &amp; Continental Grip
        </strong>
       </p>
       <p>
@@ -2886,21 +2808,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
-        Movement &mdash; Footwork
+        Movement — Footwork
        </strong>
       </p>
       <p>
-       Use quick crossover steps combined with a drop-step for deep lobs. For easy lobs, side-shuffle backward while maintaining sideways orientation. Get behind the ball &mdash; it is better to move back too far and step in than to be under the ball.
+       Use quick crossover steps combined with a drop-step for deep lobs. For easy lobs, side-shuffle backward while maintaining sideways orientation. Get behind the ball — it is better to move back too far and step in than to be under the ball.
       </p>
      </td>
     </tr>
@@ -2909,21 +2831,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Arm Setup
        </strong>
       </p>
       <p>
-       Two styles: (a) Keep hands connected to racket and raise together, or (b) Separate hands early with a shorter backswing similar to the serve. Both work &mdash; be consistent. Non-dominant hand points at the ball for as long as possible.
+       Two styles: (a) Keep hands connected to racket and raise together, or (b) Separate hands early with a shorter backswing similar to the serve. Both work — be consistent. Non-dominant hand points at the ball for as long as possible.
       </p>
      </td>
     </tr>
@@ -2932,14 +2854,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Trophy Position
@@ -2955,14 +2877,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Internal Shoulder Rotation
@@ -2978,21 +2900,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         6
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Scissor Kick (for difficult lobs)
        </strong>
       </p>
       <p>
-       For lobs you must jump for, jump backward while swinging the back leg forward &mdash; the scissor kick. This provides balance and power while airborne. Land balanced and ready.
+       For lobs you must jump for, jump backward while swinging the back leg forward — the scissor kick. This provides balance and power while airborne. Land balanced and ready.
       </p>
      </td>
     </tr>
@@ -3045,7 +2967,7 @@
      </td>
      <td>
       <p>
-       Mild side spin for control. Cut the outside edge of the ball &mdash; useful for wide lobs to the forehand side. Requires sharper wrist action.
+       Mild side spin for control. Cut the outside edge of the ball — useful for wide lobs to the forehand side. Requires sharper wrist action.
       </p>
      </td>
     </tr>
@@ -3073,7 +2995,7 @@
      </td>
      <td>
       <p>
-       For very deep lobs. Uses topspin to neutralise &mdash; prioritises safety over aggression. Buys time.
+       For very deep lobs. Uses topspin to neutralise — prioritises safety over aggression. Buys time.
       </p>
      </td>
     </tr>
@@ -3119,33 +3041,23 @@
      </td>
      <td>
       <p>
-       Andre Agassi &mdash; primarily a baseliner &mdash; had one of the best overheads in tennis history, noted by John McEnroe. Even baseline-focused players must master the overhead. If you avoid net play, you avoid practicing smashes. This creates a vicious cycle.
+       Andre Agassi — primarily a baseliner — had one of the best overheads in tennis history, noted by John McEnroe. Even baseline-focused players must master the overhead. If you avoid net play, you avoid practicing smashes. This creates a vicious cycle.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 9
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE LOB
        </strong>
-      </p>
-      <p>
+      </p><p>
        Offensive Weapon and Defensive Lifesaver
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
    The lob is one of the most strategically rich shots in tennis, yet it is often treated as a panic shot. The best players use it offensively (topspin lob to win points outright) and defensively (high floater to buy time and recover position). Mastered, the lob makes your opponents afraid to approach the net.
   </p>
@@ -3155,7 +3067,7 @@
    </strong>
   </h2>
   <p>
-   When deep out of position, the defensive lob neutralises an opponent's attack. Hit with a slightly open racket face and a long, sweeping swing from low to high. The ball should clear the opponent by at least 6-8 feet while still landing inside the baseline. Key: do not try to win the point with a defensive lob &mdash; win the recovery.
+   When deep out of position, the defensive lob neutralises an opponent's attack. Hit with a slightly open racket face and a long, sweeping swing from low to high. The ball should clear the opponent by at least 6-8 feet while still landing inside the baseline. Key: do not try to win the point with a defensive lob — win the recovery.
   </p>
   <table>
    <tbody>
@@ -3241,7 +3153,7 @@
      </td>
      <td>
       <p>
-       Even defensive lobs benefit from topspin &mdash; it increases safety margin and makes the ball drop into court.
+       Even defensive lobs benefit from topspin — it increases safety margin and makes the ball drop into court.
       </p>
      </td>
     </tr>
@@ -3258,21 +3170,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Disguise
        </strong>
       </p>
       <p>
-       Begin with the same preparation as a passing shot &mdash; same unit turn, same swing initiation. The opponent cannot read the topspin lob until the last quarter of the swing.
+       Begin with the same preparation as a passing shot — same unit turn, same swing initiation. The opponent cannot read the topspin lob until the last quarter of the swing.
       </p>
      </td>
     </tr>
@@ -3281,14 +3193,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Open-Up the Swing Path
@@ -3304,14 +3216,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Contact Point
@@ -3327,14 +3239,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Topspin Bounce
@@ -3359,35 +3271,25 @@
      </td>
      <td>
       <p>
-       The topspin lob works best when your opponent is inside the service line and moving forward. Time it to the moment they are least balanced &mdash; just as they hit their first volley and are leaning in for a put-away.
+       The topspin lob works best when your opponent is inside the service line and moving forward. Time it to the moment they are least balanced — just as they hit their first volley and are leaning in for a put-away.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 10
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE DROP SHOT
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Art of the Short Game
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   The drop shot is the chess piece of tennis &mdash; a shot of deception, touch, and tactical intelligence. Used correctly, it drags the opponent to the net, opens up the court, wins points outright, and psychologically frustrates baseline grinders who hate running forward.
+   The drop shot is the chess piece of tennis — a shot of deception, touch, and tactical intelligence. Used correctly, it drags the opponent to the net, opens up the court, wins points outright, and psychologically frustrates baseline grinders who hate running forward.
   </p>
   <h2>
    <strong>
@@ -3397,14 +3299,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Setup and Disguise
@@ -3420,14 +3322,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Grip Change
@@ -3443,21 +3345,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Swing Deceleration
        </strong>
       </p>
       <p>
-       The key mechanical element: the swing decelerates through contact &mdash; the opposite of a normal stroke. The 'feel' is of catching the ball gently rather than hitting it. Slow the hand and racket head dramatically.
+       The key mechanical element: the swing decelerates through contact — the opposite of a normal stroke. The 'feel' is of catching the ball gently rather than hitting it. Slow the hand and racket head dramatically.
       </p>
      </td>
     </tr>
@@ -3466,17 +3368,17 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
-        Open Racket Face & Underspin
+        Open Racket Face &amp; Underspin
        </strong>
       </p>
       <p>
@@ -3489,14 +3391,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Target and Arc
@@ -3512,42 +3414,33 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         6
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Post-Drop Positioning
        </strong>
       </p>
       <p>
-       After the drop shot, move immediately toward the net. If executed well, your opponent must sprint forward and hit up &mdash; their reply will be a weak floater that you can volley away.
+       After the drop shot, move immediately toward the net. If executed well, your opponent must sprint forward and hit up — their reply will be a weak floater that you can volley away.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         When to Use the Drop Shot
        </strong>
-      </p>
-      <p>
-       Best situations: (1) When you are INSIDE the baseline (short court position &mdash; reduces the net distance), (2) When your opponent is deep behind the baseline, (3) After a short ball brings you inside the court, (4) After a long, tiring rally to change pace. Worst situations: from behind the baseline (net too far), when opponent is already inside the court, or when the score is 30-40 or break point (high risk shot).
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       Best situations: (1) When you are INSIDE the baseline (short court position — reduces the net distance), (2) When your opponent is deep behind the baseline, (3) After a short ball brings you inside the court, (4) After a long, tiring rally to change pace. Worst situations: from behind the baseline (net too far), when opponent is already inside the court, or when the score is 30-40 or break point (high risk shot).
+      </p></div></body></html>
   <h2>
    <strong>
     The Slice Approach and Drop Shot Combination
@@ -3556,29 +3449,19 @@
   <p>
    A powerful pattern: Hit a deep slice to your opponent's backhand (pulling them wide), then as they respond with a weak reply, step in and drop shot crosscourt to the open court. This combination is a staple of Federer's all-court game.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 11
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE SWING VOLLEY
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Modern Game's Decisive Weapon
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   The swing volley has become a defining shot of the modern game. Rather than waiting for the ball to bounce when it sits up in the midcourt, elite players attack it with a full groundstroke swing in the air &mdash; winning points aggressively and shortening rallies. Players like Federer, Nadal, and Alcaraz have elevated this shot to an art form.
+   The swing volley has become a defining shot of the modern game. Rather than waiting for the ball to bounce when it sits up in the midcourt, elite players attack it with a full groundstroke swing in the air — winning points aggressively and shortening rallies. Players like Federer, Nadal, and Alcaraz have elevated this shot to an art form.
   </p>
   <h2>
    <strong>
@@ -3641,7 +3524,7 @@
      </td>
      <td>
       <p>
-       The swing volley requires topspin &mdash; the ball is hit from the air into the court over a relatively short distance. Topspin creates the dipping arc needed to keep the ball in. Never hit this shot flat.
+       The swing volley requires topspin — the ball is hit from the air into the court over a relatively short distance. Topspin creates the dipping arc needed to keep the ball in. Never hit this shot flat.
       </p>
      </td>
     </tr>
@@ -3669,7 +3552,7 @@
      </td>
      <td>
       <p>
-       As with all strokes, keeping the head still at contact is crucial. The ball is in the air and moving fast &mdash; eyes wandering causes mishits. Hold the gaze through the shot (watch Federer).
+       As with all strokes, keeping the head still at contact is crucial. The ball is in the air and moving fast — eyes wandering causes mishits. Hold the gaze through the shot (watch Federer).
       </p>
      </td>
     </tr>
@@ -3696,7 +3579,7 @@
   </h2>
   <ul>
    <li>
-    When the opponent's groundstroke sits up in the midcourt &mdash; any ball above hip height that floats, attack it
+    When the opponent's groundstroke sits up in the midcourt — any ball above hip height that floats, attack it
    </li>
    <li>
     After hitting an approach shot and the reply comes back high and short
@@ -3720,40 +3603,30 @@
      </td>
      <td>
       <p>
-       The swing volley is a 'confidence shot' &mdash; hesitation destroys it. If you start the motion and pull back, you get the worst of both worlds: no pace and no control. Commit fully or don't start. Practice this shot repeatedly until the decision to swing is automatic when you see a floating ball.
+       The swing volley is a 'confidence shot' — hesitation destroys it. If you start the motion and pull back, you get the worst of both worlds: no pace and no control. Commit fully or don't start. Practice this shot repeatedly until the decision to swing is automatic when you see a floating ball.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 12
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
-        HALF-VOLLEY, DRIVE VOLLEY & RETURN
+        HALF-VOLLEY, DRIVE VOLLEY &amp; RETURN
        </strong>
-      </p>
-      <p>
+      </p><p>
        Completing the Shot Repertoire
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <h2>
    <strong>
     The Half-Volley
    </strong>
   </h2>
   <p>
-   The half-volley is hit immediately after the ball bounces &mdash; often forced when transitioning through no-man's land. It is not a chosen shot but a survival skill. Hit it with a short, compact swing using a slightly open face to lift the ball over the net. Keep the wrist firm and the swing low-to-high. The key is positioning: if you must hit a half-volley, keep moving forward after it &mdash; do not let it stop your advance.
+   The half-volley is hit immediately after the ball bounces — often forced when transitioning through no-man's land. It is not a chosen shot but a survival skill. Hit it with a short, compact swing using a slightly open face to lift the ball over the net. Keep the wrist firm and the swing low-to-high. The key is positioning: if you must hit a half-volley, keep moving forward after it — do not let it stop your advance.
   </p>
   <h2>
    <strong>
@@ -3761,7 +3634,7 @@
    </strong>
   </h2>
   <p>
-   A hybrid between a groundstroke and a volley &mdash; hit before the bounce but with a fuller swing than a classic volley. Best used when a high ball is floating toward the midcourt or when you want to attack a weak approach ball without letting it bounce. Uses the same mechanics as the swing volley but from a more stationary position.
+   A hybrid between a groundstroke and a volley — hit before the bounce but with a fuller swing than a classic volley. Best used when a high ball is floating toward the midcourt or when you want to attack a weak approach ball without letting it bounce. Uses the same mechanics as the swing volley but from a more stationary position.
   </p>
   <h2>
    <strong>
@@ -3832,7 +3705,7 @@
      </td>
      <td>
       <p>
-       No full backswing on first serve returns &mdash; there is simply not enough time. Use a shoulder-turn block (essentially a compact volley motion). On second serves, you have more time for a full swing.
+       No full backswing on first serve returns — there is simply not enough time. Use a shoulder-turn block (essentially a compact volley motion). On second serves, you have more time for a full swing.
       </p>
      </td>
     </tr>
@@ -3878,7 +3751,7 @@
      </td>
      <td>
       <p>
-       Read the serve before it happens. Watch the ball toss (kick serves go more to the left for right-handers), the shoulder angle, and the stance position. Elite returners predict serve direction 70% of the time before contact &mdash; the return is won in the preparation, not the reaction.
+       Read the serve before it happens. Watch the ball toss (kick serves go more to the left for right-handers), the shoulder angle, and the stance position. Elite returners predict serve direction 70% of the time before contact — the return is won in the preparation, not the reaction.
       </p>
      </td>
     </tr>
@@ -3895,55 +3768,36 @@
    </strong>
   </p>
   <p>
-   The Open-Skill Game &middot; Modern Body Mechanics &middot; Beyond Classical Instruction
+   The Open-Skill Game · Modern Body Mechanics · Beyond Classical Instruction
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 13
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         TENNIS AS AN OPEN-SKILL SPORT
        </strong>
-      </p>
-      <p>
+      </p><p>
        Why Rigid Technique Fails and How to Break Free
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Classical tennis instruction treats the sport as a closed-skill activity &mdash; as if every forehand occurs in the same environment with the same ball at the same height. The reality: tennis is an open-skill sport, meaning every single ball is unique in pace, spin, height, direction, and timing. Your response must be unique every time.
+   Classical tennis instruction treats the sport as a closed-skill activity — as if every forehand occurs in the same environment with the same ball at the same height. The reality: tennis is an open-skill sport, meaning every single ball is unique in pace, spin, height, direction, and timing. Your response must be unique every time.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         The Fundamental Truth
        </strong>
-      </p>
-      <p>
-       No two balls in tennis are exactly the same. The player who tries to produce a 'perfect' stroke according to a mental template will always be a step behind the player who has learned to read and adapt in real-time. Technique is the starting point &mdash; adaptability is the destination.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       No two balls in tennis are exactly the same. The player who tries to produce a 'perfect' stroke according to a mental template will always be a step behind the player who has learned to read and adapt in real-time. Technique is the starting point — adaptability is the destination.
+      </p></div></body></html>
   <h2>
    <strong>
     The Problem with Traditional Instruction
    </strong>
   </h2>
   <p>
-   Traditional coaching gives complex verbal instructions: 'prepare early, swing low to high, keep a firm wrist, rotate your hips, make contact in front, bend your knees, keep your eyes on the ball.' This creates information overload. Pete Sampras, when asked about his technique, described it as 'natural' and could not explain the technical details &mdash; because great tennis is felt, not calculated.
+   Traditional coaching gives complex verbal instructions: 'prepare early, swing low to high, keep a firm wrist, rotate your hips, make contact in front, bend your knees, keep your eyes on the ball.' This creates information overload. Pete Sampras, when asked about his technique, described it as 'natural' and could not explain the technical details — because great tennis is felt, not calculated.
   </p>
   <h2>
    <strong>
@@ -3951,7 +3805,7 @@
    </strong>
   </h2>
   <p>
-   Rather than giving players verbal rules to mentally process during a point, the Visual Tennis system builds 'kinetic images' &mdash; mental and physical models that include both visual and sensory information. The player internalises what the stroke should look and feel like, then allows the body to produce that feeling dynamically in response to each unique ball.
+   Rather than giving players verbal rules to mentally process during a point, the Visual Tennis system builds 'kinetic images' — mental and physical models that include both visual and sensory information. The player internalises what the stroke should look and feel like, then allows the body to produce that feeling dynamically in response to each unique ball.
   </p>
   <table>
    <tbody>
@@ -4009,7 +3863,7 @@
      </td>
      <td>
       <p>
-       Master the fundamentals as closed skills first. Practice until technique is automatic. Then 'forget' the technique and play with feel. The fundamentals are not abandoned &mdash; they are internalized.
+       Master the fundamentals as closed skills first. Practice until technique is automatic. Then 'forget' the technique and play with feel. The fundamentals are not abandoned — they are internalized.
       </p>
      </td>
     </tr>
@@ -4026,14 +3880,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         R1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Read
@@ -4049,21 +3903,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         R2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         React
        </strong>
       </p>
       <p>
-       The split step response. Explosive first movement toward the ball's landing zone. React, do not anticipate &mdash; reacting to what you see rather than guessing eliminates most unforced errors.
+       The split step response. Explosive first movement toward the ball's landing zone. React, do not anticipate — reacting to what you see rather than guessing eliminates most unforced errors.
       </p>
      </td>
     </tr>
@@ -4072,21 +3926,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         R3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Run
        </strong>
       </p>
       <p>
-       Efficient footwork to the ball. Use the appropriate contact move for the situation. Get the outside foot to the ball &mdash; this is the first law of footwork.
+       Efficient footwork to the ball. Use the appropriate contact move for the situation. Get the outside foot to the ball — this is the first law of footwork.
       </p>
      </td>
     </tr>
@@ -4095,21 +3949,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         R4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Recover
        </strong>
       </p>
       <p>
-       After contact, immediately begin recovery toward base position. The recovery step is not begun during the forward swing &mdash; only after it completes.
+       After contact, immediately begin recovery toward base position. The recovery step is not begun during the forward swing — only after it completes.
       </p>
      </td>
     </tr>
@@ -4118,14 +3972,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         R5
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Rally
@@ -4148,19 +4002,19 @@
   </p>
   <ul>
    <li>
-    Deep shoulder coil beyond 90 degrees to the baseline &mdash; loads large muscle groups for explosive rotation
+    Deep shoulder coil beyond 90 degrees to the baseline — loads large muscle groups for explosive rotation
    </li>
    <li>
-    Airborne power &mdash; players jump into shots rather than planting and driving through
+    Airborne power — players jump into shots rather than planting and driving through
    </li>
    <li>
-    'On the drop' technique &mdash; letting the ball drop into the ideal strike zone before contact, rather than taking it early
+    'On the drop' technique — letting the ball drop into the ideal strike zone before contact, rather than taking it early
    </li>
    <li>
     Loose, whippy wrist and forearm for maximum racket head speed and topspin
    </li>
    <li>
-    Compact backswing with racket arm tucked in &mdash; explosive uncoiling from the shoulder
+    Compact backswing with racket arm tucked in — explosive uncoiling from the shoulder
    </li>
   </ul>
   <table>
@@ -4175,35 +4029,25 @@
      </td>
      <td>
       <p>
-       The greatest difference between recreational players and professionals is not the size of the swing &mdash; it is the depth of the body coil. Professionals turn 20-30% more than recreational players. This single factor explains most of the power difference.
+       The greatest difference between recreational players and professionals is not the size of the swing — it is the depth of the body coil. Professionals turn 20-30% more than recreational players. This single factor explains most of the power difference.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 14
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         MODERN BIOMECHANICS
        </strong>
-      </p>
-      <p>
+      </p><p>
        The Kinetic Chain and Body Rotation
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Modern tennis technique is governed by biomechanical principles that have only been fully understood through the advent of high-speed filming and motion analysis. The kinetic chain is the most important concept &mdash; understanding it transforms how you think about power generation.
+   Modern tennis technique is governed by biomechanical principles that have only been fully understood through the advent of high-speed filming and motion analysis. The kinetic chain is the most important concept — understanding it transforms how you think about power generation.
   </p>
   <h2>
    <strong>
@@ -4241,7 +4085,7 @@
      </td>
      <td>
       <p>
-       The legs push down into the ground. The ground pushes back up &mdash; this is Newton's Third Law. This ground reaction force is the primary energy source in tennis.
+       The legs push down into the ground. The ground pushes back up — this is Newton's Third Law. This ground reaction force is the primary energy source in tennis.
       </p>
      </td>
     </tr>
@@ -4249,7 +4093,7 @@
      <td>
       <p>
        <strong>
-        2. Ankle & Knee Extension
+        2. Ankle &amp; Knee Extension
        </strong>
       </p>
      </td>
@@ -4269,7 +4113,7 @@
      </td>
      <td>
       <p>
-       The hips rotate toward the target, transferring energy to the core. This is the 'engine' of the stroke &mdash; hip speed is the biggest differentiator between players.
+       The hips rotate toward the target, transferring energy to the core. This is the 'engine' of the stroke — hip speed is the biggest differentiator between players.
       </p>
      </td>
     </tr>
@@ -4325,7 +4169,7 @@
      </td>
      <td>
       <p>
-       The final snap at the end of the chain. Not consciously generated &mdash; results from the momentum of the chain arriving.
+       The final snap at the end of the chain. Not consciously generated — results from the momentum of the chain arriving.
       </p>
      </td>
     </tr>
@@ -4339,22 +4183,13 @@
   <p>
    Research consistently shows that trunk rotation accounts for 40-60% of total racket head speed. Yet most recreational players hit primarily with their arm. The single fastest improvement most players can make is increasing their shoulder and hip rotation on every groundstroke.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         The Rotation Test
        </strong>
-      </p>
-      <p>
-       Hit a forehand with only your arm (body stationary). Then hit with full hip and shoulder rotation while your arm stays relatively passive. You will immediately feel the difference in power. The arm should feel like it is being 'carried' by the body rotation &mdash; not generating the power itself.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       Hit a forehand with only your arm (body stationary). Then hit with full hip and shoulder rotation while your arm stays relatively passive. You will immediately feel the difference in power. The arm should feel like it is being 'carried' by the body rotation — not generating the power itself.
+      </p></div></body></html>
   <h2>
    <strong>
     Hip-Shoulder Separation: The Power Gap
@@ -4369,7 +4204,7 @@
    </strong>
   </h2>
   <p>
-   Research on serve ball toss variability shows that even professional players have significant variation in toss location. The best servers compensate by adjusting their swing path slightly to accommodate toss position. This demonstrates that the serve is not a robotic fixed motion &mdash; it is an adaptive, coordinated movement that is partly improvised in real-time. Coaching tip: if a toss is off, let it drop and start over. Never force a swing onto a bad toss.
+   Research on serve ball toss variability shows that even professional players have significant variation in toss location. The best servers compensate by adjusting their swing path slightly to accommodate toss position. This demonstrates that the serve is not a robotic fixed motion — it is an adaptive, coordinated movement that is partly improvised in real-time. Coaching tip: if a toss is off, let it drop and start over. Never force a swing onto a bad toss.
   </p>
   <h2>
    <strong>
@@ -4377,7 +4212,7 @@
    </strong>
   </h2>
   <p>
-   Motor skills in tennis are stored in the basal ganglia &mdash; a cluster of structures in the brain responsible for procedural learning, habit formation, and automatic movement. This is why technique feels unnatural at first (the prefrontal cortex is processing it) but becomes effortless after sufficient practice (the basal ganglia takes over). The implication: you must practice a technique thousands of times before it becomes a reliable match skill. Once automated, thinking about it during a point is counterproductive.
+   Motor skills in tennis are stored in the basal ganglia — a cluster of structures in the brain responsible for procedural learning, habit formation, and automatic movement. This is why technique feels unnatural at first (the prefrontal cortex is processing it) but becomes effortless after sufficient practice (the basal ganglia takes over). The implication: you must practice a technique thousands of times before it becomes a reliable match skill. Once automated, thinking about it during a point is counterproductive.
   </p>
   <p>
    <strong>
@@ -4386,35 +4221,25 @@
   </p>
   <p>
    <strong>
-    STRATEGY & TACTICS
+    STRATEGY &amp; TACTICS
    </strong>
   </p>
   <p>
-   Patterns of Play &middot; Singles &middot; Doubles &middot; Tiebreakers &middot; Opponent Profiling
+   Patterns of Play · Singles · Doubles · Tiebreakers · Opponent Profiling
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 15
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         SINGLES STRATEGY
        </strong>
-      </p>
-      <p>
+      </p><p>
        Building Your Game Plan and Reading the Match
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Winning tennis is not simply about hitting harder or faster &mdash; it is about making consistently better decisions than your opponent. The best tacticians in tennis history (Connors, Agassi, Djokovic, Martina Navratilova) were not always the biggest hitters, but they were the best decision-makers.
+   Winning tennis is not simply about hitting harder or faster — it is about making consistently better decisions than your opponent. The best tacticians in tennis history (Connors, Agassi, Djokovic, Martina Navratilova) were not always the biggest hitters, but they were the best decision-makers.
   </p>
   <h2>
    <strong>
@@ -4422,7 +4247,7 @@
    </strong>
   </h2>
   <p>
-   Every match should begin with Plan A, but you must always have Plan B and Plan C ready. Barbara Rettner famously defeated an opponent at the US Open by transitioning from Plan A (baseline power), to Plan B (serve and volley), to Plan C (moonballing) &mdash; each time her current plan stopped working.
+   Every match should begin with Plan A, but you must always have Plan B and Plan C ready. Barbara Rettner famously defeated an opponent at the US Open by transitioning from Plan A (baseline power), to Plan B (serve and volley), to Plan C (moonballing) — each time her current plan stopped working.
   </p>
   <table>
    <tbody>
@@ -4452,7 +4277,7 @@
      </td>
      <td>
       <p>
-       Play to your strengths. Use your most reliable patterns. Establish early what works &mdash; aggressive baseline game, net rushing, heavy spin, etc.
+       Play to your strengths. Use your most reliable patterns. Establish early what works — aggressive baseline game, net rushing, heavy spin, etc.
       </p>
      </td>
     </tr>
@@ -4488,7 +4313,7 @@
   </table>
   <h2>
    <strong>
-    Patterns of Play &mdash; Core Singles Patterns
+    Patterns of Play — Core Singles Patterns
    </strong>
   </h2>
   <table>
@@ -4547,7 +4372,7 @@
      </td>
      <td>
       <p>
-       Hit 3-4 deep crosscourt shots to push opponent behind baseline, then suddenly redirect short angle crosscourt &mdash; opponent cannot reach.
+       Hit 3-4 deep crosscourt shots to push opponent behind baseline, then suddenly redirect short angle crosscourt — opponent cannot reach.
       </p>
      </td>
     </tr>
@@ -4605,7 +4430,7 @@
   </p>
   <ol>
    <li>
-    Stroke strengths/weaknesses: Which is stronger &mdash; forehand or backhand? Low balls or high balls?
+    Stroke strengths/weaknesses: Which is stronger — forehand or backhand? Low balls or high balls?
    </li>
    <li>
     Strike zone preference: Does the backhand struggle with high balls? Does the forehand fail on wide, low balls?
@@ -4635,7 +4460,7 @@
      </td>
      <td>
       <p>
-       Once you identify an opponent's weakness, attack it relentlessly until they prove they can handle it. Many recreational players feel uncomfortable exploiting a weakness repeatedly &mdash; do not. Professional players attack weaknesses 100% of the time. If your opponent fixes it under fire, respect the adjustment. Until then, keep hammering.
+       Once you identify an opponent's weakness, attack it relentlessly until they prove they can handle it. Many recreational players feel uncomfortable exploiting a weakness repeatedly — do not. Professional players attack weaknesses 100% of the time. If your opponent fixes it under fire, respect the adjustment. Until then, keep hammering.
       </p>
      </td>
     </tr>
@@ -4669,46 +4494,36 @@
    </strong>
   </h2>
   <p>
-   Tiebreakers require a specific mental approach &mdash; every point is worth 14% of the entire tiebreak. Key principles:
+   Tiebreakers require a specific mental approach — every point is worth 14% of the entire tiebreak. Key principles:
   </p>
   <ul>
    <li>
-    Serve percentage matters more than pace &mdash; aim for 75%+ first serves in
+    Serve percentage matters more than pace — aim for 75%+ first serves in
    </li>
    <li>
-    Return every first serve deep in court &mdash; force the server to play the point
+    Return every first serve deep in court — force the server to play the point
    </li>
    <li>
-    Serve and return patterns should reflect practice &mdash; execute what works, not experiments
+    Serve and return patterns should reflect practice — execute what works, not experiments
    </li>
    <li>
-    Do NOT play to 'not lose' &mdash; play aggressively and take calculated risks
+    Do NOT play to 'not lose' — play aggressively and take calculated risks
    </li>
    <li>
     Managing a 3-0 lead: stay focused, do not protect. Managing a 0-3 deficit: win points one at a time, do not panic
    </li>
   </ul>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 16
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         DOUBLES STRATEGY
        </strong>
-      </p>
-      <p>
+      </p><p>
        Controlling the Net and Playing as a Unit
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
    Doubles is the most social and intellectually demanding form of tennis. The condensed court, two opponents, and net-centric tactics create a different game requiring different techniques and strategies than singles.
   </p>
@@ -4759,7 +4574,7 @@
      </td>
      <td>
       <p>
-       Defensive formation when both players are under extreme pressure. Best used temporarily &mdash; transition to 'one up, one back' or 'both up' as soon as possible.
+       Defensive formation when both players are under extreme pressure. Best used temporarily — transition to 'one up, one back' or 'both up' as soon as possible.
       </p>
      </td>
     </tr>
@@ -4773,7 +4588,7 @@
      </td>
      <td>
       <p>
-       Server at baseline, partner at net. The net player is the threat &mdash; they poach or stay depending on serve placement.
+       Server at baseline, partner at net. The net player is the threat — they poach or stay depending on serve placement.
       </p>
      </td>
     </tr>
@@ -4799,7 +4614,7 @@
    </strong>
   </h2>
   <p>
-   The poach is the net player moving aggressively across to intercept a crosscourt ball. It is the great equaliser in doubles &mdash; it puts pressure on returners, wins free points, and disrupts the baseline player's rhythm. A poach requires coordination with the partner: signal it before the point, then commit fully. Half-hearted poaches result in losing the point.
+   The poach is the net player moving aggressively across to intercept a crosscourt ball. It is the great equaliser in doubles — it puts pressure on returners, wins free points, and disrupts the baseline player's rhythm. A poach requires coordination with the partner: signal it before the point, then commit fully. Half-hearted poaches result in losing the point.
   </p>
   <h2>
    <strong>
@@ -4815,7 +4630,7 @@
    </strong>
   </h2>
   <p>
-   Three primary return targets in doubles: (1) Crosscourt away from net player &mdash; the safest and most common, (2) At the net player's feet &mdash; produces a difficult low volley, (3) Lob over net player &mdash; forces the net player to spin around and the server to race forward. The lob return is an underused weapon in recreational doubles.
+   Three primary return targets in doubles: (1) Crosscourt away from net player — the safest and most common, (2) At the net player's feet — produces a difficult low volley, (3) Lob over net player — forces the net player to spin around and the server to race forward. The lob return is an underused weapon in recreational doubles.
   </p>
   <p>
    <strong>
@@ -4828,35 +4643,25 @@
    </strong>
   </p>
   <p>
-   Visualisation &middot; Muscle Memory &middot; Choking &middot; The Art of Winning
+   Visualisation · Muscle Memory · Choking · The Art of Winning
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 17
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         THE ART OF WINNING
        </strong>
-      </p>
-      <p>
+      </p><p>
        Hidden Protocols That Champions Use
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   In nine years of coaching 68 national junior singles title winners, one pattern emerged clearly: the common thread among winners was not perfect technique &mdash; it was their understanding of the art of winning. These are the hidden protocols that separate winners from losers at every level of the game.
+   In nine years of coaching 68 national junior singles title winners, one pattern emerged clearly: the common thread among winners was not perfect technique — it was their understanding of the art of winning. These are the hidden protocols that separate winners from losers at every level of the game.
   </p>
   <h2>
    <strong>
-    Visualisation &mdash; The Most Powerful Training Tool
+    Visualisation — The Most Powerful Training Tool
    </strong>
   </h2>
   <p>
@@ -4865,21 +4670,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         1
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Identify Key Technical Images
        </strong>
       </p>
       <p>
-       For each stroke, identify 1-2 'stroke keys' &mdash; specific visual images of the correct position or feeling. Example: 'The left arm extended during my unit turn' or 'The high elbow on my kick serve.'
+       For each stroke, identify 1-2 'stroke keys' — specific visual images of the correct position or feeling. Example: 'The left arm extended during my unit turn' or 'The high elbow on my kick serve.'
       </p>
      </td>
     </tr>
@@ -4888,21 +4693,21 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         2
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Set Visualisation Sessions
        </strong>
       </p>
       <p>
-       Begin with 3 sessions of 5 minutes each per week. Sit comfortably, close your eyes, and imagine executing strokes flawlessly. Engage all senses &mdash; feel the racket, hear the ball on strings, see the ball's path.
+       Begin with 3 sessions of 5 minutes each per week. Sit comfortably, close your eyes, and imagine executing strokes flawlessly. Engage all senses — feel the racket, hear the ball on strings, see the ball's path.
       </p>
      </td>
     </tr>
@@ -4911,14 +4716,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         3
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Pre-Point Ritual
@@ -4934,14 +4739,14 @@
   <table>
    <tbody>
     <tr>
-     <td>
+     <td class="step-num">
       <p>
        <strong>
         4
        </strong>
       </p>
      </td>
-     <td>
+     <td class="step-body">
       <p>
        <strong>
         Combine Strokes and Patterns
@@ -4990,7 +4795,7 @@
      </td>
      <td>
       <p>
-       Shoulders back, head up, walk with confidence. Racket transferred to non-dominant hand (relaxes hitting arm). Body language signals confidence to the brain &mdash; and to the opponent.
+       Shoulders back, head up, walk with confidence. Racket transferred to non-dominant hand (relaxes hitting arm). Body language signals confidence to the brain — and to the opponent.
       </p>
      </td>
     </tr>
@@ -5032,7 +4837,7 @@
      </td>
      <td>
       <p>
-       Personal routine before point begins &mdash; ball bounces before serve, specific movements before return. This ritual activates focus and manages performance anxiety.
+       Personal routine before point begins — ball bounces before serve, specific movements before return. This ritual activates focus and manages performance anxiety.
       </p>
      </td>
     </tr>
@@ -5044,31 +4849,22 @@
    </strong>
   </h2>
   <p>
-   Choking is the result of excessive verbal thought intruding on automated motor skills. 'I hope I don't miss this serve' &mdash; that verbal fear triggers a different neural pathway than the one trained in practice, producing a mechanical, hesitant stroke. The antidote is mental imagery: replace verbal self-talk with visual stroke keys. Visualise the outcome, feel the sensation, and let the body's trained automation execute.
+   Choking is the result of excessive verbal thought intruding on automated motor skills. 'I hope I don't miss this serve' — that verbal fear triggers a different neural pathway than the one trained in practice, producing a mechanical, hesitant stroke. The antidote is mental imagery: replace verbal self-talk with visual stroke keys. Visualise the outcome, feel the sensation, and let the body's trained automation execute.
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card"><p>
        <strong>
         Billie Jean King's Discovery
        </strong>
-      </p>
-      <p>
+      </p><p>
        Billie Jean King transformed her career by transitioning from spontaneous pre-visualisation to systematic mental imagery for every single shot. She stopped thinking about technique and started seeing and feeling the outcome. This became a cornerstone of her mental game and her unmatched consistency under pressure.
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <h2>
    <strong>
-    Understanding Momentum &mdash; Turning the Match
+    Understanding Momentum — Turning the Match
    </strong>
   </h2>
   <p>
-   Momentum is real in tennis &mdash; it is a psychological phenomenon that compounds across consecutive points. When momentum is against you:
+   Momentum is real in tennis — it is a psychological phenomenon that compounds across consecutive points. When momentum is against you:
   </p>
   <ol>
    <li>
@@ -5078,7 +4874,7 @@
     Slow down: take maximum time between points, bounce the ball more, adjust strings
    </li>
    <li>
-    Create a disruption: change pace, change spin, change serve target &mdash; anything unexpected
+    Create a disruption: change pace, change spin, change serve target — anything unexpected
    </li>
    <li>
     Re-energise your body language: shoulders back, fist pump, verbal encouragement to yourself
@@ -5093,7 +4889,7 @@
    </strong>
   </h2>
   <p>
-   Reaching world-class level requires approximately 10,000 hours of dedicated, focused practice &mdash; roughly 20 hours per week over ten years. This is not discouraging; it is empowering. It means that consistent, quality practice over time will produce dramatic results at any level. You do not need talent &mdash; you need time, technique, and tenacity.
+   Reaching world-class level requires approximately 10,000 hours of dedicated, focused practice — roughly 20 hours per week over ten years. This is not discouraging; it is empowering. It means that consistent, quality practice over time will produce dramatic results at any level. You do not need talent — you need time, technique, and tenacity.
   </p>
   <table>
    <tbody>
@@ -5107,7 +4903,7 @@
      </td>
      <td>
       <p>
-       Perfect strokes are not mandatory for competitive success. Winning is about competing with whatever skills and techniques are available &mdash; maximising strengths while managing weaknesses. The player who plays within their limitations consistently wins more than the player chasing perfection on every shot.
+       Perfect strokes are not mandatory for competitive success. Winning is about competing with whatever skills and techniques are available — maximising strengths while managing weaknesses. The player who plays within their limitations consistently wins more than the player chasing perfection on every shot.
       </p>
      </td>
     </tr>
@@ -5174,7 +4970,7 @@
      </td>
      <td>
       <p>
-       On-court hitting session. Warm up secondary strokes (swing volleys, approach shots, smashes) &mdash; not just forehands and backhands.
+       On-court hitting session. Warm up secondary strokes (swing volleys, approach shots, smashes) — not just forehands and backhands.
       </p>
      </td>
     </tr>
@@ -5202,7 +4998,7 @@
      </td>
      <td>
       <p>
-       Short visualisation session. Create your 'Game Face' &mdash; the confident, focused mental state you want to carry onto the court.
+       Short visualisation session. Create your 'Game Face' — the confident, focused mental state you want to carry onto the court.
       </p>
      </td>
     </tr>
@@ -5219,31 +5015,21 @@
    </strong>
   </p>
   <p>
-   Fitness &middot; Kinetic Chain Training &middot; Injury Prevention &middot; Explosive Movement
+   Fitness · Kinetic Chain Training · Injury Prevention · Explosive Movement
   </p>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 18
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         FITNESS FOR TENNIS
        </strong>
-      </p>
-      <p>
+      </p><p>
        Building the Athletic Foundation
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Tennis requires a unique physical profile: explosive short-distance speed, the ability to change direction multiple times per point, sufficient upper-body strength for power generation, and the aerobic base to maintain intensity across three-set matches (or five-set Grand Slams). Generic gym fitness is insufficient &mdash; tennis fitness must be tennis-specific.
+   Tennis requires a unique physical profile: explosive short-distance speed, the ability to change direction multiple times per point, sufficient upper-body strength for power generation, and the aerobic base to maintain intensity across three-set matches (or five-set Grand Slams). Generic gym fitness is insufficient — tennis fitness must be tennis-specific.
   </p>
   <h2>
    <strong>
@@ -5318,23 +5104,23 @@
    </strong>
   </h2>
   <p>
-   Modern high-performance training for tennis is built on the principle of Explosive Power through coordinated body segment acceleration &mdash; the EXO-Kinetics approach. Training focuses not just on strength but on the rate of force development, the ability to produce maximum force in minimum time.
+   Modern high-performance training for tennis is built on the principle of Explosive Power through coordinated body segment acceleration — the EXO-Kinetics approach. Training focuses not just on strength but on the rate of force development, the ability to produce maximum force in minimum time.
   </p>
   <ul>
    <li>
-    First-Step Quickness Drills &mdash; explosive push-off from split-step position in random directions
+    First-Step Quickness Drills — explosive push-off from split-step position in random directions
    </li>
    <li>
-    Lateral Bound training &mdash; single-leg lateral jumps building width and control
+    Lateral Bound training — single-leg lateral jumps building width and control
    </li>
    <li>
-    Medicine Ball Rotational Throws &mdash; replicating the rotational force of groundstrokes with external resistance
+    Medicine Ball Rotational Throws — replicating the rotational force of groundstrokes with external resistance
    </li>
    <li>
-    Plyometric Jump Boxes &mdash; developing leg power for serve jump and overhead jump
+    Plyometric Jump Boxes — developing leg power for serve jump and overhead jump
    </li>
    <li>
-    Resisted Sprint Bands &mdash; developing acceleration in first 1-3 steps
+    Resisted Sprint Bands — developing acceleration in first 1-3 steps
    </li>
   </ul>
   <h2>
@@ -5343,20 +5129,20 @@
    </strong>
   </h2>
   <p>
-   The shoulder is the most vulnerable joint in tennis, particularly on the serve. Research on kinetic chain efficiency shows that when the lower body or core fails to deliver energy efficiently, the shoulder compensates &mdash; and injuries result. The best injury prevention is perfecting the kinetic chain sequence:
+   The shoulder is the most vulnerable joint in tennis, particularly on the serve. Research on kinetic chain efficiency shows that when the lower body or core fails to deliver energy efficiently, the shoulder compensates — and injuries result. The best injury prevention is perfecting the kinetic chain sequence:
   </p>
   <ol>
    <li>
-    Ensure proper leg drive on the serve &mdash; weak legs force the shoulder to overwork
+    Ensure proper leg drive on the serve — weak legs force the shoulder to overwork
    </li>
    <li>
-    Internal shoulder rotation must be smooth and unhurried &mdash; forcing the rotation causes rotator cuff stress
+    Internal shoulder rotation must be smooth and unhurried — forcing the rotation causes rotator cuff stress
    </li>
    <li>
     Strengthen the rotator cuff with external rotation exercises and band work
    </li>
    <li>
-    Adequate warm-up before hitting &mdash; cold shoulder muscles are the leading cause of serve injuries
+    Adequate warm-up before hitting — cold shoulder muscles are the leading cause of serve injuries
    </li>
    <li>
     Progressive toss: never start with full-pace serves in warm-up
@@ -5409,7 +5195,7 @@
      </td>
      <td>
       <p>
-       5-cone star pattern &mdash; sprint to each cone and back to centre. Develops multi-directional speed and the ability to decelerate and accelerate.
+       5-cone star pattern — sprint to each cone and back to centre. Develops multi-directional speed and the ability to decelerate and accelerate.
       </p>
      </td>
     </tr>
@@ -5598,29 +5384,19 @@
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card chapter"><p>
        <strong>
         CHAPTER 19
        </strong>
-      </p>
-      <p>
+      </p><p>
        <strong>
         PLAYING STYLE ARCHETYPES
        </strong>
-      </p>
-      <p>
+      </p><p>
        Finding and Developing Your Game Identity
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p></div></body></html>
   <p>
-   Every great player has a clearly defined game identity &mdash; a style they execute under pressure with conviction. Finding your identity does not mean copying a pro; it means discovering which tactical and technical framework suits your physical attributes, temperament, and strengths.
+   Every great player has a clearly defined game identity — a style they execute under pressure with conviction. Finding your identity does not mean copying a pro; it means discovering which tactical and technical framework suits your physical attributes, temperament, and strengths.
   </p>
   <h2>
    <strong>
@@ -5711,7 +5487,7 @@
      </td>
      <td>
       <p>
-       Combines elements of multiple styles adaptively. The modern ideal. Examples: Federer, Djokovic, Alcaraz. Physical requirements: elite in all physical attributes &mdash; the rarest type.
+       Combines elements of multiple styles adaptively. The modern ideal. Examples: Federer, Djokovic, Alcaraz. Physical requirements: elite in all physical attributes — the rarest type.
       </p>
      </td>
     </tr>
@@ -5719,7 +5495,7 @@
   </table>
   <h2>
    <strong>
-    Carlos Alcaraz &mdash; The Modern Complete Player
+    Carlos Alcaraz — The Modern Complete Player
    </strong>
   </h2>
   <p>
@@ -5727,7 +5503,7 @@
   </p>
   <h2>
    <strong>
-    Federer vs. Nadal &mdash; The Ultimate Style Contrast
+    Federer vs. Nadal — The Ultimate Style Contrast
    </strong>
   </h2>
   <table>
@@ -5786,7 +5562,7 @@
      </td>
      <td>
       <p>
-       Both are correct for their game identities. Federer's efficiency and Nadal's resilience are equally valid paths to elite tennis. Choose your grip and style based on your temperament and court environment &mdash; not on copying one player.
+       Both are correct for their game identities. Federer's efficiency and Nadal's resilience are equally valid paths to elite tennis. Choose your grip and style based on your temperament and court environment — not on copying one player.
       </p>
      </td>
     </tr>
@@ -5807,7 +5583,7 @@
     Read the incoming ball: pace, spin, height, direction
    </li>
    <li>
-    React with split step &mdash; time it to opponent's contact
+    React with split step — time it to opponent's contact
    </li>
    <li>
     Identify the appropriate contact move (attacking/building/defensive)
@@ -5819,7 +5595,7 @@
     Contact in front of body at the correct strike zone for your grip
    </li>
    <li>
-    Follow through completely &mdash; body rotation drives the arm
+    Follow through completely — body rotation drives the arm
    </li>
    <li>
     Begin recovery AFTER forward swing completes, not during
@@ -6135,42 +5911,29 @@
      </td>
      <td>
       <p>
-       Reality: Beginners should learn correct modern technique from day one &mdash; bad habits formed early take years to fix.
+       Reality: Beginners should learn correct modern technique from day one — bad habits formed early take years to fix.
       </p>
      </td>
     </tr>
    </tbody>
   </table>
-  <table>
-   <tbody>
-    <tr>
-     <td>
-      <p>
+  <html><head></head><body><div class="card closing"><p>
        <strong>
         CLOSING THOUGHTS
        </strong>
-      </p>
-      <p>
+      </p><p>
        Master the fundamentals. Add the weapons. Break free from the rules.
-      </p>
-      <p>
+      </p><p>
        The path in tennis is not mysterious. It has been walked by thousands before you.
-      </p>
-      <p>
+      </p><p>
        Learn the correct technique. Practice it until it becomes invisible.
-      </p>
-      <p>
+      </p><p>
        <strong>
-        Then play &mdash; freely, instinctively, and joyfully.
+        Then play — freely, instinctively, and joyfully.
        </strong>
-      </p>
-      <p>
-       &mdash; Based on the collective wisdom of 50+ expert sources &mdash;
-      </p>
-     </td>
-    </tr>
-   </tbody>
-  </table>
+      </p><p>
+       — Based on the collective wisdom of 50+ expert sources —
+      </p></div></body></html>
   <footer class="cc-license" style="color: #6b7280; font-size: 0.88em; border-top: 1px solid #e5e7eb; margin-top: 32px; padding-top: 14px;">
    <p style="margin: 4px 0;">
     Created by
@@ -6184,5 +5947,8 @@
     .
    </p>
   </footer>
- </body>
+ 
+
+
+</body>
 </html>
