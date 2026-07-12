@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/elite/deep-dives/11%20HRV%20Dashboard/HRV%20Dashboard%20%E2%80%94%20Your%20Daily%20Bio-Informed%20Decision%20System.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>Deep-Dive #11 — HRV Dashboard — Your Daily Bio-Informed Decision System - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-11-hrv-dashboard-your-daily-bio-informed-decision-system" class="nav-link">Deep-Dive #11 — HRV Dashboard — Your Daily Bio-Informed Decision System</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-11-bang-ieu-khien-hrv-he-thong-quyet-inh-hang-ngay-dua-tren-sinh-hoc" class="nav-link">Deep-Dive #11 — Bảng Điều Khiển HRV — Hệ Thống Quyết Định Hàng Ngày Dựa Trên Sinh Học</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📖 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-1-what-hrv-actually-measures-detail" class="nav-link">Chapter 1 — What HRV Actually Measures (Detail)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-2-how-to-measure-hrv-cheaply-3-options" class="nav-link">Chapter 2 — How to Measure HRV Cheaply (3 Options)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-3-the-30-day-baseline-protocol" class="nav-link">Chapter 3 — The 30-Day Baseline Protocol</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-4-the-greenyellowred-decision-tree" class="nav-link">Chapter 4 — The Green/Yellow/Red Decision Tree</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-5-50-player-case-studies" class="nav-link">Chapter 5 — 5.0+ Player Case Studies</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-6-integration-with-practice-pressure-sleep" class="nav-link">Chapter 6 — Integration with Practice, Pressure, Sleep</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-7-common-hrv-mistakes" class="nav-link">Chapter 7 — Common HRV Mistakes</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-8-your-hrv-dashboard-card" class="nav-link">Chapter 8 — Your HRV Dashboard Card</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#deep-dive-11-master-card-printable-the-tong-deep-dive-11" class="nav-link">📋 Deep-Dive #11 Master Card — Printable / Thẻ Tổng Deep-Dive #11</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#final-word-loi-cuoi" class="nav-link">🎯 FINAL WORD / LỜI CUỐI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="deep-dive-11-hrv-dashboard-your-daily-bio-informed-decision-system">Deep-Dive #11 — HRV Dashboard — Your Daily Bio-Informed Decision System<a class="headerlink" href="#deep-dive-11-hrv-dashboard-your-daily-bio-informed-decision-system" title="Permanent link">&para;</a></h1>
+<h1 id="deep-dive-11-bang-ieu-khien-hrv-he-thong-quyet-inh-hang-ngay-dua-tren-sinh-hoc">Deep-Dive #11 — Bảng Điều Khiển HRV — Hệ Thống Quyết Định Hàng Ngày Dựa Trên Sinh Học<a class="headerlink" href="#deep-dive-11-bang-ieu-khien-hrv-he-thong-quyet-inh-hang-ngay-dua-tren-sinh-hoc" title="Permanent link">&para;</a></h1>
+<p><em>The Green/Yellow/Red Day Protocol — A 25-minute deep-dive for the 5.0+ player.</em></p>
+<p><em>Phác Đồ Ngày Xanh/Vàng/Đỏ — Deep-dive 25 phút cho người chơi 5.0+.</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>What this deep-dive adds.</strong> The Elite Manual Chapter 11 introduced HRV (Heart Rate Variability) as a daily bio-informed decision system. This deep-dive gives you the <em>operational system</em> — what HRV actually measures, how to measure it cheaply, the 30-day rolling baseline protocol, the green/yellow/red case studies from real 5.0+ players, and the integration with all 10 prior deep-dives so daily readiness becomes a strategic choice rather than a guess.</td>
+</tr>
+<tr>
+<td><strong>Who should read this.</strong> Anyone whose tennis performance varies day-to-day and they don't know why. Anyone who has been told "listen to your body" but doesn't know how. Anyone who wants to bring scientific precision to <em>when</em> to push and <em>when</em> to rest.</td>
+</tr>
+<tr>
+<td><strong>Reading time.</strong> ~25 minutes. HRV baseline establishment: 30 days minimum. Daily practice: indefinite.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📖 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Chapter</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>What HRV Actually Measures (Detail)</td>
+<td>HRV Thực Sự Đo Gì (Chi Tiết)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>How to Measure HRV Cheaply (3 Options)</td>
+<td>Cách Đo HRV Rẻ (3 Lựa Chọn)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The 30-Day Baseline Protocol</td>
+<td>Phác Đồ Đường Cơ Sở 30 Ngày</td>
+</tr>
+<tr>
+<td>4</td>
+<td>The Green/Yellow/Red Decision Tree</td>
+<td>Cây Quyết Định Xanh/Vàng/Đỏ</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5.0+ Player Case Studies</td>
+<td>Nghiên Cứu Tình Huống Người 5.0+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Integration with Practice, Pressure, Sleep</td>
+<td>Tích Hợp với Tập, Áp Lực, Giấc Ngủ</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Common HRV Mistakes</td>
+<td>Lỗi HRV Phổ Biến</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Your HRV Dashboard Card</td>
+<td>Thẻ Bảng Điều Khiển HRV Của Bạn</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-1-what-hrv-actually-measures-detail">Chapter 1 — What HRV Actually Measures (Detail)<a class="headerlink" href="#chapter-1-what-hrv-actually-measures-detail" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The basic definition.</strong> HRV (Heart Rate Variability) measures the <em>variation in time between consecutive heartbeats.</em> Not heart rate (which is beats per minute). HRV is the <em>micro-fluctuation</em> between beats.</td>
+</tr>
+<tr>
+<td><strong>Why variation = good.</strong> Counter-intuitive but true: a heart that beats with slight variations is <em>healthier</em> than one that beats metronomically. The variation reflects the <em>parasympathetic nervous system</em> (the "rest and digest" branch). <em>High HRV = body can recover and adapt. Low HRV = body is under stress.</em></td>
+</tr>
+<tr>
+<td><strong>The two branches of the autonomic nervous system.</strong></td>
+</tr>
+<tr>
+<td><strong>Sympathetic.</strong> "Fight or flight." Speeds heart, reduces variability. Active during stress, exercise, pressure.</td>
+</tr>
+<tr>
+<td><strong>Parasympathetic.</strong> "Rest and digest." Slows heart, increases variability. Active during recovery, sleep, calm.</td>
+</tr>
+<tr>
+<td><strong>HRV is the balance indicator.</strong> High HRV = parasympathetic dominance = body is in recovery mode = ready to adapt = ready to train hard. Low HRV = sympathetic dominance = body is in survival mode = needs rest.</td>
+</tr>
+<tr>
+<td><strong>The tennis translation.</strong> HRV tells you <em>whether today is a day your body can absorb training load</em> or <em>whether today is a day your body needs recovery.</em></td>
+</tr>
+<tr>
+<td><strong>The two HRV measures for tennis.</strong></td>
+</tr>
+<tr>
+<td><strong>RMSSD (Root Mean Square of Successive Differences).</strong> The most common measure. Reflects parasympathetic activity. <em>Higher = better recovery.</em></td>
+</tr>
+<tr>
+<td><strong>HF-HRV (High Frequency HRV).</strong> A frequency-domain measure. Same direction as RMSSD but more specific to parasympathetic tone. <em>Used in research; less common in consumer apps.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-2-how-to-measure-hrv-cheaply-3-options">Chapter 2 — How to Measure HRV Cheaply (3 Options)<a class="headerlink" href="#chapter-2-how-to-measure-hrv-cheaply-3-options" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Option 1 — Smartphone camera + app (free to $50).</strong></td>
+</tr>
+<tr>
+<td>Apps like "HRV4Training," "Elite HRV," "Welltory" use your phone's camera + flashlight to detect blood flow in your fingertip. <em>Accuracy: 80-90% vs. chest strap.</em> Cost: free to $10/month subscription.</td>
+</tr>
+<tr>
+<td><strong>Protocol.</strong> Sit still. Finger on camera. Breathe normally for 60 seconds. <em>Every morning, same time, same position.</em></td>
+</tr>
+<tr>
+<td><strong>Option 2 — Chest strap + app ($80-150).</strong></td>
+</tr>
+<tr>
+<td>Polar H10 or Wahoo Tickr chest strap + app like "HRV4Training" or "Elite HRV." <em>Accuracy: 95%+ vs. ECG.</em></td>
+</tr>
+<tr>
+<td><strong>Protocol.</strong> Wear strap. Sit still 60 seconds. Record. <em>More accurate but more friction.</em></td>
+</tr>
+<tr>
+<td><strong>Option 3 — Wearable ring/watch ($200-400).</strong></td>
+</tr>
+<tr>
+<td>Oura Ring, Whoop, Apple Watch. <em>Accuracy: 85-95% but measures during sleep (so very convenient).</em></td>
+</tr>
+<tr>
+<td><strong>Protocol.</strong> Wear at night. Wake up to your daily HRV score in the morning app.</td>
+</tr>
+<tr>
+<td><strong>The recommendation.</strong></td>
+</tr>
+<tr>
+<td><strong>Start with Option 1.</strong> Free, fast, accurate enough. Upgrade to Option 2 if you want research-grade data. Upgrade to Option 3 only if budget allows. <em>The best HRV system is the one you'll actually use daily.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-3-the-30-day-baseline-protocol">Chapter 3 — The 30-Day Baseline Protocol<a class="headerlink" href="#chapter-3-the-30-day-baseline-protocol" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Why a baseline.</strong> A single HRV reading is meaningless. <em>Your HRV is a number relative to YOUR baseline.</em> A reading of 65ms is "high" for one person, "low" for another. The 30-day baseline establishes YOUR normal range.</td>
+</tr>
+<tr>
+<td><strong>The protocol.</strong></td>
+</tr>
+<tr>
+<td><strong>Days 1-30.</strong> Measure HRV every morning, same time, same position. Record the number. <em>Do not interpret yet.</em> Just collect.</td>
+</tr>
+<tr>
+<td><strong>Day 31 — Compute your baseline.</strong></td>
+</tr>
+<tr>
+<td><strong>Mean (average).</strong> Add all 30 readings, divide by 30. <em>This is your baseline.</em></td>
+</tr>
+<tr>
+<td><strong>Standard deviation.</strong> Compute how much readings vary from the mean. <em>This is your "noise floor."</em></td>
+</tr>
+<tr>
+<td><strong>Day 32+ — Daily decision.</strong> Compare today's reading to your baseline.</td>
+</tr>
+<tr>
+<td><strong>The green/yellow/red classification.</strong></td>
+</tr>
+<tr>
+<td><strong>Green (optimal training day).</strong> Reading within mean ± 5% of standard deviation. <em>Body is recovered. Push today.</em></td>
+</tr>
+<tr>
+<td><strong>Yellow (moderate day).</strong> Reading 5-10% below mean. <em>Body is partially recovered. Moderate load.</em></td>
+</tr>
+<tr>
+<td><strong>Red (recovery day).</strong> Reading 10%+ below mean. <em>Body needs rest. Light or no training.</em></td>
+</tr>
+<tr>
+<td><strong>The rolling baseline update.</strong></td>
+</tr>
+<tr>
+<td>Every 30 days, recompute your baseline using the <em>most recent 30 days</em> of data. <em>Your baseline shifts as you adapt.</em> The rolling update keeps the system current.</td>
+</tr>
+<tr>
+<td><strong>The seasonal adjustments.</strong></td>
+</tr>
+<tr>
+<td>Winter → baseline often lower (cold, less sun, more illness).</td>
+</tr>
+<tr>
+<td>Summer → baseline often higher (more activity, more sun).</td>
+</tr>
+<tr>
+<td><strong>Adjust your baseline every season.</strong> A "low" winter reading might be green for you in January and red in July.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-4-the-greenyellowred-decision-tree">Chapter 4 — The Green/Yellow/Red Decision Tree<a class="headerlink" href="#chapter-4-the-greenyellowred-decision-tree" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Green day action plan.</strong></td>
+</tr>
+<tr>
+<td><strong>Morning HRV: optimal.</strong></td>
+</tr>
+<tr>
+<td><strong>Practice today.</strong></td>
+</tr>
+<tr>
+<td>• Full ladder (Deep-Dive #5).</td>
+</tr>
+<tr>
+<td>• Variable practice + match sim (DD #3).</td>
+</tr>
+<tr>
+<td>• Push your bottleneck layer (DD #8).</td>
+</tr>
+<tr>
+<td>• Try a new chunk (DD #9).</td>
+</tr>
+<tr>
+<td>• Hard match possible.</td>
+</tr>
+<tr>
+<td><strong>Yellow day action plan.</strong></td>
+</tr>
+<tr>
+<td><strong>Morning HRV: moderate.</strong></td>
+</tr>
+<tr>
+<td><strong>Practice today (modified).</strong></td>
+</tr>
+<tr>
+<td>• Longer warm-up (15 min instead of 10).</td>
+</tr>
+<tr>
+<td>• Single-focus drilling only (no variable practice).</td>
+</tr>
+<tr>
+<td>• Slow-medium pace (70% max speed).</td>
+</tr>
+<tr>
+<td>• Pressure rungs 1-3 only (DD #5).</td>
+</tr>
+<tr>
+<td>• Easy/medium match only.</td>
+</tr>
+<tr>
+<td><strong>Red day action plan.</strong></td>
+</tr>
+<tr>
+<td><strong>Morning HRV: low.</strong></td>
+</tr>
+<tr>
+<td><strong>Rest today.</strong></td>
+</tr>
+<tr>
+<td>• No tennis. Rest. Walk. Stretch. Sleep early.</td>
+</tr>
+<tr>
+<td>• Recovery activities: massage, sauna, foam roll.</td>
+</tr>
+<tr>
+<td>• Or very light shadow swings (no ball).</td>
+</tr>
+<tr>
+<td>• No pressure exposures.</td>
+</tr>
+<tr>
+<td><strong>The "red is data" reframe.</strong></td>
+</tr>
+<tr>
+<td>A red day is not "weakness" or "failure." <em>It is the body's honest signal that it needs recovery.</em> Honoring red days <em>prevents</em> injury and illness. <em>Red days are part of the system, not exceptions to it.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-5-50-player-case-studies">Chapter 5 — 5.0+ Player Case Studies<a class="headerlink" href="#chapter-5-50-player-case-studies" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Case Study 1 — Henry, 50+, Vancouver.</strong></td>
+</tr>
+<tr>
+<td><strong>Baseline (RMSSD):</strong> 65ms. Standard deviation: 8ms.</td>
+</tr>
+<tr>
+<td><strong>Green threshold:</strong> ≥61ms.</td>
+</tr>
+<tr>
+<td><strong>Yellow threshold:</strong> 57-60ms.</td>
+</tr>
+<tr>
+<td><strong>Red threshold:</strong> ≤56ms.</td>
+</tr>
+<tr>
+<td><strong>What Henry learned:</strong> "After 90 days, I noticed that my yellow days cluster on Mondays (after weekend matches). My body needs 48 hours to fully recover. I now plan: heavy weekend match → Monday = yellow = light practice. Tuesday = green = back to hard training."</td>
+</tr>
+<tr>
+<td><strong>Case Study 2 — Maria, 45+, Madrid.</strong></td>
+</tr>
+<tr>
+<td><strong>Baseline (RMSSD):</strong> 72ms. Standard deviation: 10ms.</td>
+</tr>
+<tr>
+<td><strong>What Maria learned:</strong> "My HRV drops 15-20% during menstrual cycle week 1. I used to push through and lose matches. Now I treat that week as planned yellow. My win rate during that week went from 30% to 55%."</td>
+</tr>
+<tr>
+<td><strong>Case Study 3 — James, 55+, San Diego.</strong></td>
+</tr>
+<tr>
+<td><strong>Baseline (RMSSD):</strong> 55ms. Standard deviation: 7ms.</td>
+</tr>
+<tr>
+<td><strong>What James learned:</strong> "I travel for work. My HRV drops 15% on travel days (jet lag, hotel sleep, stress). I now schedule tournaments for day 3-5 after travel — never day 1. My first-match performance went from losing 70% to winning 60%."</td>
+</tr>
+<tr>
+<td><strong>The pattern across cases.</strong></td>
+</tr>
+<tr>
+<td>HRV is not just about "rest vs. work." It is about <em>timing</em> training to the body's recovery state. <em>The 5.0+ players who use HRV make 20-30% better decisions about when to push vs. when to rest.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-6-integration-with-practice-pressure-sleep">Chapter 6 — Integration with Practice, Pressure, Sleep<a class="headerlink" href="#chapter-6-integration-with-practice-pressure-sleep" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>HRV + practice (Deep-Dive #3).</strong></td>
+</tr>
+<tr>
+<td>Green day: full 60-min session. Yellow: 40-min. Red: 20-min light or no session. <em>Volume scales with HRV, not with calendar.</em></td>
+</tr>
+<tr>
+<td><strong>HRV + pressure inoculation (Deep-Dive #5).</strong></td>
+</tr>
+<tr>
+<td>Green: full ladder. Yellow: rungs 1-3 only. Red: rung 1 only or postpone. <em>Pressure work is the most draining — gate it behind green days.</em></td>
+</tr>
+<tr>
+<td><strong>HRV + sleep (Deep-Dive #3).</strong></td>
+</tr>
+<tr>
+<td>Sleep and HRV are a feedback loop. Poor sleep → low HRV next day. Low HRV → poor sleep that night. <em>If HRV drops for 3 consecutive days, the cause is likely sleep or accumulated stress, not single-day exertion.</em></td>
+</tr>
+<tr>
+<td><strong>HRV + competition.</strong></td>
+</tr>
+<tr>
+<td>Pre-match HRV tells you your starting state. <em>A pre-match HRV 10% below baseline = a yellow-level match, not a green-level match.</em> Adjust expectations, not effort.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-7-common-hrv-mistakes">Chapter 7 — Common HRV Mistakes<a class="headerlink" href="#chapter-7-common-hrv-mistakes" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mistake 1 — Obsessing over single readings.</strong> "My HRV is 5% below baseline, today is doomed." <em>A single reading is noise. Look at trends over 7+ days.</em></td>
+</tr>
+<tr>
+<td><strong>Mistake 2 — Comparing your HRV to others.</strong> "My friend has RMSSD 90. Mine is 60." <em>HRV is individual. Yours is yours.</em> Comparison is meaningless.</td>
+</tr>
+<tr>
+<td><strong>Mistake 3 — Inconsistent measurement.</strong> Measuring at 7am Monday, 9am Tuesday, after coffee Wednesday. <em>Garbage in, garbage out.</em> Pick a fixed time + condition and stick.</td>
+</tr>
+<tr>
+<td><strong>Mistake 4 — Treating red as failure.</strong> "I had a red day, my system is broken." <em>Red days are part of the system.</em> The system is the system.</td>
+</tr>
+<tr>
+<td><strong>Mistake 5 — Overriding HRV with willpower.</strong> "My HRV says yellow but I want to push today." <em>Willpower vs. physiology. Physiology wins eventually. Push anyway = injury risk.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-8-your-hrv-dashboard-card">Chapter 8 — Your HRV Dashboard Card<a class="headerlink" href="#chapter-8-your-hrv-dashboard-card" title="Permanent link">&para;</a></h1>
+<hr />
+<h3 id="deep-dive-11-master-card-printable-the-tong-deep-dive-11">📋 Deep-Dive #11 Master Card — Printable / Thẻ Tổng Deep-Dive #11<a class="headerlink" href="#deep-dive-11-master-card-printable-the-tong-deep-dive-11" title="Permanent link">&para;</a></h3>
+<div class="codehilite"><pre><span></span><code><span class="err">╔═══════════════════════════════════════════════════════════════╗</span>
+<span class="err">║</span><span class="w">  </span><span class="n">THE</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="n">DASHBOARD</span><span class="w"> </span><span class="n">CARD</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">YOUR</span><span class="w"> </span><span class="n">DAILY</span><span class="w"> </span><span class="n">BIO</span><span class="o">-</span><span class="n">INFORMED</span><span class="w"> </span><span class="k">SYSTEM</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">THẺ</span><span class="w"> </span><span class="n">BẢNG</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">HỆ</span><span class="w"> </span><span class="n">THỐNG</span><span class="w"> </span><span class="n">SINH</span><span class="o">-</span><span class="n">HỌC</span><span class="w"> </span><span class="n">HÀNG</span><span class="w"> </span><span class="n">NGÀY</span><span class="w"> </span><span class="n">CỦA</span><span class="w"> </span><span class="n">BẠN</span><span class="w">        </span><span class="err">║</span>
+<span class="err">╠═══════════════════════════════════════════════════════════════╣</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">MY</span><span class="w"> </span><span class="n">BASELINE</span><span class="w"> </span><span class="p">(</span><span class="nf">Day</span><span class="w"> </span><span class="mi">31</span><span class="p">)</span><span class="err">:</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">ĐƯỜNG</span><span class="w"> </span><span class="n">CƠ</span><span class="w"> </span><span class="n">SỞ</span><span class="w"> </span><span class="p">(</span><span class="n">Ngày</span><span class="w"> </span><span class="mi">31</span><span class="p">)</span><span class="err">:</span><span class="w">             </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Mean</span><span class="w"> </span><span class="nl">RMSSD</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">RMSSD</span><span class="w"> </span><span class="n">trung</span><span class="w"> </span><span class="nl">bình</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Standard</span><span class="w"> </span><span class="nl">deviation</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">ms</span><span class="w">                               </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Độ</span><span class="w"> </span><span class="n">lệch</span><span class="w"> </span><span class="nl">chuẩn</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">MY</span><span class="w"> </span><span class="n">THRESHOLDS</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">NGƯỠNG</span><span class="w"> </span><span class="n">CỦA</span><span class="w"> </span><span class="nl">TÔI</span><span class="p">:</span><span class="w">                             </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Green</span><span class="p">:</span><span class="w"> </span><span class="err">≥</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Xanh</span><span class="p">:</span><span class="w"> </span><span class="err">≥</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Yellow</span><span class="p">:</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Vàng</span><span class="p">:</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">đến</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                   </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Red</span><span class="p">:</span><span class="w"> </span><span class="err">≤</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Đỏ</span><span class="p">:</span><span class="w"> </span><span class="err">≤</span><span class="w"> </span><span class="n">______</span><span class="w"> </span><span class="n">ms</span><span class="w">                                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">MY</span><span class="w"> </span><span class="n">MEASUREMENT</span><span class="w"> </span><span class="n">PROTOCOL</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">PHÁC</span><span class="w"> </span><span class="n">ĐỒ</span><span class="w"> </span><span class="nl">ĐO</span><span class="p">:</span><span class="w">                       </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nc">Time</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="nf">day</span><span class="err">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">AM</span><span class="o">/</span><span class="n">PM</span><span class="w">                                   </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Giờ</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">SA</span><span class="o">/</span><span class="n">CH</span><span class="w">                                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="k">Position</span><span class="err">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="p">(</span><span class="n">sitting</span><span class="o">/</span><span class="n">lying</span><span class="p">)</span><span class="w">                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Vị</span><span class="w"> </span><span class="nl">trí</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="p">(</span><span class="n">ngồi</span><span class="o">/</span><span class="n">nằm</span><span class="p">)</span><span class="w">                                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Duration</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">seconds</span><span class="w">                                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Thời</span><span class="w"> </span><span class="nl">lượng</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="n">giây</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">Tool</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="p">(</span><span class="n">app</span><span class="o">/</span><span class="n">strap</span><span class="o">/</span><span class="n">ring</span><span class="p">)</span><span class="w">                               </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Công</span><span class="w"> </span><span class="nl">cụ</span><span class="p">:</span><span class="w"> </span><span class="n">_______</span><span class="w"> </span><span class="p">(</span><span class="n">app</span><span class="o">/</span><span class="n">dây</span><span class="o">/</span><span class="n">nhẫn</span><span class="p">)</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">──────────────────────────────────────────────────────────</span><span class="w">    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">GREEN</span><span class="w"> </span><span class="nf">DAY</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">NGÀY</span><span class="w"> </span><span class="nl">XANH</span><span class="p">:</span><span class="w">                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="k">Full</span><span class="w"> </span><span class="mi">60</span><span class="o">-</span><span class="nf">min</span><span class="w"> </span><span class="k">session</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Buổi</span><span class="w"> </span><span class="mi">60</span><span class="w"> </span><span class="n">phút</span><span class="w"> </span><span class="n">đầy</span><span class="w"> </span><span class="n">đủ</span><span class="w">                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="k">Full</span><span class="w"> </span><span class="n">pressure</span><span class="w"> </span><span class="n">ladder</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Toàn</span><span class="w"> </span><span class="n">thang</span><span class="w"> </span><span class="n">áp</span><span class="w"> </span><span class="n">lực</span><span class="w">                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="k">Variable</span><span class="w"> </span><span class="n">practice</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">sim</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Tập</span><span class="w"> </span><span class="n">biến</span><span class="w"> </span><span class="n">thiên</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">mô</span><span class="w"> </span><span class="n">phỏng</span><span class="w">   </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Hard</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="n">possible</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Trận</span><span class="w"> </span><span class="n">khó</span><span class="w"> </span><span class="n">có</span><span class="w"> </span><span class="n">thể</span><span class="w">                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">YELLOW</span><span class="w"> </span><span class="nf">DAY</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">NGÀY</span><span class="w"> </span><span class="nl">VÀNG</span><span class="p">:</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="mi">40</span><span class="o">-</span><span class="nf">min</span><span class="w"> </span><span class="k">session</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Buổi</span><span class="w"> </span><span class="mi">40</span><span class="w"> </span><span class="n">phút</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Single</span><span class="o">-</span><span class="n">focus</span><span class="w"> </span><span class="k">only</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Chỉ</span><span class="w"> </span><span class="n">tiêu</span><span class="w"> </span><span class="n">điểm</span><span class="w"> </span><span class="n">đơn</span><span class="w">                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Rungs</span><span class="w"> </span><span class="mi">1</span><span class="o">-</span><span class="mi">3</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Nấc</span><span class="w"> </span><span class="mi">1</span><span class="o">-</span><span class="mi">3</span><span class="w">                                        </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Easy</span><span class="o">/</span><span class="n">medium</span><span class="w"> </span><span class="k">match</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Trận</span><span class="w"> </span><span class="n">dễ</span><span class="o">/</span><span class="n">vừa</span><span class="w">                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">RED</span><span class="w"> </span><span class="nf">DAY</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">NGÀY</span><span class="w"> </span><span class="nl">ĐỎ</span><span class="p">:</span><span class="w">                                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="mi">20</span><span class="o">-</span><span class="nf">min</span><span class="w"> </span><span class="n">light</span><span class="w"> </span><span class="ow">or</span><span class="w"> </span><span class="n">rest</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="mi">20</span><span class="w"> </span><span class="n">phút</span><span class="w"> </span><span class="n">nhẹ</span><span class="w"> </span><span class="n">hoặc</span><span class="w"> </span><span class="n">nghỉ</span><span class="w">                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Rung</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="k">only</span><span class="w"> </span><span class="ow">or</span><span class="w"> </span><span class="n">postpone</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Chỉ</span><span class="w"> </span><span class="n">nấc</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="n">hoặc</span><span class="w"> </span><span class="n">hoãn</span><span class="w">             </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="n">Recovery</span><span class="w"> </span><span class="n">activities</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Hoạt</span><span class="w"> </span><span class="n">động</span><span class="w"> </span><span class="n">hồi</span><span class="w"> </span><span class="n">phục</span><span class="w">                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="k">No</span><span class="w"> </span><span class="n">matches</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Không</span><span class="w"> </span><span class="n">trận</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">──────────────────────────────────────────────────────────</span><span class="w">    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">WEEKLY</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="n">TREND</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">XU</span><span class="w"> </span><span class="n">HƯỚNG</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="n">HÀNG</span><span class="w"> </span><span class="nl">TUẦN</span><span class="p">:</span><span class="w">                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Mon</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Tue</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Wed</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Thu</span><span class="w"> </span><span class="n">___</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">T</span><span class="p">.</span><span class="n">Hai</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">T</span><span class="p">.</span><span class="n">Ba</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">T</span><span class="p">.</span><span class="n">Tư</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">T</span><span class="p">.</span><span class="n">Năm</span><span class="w"> </span><span class="n">___</span><span class="w">                        </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">Fri</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Sat</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Sun</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="nl">Average</span><span class="p">:</span><span class="w"> </span><span class="n">___</span><span class="w">                         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">T</span><span class="p">.</span><span class="n">Sáu</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">T</span><span class="p">.</span><span class="n">Bảy</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">C</span><span class="p">.</span><span class="n">Nhật</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">Trung</span><span class="w"> </span><span class="nl">bình</span><span class="p">:</span><span class="w"> </span><span class="n">___</span><span class="w">                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">──────────────────────────────────────────────────────────</span><span class="w">    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="mi">5</span><span class="w"> </span><span class="n">MISTAKES</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">AVOID</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="mi">5</span><span class="w"> </span><span class="n">LỖI</span><span class="w"> </span><span class="n">CẦN</span><span class="w"> </span><span class="nl">TRÁNH</span><span class="p">:</span><span class="w">                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">□</span><span class="w"> </span><span class="n">Obsess</span><span class="w"> </span><span class="n">single</span><span class="w"> </span><span class="n">readings</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Ám</span><span class="w"> </span><span class="n">ảnh</span><span class="w"> </span><span class="n">lần</span><span class="w"> </span><span class="n">đọc</span><span class="w"> </span><span class="n">đơn</span><span class="w">                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">□</span><span class="w"> </span><span class="n">Compare</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">others</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">So</span><span class="w"> </span><span class="n">với</span><span class="w"> </span><span class="n">người</span><span class="w"> </span><span class="n">khác</span><span class="w">                       </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">□</span><span class="w"> </span><span class="n">Inconsistent</span><span class="w"> </span><span class="n">timing</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Thời</span><span class="w"> </span><span class="n">gian</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="n">nhất</span><span class="w"> </span><span class="n">quán</span><span class="w">             </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">□</span><span class="w"> </span><span class="k">Treat</span><span class="w"> </span><span class="n">red</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">failure</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Coi</span><span class="w"> </span><span class="n">đỏ</span><span class="w"> </span><span class="n">là</span><span class="w"> </span><span class="n">thất</span><span class="w"> </span><span class="n">bại</span><span class="w">                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">□</span><span class="w"> </span><span class="n">Override</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="k">with</span><span class="w"> </span><span class="n">willpower</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">Ghi</span><span class="w"> </span><span class="n">đè</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="n">bằng</span><span class="w"> </span><span class="n">ý</span><span class="w"> </span><span class="n">chí</span><span class="w">         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">💭</span><span class="w"> </span><span class="n">MASTER</span><span class="w"> </span><span class="n">CUE</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CÂU</span><span class="w"> </span><span class="n">NHẮC</span><span class="w"> </span><span class="nl">TỔNG</span><span class="p">:</span><span class="w">                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="ss">&quot;Read the dashboard. Push on green, rest on red.&quot;</span><span class="w">          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="ss">&quot;Đọc bảng điều khiển. Đẩy ngày xanh, nghỉ ngày đỏ.&quot;</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">╚═══════════════════════════════════════════════════════════════╝</span>
+
+
+<span class="err">╔═══════════════════════════════════════════════════════════════╗</span>
+<span class="err">║</span><span class="w">  </span><span class="n">THE</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="n">DASHBOARD</span><span class="w"> </span><span class="n">CARD</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">YOUR</span><span class="w"> </span><span class="n">DAILY</span><span class="w"> </span><span class="n">BIO</span><span class="o">-</span><span class="n">INFORMED</span><span class="w"> </span><span class="k">SYSTEM</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">THẺ</span><span class="w"> </span><span class="n">BẢNG</span><span class="w"> </span><span class="n">HRV</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">HỆ</span><span class="w"> </span><span class="n">THỐNG</span><span class="w"> </span><span class="n">SINH</span><span class="o">-</span><span class="n">HỌC</span><span class="w"> </span><span class="n">HÀNG</span><span class="w"> </span><span class="n">NGÀY</span><span class="w"> </span><span class="n">CỦA</span><span class="w"> </span><span class="n">BẠN</span><span class="w">        </span><span class="err">║</span>
+<span class="err">╠═══════════════════════════════════════════════════════════════╣</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">BASELINE</span><span class="p">:</span><span class="w"> </span><span class="n">mean</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">ms</span><span class="w"> </span><span class="err">±</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">ms</span><span class="w">                               </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">THRESHOLDS</span><span class="p">:</span><span class="w"> </span><span class="n">Green</span><span class="w"> </span><span class="err">≥</span><span class="w"> </span><span class="n">___</span><span class="w">  </span><span class="n">Yellow</span><span class="w"> </span><span class="n">___</span><span class="err">–</span><span class="n">___</span><span class="w">  </span><span class="n">Red</span><span class="w"> </span><span class="err">≤</span><span class="w"> </span><span class="n">___</span><span class="w">           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">PROTOCOL</span><span class="p">:</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">AM</span><span class="p">,</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">sec</span><span class="p">,</span><span class="w"> </span><span class="n">sitting</span><span class="p">,</span><span class="w"> </span><span class="o">[</span><span class="n">tool</span><span class="o">]</span><span class="w">                   </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="nl">TODAY</span><span class="p">:</span><span class="w"> </span><span class="n">___</span><span class="w"> </span><span class="n">ms</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GREEN</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">YELLOW</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">RED</span><span class="w">                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">💭</span><span class="w"> </span><span class="ss">&quot;Read the dashboard. Push on green, rest on red.&quot;</span><span class="w">          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="ss">&quot;Đọc bảng. Đẩy xanh, nghỉ đỏ.&quot;</span><span class="w">                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                </span><span class="err">║</span>
+<span class="err">╚═══════════════════════════════════════════════════════════════╝</span>
+</code></pre></div>
+
+<hr />
+<h2 id="final-word-loi-cuoi">🎯 FINAL WORD / LỜI CUỐI<a class="headerlink" href="#final-word-loi-cuoi" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The 5.0+ player who pushes every day is gambling. The 5.0+ player who rests every day is wasting. The 5.0+ player who reads HRV each morning and acts accordingly is <em>strategic.</em> The dashboard is not a constraint — it is a <em>precision instrument.</em> 30 days of baseline. Daily reads. Green-yellow-red decisions. Over 90 days, the data shows you what your body has been trying to tell you for years: <em>when to push, when to rest, when to play.</em> Now you know.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong>Sources / Nguồn:</strong></p>
+<ul>
+<li>Tennis Research - Neuro athletics - with Kwen-Ollama.md (Ch 6 — HRV daily dashboard protocol, green/yellow/red day classification, recovery-state biofeedback)</li>
+<li>Tennis Research with Kwen-Ollama.md (Ch 11.6 — HRV &amp; CNS state, training-load adaptation, individualized periodization)</li>
+<li>Futuristic Tennis Manual by Olama.md (Adaptive Performance State / APS — HRV + cortisol formula, in-match bio-feedback regulation, Δt_synch)</li>
+<li>Advanced Tennis Kinetic-Chain Manual.md (Conditioning &amp; Recovery — HRV integration with training load, sleep quality scores, CNS fatigue markers)</li>
+<li>Plews et al. (2013) — Evaluating the athlete's heart — HRV-based training adaptation in elite athletes</li>
+</ul>
+<p><strong>See you on the court, engineer.</strong> / <strong>Hẹn gặp trên sân, kỹ sư.</strong></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

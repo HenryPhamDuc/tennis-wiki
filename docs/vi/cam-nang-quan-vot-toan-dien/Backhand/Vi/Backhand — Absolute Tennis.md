@@ -1,0 +1,271 @@
+# CÚ TRÁI TAY
+
+TRONG KHI TẤT CẢ CÁC CÚ ĐÁNH ĐỀU ĐÃ PHÁT TRIỂN THEO MỘT CÁCH NÀO ĐÓ, có lẽ không cú đánh nào đã thay đổi nhiều như cú trái tay. Nếu bạn nhìn vào bảng xếp hạng đơn từ Wimbledon năm mươi năm trước, bạn sẽ khó có thể tìm thấy tên của ngay cả một vài tay vợt trái tay hai tay trong số 256 người tham gia giải đấu. Ngày nay, đó là tên của các tay vợt trái tay một tay mới trở nên hiếm hoi trong bảng xếp hạng Wimbledon. Nhìn vào bảng xếp hạng top 100 thế giới vào năm 2016, chỉ có hai hoặc ba nữ và khoảng 20 nam vẫn sử dụng cú trái tay một tay. Lý do rất đơn giản; trò chơi đã trở nên mạnh mẽ hơn và các tay vợt sử dụng cú trái tay hai tay được trang bị tốt hơn để xử lý sức mạnh tăng lên này.
+
+Nói chung, cấp độ chơi càng cao, thì khả năng sử dụng cú trái tay hai tay càng lớn. Tuy nhiên, các tay vợt trái tay hai tay vẫn cần sử dụng cú trái tay một tay đôi khi để có thêm tầm với, sự tinh tế và phòng thủ mà cú đánh mang lại. Đáng chú ý, bản chất ít hạn chế hơn của cú trái tay một tay khiến nó trở thành cách cầm vợt phổ biến nhất trong số các tay vợt nghiệp dư.
+
+Chương này bao gồm các cú trái tay xoáy lên trên  hai tay và một tay, cũng như cú slice trái tay. Tôi bắt đầu bằng cách khám phá những ưu và nhược điểm của cú trái tay hai tay so với cú trái tay một tay và đề xuất lý do tại sao cú trái tay lai có thể xuất hiện như một cú đánh mới trong tương lai. Sau đó, tôi thảo luận về kỹ thuật trái tay, bắt đầu với các tư thế khác nhau. Tiếp theo, tôi mô tả chi tiết các chuyển động của phần trên cơ thể sẽ giúp bạn đánh ba loại cú trái tay khác nhau với sức mạnh và kiểm soát: xoay toàn thân , backswing, forward swing đến tiếp xúc, tiếp xúc và follow through. Chương kết thúc với một loạt các bài tập trái tay.
+
+I. Ưu điểm của cú trái tay Hai Tay và Một Tay
+
+CÚ TRÁI TAY XOÁY LÊN TRÊN HAI TAY có một số ưu điểm so với phiên bản một tay. Tay thêm trên grip tăng thêm sức mạnh và sự ổn định. Điều này đặc biệt hữu ích khi trả giao bóng hoặc các cú groundstroke xoáy lên trên  nhanh, nảy cao. Tay thêm trên grip cũng giữ cho cú vung gọn gàng và đều đặn hơn, cho phép bạn bắt kịp bóng nếu bạn bị vội vàng, và cho phép bạn giữ cú đánh lâu hơn để che giấu ý định của mình tốt hơn. Cú trái tay hai tay cũng nhanh hơn để thực hiện. Bạn cần nhiều thời gian hơn để đánh một cú trái tay xoáy lên trên  một tay tốt do backswing lớn hơn và điểm tiếp xúc sớm hơn được yêu cầu. Cuối cùng, cú trái tay hai tay phụ thuộc ít hơn vào tư thế. Các tư thế mở không hoạt động đặc biệt tốt trên các cú trái tay một tay, trong khi trên cú trái tay hai tay, bạn có thể sử dụng các tư thế này để có sự cân bằng tốt hơn, định vị nhanh hơn và phục hồi nhanh hơn.
+
+Những tay vợt trái tay hai tay như Nadal không yêu cầu sự đẩy chân trước để tạo sức mạnh như những tay vợt trái tay một tay.
+
+Novak Djokovic và Andy Murray nợ nhiều thành công của họ cho các cú trái tay hai tay mạnh mẽ. Trong khi hầu hết các tay vợt bị giới hạn bởi cú thuận tay của họ để kiểm soát một rally baseline, Djokovic và Murray cũng có thể sử dụng các cú trái tay của họ để bắt đầu các mẫu cú đánh tấn công, đặc biệt là với cú trái tay dọc đường biên. Tuy nhiên, đó là trên cú trả giao bóng mà các cú trái tay hai tay của họ có lẽ có tác động lớn nhất; cả hai tay vợt đều đã được xếp hạng gần top của thống kê trả giao bóng ATP trong gần một thập kỷ nay.(1) Tay thêm trên vợt cho phép họ hiệu quả hóa lực đằng sau các cú giao bóng mạnh mẽ và đánh trả các cú trả bóng tấn công. Ngược lại, các tay vợt trái tay một tay thường bị buộc phải chặn hoặc chặn cú trả bóng và bắt đầu điểm ở một vị trí ít thuận lợi hơn.
+
+Nếu được thực hiện đúng cách, cú trái tay một tay là một cú đánh đẹp và nó có một số ưu điểm so với cú trái tay hai tay. Vì cú slice trái tay là một cú đánh một tay, các tay vợt trái tay một tay thường có một cú slice trái tay mạnh mẽ hơn vì họ phát triển nhiều sức mạnh và sự phối hợp hơn trong cánh tay đánh của họ. Các cú volley trái tay, drop shot và lob phòng thủ là các biến thể của cú slice trái tay, và do đó, là những cú đánh thường được thực hiện tốt hơn bởi các tay vợt trái tay một tay. Ngoài ra, một tay có thể vung nhanh hơn hai; do đó, cú trái tay một tay thường có thể được đánh với nhiều xoáy lên trên  hơn so với cú hai tay. Và trong khi đa số các tay vợt chuyên nghiệp đánh cú trái tay hai tay, có những ngôi sao như Stan Wawrinka và Richard Gasquet sử dụng phiên bản một tay và được coi là một trong những tay vợt trái tay tốt nhất từng chơi trò chơi này.
+
+1. CÚ TRÁI TAY LAI.
+
+Các ưu điểm khác nhau của cú trái tay hai tay và một tay đặt ra một câu hỏi thú vị: trò chơi có thể phát triển sao cho chúng ta thấy một số tay vợt bắt đầu sử dụng cú trái tay hai tay để trả giao bóng và sau đó sử dụng cú trái tay một tay sau khi trả bóng? Việc giới thiệu một cú trái tay đa năng, hoặc "lai", trong tương lai dường như là một khả năng rõ ràng. Đối với một số tay vợt, cú trái tay lai có thể đại diện cho những gì tốt nhất của cả hai thế giới — sử dụng cú hai tay để xử lý tốc độ của giao bóng khi trả bóng và sau đó tốc độ vợt thêm và sự đa dạng của cú một tay trong rally.
+
+2. CÚ TRÁI TAY NÀO TỐT NHẤT CHO BẠN?
+
+Vì cả cú trái tay một tay và hai tay đều có ưu điểm, câu hỏi trở thành việc xác định phong cách nào phù hợp với bạn. Điều này phụ thuộc một phần vào tuổi tác. Hầu hết các tay vợt trẻ không đủ mạnh để đánh một cú trái tay xoáy lên trên  một tay mạnh mẽ cho đến khi họ ở độ tuổi thiếu niên. Do đó, cú trái tay hai tay thường là cú đánh đầu tiên được dạy cho trẻ em.
+
+Do thời gian phát triển dài hơn, các tay vợt trẻ theo đuổi cú trái tay xoáy lên trên  một tay phải kiên nhẫn và có một tầm nhìn dài hạn rõ ràng về tương lai của họ. Pete Sampras nổi tiếng đã chuyển từ cú hai tay sang cú một tay khi còn là một tay vợt trẻ, nhận ra rằng cuối cùng nó sẽ phù hợp với phong cách chơi tấn công mà anh ấy hình dung cho mình. Anh ấy đã thua một số trận đấu trẻ ban đầu vì sự thay đổi đó nhưng chắc chắn đã bù đắp hơn sau này với bảy danh hiệu đơn Wimbledon của mình. Ngược lại, cựu tay vợt ATP Paul McNamee đã chuyển từ cú một tay sang cú hai tay ở tuổi 24. Anh ấy đã thấy thứ hạng đơn của mình tăng vọt ngay sau đó và trở thành tay vợt đôi số một thế giới.
+
+Bạn có thể tính đến phong cách chơi và đặc điểm thể chất, nhưng cuối cùng cú trái tay bạn chọn là vấn đề của những gì cảm thấy tự nhiên và đáng tin cậy hơn. Một số tay vợt cảm thấy ít linh hoạt và trôi chảy hơn với cả hai tay trên vợt, trong khi những người khác cảm thấy họ cần hai tay để đánh một cú trái tay xoáy lên trên  đáng tin cậy. Nếu bạn mới chơi, hãy thử nghiệm sử dụng cả hai phong cách và học hỏi từ kinh nghiệm những gì phù hợp nhất với bạn.
+
+Bất kể loại cú trái tay bạn sử dụng, vì cú trái tay có vai đánh bóng đối diện với bóng đến thay vì đằng sau cơ thể như trên cú thuận tay, một số phần của cú vung khác với cú thuận tay. Đầu tiên, backswing của cú trái tay ngắn hơn và tiếp xúc được thực hiện xa hơn phía trước cơ thể. Thứ hai, cú trái tay thường yêu cầu chân trước bước vào cú đánh để đạt được sức mạnh tốt và do đó, có các hướng dẫn khác nhau về các tư thế. Thứ ba, sự xoay hông của cú trái tay muộn hơn và nhỏ hơn, dẫn đến vợt di chuyển theo một đường dài hơn, thẳng hơn về phía mục tiêu trong khi duỗi thẳng. Thứ tư, vì cú trái tay là một cú vung yếu hơn về mặt thể chất nên nó thường là một cú đánh ít tấn công hơn so với cú thuận tay và thường đảm nhận một vai trò chiến thuật khác.
+
+II. TƯ THẾ TRÁI TAY
+
+Tôi sẽ giải thích kỹ thuật trái tay bắt đầu từ chân và sau đó làm việc lên qua cơ thể. Giống như cú thuận tay, một cú trái tay tuyệt vời bắt đầu với footwork tốt và định vị chân tốt trong tư thế tốt nhất. Bạn sẽ cần nhiều tư thế khác nhau cho các cú trái tay khác nhau, đặc biệt là tư thế đóng và trung lập, và ở mức độ thấp hơn, tư thế mở.
+
+Hình dung một phong cách chơi tấn công nhanh chóng vào lưới trong các tay vợt chuyên nghiệp, Pete Sampras đã chuyển từ cú trái tay hai tay sang cú trái tay một tay khi còn là một tay vợt trẻ.
+
+1. TƯ THẾ ĐÓNG VÀ TRUNG LẬP
+
+Vị trí chân mạnh mẽ nhất trên cú trái tay là tư thế đóng. Trong tư thế đóng, chân trước thực hiện một bước chéo lớn về phía trước qua cơ thể ở góc khoảng 45 độ (trên cùng đối diện). Có bốn lý do chính tại sao tư thế đóng tạo ra nhiều sức mạnh nhất. Đầu tiên, bước lớn hơn tạo ra lực tăng cường. Thứ hai, bước lớn hơn mở rộng cơ sở và tăng độ gập gối để bạn có thể tạo ra nhiều năng lượng hơn khi đẩy lên từ mặt đất. Thứ ba, tư thế đóng tạo ra một vòng xoay vai tốt cho phép mở cuộn cơ thể mạnh mẽ hơn sau này trong cú vung. Thứ tư, tư thế đóng căn chỉnh hông ở một vị trí tốt để di chuyển vợt về phía trước theo một đường mạnh mẽ từ trong ra ngoài về phía bóng. Vợt ở tư thế trung lập, nơi bước về phía trước thẳng hơn theo hướng của lưới (dưới cùng), ít mạnh mẽ hơn so với tư thế đóng nhưng thường cần thiết trên các bóng nhanh hơn đánh vào giữa sân.
+
+KỸ THUẬT
+
+Trong cả hai tư thế, trọng lượng cơ thể được nạp trên chân trái của bạn ở cuối backswing bắt đầu chuyển lên cơ thể khi bạn bước về phía trước với chân phải và vung về phía trước để gặp bóng. Chân phải nên chạm đất một phần giây trước khi tiếp xúc để đảm bảo động lượng về phía trước, đẩy lên từ mặt đất và ổn định cơ thể để giúp cánh tay hoặc cánh tay kiểm soát vợt tại thời điểm va chạm với bóng.
+
+Hãy nhớ rằng, bước về phía trước với chân phải vào cú đánh nên hướng nhiều hơn về phía lưới khi đánh chéo sân so với khi đánh dọc đường biên. Điều này sẽ giúp đẩy động lượng của bạn về phía mục tiêu. Ngoài ra, chân phải trên cú trái tay chéo sân sẽ chỉ về hướng góc 10 đến 11 giờ (dưới cùng bên trái) trong khi trên cú trái tay dọc đường biên, chân phải sẽ chỉ nhiều hơn xung quanh góc chín đến 10 giờ (dưới cùng bên phải). Những hướng dẫn này sẽ giúp bạn đạt được chuyển trọng lượng cơ thể tối ưu về phía trước vào cú vung và căn chỉnh hông tốt tại thời điểm tiếp xúc.
+
+Chân trái sẽ xoay một cách có kiểm soát sang trái trong cú vung về phía trước. Điều này sẽ xoay hông nhẹ và giúp di chuyển năng lượng động lực lên cơ thể về phía vợt. Mẹo là không xoay chân trái quá nhiều hoặc quá ít. Nếu chân trái xoay quá nhiều, hông sẽ mở quá sớm và gây ra cánh tay hoặc cánh tay gập quá nhiều tại thời điểm tiếp xúc. Nếu chân trái giữ nguyên, hông sẽ khóa và giảm động lượng vào cú đánh.
+
+Sự cân bằng của bạn ở cuối cú đánh sẽ cho biết liệu bạn đã đánh bóng ở vị trí đúng hay không. Ở cuối cú đánh, trọng lượng của bạn nên hoàn toàn trên chân phải của bạn; sau khi chân trái của bạn xoay sang trái, gót chân trái của bạn nên được nâng lên khỏi mặt đất.
+
+Với cú đánh hoàn thành, chân trái của bạn tiếp tục di chuyển sang trái và thực hiện bước phục hồi. Như đã đề cập trong Chương Bảy khi mô tả cú thuận tay trung lập, nếu bạn đã di chuyển nhanh sang ngang trước cú đánh hoặc đang vung vợt một cách tấn công, bước phục hồi sẽ xảy ra một cách tự nhiên trong quá trình follow through (trên cùng đối diện). Trên các cú trái tay yêu cầu ít di chuyển hơn trước cú vung hoặc ít tấn công hơn, bước phục hồi sẽ muộn hơn và có chủ đích hơn (dưới cùng đối diện). Đối với các tay vợt nghiệp dư di chuyển và vung chậm hơn so với các tay vợt chuyên nghiệp, tôi thích thấy mức độ ổn định cơ thể cao hơn trong cú vung để kiểm soát vợt tốt hơn tại thời điểm tiếp xúc; do đó, bước phục hồi nên muộn hơn và có chủ đích hơn.
+
+Một lần nữa, chúng ta có thể thấy cách các cú đánh tuyệt vời có những điểm tương đồng trong kỹ thuật, ngay cả khi chuyển động trước cú vung có thể thay đổi vị trí cơ thể và footwork. So sánh vị trí chân trái của Simona Halep và Murray trong các cú vung trái tay của họ (khung hình ba và bảy). Chuyển động sang ngang của Halep trước cú đánh (khung hình một) tạo ra bước phục hồi sớm hơn (khung hình bốn) so với cú trái tay ít di chuyển hơn của Murray.
+
+2. TƯ THẾ MỞ
+
+Mặc dù tư thế đóng hoặc trung lập là lý tưởng, nhưng không phải lúc nào cũng có thể thực hiện được trong một điểm nóng bỏng. Đôi khi bạn cần tư thế bán mở hoặc mở cho cú trái tay. Trong khi hiếm khi được sử dụng bởi các tay vợt một tay, các cú trái tay bán mở và mở là những cú đánh quan trọng đối với các tay vợt hai tay khi bị vội vàng hoặc trên các bóng rộng hơn và cao hơn khi bước về phía trước vào cú đánh là một đề xuất khó khăn.
+
+KỸ THUẬT
+
+Chìa khóa cho các cú trái tay tư thế mở và bán mở là một vòng xoay vai lớn và đặt chân trái của bạn một cách chắc chắn và ngang bằng, hoặc hơi phía sau, chân phải của bạn (trung tâm bên trái). Chân trái thiết lập một nền tảng vững chắc để chuyển sức mạnh vào cú đánh. Một khi chân trái của bạn chạm đất, hông và vai của bạn sẽ mở cuộn và trọng lượng của bạn sẽ dịch chuyển sang chân phải của bạn khi vợt vung về phía bóng. Sau khi tiếp xúc và duỗi thẳng, bạn tiếp tục xoay và kết thúc với trọng lượng chủ yếu trên chân phải của bạn (xa bên phải).
+
+Với các tư thế trái tay đã được giải thích, hãy chuyển sang năm giai đoạn phần trên cơ thể cho các cú trái tay hai tay, một tay và slice. Vì nhiều nguyên tắc của cú thuận tay được thảo luận trong Chương Bảy cũng áp dụng cho cú trái tay, năm giai đoạn được trình bày dưới dạng ngắn gọn hơn.
+
+III. NĂM GIAI ĐOẠN CỦA CÚ TRÁI TAY HAI TAY
+
+1. XOAY TOÀN THÂN
+
+Bắt đầu cú trái tay hai tay bằng cách xoay với chân trái, nâng gót chân phải, và xoay vai (dưới đây). Khuỷu tay nên gập và thư giãn với đầu vợt chỉ lên ở một góc khoảng 45 độ trên cổ tay.
+
+Khi bạn làm điều này, chuẩn bị grip. Hầu hết các tay vợt chờ đợi với tay trái trên cổ vợt và di chuyển nó xuống để kết hợp với tay phải trên grip trong quá trình xoay toàn thân . Như đã nêu trong Chương Bốn, tôi khuyên dùng grip continental với tay phải và grip eastern đến eastern mạnh với tay trái.
+
+
+
+HỘP HUẤN LUYỆN VIÊN:
+
+Trong Chương Bốn, chúng ta đã thảo luận về tầm quan trọng của grip và cách chúng ảnh hưởng đến kỹ thuật; trên cú trái tay hai tay, tác động này đặc biệt đáng chú ý. Bất kể hình thức của bạn, bạn sẽ sử dụng nhiều tư thế khác nhau trong suốt một trận đấu, nhưng bạn nên sử dụng một số tư thế thường xuyên hơn những tư thế khác tùy thuộc vào grip của bạn.
+
+Trên cú trái tay hai tay, grip bạn sử dụng với tay đánh sẽ ảnh hưởng đến độ gập của cánh tay, điều này sẽ ảnh hưởng đến điểm tiếp xúc và tư thế. Một grip continental yếu sẽ khiến cánh tay gập nhiều hơn và di chuyển điểm tiếp xúc ít hơn phía trước cơ thể (dưới bên trái). Trong trường hợp này, tư thế đóng có thể thoải mái hơn. Mặt khác, một grip continental mạnh sẽ khiến cánh tay gập ít hơn và di chuyển điểm tiếp xúc xa hơn phía trước cơ thể (dưới bên phải). Trong trường hợp này, các tư thế mở có thể thoải mái hơn.
+
+2. ĐƯA VỢT RA SAU
+
+Khi đã hoàn thành xoay vợt toàn thân, sử dụng cánh tay và tiếp tục xoay vai để đưa vợt đến cuối đưa vợt ra sau. Khi thực hiện đưa vợt ra sau, hãy nhớ giữ cánh tay và vai thư giãn. Càng ít căng thẳng ở vai, đưa vợt ra sau của bạn càng dài và vợt càng có thể tụt lại và tăng tốc trong cú vung về phía trước.
+
+Một đưa vợt ra sau đầy đủ nên dẫn đến cằm của bạn nghỉ gần vai phải. Mặc dù vai của bạn thư giãn, đưa vợt ra sau đầy đủ của bạn nên đặt một số căng thẳng ở phía sau vai phải để đẩy vợt về phía trước nhanh hơn. Cuối đưa vợt ra sau của bạn nên được đồng bộ hóa với việc nạp trọng lượng trên chân sau và di chuyển cơ thể vào tư thế ngồi xổm sẵn sàng giải phóng sức mạnh được lưu trữ trong cơ thể về phía trước vào cú đánh (bên phải).
+
+Có hai loại đưa vợt ra sau chính trên cú trái tay: hình vòng cung và hình tròn.
+
+
+
+A. ĐƯA VỢT RA SAU HÌNH VÒNG CUNG
+
+Đưa vợt ra sau hình vòng cung bắt đầu với tay đi xuống qua thắt lưng và sau đó thẳng về phía sau trước khi nâng lên nhẹ ở cuối đưa vợt ra sau (dưới đây). Vợt kết thúc đưa vợt ra sau hơi sang trái, hoặc "ngoài" cơ thể (trang tiếp theo, bên phải), đặt cổ tay vào một vị trí mạnh mẽ để tụt vợt khi hông xoay và thực hiện chuyển động cần gạt nước để tăng tốc độ đầu vợt và xoáy lên trên .
+
+Các tay vợt sử dụng đưa vợt ra sau hình vòng cung thường sử dụng grip continental mạnh hoặc continental với tay đánh của họ. Sức mạnh trên cú trái tay này chủ yếu được tạo ra bằng cách sử dụng chân để đẩy lên từ mặt đất và vung vợt nhiều hơn như một đơn vị thay vì chủ yếu sử dụng cánh tay. Đây là phong cách đưa vợt ra sau chủ đạo trên ATP Tour và có ưu điểm là gọn gàng, giữ vai thư giãn và cung cấp xoáy lên trên  tốt.
+
+B. ĐƯA VỢT RA SAU HÌNH TRÒN
+
+Đưa vợt ra sau hình tròn bắt đầu với tay đi lùi theo một cách tròn (dưới bên trái) và kết thúc xa hơn phía sau cơ thể (dưới bên phải), hoặc "trong", so với đưa vợt ra sau hình vòng cung . Ngoài ra, so với đưa vợt ra sau hình vòng cung , cánh tay gập nhiều hơn tại thời điểm tiếp xúc và cổ tay di chuyển nhiều hơn về phía trước và ít hơn lên trên, dẫn đến một cú đánh phẳng hơn.
+
+Các tay vợt sử dụng đưa vợt ra sau hình tròn thường sử dụng grip continental yếu hoặc continental với tay đánh của họ. Sức mạnh trên cú trái tay này được tạo ra nhiều hơn từ chuyển động dài hơn của cánh tay và hông thay vì di chuyển cơ thể như một đơn vị và sử dụng chân để đẩy lên từ mặt đất. đưa vợt ra sau hình tròn tạo ra một cú đánh mạnh mẽ, phẳng hơn và thường được sử dụng trên WTA.
+
+Bất kể loại đưa vợt ra sau bạn sử dụng, ở cuối đưa vợt ra sau, vợt nên ở ngay trên ngang hông và chỉ hơi lên trên và về phía hàng rào phía sau (bên phải). Cạnh của đầu vợt nên gần như vuông góc với mặt đất để đơn giản hóa thời gian và giúp giữ cho cánh tay thư giãn. Đây là vị trí tương đương với vị trí sức mạnh của cú thuận tay. Với vị trí này được thiết lập, vợt ở một vị trí mạnh mẽ để chuyển từ đưa vợt ra sau sang cú vung về phía trước.
+
+Trong đưa vợt ra sau hình tròn, Maria Sharapova đưa vợt lùi theo một cách tròn (trái) và "trong" (phải) để kết thúc đưa vợt ra sau ở vị trí sức mạnh.
+
+Djokovic giữ vợt sang trái, hoặc "ngoài", để kết thúc đưa vợt ra sau hình vòng cungcủa mình ở vị trí sức mạnh.
+
+3. TỪ VUNG VỢT RA TRƯỚC TỚI LÚC CHẠM BÓNG
+
+Với việc hoàn thành đưa vợt ra sau, cú vung về phía trước bắt đầu bằng cách hạ vợt xuống và chân phải kết thúc bước về phía trước bằng cách chạm đất (đối diện, xa bên trái). Sau khi chân phải chạm đất, vai trái và hông bắt đầu xoay, giải phóng năng lượng được lưu trữ trong chân và chuyển nó về phía thân, cánh tay và cuối cùng là vợt.
+
+Sự xoay hông sẽ cho phép cơ cẳng tay giãn ra, dẫn đến đầu vợt tụt lại phía sau (trung tâm bên trái). Sau đó, cánh tay phải kéo núm vợt về phía trước về phía bóng để tụt vợt lần thứ hai.
+
+Sau khi cánh tay phải kéo núm vợt về phía trước, cánh tay trái bắt đầu tiếp quản bằng cách xoay núm vợt về phía cơ thể và giải phóng đầu vợt về phía trước để gặp bóng (trung tâm, và xa bên phải). Chính cánh tay trái tạo ra hầu hết sự xoáy và tốc độ vợt trong khi trách nhiệm chính của cánh tay phải là giúp định hướng cú đánh.
+
+Cánh tay và cổ tay kết hợp để di chuyển đầu vợt theo một đường từ trong ra ngoài về phía bóng. Nếu đánh xoáy lên trên , cổ tay di chuyển lên trên để "cần gạt nước" vợt và cũng di chuyển về phía trước để thêm sức mạnh và vuông góc vợt tại thời điểm tiếp xúc. Giống như cú thuận tay, cú vung cần có sự kết hợp phù hợp giữa đầu vợt di chuyển về phía trước (để tạo sức mạnh) và lên trên (để tạo xoáy lên trên ) trong một nỗ lực duy nhất để tạo ra một cú đánh mạnh mẽ và nhất quán.
+
+Một khi cổ tay di chuyển lên trên và về phía trước trước khi tiếp xúc, chúng tiếp tục di chuyển lên trên để tạo xoáy lên trên , nhưng chuyển động về phía trước của chúng chậm lại một chút trước khi tiếp xúc để kiểm soát va chạm với bóng và định hướng cú đánh.
+
+4. CHẠM BÓNG
+
+Với đầu của bạn vẫn yên và mắt nhìn xuống bóng, thực hiện tiếp xúc với bóng phía trước cơ thể của bạn. Giữ đầu của bạn yên khi bạn xoay vai qua cú đánh ổn định ngực của bạn và cung cấp sức mạnh và sự ổn định cho cánh tay của bạn (bên trái). Trừ khi điểm tiếp xúc cao, vai của bạn nên khá ngang bằng tại thời điểm tiếp xúc để có sự cân bằng tốt.
+
+HỘP HUẤN LUYỆN VIÊN:
+
+Nếu bạn thiếu sự duỗi thẳng tốt trên cú trái tay hai tay của mình, hãy luyện tập đánh một quả bóng bãi biển có trọng lượng từ đường giao bóng. Bạn sẽ thấy rằng nếu bạn không đẩy "qua" quả bóng và duỗi thẳng hoàn toàn, quả bóng bãi biển sẽ không đi được khoảng cách cần thiết để vượt 
+
+Tại thời điểm tiếp xúc, cánh tay phải của bạn nên hơi gập hơn cánh tay trái. Cánh tay hơi gập cung cấp đòn bẩy tốt cho sức mạnh được tạo ra từ chân và hông. Nó cũng cho phép cánh tay trái của bạn duỗi thẳng nhẹ và đẩy vợt qua bóng, giúp bạn đánh với sự duỗi thẳng tốt (bên phải). Cánh tay gập quá nhiều tại thời điểm tiếp xúc sẽ làm giảm sự duỗi thẳng của bạn, trong khi cánh tay quá thẳng sẽ tạo ra một điểm tiếp xúc quá xa cơ thể để kiểm soát vợt một cách hiệu quả.
+
+Vì vai đánh bóng ở phía trước trên cú trái tay, vợt di chuyển theo một đường dài hơn, thẳng hơn về phía mục tiêu sau khi tiếp xúc so với cú thuận tay. Nếu hình ảnh tinh thần của cú thuận tay tưởng tượng bạn đánh qua ba quả bóng xếp hàng, cú trái tay tăng số lượng đó lên năm để kéo dài vùng đánh. Để giúp bạn đạt được điều này, hãy tưởng tượng bạn đang đánh xuống một làn bowling và quả pin đầu tiên là mục tiêu của bạn.
+
+5. TIẾP TÚC CÚ ĐÁNH
+
+Sau khi đánh qua năm quả bóng tưởng tượng, tiếp tục cú đánh bắt đầu với khuỷu tay gập khi vợt đi lên, sang phải, lùi lại và cuối cùng kết thúc bằng cách quấn quanh vai phải của bạn trong một chuyển động mượt mà và thư giãn (dưới đây). Do đó, cú vung hoàn thành một vòng tròn đầy đủ với vai trái kết thúc dưới cằm sau khi bắt đầu với khuỷu tay phải của bạn dưới cằm ở cuối backswing.
+
+Trên các cú trái tay phẳng đến xoáy lên trên  vừa phải, bạn nên kết thúc cú đánh với đốt ngón tay trái nghỉ gần tai phải, và khuỷu tay trái ngang vai chỉ về phía mục tiêu của bạn và hơi cao hơn khuỷu tay phải.
+
+Nếu bạn đang đánh bóng với xoáy lên trên  thêm, vợt sẽ kết thúc thấp hơn, với khuỷu tay gần cơ thể hơn do cung vòm của đầu vợt khi nó quạt qua cơ thể.
+
+Ngay sau khi tiếp xúc, cánh tay trái của Kei Nishikori duỗi thẳng và vợt tiếp tục di chuyển về phía trước song song với mục tiêu của anh.
+
+
+
+IV. NĂM GIAI ĐOẠN
+
+HỘP HUẤN LUYỆN VIÊN:
+
+Hãy tưởng tượng bạn đang đeo một chiếc đồng hồ trên cổ tay trái. Nếu follow through của cú trái tay hai tay của bạn được thực hiện đúng, bạn nên có thể liếc nhìn cổ tay của mình và dễ dàng đọc đồng hồ.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+ANDY MURRAY CÓ MỘT TRONG NHỮNG CÚ trái tay HAI TAY TỐT NHẤT mà trò chơi từng chứng kiến. Đó là một cú đánh phẳng, nhanh và cực kỳ chính xác rất khó để dự đoán.
+
+Trong khung hình đầu tiên, chúng ta thấy anh ấy thiết lập trong tư thế hoàn hảo ở cuối backswing: cằm trên vai, cạnh vợt chỉ lên trên, với tư thế rộng để thêm sức mạnh và sự ổn định. Anh ấy có tay đánh của mình trong grip continental, cung cấp quyền truy cập nhanh vào một trong những cú đánh yêu thích của anh: drop shot.
+
+Trong khung hình thứ hai, hông của anh xoay để tụt và cổ tay của anh hạ đầu vợt để bắt đầu cú vung từ thấp đến cao. Trong khung hình thứ ba, anh thực hiện tiếp xúc phía trước cơ thể và đẩy qua bóng với đầu vẫn yên. Trong khung hình thứ tư, chúng ta thấy kết quả của việc Murray sử dụng rõ ràng cánh tay trái của mình để tăng tốc độ vợt. Một số tay vợt trái tay hai tay sử dụng cánh tay trái nhiều hơn những người khác, và Murray chắc chắn sử dụng nhiều hơn hầu hết. Ở đây, chúng ta thấy cách cánh tay phải của anh nhường cho cánh tay trái khi cánh tay trái của anh vung vợt về phía trước để thêm sức mạnh vào cú trái tay xuyên thấu của anh. Sự thống trị của cánh tay trái cho phép anh giữ hông ổn định hơn và thêm sự che giấu và lừa đảo vào cú đánh của mình. Trong khung hình thứ năm, Murray kết thúc cú đẩy chân của mình và hoàn thành cú vung cân bằng với trọng lượng hoàn toàn trên chân phải và chân trái nghỉ nhẹ trên ngón chân. Trong khung hình thứ sáu, vợt kết thúc quấn quanh vai phải của anh với khuỷu tay trái chỉ về phía mục tiêu của anh. Cơ thể của anh kết thúc ở vị trí hoàn hảo để thực hiện bước phục hồi và quay trở lại nhanh chóng giữa đường baseline.
+
+Của Cú trái tay xoáy lên trên  Một Tay
+
+Cú vung một tay dài hơn cú vung hai tay, vì vậy điều quan trọng là bắt đầu xoay toàn thân  sớm hơn để backswing đầy đủ và cú vung về phía trước trôi chảy. Tay trái giữ cổ vợt, hướng vợt lùi và giúp xoay vai. Tay phải giữ vợt nhẹ nhàng, cho phép tay trái xoay vợt vào grip trái tay ưa thích của bạn.
+
+Đầu vợt chỉ lên trên với tay ở ngang ngực và khuỷu tay gập và thư giãn (trên). Điều quan trọng là chỉ đầu vợt lên trên trong quá trình xoay toàn thân  vì nó tăng tốc độ vợt khi nó rơi xuống sau này. Nhiều tay vợt hàng đầu thích chỉ đầu vợt lên ở khoảng 90 độ trong quá trình xoay toàn thân , nhưng đối với các tay vợt nghiệp dư, tôi thích thấy vợt nghiêng lên ở khoảng 45 độ để đơn giản hóa thời gian.
+
+2. ĐƯA VỢT RA SAU
+
+Sau khi thiết lập trong xoay toàn thân , vợt bắt đầu backswing với tay của bạn ở ngang ngực và khuỷu tay vẫn gập (đối diện, trên cùng bên trái). Vợt nên hơi mở để thư giãn cánh tay và đưa cổ tay vào một vị trí mạnh mẽ để tăng tốc vợt trong cú vung về phía trước. Ở cuối backswing, mặt vợt đóng lại và vòng xuống (đối diện, trên cùng bên phải).
+
+Vai của bạn nên xoay nhiều hơn hông trong backswing, và vòng xoay vai đầy đủ này phụ thuộc lớn vào việc thực hiện một backswing đầy đủ. Các điểm kiểm tra tốt để đảm bảo một backswing đầy đủ là đảm bảo tay của bạn qua hông và cằm của bạn nghỉ gần vai (dưới cùng bên trái). Như đã đề cập với cú trái tay hai tay, nếu backswing của bạn đầy đủ, bạn nên cảm thấy một số sức cản ở phía sau vai phải; sức cản này giúp đẩy vợt về phía trước nhanh hơn.
+
+3. VUNG VỢT RA TRƯỚC
+
+Khi vợt kết thúc vòng xuống của nó để bắt đầu cú vung về phía trước, chân phải chạm đất để đảm bảo động lượng về phía trước. Tiếp theo, hông xoay một lượng nhỏ, khiến vợt tụt lại. Sau đó, núm vợt được kéo ngắn về phía trước chỉ về phía bóng (dưới trung tâm) để tụt vợt thêm một chút và thiết lập nó ở một vị trí mạnh mẽ để tăng tốc về phía trước để gặp bóng.
+
+Khi vợt di chuyển về phía trước đến điểm tiếp xúc, cổ tay cũng di chuyển về phía trước để xoay núm vợt về phía cơ thể, vuông góc mặt vợt với mục tiêu. Cổ tay cũng di chuyển vợt lên trên để chải bóng và tạo ra xoáy lên trên  (dưới bên phải). Hãy nhớ rằng, không giống như xoáy lên trên  trên cú thuận tay, chủ yếu được tạo ra bởi cổ tay và cẳng tay, xoáy lên trên  của cú trái tay được tạo ra chủ yếu bởi chuyển động nâng lên của cổ tay và nâng cánh tay.
+
+Cánh tay duỗi thẳng khi di chuyển vợt về phía trước. Ở đây, điều quan trọng là khuỷu tay giữ thấp và đi qua gần thân. Khuỷu tay "bay" đáng sợ, nơi khuỷu tay nâng lên và gập trên cú vung về phía trước, sẽ khiến đầu vợt rơi xuống dưới cổ tay, hạn chế tốc độ vợt và xoáy lên trên . Nếu khuỷu tay của bạn giữ thấp, vợt có thể thực hiện một cú vung mạnh mẽ từ trong ra ngoài (dưới đây), và cánh tay sẽ ở một vị trí thoải mái để nâng đầu vợt thêm xoáy lên trên  vào cú đánh của bạn.
+
+4. CHẠM BÓNG
+
+Bạn nên thực hiện tiếp xúc với bóng khoảng hai feet phía trước chân phải của mình với đầu vẫn yên và cánh tay đánh duỗi thẳng hoàn toàn (bên phải). Sau khi tiếp xúc, đầu vợt tiếp tục xoay lên trên và duỗi thẳng về phía trước đối diện song song với mục tiêu của bạn và vẫn ở phía bên trái của cơ thể.
+
+Khi cánh tay phải của bạn di chuyển về phía trước sau khi tiếp xúc, cánh tay trái của bạn đang đi lùi và vẫn ở phía sau cơ thể để tăng cường sự cân bằng và làm chậm và hạn chế sự xoay hông. Hông có thể xoay nhẹ, nhưng bất kỳ chuyển động quá mức nào của hông sẽ rút ngắn sự duỗi thẳng và dẫn đến một cú đánh thiếu sức mạnh và kiểm soát. Sự xoay hông là nhỏ, đặc biệt khi đánh một cú trái tay dọc đường biên. Trên cú trái tay chéo sân, điểm tiếp xúc xa hơn phía trước bạn và hông sẽ xoay nhiều hơn.
+
+5. TIẾP TỤC CÚ ĐÁNH
+
+Sau khi vợt duỗi thẳng song song với mục tiêu, nó đóng lại và quạt lên và sang phải (trái). Ở đây, một cánh tay phải thẳng chỉ ra sự duỗi thẳng tốt và tốc độ vợt qua tiếp xúc. Ở cuối cú đánh, tay phải của bạn nên kết thúc hơi trên tầm mắt với núm vợt hướng về phía lưới và cánh tay trái ở phía sau cơ thể (phải). Vợt nên dừng lại ở phía bên phải của đầu bạn giữa vị trí một giờ và hai giờ, tùy thuộc vào hướng và sức mạnh của cú trái tay của bạn.
+
+V. CẮT TRÁI TAY
+
+MẶC DÙ CÚ XOÁY LÊN THỐNG TRỊ trong trò chơi sức mạnh hiện đại, cú cắt trái tay vẫn là một cú đánh thiết yếu. Trong trò chơi ngày nay, nhiều tay vợt cảm thấy thoải mái nhất khi họ ở trong một thói quen đánh những quả bóng xoáy lên trên  ngang ngực. Cú cắt trái tay có thể giữ bóng thấp và ra khỏi vùng đánh ưa thích của đối thủ, làm mất nhịp điệu của họ bằng cách thay đổi tốc độ và quỹ đạo của bóng so với các cú đánh xoáy lên trên  trước đó.
+
+Những cú trái tay một tay tốt nhất là những chuyển động dài và quét. Ở đây, Federer kết thúc cú trái tay một tay của mình với cánh tay đánh cao và duỗi thẳng hoàn toàn.
+
+HỘP HUẤN LUYỆN VIÊN:
+
+Mọi cú groundstroke xoáy lên trên  đều liên quan đến một số "giải phóng" (hoặc tụt) để tạo sức mạnh cũng như một số "giữ" để kiểm soát tại thời điểm tiếp xúc. Một cú vung cứng nhắc không giải phóng sẽ thiếu gia tốc tốt, trong khi một cú vung quá nhiệt tình là một cú không nhất quán. Các tay vợt baseline mạnh có thể sử dụng lượng phù hợp của mỗi loại tùy thuộc vào ý định và tình huống của họ. Khi đánh tấn công trên một quả bóng chậm hoặc sử dụng xoáy lên trên  nặng, cú vung của họ sẽ liên quan đến nhiều giải phóng hơn, và khi nhận một quả bóng nhanh hoặc sử dụng ít xoáy lên trên  hơn, cú vung của họ sẽ có chủ đích hơn. Đánh giá các hoàn cảnh và tìm tỷ lệ giải phóng/giữ đúng trên các cú groundstroke là một yếu tố quan trọng trong việc đánh với sự tấn công có kiểm soát — một phong cách chơi thắng ở bất kỳ cấp độ nào.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+ÍT KHI MỘT TAY VỢT CÓ CÚ TRÁI TAY MỘT TAY làm vũ khí chính của họ, nhưng đây là trường hợp của Richard Gasquet. Cú trái tay một tay của anh có sức mạnh và xoáy khổng lồ, cho phép anh kiểm soát các rally baseline và mang lại cho anh thứ hạng top 10 thế giới.
+
+Gasquet kết thúc backswing của mình cao hơn hầu hết các tay vợt chuyên nghiệp. Điều này có thể làm phức tạp thời gian, nhưng đối với những tay vợt có kỹ năng như Gasquet, nó dẫn đến gia tốc vợt lớn hơn do vợt rơi nhanh hơn vào đầu cú vung về phía trước. Trong khung hình đầu tiên, đưa vợt ra sau đầy đủ của anh kéo vai phải của anh lùi và đặt cằm của anh nghỉ trên vai phải. Trong khung hình thứ hai, chân phải của Gasquet chạm đất để đảm bảo động lượng thu được từ bước về phía trước. Lưu ý cách chân phải của anh được định vị ở góc 45 độ với lưới để đặt hông của anh ở vị trí hoàn hảo cho một cú trái tay chéo sân. Tư thế rộng của anh không chỉ làm cho bước về phía trước dài hơn và mạnh mẽ hơn, mà còn thêm sự hỗ trợ cho thân, cho phép cánh tay vung với lực lớn hơn. Trong khung hình thứ ba, cánh tay của anh tiếp tục duỗi thẳng và giữ gần cơ thể. Đầu vợt của anh thu thập nhiều tốc độ hơn khi nó rơi và bắt đầu đường từ trong ra ngoài đến bóng. Trong khung hình thứ tư, chúng ta thấy đầu vợt của Gasquet tụt lại phía sau tay trước khi tiếp xúc. Từ điểm này của cú vung, vai sẽ di chuyển vợt về phía trước, nhưng chủ yếu là chuyển động của cổ tay và cẳng tay tăng tốc đầu vợt với tốc độ nổ tung về phía tiếp xúc. Trong khung hình thứ năm, Gasquet giữ vợt ở phía bên trái của cơ thể và duỗi vợt về phía trước đến mục tiêu của anh. Lưu ý cách vợt của anh đã xoay lên giữa khung hình bốn và năm, thêm xoáy lên trên  vào cú đánh của anh để kiểm soát tốt hơn. Trong khung hình thứ sáu, vợt của Gasquet quạt sang phải với cánh tay duỗi thẳng hoàn toàn khi anh thực hiện follow through. Khi vai của anh tiếp tục mở cuộn, anh giữ hông của mình cố định bằng cách di chuyển cánh tay trái của mình về phía sau. Chỉ khi cú đánh hoàn thành, Gasquet mới nhìn lên để thấy cú đánh của mình và bắt đầu quá trình phục hồi.
+
+Hơn nữa, không giống như cú trái tay xoáy lên trên , một cú cắt trái tay tốt vẫn có thể được đánh với chân trước thực hiện một bước sang ngang song song với đường baseline (đối diện). Đây là lý do tại sao cú đánh này là một cú phòng thủ hiệu quả; nó có thể được đánh tốt trong khi di chuyển sang ngang với ít hoặc không có động lượng về phía trước. Ngoài ra, trên một cú đánh rộng, khó, điểm tiếp xúc muộn hơn của cú cắt trái tay cho phép nhiều thời gian hơn để đánh bóng, và vì backspin làm cho cú đánh ít tốc độ hơn, nó cũng cung cấp nhiều thời gian hơn để phục hồi. Một cú cắt trái tay hữu ích trong nhiều tình huống khác. Nó có thể được sử dụng như một cú tấn công tiếp cận tạo ra một quả bóng trượt thấp, buộc đối thủ phải cố gắng thực hiện một cú passing shot khó, hoặc để thu hút đối thủ tiến lên phía trong đường baseline để mở sân cho cú đánh tiếp theo của bạn. Nó cũng có thể dẫn đến các cú drop shot được che giấu tốt. Sau khi thiết lập trong đưa vợt ra sau cú cắt trái tay thông thường, bạn có thể nhanh chóng thay đổi cung của cú vung về phía trước để chơi một cú drop shot được ngụy trang. Nó không chỉ là một cú đánh đa năng; nó cũng đòi hỏi ít sức mạnh, thời gian và thời gian thiết lập hơn so với cú trái tay xoáy lên trên. Điều này làm cho nó trở thành một cú đánh dễ thực hiện hơn theo nhiều cách. Kết quả là, các cú cắt trái tay được đánh thường xuyên hơn các cú trái tay xoáy lên trên ở cấp độ nghiệp dư.
+
+Vì cú cắt trái tay được sử dụng rất nhiều, không giống như cú cắt thuận tay ít được sử dụng, một giải thích đầy đủ về năm giai đoạn của cú vung của nó là cần thiết. Cú đánh này có rất nhiều sự đồng nhất về phong cách và có rất ít tranh cãi về kỹ thuật được khuyến nghị. Ví dụ, các tay vợt như Djokovic và Federer có thể có sự khác biệt đáng chú ý trong kỹ thuật xoáy lên trên thuận tay của họ, nhưng sự khác biệt trong các cú cắt trái tay của họ tinh tế hơn.
+
+1. XOAY TOÀN THÂN 
+
+Bắt đầu cú cắt trái tay bằng cách đặt tay phải của bạn vào grip continental và tay trái của bạn trên cổ vợt. Giống như bất kỳ cú đánh nào, grip là chìa khóa. Nếu bạn sử dụng cách thuận taythuận tay, mặt vợt sẽ quá mở và cú đánh sẽ thiếu sức mạnh. Nếu bạn sử dụng grip trái tay eastern, khuỷu tay của bạn sẽ nâng lên trong cú vung về phía trước và khiến đầu vợt của bạn rơi xuống quá nhiều tại thời điểm tiếp xúc. Sau khi thiết lập grip continental, xoay vai của bạn, mở mặt vợt, và đặt nó ở khoảng ngang vai (đối diện).
+
+Federer kết thúc giai đoạn đưa vợt ra sau của cú cắt trái tay của mình với cánh tay hơi gập và vợt ngang vai.
+
+2. ĐƯA VỢT RA SAU
+
+Sau khi thiết lập trong xoay toàn thân , đưa vợt lùi và xoay cơ thể của bạn để ngực của bạn hướng về phía hàng rào bên và đầu của bạn nhìn qua vai phải khi căn chỉnh cú đánh. Vợt nên ở khoảng ngang vai ở cuối đưa vợt ra sau với cánh tay phải của bạn gập nhẹ, tạo thành hình chữ V. Mặt vợt của bạn nên mở, trong khi vợt nên tạo thành hình chữ L với cẳng tay và gần như song song với đường baseline (trên).
+
+3. VUNG VỢT RA TRƯỚC TỚI KHI CHẠM BÓNG
+
+Với mặt vợt mở và định vị trên điểm tiếp xúc ở cuối đưa vợt ra sau (trái), đẩy vợt về phía trước với phần trước của vai trong khi duỗi thẳng cánh tay và giữ cổ tay của bạn chắc chắn (trung tâm). Nếu bạn quá gần bóng, khuỷu tay của bạn sẽ gập và đầu vợt sẽ rơi xuống dưới cổ tay của bạn, gây mất sức mạnh và kiểm soát. Trừ khi bóng thấp, hãy giữ đầu vợt trên cổ tay tại thời điểm tiếp xúc và nhắm đánh hơi quanh phía ngoài của bóng.
+
+Không giống như cung thấp đến cao của cú trái tay xoáy lên trên , cung của cú vung cắt trái tay bắt chước hình dạng giống như một cái búa di chuyển từ cao đến thấp và trở lại cao một lần nữa (dưới). Tuy nhiên, nếu bạn cố gắng đánh với xoáy nhiều hơn, vợt sẽ bắt đầu cao hơn và cú vung xuống sẽ có góc sắc hơn. Độ cao của bóng cũng sẽ ảnh hưởng đến đường đi của vợt. Bóng càng cao, độ dốc càng sắc; bóng thấp hơn sẽ có đường vung phẳng hơn.
+
+Bên cạnh cung của cú vung, có hai sự khác biệt đáng kể khác cần xem xét khi so sánh cú vung về phía trước trên cú cắt trái tay với cú trái tay xoáy lên trên . Đầu tiên, trái ngược với cú trái tay xoáy lên trên , khi vợt di chuyển về phía trước, sức mạnh từ sự xoay hông và sự giãn và co của cơ tay ít cần thiết hơn. Ở đây, hông giữ yên và cổ tay và cẳng tay di chuyển rất ít khi cánh tay đi về phía trước để đánh bóng. Thứ hai, cú trái tay xoáy lên trên  yêu cầu thời gian sau khi chân chạm đất để giải phóng năng lượng lên trên từ chân vào cú vung. Cú cắt trái tay không yêu cầu giải phóng năng lượng tương tự, do đó, bước về phía trước nên hơi muộn hơn và tận dụng nhiều hơn động lượng tuyến tính về phía trước, hơn là động lượng góc lên trên.
+
+
+
+4. CHẠM BÓNG
+
+Mặt vợt mở ra để bắt đầu cú vung về phía trước (đối diện bên trái) vuông góc với bóng, trở nên gần như vuông góc với mặt đất tại thời điểm tiếp xúc (bên phải). Mở vợt quá nhiều tại thời điểm tiếp xúc là một lỗi tôi thường thấy các tay vợt mắc phải, khiến họ đánh bóng lên mà không có nhiều tốc độ và kiểm soát. Điều quan trọng là phải hiểu rằng bạn không cần phải ép backspin với một cú vung sắc xuống và một mặt vợt mở rất nhiều. Backspin sẽ xảy ra tự nhiên với một góc nhẹ xuống và mặt vợt hơi mở.
+
+Roberta Vinci đẩy vợt về phía trước với vai của cô bằng cách duỗi thẳng cánh tay và giữ cổ tay chắc chắn.
+
+Điểm tiếp xúc trên cú cắt trái tay sẽ ít phía trước và xa hơn so với cơ thể so với điểm tiếp xúc cho cú trái tay xoáy lên trên . Điểm tiếp xúc sẽ thay đổi tùy thuộc vào hướng của cú đánh, nhưng nói chung, nó nên xảy ra một foot hoặc ít hơn phía trước chân phải, so với khoảng hai feet phía trước khi đánh một cú trái tay xoáy lên trên  một tay.
+
+Sau khi tiếp xúc, đầu vợt mở ra và rơi xuống khi nó tiếp tục đường cao đến thấp về phía trước (trên). Cánh tay trái di chuyển lùi để cân bằng và giúp bạn đẩy vợt về phía mục tiêu của mình. Nếu tay trái của bạn đi về phía trước, hông của bạn sẽ xoay và vợt sẽ kéo quá nhanh sang phải. Đầu của bạn nên giữ ổn định và chỉ di chuyển sau khi đẩy qua bóng, khi nó nhô lên để xem vị trí của cú đánh của bạn.
+
+HỘP HUẤN LUYỆN VIÊN:
+
+Một vấn đề phổ biến trên cú cắt trái tay là chặt xuống quá sắc qua tiếp xúc. Để giúp các tay vợt vung theo cách này, tôi yêu cầu họ tưởng tượng họ có một chiếc bàn kính dưới đường vung cắt trái tay của họ và thực hiện cú vung của họ theo một cách phẳng hơn để lướt, không phải phá vỡ, chiếc bàn.
+
+ÍT TAY VỢT NÀO ĐÃ TỪNG ĐÁNH CÚ CẮT TRÁI TAY với tốc độ và xoáy như Roger Federer. Cú cắt trái tay của anh thậm chí còn có nhiều vòng quay hơn cú thuận tay xoáy lên trên  đáng sợ của anh.(2) Việc sử dụng cú đánh này thường dẫn đến những quả bóng ngắn cho phép anh tiến lên và tấn công.
+
+Federer phòng thủ quả bóng rộng này với một bước dài, mạnh mẽ song song với đường baseline. Một trong những ưu điểm lớn của cú cắt trái tay là bạn có thể bước sang ngang và vẫn đánh một cú đánh tuyệt vời. Trong khung hình một, anh thiết lập với vai xoay, khuỷu tay gập và thư giãn, và vợt mở và ngang vai. Lưu ý cách anh duy trì sự cân bằng tốt bằng cách giữ đầu thẳng, lưng thẳng và vai ngang bằng. Trong khung hình thứ hai, vợt bắt đầu chuyển động về phía trước và xuống dưới đến bóng. Trong khung hình thứ ba, chân của anh chạm đất và anh nghiêng vào cú đánh để thêm sức mạnh vào cú vung của mình. Trong khung hình thứ tư, đẩy vợt về phía trước với vai của mình, anh thực hiện tiếp xúc với cánh tay thẳng và hông vuông góc với lưới. Vợt mở rất nhiều ở cuối đưa vợt ra sau bây giờ ít hơn đáng kể. Federer đánh cú cắt trái tay của mình với xoáy khổng lồ và do đó vợt của anh phải xoay sắc. Giữa khung hình ba và năm, đầu vợt của anh đã xoay xuống hơn 180 độ; đối với các tay vợt nghiệp dư, tôi khuyên dùng một vòng xoay vợt nhỏ hơn để đơn giản hóa thời gian và cải thiện độ sâu và sự nhất quán của cú đánh. Trong khung hình năm, bóng đã biến mất nhưng mắt của anh vẫn tập trung vào điểm tiếp xúc; không ai theo dõi bóng tốt hơn nhà vô địch người Thụy Sĩ. Federer kết thúc cú vung với tay phải và tay trái của mình ở cùng vị trí trên các phía đối diện của cơ thể, tăng cường sự cân bằng và đẩy nhanh quá trình phục hồi.
+
+Grigor Dimitrov’s racquet opens and continues to drop after contact.
+
+5. TIẾP TỤC CÚ VUNG VỢT
+
+Có một vẻ đẹp tự nhiên trong quá trình tiếp tục cú vung vợt (follow through) khi cánh tay nâng lên theo một trục vuông góc và kết thúc chỉ vào các hướng đối diện. Vợt nên kết thúc ngang vai và chỉ ra ngoài về phía mục tiêu của bạn (dưới). Do điểm tiếp xúc muộn hơn và bản chất gọn gàng của cú vung cắt trái tay, hông và chân sau của bạn sẽ khá ổn định trong quá trình follow through. Trọng lượng của bạn nên nghỉ hoàn toàn trên chân phải, và sau khi hoàn thành cú vung, bước quanh với chân trái và bắt đầu phục hồi.
+
+VI. Luyện tập trái tay
+
+Mục tiêu: Cải thiện cú trái tay dọc đường biên để phòng thủ cú thuận tay inside-out.
+
+Đưa bóng cho đối tác tập luyện của bạn từ đường baseline đến phía trái tay của sân. Đối tác tập luyện của bạn phải trả bóng với một cú thuận tay inside-out. Phản ứng bằng cách đánh cú trái tay dọc đường biên của bạn, và sau đó chơi điểm. Người chơi đầu tiên đạt 11 điểm thắng trò chơi, và sau đó đổi vai trò.
+
+2. BÀI TẬP TÂY BAN NHA
+
+Mục tiêu: Học cách chiến đấu và thành công trong các rally baseline dài.
+
+Bắt đầu với một cú đưa bóng sâu cho đối tác tập luyện của bạn sau đó chơi điểm, đếm số lần bóng vượt qua lưới. Khi điểm kết thúc, người thắng cuộc của điểm sẽ nhận được số điểm bằng với số lần bóng vượt qua lưới. Rally càng dài, điểm càng căng thẳng. Người chơi đầu tiên đạt 50, 75, hoặc 100 điểm (tùy thuộc vào trình độ kỹ năng) thắng trò chơi. Nếu một người chơi mắc lỗi với cú trái tay của họ, người chơi kia sẽ nhận được thêm năm điểm.
+
+3. ZIG ZAG
+
+Mục tiêu: Cải thiện khả năng thay đổi hướng cú đánh trong một rally baseline.
+
+Từ đường baseline, chỉ đánh chéo sân trong khi đối tác tập luyện của bạn chỉ đánh dọc đường biên. Chơi một trò chơi đến 15 điểm nơi mỗi người trong số các bạn phải đánh bóng vào đúng nửa sân hoặc bạn sẽ mất điểm. Sau đó đổi vai trò. Biến thể: Nếu một người chơi đánh bóng của họ vào nửa sai của sân, người chơi kia có tùy chọn dừng chơi và thắng một điểm hoặc tiếp tục điểm sử dụng toàn bộ sân, với người thắng nhận được hai điểm. Murray thường sử dụng drop shot để thu hút đối thủ ra khỏi vị trí.

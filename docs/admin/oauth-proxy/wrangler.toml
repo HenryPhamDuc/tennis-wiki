@@ -1,0 +1,9 @@
+name = "sveltia-cms-github-oauth"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# After `wrangler login` and `wrangler deploy`, set:
+#   wrangler secret put GITHUB_CLIENT_ID
+#   wrangler secret put GITHUB_CLIENT_SECRET
+# Optional (defaults to "*"):
+#   wrangler secret put ALLOWED_ORIGIN

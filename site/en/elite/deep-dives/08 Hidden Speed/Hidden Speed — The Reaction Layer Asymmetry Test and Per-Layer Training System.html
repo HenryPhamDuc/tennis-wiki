@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/elite/deep-dives/08%20Hidden%20Speed/Hidden%20Speed%20%E2%80%94%20The%20Reaction%20Layer%20Asymmetry%20Test%20and%20Per-Layer%20Training%20System.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system" class="nav-link">Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop" class="nav-link">Deep-Dive #8 — Tốc Độ Ẩn — Kiểm Tra Bất Đối Xứng 3 Lớp Phản Ứng và Hệ Thống Tập Theo Lớp</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📖 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-1-the-3-reaction-layers-detail" class="nav-link">Chapter 1 — The 3 Reaction Layers (Detail)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-2-the-asymmetry-test-protocol" class="nav-link">Chapter 2 — The Asymmetry Test Protocol</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-3-layer-1-training-stimulus" class="nav-link">Chapter 3 — Layer 1 Training (Stimulus)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-4-layer-2-training-cortex" class="nav-link">Chapter 4 — Layer 2 Training (Cortex)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-5-layer-3-training-motor" class="nav-link">Chapter 5 — Layer 3 Training (Motor)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-6-the-integration-with-myelin-decision" class="nav-link">Chapter 6 — The Integration with Myelin &amp; Decision</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-7-the-asymmetry-chart" class="nav-link">Chapter 7 — The Asymmetry Chart</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-8-your-hidden-speed-card" class="nav-link">Chapter 8 — Your Hidden Speed Card</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#deep-dive-8-master-card-printable-the-tong-deep-dive-8" class="nav-link">📋 Deep-Dive #8 Master Card — Printable / Thẻ Tổng Deep-Dive #8</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#final-word-loi-cuoi" class="nav-link">🎯 FINAL WORD / LỜI CUỐI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system">Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System<a class="headerlink" href="#deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system" title="Permanent link">&para;</a></h1>
+<h1 id="deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop">Deep-Dive #8 — Tốc Độ Ẩn — Kiểm Tra Bất Đối Xứng 3 Lớp Phản Ứng và Hệ Thống Tập Theo Lớp<a class="headerlink" href="#deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop" title="Permanent link">&para;</a></h1>
+<p><em>The Speed Most Players Never Train — A 25-minute deep-dive for the 5.0+ player.</em></p>
+<p><em>Tốc Độ Hầu Hết Người Chơi Không Bao Giờ Tập — Deep-dive 25 phút cho người chơi 5.0+.</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>What this deep-dive adds.</strong> The Elite Manual Chapter 8 introduced the 3 reaction layers (Stimulus → Cortex → Motor) and the asymmetry test that reveals which layer is YOUR bottleneck. This deep-dive gives you the <em>full operational system:</em> the per-layer test protocols, the per-layer training protocols, and the integration with myelin (Deep-Dive #3) so you build the layer that matters for YOU.</td>
+</tr>
+<tr>
+<td><strong>Who should read this.</strong> Anyone who feels "fast in practice, slow in matches." Anyone whose opponent seems to "see the ball early" or "have more time." Anyone whose reaction-time numbers (from apps) seem inconsistent with their match results.</td>
+</tr>
+<tr>
+<td><strong>Reading time.</strong> ~25 minutes. Per-layer test: 1-2 hours. Per-layer training: 30-60 days.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📖 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Chapter</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The 3 Reaction Layers (Detail)</td>
+<td>3 Lớp Phản Ứng (Chi Tiết)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The Asymmetry Test Protocol</td>
+<td>Phác Đồ Kiểm Tra Bất Đối Xứng</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Layer 1 Training (Stimulus)</td>
+<td>Tập Lớp 1 (Kích Thích)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Layer 2 Training (Cortex)</td>
+<td>Tập Lớp 2 (Vỏ Não)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Layer 3 Training (Motor)</td>
+<td>Tập Lớp 3 (Vận Động)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The Integration with Myelin &amp; Decision</td>
+<td>Tích Hợp với Myelin &amp; Quyết Định</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Asymmetry Chart</td>
+<td>Biểu Đồ Bất Đối Xứng</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Your Hidden Speed Card</td>
+<td>Thẻ Tốc Độ Ẩn Của Bạn</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-1-the-3-reaction-layers-detail">Chapter 1 — The 3 Reaction Layers (Detail)<a class="headerlink" href="#chapter-1-the-3-reaction-layers-detail" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The standard view (and why it's wrong).</strong></td>
+</tr>
+<tr>
+<td>Most coaches say "reaction time" as if it were one number. They test with reaction-time apps (a light or sound appears, you tap as fast as you can). The result: 200-300ms for a 5.0+ player. They conclude: "your reaction time is fine."</td>
+</tr>
+<tr>
+<td><strong>Why this is misleading.</strong> A single reaction-time number masks <em>which layer</em> is the bottleneck. A player with 250ms reaction might be slow at <em>seeing the ball</em> (Layer 1) but fast at <em>moving the racket</em> (Layer 3). Or vice versa. <em>Same total time. Different bottleneck. Different training.</em></td>
+</tr>
+<tr>
+<td><strong>Layer 1 — Stimulus detection (50-100ms).</strong></td>
+</tr>
+<tr>
+<td>The time from "ball leaves opponent's racket" to "my visual system registers it." Includes retina processing, optic nerve transit, and primary visual cortex recognition. <em>The eyes' raw sensing speed.</em></td>
+</tr>
+<tr>
+<td><strong>What affects Layer 1.</strong> Visual acuity (does your eye see clearly?), contrast sensitivity (does your eye see against the sky?), peripheral vs. central processing, eye health, hydration, fatigue.</td>
+</tr>
+<tr>
+<td><strong>Layer 2 — Cortical decision (50-150ms).</strong></td>
+</tr>
+<tr>
+<td>The time from "I see the ball" to "I know what shot to play." Includes pattern recognition, option generation, decision selection. <em>The brain's chess-clock speed.</em></td>
+</tr>
+<tr>
+<td><strong>What affects Layer 2.</strong> Number of "chunks" in memory (Deep-Dive #9), decision rules clarity, pressure state (choking slows Layer 2), practice specificity (myelin here reduces Layer 2 time).</td>
+</tr>
+<tr>
+<td><strong>Layer 3 — Motor execution (50-100ms).</strong></td>
+</tr>
+<tr>
+<td>The time from "I know the shot" to "racket meets ball." Includes motor planning, muscle activation, joint movement. <em>The body's wiring speed.</em></td>
+</tr>
+<tr>
+<td><strong>What affects Layer 3.</strong> Muscle fiber type (fast-twitch %), myelin density (the 6,000% from Deep-Dive #3), warm-up state, CNS fatigue, contact window accuracy.</td>
+</tr>
+<tr>
+<td><strong>The total = 150-350ms.</strong> Most 5.0+ players: 250-300ms total. The fastest: 180-220ms. The slowest 4.5: 350-450ms. <em>The 200ms gap between fast and slow is mostly Layer 2 (decision) and Layer 3 (myelin).</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-2-the-asymmetry-test-protocol">Chapter 2 — The Asymmetry Test Protocol<a class="headerlink" href="#chapter-2-the-asymmetry-test-protocol" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The principle.</strong> To know which layer is YOUR bottleneck, isolate each layer and test independently. <em>Three sub-tests.</em></td>
+</tr>
+<tr>
+<td><strong>Test A — Layer 1 test (stimulus).</strong></td>
+</tr>
+<tr>
+<td><strong>Setup.</strong> Partner holds a tennis ball hidden behind a screen. Partner drops the ball (or reveals it). You say "now!" the moment you see it. <em>Partner records reaction.</em></td>
+</tr>
+<tr>
+<td><strong>Variation.</strong> Repeat with the ball on different background (sky, fence, court). Repeat with the ball moving vs. stationary.</td>
+</tr>
+<tr>
+<td><strong>What you're measuring.</strong> Pure visual reaction speed — Layer 1 only. Expected for 5.0+: 80-150ms. <em>If yours is much higher (180ms+), Layer 1 is bottleneck.</em></td>
+</tr>
+<tr>
+<td><strong>Test B — Layer 2 test (decision).</strong></td>
+</tr>
+<tr>
+<td><strong>Setup.</strong> Partner shows you a card with a <em>direction</em> (left/right) and a <em>shot type</em> (forehand/backhand). You say the shot out loud as fast as you can. <em>Partner records decision time.</em></td>
+</tr>
+<tr>
+<td><strong>Variation.</strong> Random cards. Then <em>patterned</em> cards (you know the next one). Random = tests pattern recognition. Patterned = tests pure output speed.</td>
+</tr>
+<tr>
+<td><strong>What you're measuring.</strong> Decision time — Layer 2 only (no visual stimulus, no motor execution). Expected for 5.0+ with good chunks: 50-150ms. <em>If yours is much higher (200ms+), Layer 2 is bottleneck.</em></td>
+</tr>
+<tr>
+<td><strong>Test C — Layer 3 test (motor).</strong></td>
+</tr>
+<tr>
+<td><strong>Setup.</strong> You know the shot (forehand cross-court). Partner feeds a slow ball. You hit the shot. <em>Partner measures the time from "ball leaves racket" to "racket meets ball" by video at 240fps.</em></td>
+</tr>
+<tr>
+<td><strong>Variation.</strong> Repeat at increasing speeds.</td>
+</tr>
+<tr>
+<td><strong>What you're measuring.</strong> Motor execution — Layer 3 only. Expected for 5.0+ with good myelin: 80-120ms from decision to contact. <em>If yours is much higher (150ms+), Layer 3 is bottleneck.</em></td>
+</tr>
+<tr>
+<td><strong>The asymmetry chart.</strong></td>
+</tr>
+<tr>
+<td>Plot your three test results on a triangle. The longest side = your bottleneck layer. <em>Train that one.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-3-layer-1-training-stimulus">Chapter 3 — Layer 1 Training (Stimulus)<a class="headerlink" href="#chapter-3-layer-1-training-stimulus" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Layer 1 training principles.</strong> Layer 1 is mostly <em>physical</em> (eye health, retina, optic nerve). The training improves <em>processing speed,</em> not anatomy.</td>
+</tr>
+<tr>
+<td><strong>Drill 1 — Peripheral-vision ball tracking (10 min/day).</strong></td>
+</tr>
+<tr>
+<td>Stand still. Partner hits balls to random spots. You don't move your head. <em>Only your eyes track.</em> This trains the peripheral processing speed.</td>
+</tr>
+<tr>
+<td><strong>Drill 2 — Contrast sensitivity drill (5 min/day).</strong></td>
+</tr>
+<tr>
+<td>Practice in varied lighting (sunny, cloudy, indoor, dusk). The eye's contrast sensitivity adapts to environment. <em>Variety trains adaptation.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 3 — Color-tracking ball tosses (5 min/day).</strong></td>
+</tr>
+<tr>
+<td>Use balls of different colors (yellow, orange, white). Toss and call the color before catching. <em>This trains visual categorization speed.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 4 — Eye-hand motor priming (3 min/day).</strong></td>
+</tr>
+<tr>
+<td>Slow finger-tapping while watching a moving object (clock hand, swinging ball). The eye tracks while the hand moves. <em>Trains parallel processing.</em></td>
+</tr>
+<tr>
+<td><strong>Layer 1 training time:</strong> 25 min/day, 30 days minimum. Expected improvement: 20-40ms.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-4-layer-2-training-cortex">Chapter 4 — Layer 2 Training (Cortex)<a class="headerlink" href="#chapter-4-layer-2-training-cortex" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Layer 2 training principles.</strong> Layer 2 is <em>cognitive.</em> The training is to <em>build more chunks</em> (Deep-Dive #9) and <em>automate decision rules.</em> This is the largest lever at 5.0+.</td>
+</tr>
+<tr>
+<td><strong>Drill 1 — Pattern recognition (10 min/day).</strong></td>
+</tr>
+<tr>
+<td>Watch tennis video. Pause at the moment of contact. <em>Predict</em> where the ball will go (line, depth, spin). Unpause and check. <em>Over time, prediction becomes faster.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 2 — Decision flash cards (5 min/day).</strong></td>
+</tr>
+<tr>
+<td>Create 20 flashcards showing tennis situations (opponent at net, ball landing short, etc.). Show each for 1 second. <em>Name</em> your shot out loud in 1 second. Time yourself; reduce time gradually.</td>
+</tr>
+<tr>
+<td><strong>Drill 3 — Tactical scenario rehearsal (10 min/day).</strong></td>
+</tr>
+<tr>
+<td>Mentally rehearse specific scenarios: "I serve, opponent returns deep to my backhand, I have 2 seconds, what do I hit?" <em>Run 5 scenarios per day. Each in &lt;5 seconds decision.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 4 — Random-cue match simulation (15 min/day).</strong></td>
+</tr>
+<tr>
+<td>Partner calls a random shot direction. You must decide and execute within 1.5 seconds. <em>This combines Layer 2 + Layer 3 under mild pressure.</em></td>
+</tr>
+<tr>
+<td><strong>Layer 2 training time:</strong> 40 min/day, 30-60 days. Expected improvement: 30-60ms.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-5-layer-3-training-motor">Chapter 5 — Layer 3 Training (Motor)<a class="headerlink" href="#chapter-5-layer-3-training-motor" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Layer 3 training principles.</strong> Layer 3 is <em>myelin.</em> The training is to myelinate your stroke patterns with high specificity (Deep-Dive #3) and high variability (variable practice).</td>
+</tr>
+<tr>
+<td><strong>Drill 1 — Stroke-specific myelination (20 min/day).</strong></td>
+</tr>
+<tr>
+<td>Pick ONE stroke. Drill it at 50% speed for 50 reps, 70% speed for 30 reps, 90% speed for 20 reps. <em>The attention is on Layer 3 (motor) only.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 2 — Variable forehand (15 min/day).</strong></td>
+</tr>
+<tr>
+<td>See Deep-Dive #3 variable practice protocol. <em>This trains Layer 3 to myelinate the common-essential across variations.</em></td>
+</tr>
+<tr>
+<td><strong>Drill 3 — Fast-twitch primer (10 min/day).</strong></td>
+</tr>
+<tr>
+<td>Off-court: plyometric push-ups, jump squats, medicine ball throws. On-court: 3-step approach + sprint, repeated 10x. <em>Fast-twitch muscle fibers are trainable in older players (slower than young, but possible).</em></td>
+</tr>
+<tr>
+<td><strong>Drill 4 — Reaction-execution chain (15 min/day).</strong></td>
+</tr>
+<tr>
+<td>Partner feeds random balls. You react AND execute. The time pressure trains Layer 2 + Layer 3 together. <em>Record decision-to-contact time at 240fps video. Target &lt;300ms total.</em></td>
+</tr>
+<tr>
+<td><strong>Layer 3 training time:</strong> 60 min/day, 60-90 days. Expected improvement: 30-80ms.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-6-the-integration-with-myelin-decision">Chapter 6 — The Integration with Myelin &amp; Decision<a class="headerlink" href="#chapter-6-the-integration-with-myelin-decision" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 3-layer stack.</strong></td>
+</tr>
+<tr>
+<td><strong>Layer 1</strong> (stimulus) is the <em>eyes.</em> Train with vision drills. Improve by 20-40ms in 30 days.</td>
+</tr>
+<tr>
+<td><strong>Layer 2</strong> (decision) is the <em>brain.</em> Train with chunks and flash cards. Improve by 30-60ms in 30-60 days.</td>
+</tr>
+<tr>
+<td><strong>Layer 3</strong> (motor) is the <em>muscles + myelin.</em> Train with stroke drills. Improve by 30-80ms in 60-90 days.</td>
+</tr>
+<tr>
+<td><strong>The total speed gain potential.</strong></td>
+</tr>
+<tr>
+<td>If you train all 3 layers systematically for 90 days, your <em>total</em> reaction time can drop 80-180ms. From 300ms to 220-250ms (or lower). <em>That is the difference between 4.5 and 5.5.</em></td>
+</tr>
+<tr>
+<td><strong>The "asymmetric training" principle.</strong> If your asymmetry test showed Layer 2 is your bottleneck (e.g., 220ms), spend 70% of your training time on Layer 2, 30% on the other two. <em>Don't equal-distribute; address YOUR bottleneck first.</em></td>
+</tr>
+<tr>
+<td><strong>The weekly re-test.</strong> Re-run the asymmetry test every 2 weeks. As one layer improves, the bottleneck may shift. <em>Recalibrate.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-7-the-asymmetry-chart">Chapter 7 — The Asymmetry Chart<a class="headerlink" href="#chapter-7-the-asymmetry-chart" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Drawing your chart.</strong></td>
+</tr>
+<tr>
+<td>Draw a triangle. Label the corners L1, L2, L3. Plot your three test results as distances from the corresponding corner (the higher the time, the longer the line). <em>The longest line is your bottleneck.</em></td>
+</tr>
+<tr>
+<td><strong>Reading examples.</strong></td>
+</tr>
+<tr>
+<td><strong>Balanced player.</strong> All three lines similar length (e.g., L1=110ms, L2=130ms, L3=100ms). Train all three equally.</td>
+</tr>
+<tr>
+<td><strong>Layer 2 dominant bottleneck.</strong> L2 line is much longer (e.g., L1=100ms, L2=220ms, L3=110ms). <em>Classic 4.0-4.5 player.</em> Train decision heavily.</td>
+</tr>
+<tr>
+<td><strong>Layer 3 dominant bottleneck.</strong> L3 line is much longer (e.g., L1=100ms, L2=120ms, L3=200ms). <em>Older or injured player.</em> Train myelin + fast-twitch.</td>
+</tr>
+<tr>
+<td><strong>Layer 1 dominant bottleneck.</strong> L1 line is much longer (e.g., L1=200ms, L2=130ms, L3=110ms). <em>Often a vision or fatigue issue.</em> Train eyes + check eye health.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-8-your-hidden-speed-card">Chapter 8 — Your Hidden Speed Card<a class="headerlink" href="#chapter-8-your-hidden-speed-card" title="Permanent link">&para;</a></h1>
+<hr />
+<h3 id="deep-dive-8-master-card-printable-the-tong-deep-dive-8">📋 Deep-Dive #8 Master Card — Printable / Thẻ Tổng Deep-Dive #8<a class="headerlink" href="#deep-dive-8-master-card-printable-the-tong-deep-dive-8" title="Permanent link">&para;</a></h3>
+<div class="codehilite"><pre><span></span><code>╔═══════════════════════════════════════════════════════════════╗
+║  THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY               ║
+║  THẺ TỐC ĐỘ ẨN — BẤT ĐỐI XỨNG 3 LỚP CỦA BẠN               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  MY ASYMMETRY TEST RESULTS / KẾT QUẢ BẤT ĐỐI XỨNG:          ║
+║  L1 (stimulus): _______ ms                                   ║
+║  L1 (kích thích): _______ ms                                 ║
+║  L2 (decision): _______ ms                                   ║
+║  L2 (quyết định): _______ ms                                  ║
+║  L3 (motor): _______ ms                                      ║
+║  L3 (vận động): _______ ms                                    ║
+║  Total: _______ ms / Tổng: _______ ms                          ║
+║                                                                ║
+║  MY BOTTLENECK / NÚT CỔ CHAI CỦA TÔI:                        ║
+║  _______________________________                              ║
+║                                                                ║
+║  MY TRAINING ALLOCATION / PHÂN BỔ TẬP CỦA TÔI:              ║
+║  L1 drills: ____ min/day  (____%)                             ║
+║  Bài L1: ____ phút/ngày  (____%)                              ║
+║  L2 drills: ____ min/day  (____%)                             ║
+║  Bài L2: ____ phút/ngày  (____%)                              ║
+║  L3 drills: ____ min/day  (____%)                             ║
+║  Bài L3: ____ phút/ngày  (____%)                              ║
+║                                                                ║
+║  THE 4 L1 DRILLS / 4 BÀI L1:                                 ║
+║  □ Peripheral-vision tracking (Theo dõi ngoại vi)             ║
+║  □ Contrast sensitivity (Nhạy tương phản)                     ║
+║  □ Color-tracking ball tosses (Ném bóng theo màu)              ║
+║  □ Eye-hand motor priming (Khởi động mắt-tay)                ║
+║                                                                ║
+║  THE 4 L2 DRILLS / 4 BÀI L2:                                 ║
+║  □ Pattern recognition video (Video nhận dạng mẫu)             ║
+║  □ Decision flash cards (Thẻ nháy quyết định)                 ║
+║  □ Tactical scenario rehearsal (Dàn dựng chiến thuật)         ║
+║  □ Random-cue match sim (Mô phỏng trận cò ngẫu nhiên)         ║
+║                                                                ║
+║  THE 4 L3 DRILLS / 4 BÀI L3:                                 ║
+║  □ Stroke-specific myelination (Myelin cú cụ thể)             ║
+║  □ Variable forehand (Forehand biến thiên)                     ║
+║  □ Fast-twitch primer (Khởi động sợi nhanh)                  ║
+║  □ Reaction-execution chain (Chuỗi phản ứng-thực hiện)        ║
+║                                                                ║
+║  2-WEEK RE-TEST SCHEDULE / LỊCH KIỂM TRA LẠI 2 TUẦN:       ║
+║  Test 1: ____/____   Test 2: ____/____                       ║
+║  Kiểm tra 1: ____/____   Kiểm tra 2: ____/____               ║
+║  Test 3: ____/____   Test 4: ____/____                       ║
+║  Kiểm tra 3: ____/____   Kiểm tra 4: ____/____               ║
+║                                                                ║
+║  💭 MASTER CUE / CÂU NHẮC TỔNG:                                ║
+║     &quot;Train the layer that is slow. Not the layer that is fun.&quot; ║
+║     &quot;Tập lớp chậm. Không phải lớp vui.&quot;                        ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
+
+
+╔═══════════════════════════════════════════════════════════════╗
+║  THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY               ║
+║  THẺ TỐC ĐỘ ẨN — BẤT ĐỐI XỨNG 3 LỚP CỦA BẠN               ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  MY ASYMMETRY TEST / KIỂM TRA BẤT ĐỐI XỨNG:                 ║
+║  L1: _____ms   L2: _____ms   L3: _____ms  Total: _____ms     ║
+║                                                                ║
+║  BOTTLENECK: ____________ ALLOCATION: L1 ___% L2 ___% L3 ___%║
+║                                                                ║
+║  💭 MASTER CUE: &quot;Train the slow layer, not the fun one.&quot;       ║
+║     &quot;Tập lớp chậm, không lớp vui.&quot;                             ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
+</code></pre></div>
+
+<hr />
+<h2 id="final-word-loi-cuoi">🎯 FINAL WORD / LỜI CUỐI<a class="headerlink" href="#final-word-loi-cuoi" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>You have spent years training the layer your body could train. The layer your body <em>couldn't</em> train — that's where the 200ms lives. The asymmetry test takes 1-2 hours. The training takes 90 days. The result is a 5.0+ player who <em>feels like</em> they have more time than their opponent — because they do. The "hidden speed" was always there, hidden behind your imbalanced training.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong>Sources / Nguồn:</strong></p>
+<ul>
+<li>Tennis Research - Neuro athletics - with Kwen-Ollama.md (Ch 3.4 — "Cách làm chủ tốc độ phản ứng," 3-layer model (Stimulus → Cortex → Motor), 200ms expert edge)</li>
+<li>Tennis Research with Kwen-Ollama.md (Ch 1.4 — 3 tầng phản xạ — sensory, decision, motor; Ch 11.7 — per-layer training; Ch 6 — hidden speed gap analysis)</li>
+<li>Advanced Tennis Kinetic-Chain Manual.md (Reaction-Time Pyramid, per-stage training protocols)</li>
+<li>Futuristic Tennis Manual by Olama.md (Neuro athletic, NKF reaction-time coefficient, Δt_synch)</li>
+</ul>
+<p><strong>See you on the court, engineer.</strong> / <strong>Hẹn gặp trên sân, kỹ sư.</strong></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

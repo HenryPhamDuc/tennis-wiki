@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/foundation/deep-dives/Doubles%20Serves/Doubles%20Serves%20%E2%80%94%20The%204%20Serve%20Patterns.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>🎾 Topic Deep Dive — The 4 Doubles Serve Patterns - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#topic-deep-dive-the-4-doubles-serve-patterns" class="nav-link">🎾 Topic Deep Dive — The 4 Doubles Serve Patterns</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#serve-trong-oi" class="nav-link">*Serve Trong Đôi</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents" class="nav-link">📖 Table of Contents</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-1-the-big-idea-the-serve-is-a-setup-not-a-weapon" class="nav-link">Chapter 1 — The Big Idea: The Serve Is a Setup, Not a Weapon</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#why-the-doubles-serve-is-different-from-singles" class="nav-link">Why the Doubles Serve Is Different from Singles</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-4-doubles-serve-patterns-one-line-summary" class="nav-link">The 4 Doubles Serve Patterns — One-Line Summary</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-50-slice-serve-why-slice-is-the-doubles-default" class="nav-link">The 50+ Slice Serve — Why Slice Is the Doubles Default</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-doubles-serve-mechanics-a-quick-refresher" class="nav-link">The Doubles Serve Mechanics — A Quick Refresher</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-2-serve-wide-the-35-default-slice-to-the-backhand" class="nav-link">Chapter 2 — Serve Wide: The 3.5 Default (Slice to the Backhand)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-step-serve-wide-sequence" class="nav-link">The 3-Step Serve Wide Sequence</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="4"><a href="#part-1-the-aim-where-to-land" class="nav-link">🎯 Part 1 — The Aim (Where to Land)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#part-2-the-slice-how-to-hit-it" class="nav-link">🎯 Part 2 — The Slice (How to Hit It)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#part-3-the-call-coordinating-with-the-poacher" class="nav-link">🎯 Part 3 — The Call (Coordinating with the Poacher)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-serve-wide-cheat-sheet" class="nav-link">The Serve Wide Cheat Sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-3-serve-to-the-t-the-safest-target-down-the-middle" class="nav-link">Chapter 3 — Serve to the T: The Safest Target (Down the Middle)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#when-to-use-the-t-serve" class="nav-link">When to Use the T Serve</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-t-serve-aim-where-to-land" class="nav-link">The T Serve Aim (Where to Land)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-t-serve-mechanics" class="nav-link">The T Serve Mechanics</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-t-serve-cheat-sheet" class="nav-link">The T Serve Cheat Sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-4-serve-to-the-body-the-underused-weapon" class="nav-link">Chapter 4 — Serve to the Body: The Underused Weapon</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#when-to-use-the-body-serve" class="nav-link">When to Use the Body Serve</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-body-serve-aim-where-to-land" class="nav-link">The Body Serve Aim (Where to Land)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-body-serve-cheat-sheet" class="nav-link">The Body Serve Cheat Sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-5-serve-volley-drills-cues-warnings-50-check-cheat-sheet" class="nav-link">Chapter 5 — Serve + Volley, Drills, Cues, Warnings, 50+ Check, Cheat Sheet</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#5a-serve-volley-the-50-offensive-option-for-the-brave" class="nav-link">5A. Serve + Volley — The 50+ Offensive Option (For the Brave)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-serve-volley-cheat-sheet" class="nav-link">The Serve + Volley Cheat Sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-5-drills-you-can-do-this-week" class="nav-link">🛠️ The 5 Drills You Can Do This Week</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="4"><a href="#drill-1-the-aim-only-practice-solo-5-minday" class="nav-link">Drill 1 — The "Aim Only" Practice (Solo, 5 min/day)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#drill-2-the-slice-vs-flat-comparison-solo-5-minday" class="nav-link">Drill 2 — The "Slice vs Flat" Comparison (Solo, 5 min/day)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#drill-3-the-call-the-poach-practice-with-partner-10-min" class="nav-link">Drill 3 — The "Call the Poach" Practice (With Partner, 10 min)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#drill-4-the-4-patterns-rotation-with-partner-15-min" class="nav-link">Drill 4 — The "4 Patterns" Rotation (With Partner, 15 min)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="4"><a href="#drill-5-the-toss-direction-practice-solo-3-minday" class="nav-link">Drill 5 — The "Toss Direction" Practice (Solo, 3 min/day)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#master-cue-list" class="nav-link">🧠 Master Cue List</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-7-common-errors-at-35" class="nav-link">⚠️ The 7 Common Errors at 3.5</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-50-reality-check" class="nav-link">🩺 The 50+ Reality Check</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-tai-chi-meditation" class="nav-link">🧘 The Tai Chi Meditation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#mental-checklist-before-each-doubles-serve" class="nav-link">📄 Mental Checklist Before Each Doubles Serve</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#one-page-printable-cheat-sheet" class="nav-link">📄 One-Page Printable Cheat Sheet</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#end-of-deep-dive" class="nav-link">🏁 END OF DEEP DIVE</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="topic-deep-dive-the-4-doubles-serve-patterns">🎾 Topic Deep Dive — The 4 Doubles Serve Patterns<a class="headerlink" href="#topic-deep-dive-the-4-doubles-serve-patterns" title="Permanent link">&para;</a></h1>
+<h3 id="serve-trong-oi">*Serve Trong Đôi<a class="headerlink" href="#serve-trong-oi" title="Permanent link">&para;</a></h3>
+<hr />
+<blockquote>
+<p><strong>Assumptions</strong>
+- Skill level: <strong>3.5 recreational</strong> (USTA / NTRP equivalent)
+- Depth: <strong>standard</strong> — simple cues, clear drills, no pro-level patterns
+- Language: <strong>EN
+- Voice: friendly master coach, honest about difficulty, focused on what you can copy this month
+- The big ideas: </strong>(1) In doubles, the serve is a SETUP, not a weapon. (2) The 4 serve patterns are: Wide, T, Body, Serve + Volley. (3) At 50+, the slice serve is the joint-friendly default.<strong>
+- </strong>Rational default for 3.5+: The slice serve to the backhand (Wide).** The flat serve, the kick serve, and the body serve are "next steps."</p>
+</blockquote>
+<hr />
+<h2 id="table-of-contents">📖 Table of Contents<a class="headerlink" href="#table-of-contents" title="Permanent link">&para;</a></h2>
+<ol>
+<li><a href="#chapter-1">The Big Idea — The Serve Is a Setup, Not a Weapon</a></li>
+<li><a href="#chapter-2">Serve Wide — The 3.5 Default (Slice to the Backhand)</a></li>
+<li><a href="#chapter-3">Serve to the T — The Safest Target (Down the Middle)</a></li>
+<li><a href="#chapter-4">Serve to the Body — The Underused Weapon</a></li>
+<li><a href="#chapter-5">Serve + Volley + Drills, Cues, Warnings, 50+ Check, Cheat Sheet</a></li>
+</ol>
+<hr />
+<p><a name="chapter-1"></a></p>
+<h2 id="chapter-1-the-big-idea-the-serve-is-a-setup-not-a-weapon">Chapter 1 — The Big Idea: The Serve Is a Setup, Not a Weapon<a class="headerlink" href="#chapter-1-the-big-idea-the-serve-is-a-setup-not-a-weapon" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>In singles, the serve IS a weapon. A 200 km/h serve is an ace. A 150 km/h serve is a setup for the next shot.</td>
+</tr>
+<tr>
+<td>In doubles, the serve is almost never an ace. <strong>In doubles, the serve is a setup.</strong></td>
+</tr>
+<tr>
+<td>Why? Because the net partner is waiting to poach. A serve that's "fast enough to ace" is also fast enough to give the net partner a clear interception. <strong>The 3.5 doubles serve is not about power — it's about placement and coordination with your partner.</strong></td>
+</tr>
+<tr>
+<td>The 3.5 player who tries to "blast" the serve in doubles loses more points than they win. The ball is in the net, or long, or right at the poacher. <strong>The smart doubles serve: slice, place, coordinate.</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🧠 <strong>Mental model
+Think of the serve in doubles as a </strong>chess opening<strong>. The serve is your first move. </strong>The 4 serve patterns are the 4 most common chess openings in doubles.** Each one leads to a different middle game. The smart player picks the serve pattern that matches the situation AND coordinates with the net partner.</p>
+<p><em>Hình dung serve trong đôi như </em><em>khai cuộc cờ vua</em><em>. Serve là nước đi đầu. </em><em>4 mẫu serve là 4 khai cuộc phổ biến nhất trong đôi.</em><em> Mỗi cái dẫn tới trung cuộc khác nhau. Người chơi thông minh chọn mẫu serve phù hợp tình huống VÀ phối hợp với partner lưới.</em></p>
+</blockquote>
+<h3 id="why-the-doubles-serve-is-different-from-singles">Why the Doubles Serve Is Different from Singles<a class="headerlink" href="#why-the-doubles-serve-is-different-from-singles" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th></th>
+<th>Tiếng Việt</th>
+<th>Singles</th>
+<th>Doubles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Goal</strong></td>
+<td>🇺🇸 What the serve is trying to achieve</td>
+<td>🇻🇳 Serve cố gắng đạt gì</td>
+<td>Ace OR setup for groundstroke</td>
+<td>Setup for poach</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>How hard to hit</td>
+<td>Đánh mạnh cỡ nào</td>
+<td>Full power (1st serve)</td>
+<td><strong>70-80% of full power</strong></td>
+</tr>
+<tr>
+<td><strong>Placement</strong></td>
+<td>Where to aim</td>
+<td>Nhắm đâu</td>
+<td>Anywhere in the box</td>
+<td><strong>Specific target (T, wide, body)</strong></td>
+</tr>
+<tr>
+<td><strong>Spin</strong></td>
+<td>Topspin / slice / kick</td>
+<td>Topspin / slice / kick</td>
+<td>All three</td>
+<td><strong>Slice is the default</strong></td>
+</tr>
+<tr>
+<td><strong>Trajectory</strong></td>
+<td>High arc / low / flat</td>
+<td>Vòng cung cao / thấp / phẳng</td>
+<td>Any</td>
+<td><strong>Low, dipping, denies the poach</strong></td>
+</tr>
+<tr>
+<td><strong>Risk</strong></td>
+<td>What happens if you fail</td>
+<td>Điều gì xảy ra nếu thất bại</td>
+<td>Double fault</td>
+<td><strong>Ace for opponent + poach winner</strong></td>
+</tr>
+<tr>
+<td><strong>Partner</strong></td>
+<td>The other team</td>
+<td>Đội bên kia</td>
+<td>Just you vs server</td>
+<td><strong>Server + poacher (you + partner)</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>The 3.5 mistake
+The 3.5 player treats the doubles serve like a singles serve. They hit it as hard as they can, aim at the center, and hope. </strong>The ball is too fast for the returner to handle (good), but ALSO too fast for the returner to control (bad — the returner can't return, the poacher can't poach, the ball is in the net).<strong> The fix: hit the doubles serve at 70-80% power, with slice, to a specific target. </strong>The smart doubles serve is a sliced, placed, coordinated serve — not a power serve.**</p>
+<p><em>Người 3.5 đối xử serve đôi như serve singles. Họ đánh mạnh nhất có thể, nhắm giữa, và hy vọng. </em><em>Bóng quá nhanh để người trả xử lý (tốt), nhưng CŨNG quá nhanh để người trả kiểm soát (xấu — người trả không trả được, người cắt không cắt được, bóng vào lưới).</em><em> Sửa: đánh serve đôi ở 70-80% lực, với slice, vào mục tiêu cụ thể. </em><em>Serve đôi thông minh là serve slice, đặt, phối hợp — không phải serve lực.</em>**</p>
+</blockquote>
+<h3 id="the-4-doubles-serve-patterns-one-line-summary">The 4 Doubles Serve Patterns — One-Line Summary<a class="headerlink" href="#the-4-doubles-serve-patterns-one-line-summary" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Pattern</th>
+<th></th>
+<th>Tiếng Việt</th>
+<th>When</th>
+<th>Khi nào</th>
+<th>50+ default?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Serve Wide</strong></td>
+<td>🇺🇸 Slice to the backhand corner, pulls the returner off the court</td>
+<td>🇻🇳 Slice vào góc backhand, kéo người trả rộng ra</td>
+<td>🇺🇸 First serve, returner's backhand is weaker</td>
+<td>🇻🇳 Serve 1, backhand người trả yếu</td>
+<td><strong>✅ YES (50+ default)</strong></td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Serve to the T</strong></td>
+<td>🇺🇸 Down the middle, makes the returner hit up at the poacher</td>
+<td>🇻🇳 Xuôi giữa, ép người trả đánh lên vào người cắt</td>
+<td>When you want the poach</td>
+<td>Khi muốn cắt</td>
+<td><strong>Smart option</strong></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Serve to the Body</strong></td>
+<td>🇺🇸 At the returner's body, jams them</td>
+<td>🇻🇳 Vào thân người trả, ép họ</td>
+<td>When returner is crowding the line</td>
+<td>Khi người trả dồn biên</td>
+<td><strong>Underused weapon</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Serve + Volley</strong></td>
+<td>🇺🇸 You serve AND follow to the net (no partner)</td>
+<td>🇻🇳 Bạn giao VÀ lên lưới (không có partner)</td>
+<td>When you don't have a partner, or returning team's poach is weak</td>
+<td>Khi không có partner, hoặc cắt của đội trả yếu</td>
+<td><strong>For the brave</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🧠 <strong>The "first move determines the middle game" principle
+The 4 serve patterns map to 4 different middle-game situations:
+- </strong>Serve Wide<strong> → the returner is pulled wide, the poach covers the middle (the smart 50+ default)
+- </strong>Serve to the T<strong> → the returner is jammed in the middle, the poach has 2 sides to cover (the poacher's dream)
+- </strong>Serve to the Body<strong> → the returner has no swing, the poach covers the open court
+- </strong>Serve + Volley** → the server becomes the poacher (offensive 50+ option)</p>
+<p><em>4 mẫu serve map tới 4 tình huống trung cuộc khác nhau:</em>
+- <em>Serve Wide → người trả bị kéo rộng, người cắt che giữa (mặc định thông minh 50+)</em>
+- <em>Serve T → người trả bị ép giữa, người cắt có 2 bên để che (mơ ước người cắt)</em>
+- <em>Serve Thân → người trả không vung được, người cắt che sân mở</em>
+- <em>Serve + Volley → server trở thành người cắt (tấn công 50+)</em></p>
+<p><strong>Pick the pattern that matches the situation. The pattern IS the strategy.</strong></p>
+</blockquote>
+<h3 id="the-50-slice-serve-why-slice-is-the-doubles-default">The 50+ Slice Serve — Why Slice Is the Doubles Default<a class="headerlink" href="#the-50-slice-serve-why-slice-is-the-doubles-default" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>At 50+, the slice serve is the doubles default. Why?</td>
+</tr>
+<tr>
+<td>1. <strong>Less shoulder load.</strong> The slice is a brushing motion, not a flat hit. The shoulder doesn't absorb the impact — the strings do. <strong>At 50+, the slice is the joint-friendly serve.</strong></td>
+</tr>
+<tr>
+<td>2. <strong>Lower trajectory.</strong> The slice dips through the contact zone, then curves DOWN. The ball lands at the receiver's feet, not at their shoulders. <strong>Lower target = more margin for error.</strong></td>
+</tr>
+<tr>
+<td>3. <strong>Curves away from the returner.</strong> The slice curves to the LEFT (for right-handers serving to a right-handed returner). The returner has to reach across their body. <strong>Curve + cross-body reach = weaker return.</strong></td>
+</tr>
+<tr>
+<td>4. <strong>Consistency.</strong> The slice has a higher in-percentage than the flat serve for most 3.5 players. <strong>70% slice in is better than 50% flat in.</strong></td>
+</tr>
+<tr>
+<td><strong>The flat serve is a weapon. The slice serve is a setup. In doubles, you want setup, not weapon.</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>The "slice is the 50+ insurance" rule
+</strong>The slice serve is the 50+ doubles insurance policy.<strong> A 50+ player who serves 80% slice and 20% flat will have 70%+ first serves in, will pull the returner off the court, and will give the poacher a hittable ball. </strong>The slice is the joint-friendly, percentage-friendly, poacher-friendly serve.** Lead with the slice. Add the flat only on big points.</p>
+<p><em>Serve slice là chính sách bảo hiểm đôi 50+. Người 50+ giao 80% slice và 20% flat sẽ có 70%+ serve 1 vào, sẽ kéo người trả rộng ra, và sẽ cho người cắt bóng để cắt. </em><em>Slice là serve thân thiện khớp, thân thiện tỷ lệ, thân thiện cắt bóng.</em><em> Dẫn đầu với slice. Thêm flat chỉ ở điểm lớn.</em></p>
+</blockquote>
+<h3 id="the-doubles-serve-mechanics-a-quick-refresher">The Doubles Serve Mechanics — A Quick Refresher<a class="headerlink" href="#the-doubles-serve-mechanics-a-quick-refresher" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The mechanics of the doubles serve are the SAME as the singles serve. The Serve deep dive (6 chapters) covers the grip, trophy, throw, toss, rhythm, and contact in detail.</td>
+</tr>
+<tr>
+<td><strong>The 4 quick reminders for the doubles serve:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Grip: Continental</strong> (V to bevel #2, the volley grip). Same for all 4 patterns.</td>
+</tr>
+<tr>
+<td>2. <strong>Trophy: elbow up, racket above the ear, palm on edge</strong> (NOT waiter's tray).</td>
+</tr>
+<tr>
+<td>3. <strong>Throw: pronation, not wrist snap.</strong> The forearm rotates 180° from trophy to follow-through.</td>
+</tr>
+<tr>
+<td>4. <strong>Toss: higher than feels right, slightly in front, brushing the ball at the peak.</strong></td>
+</tr>
+<tr>
+<td><strong>What's NEW in this deep dive: the STRATEGY — where to aim, when to use which pattern, how to coordinate with the poacher.</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><a name="chapter-2"></a></p>
+<h2 id="chapter-2-serve-wide-the-35-default-slice-to-the-backhand">Chapter 2 — Serve Wide: The 3.5 Default (Slice to the Backhand)<a class="headerlink" href="#chapter-2-serve-wide-the-35-default-slice-to-the-backhand" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Serve Wide is the <strong>3.5 doubles default</strong> and the <strong>50+ doubles insurance</strong>. Slice the ball into the returner's backhand corner. <strong>Three things happen:</strong></td>
+</tr>
+<tr>
+<td>1. The returner is <strong>pulled wide</strong> off the court. They have to run to reach the ball.</td>
+</tr>
+<tr>
+<td>2. The return is a <strong>defensive, loopy ball</strong> (the returner has no time to attack). The ball floats in the middle.</td>
+</tr>
+<tr>
+<td>3. Your <strong>poacher has a hittable ball</strong> in the middle of the court. The poach wins.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🧠 <strong>Mental model
+The Serve Wide is a </strong>trap<strong>. You don't ace the returner — you PULL them off the court so the poacher can win the next shot. The serve is the setup. The poach is the point. </strong>Don't try to win the point on the serve. Win it on the next shot.**</p>
+<p><em>Serve Rộng là </em><em>bẫy</em><em>. Anh không ace người trả — anh KÉO họ rộng ra để người cắt thắng cú tiếp. Serve là setup. Cú cắt là điểm. </em><em>Đừng cố thắng điểm trên serve. Thắng ở cú tiếp.</em>**</p>
+</blockquote>
+<h3 id="the-3-step-serve-wide-sequence">The 3-Step Serve Wide Sequence<a class="headerlink" href="#the-3-step-serve-wide-sequence" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>1. AIM:    Pick the backhand corner (deuce corner for right-handers serving to the ad court)
+2. SLICE:  Use slice (not flat), 70-80% power, brush the right side of the ball
+3. CALL:  &quot;Mine!&quot; or &quot;Poach!&quot; to your partner BEFORE the serve — coordinate the poach
+</code></pre></div>
+<h4 id="part-1-the-aim-where-to-land">🎯 Part 1 — The Aim (Where to Land)<a class="headerlink" href="#part-1-the-aim-where-to-land" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The aim is the deuce corner of the service box</strong> (for right-handers serving to the ad court). Specifically:</td>
+</tr>
+<tr>
+<td>- <strong>2-3 feet inside the singles sideline</strong> (the wider the corner, the more the returner is pulled).</td>
+</tr>
+<tr>
+<td>- <strong>2-3 feet inside the baseline</strong> (deep target, the returner has to run forward AND wide).</td>
+</tr>
+<tr>
+<td><strong>The target is a 1-foot window, not a pinpoint.</strong> Anywhere in the deuce corner works.</td>
+</tr>
+<tr>
+<td><strong>Why the backhand?</strong> Most 3.5 returners have a weaker backhand return than forehand. The wide slice exploits the weakness AND pulls them off the court.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>The "backhand + corner" rule
+</strong>At 3.5, 80% of returns go back to the server's backhand<strong> (a 3.5 returner is more comfortable with the forehand). By serving wide to the backhand, you're forcing the returner to hit a defensive backhand OR a cross-court forehand that lands in the middle. </strong>Either way, the poach wins.**</p>
+<p><em>Ở 3.5, 80% return đi về backhand server (người trả 3.5 thoải mái forehand hơn). Bằng cách giao rộng vào backhand, anh ép người trả đánh backhand phòng thủ HOẶC forehand chéo sân rơi giữa. </em><em>Cả hai cách, cú cắt thắng.</em>**</p>
+</blockquote>
+<h4 id="part-2-the-slice-how-to-hit-it">🎯 Part 2 — The Slice (How to Hit It)<a class="headerlink" href="#part-2-the-slice-how-to-hit-it" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The slice serve has 3 specific mechanics that differ from the flat serve:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Contact the right side of the ball</strong> (for a right-hander serving to the ad court). The racket brushes the right side, the ball curves to the LEFT.</td>
+</tr>
+<tr>
+<td>2. <strong>Toss slightly to the right</strong> (about 1 foot right of center, so the ball meets the racket on its right side).</td>
+</tr>
+<tr>
+<td>3. <strong>Pronate through the contact</strong> (forearm rotates 180°), but the contact is at the <strong>right side of the ball</strong>, not the back.</td>
+</tr>
+<tr>
+<td><strong>The slice is NOT a slow serve.</strong> It's a serve with the same speed as the flat, but with a curve. The curve is what makes it special.</td>
+</tr>
+<tr>
+<td><strong>Power: 70-80% of full.</strong> The slice is not a max-effort serve. It's a controlled serve. <strong>The control is more important than the power.</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🎯 <strong>The "right side brush" cue
+</strong>Imagine the ball is a clock face<strong> (looking down at the top of the ball). For a right-hander serving to the ad court, the slice contact is at </strong>3 o'clock<strong> (the right side). The racket brushes from 7 o'clock to 3 o'clock — a 4-hour diagonal across the right side of the ball. </strong>The brush makes the ball spin to the LEFT.** That's the slice.</p>
+<p><em>Hình dung bóng là mặt đồng hồ (nhìn xuống đỉnh bóng). Với người thuận phải giao vào sân ad, contact slice ở </em><em>3 giờ</em><em> (phía phải). Vợt quét từ 7 giờ tới 3 giờ — đường chéo 4 giờ qua phía phải bóng. </em><em>Quét làm bóng xoay sang TRÁI.</em><em> Đó là slice.</em></p>
+</blockquote>
+<h4 id="part-3-the-call-coordinating-with-the-poacher">🎯 Part 3 — The Call (Coordinating with the Poacher)<a class="headerlink" href="#part-3-the-call-coordinating-with-the-poacher" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The Serve Wide is a TEAM shot.</strong> You serve wide, your partner poaches. <strong>The coordination is everything.</strong></td>
+</tr>
+<tr>
+<td><strong>The 3-step coordination:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Before the serve: "Poach!" or "Mine!"</strong> Shout to your partner. <strong>The poacher needs to know the serve is wide</strong> (so they know to poach to the middle, not to the wide side).</td>
+</tr>
+<tr>
+<td>2. <strong>During the serve: watch the returner.</strong> The instant the returner makes contact, <strong>call "Now!" or "GO!"</strong> to the poacher. This is the "go signal" for the poach.</td>
+</tr>
+<tr>
+<td>3. <strong>After the serve: stay back or move in.</strong> If the poach wins, you stay back (you're already there). If the poach misses, you cover the alley.</td>
+</tr>
+<tr>
+<td><strong>The call is non-verbal-friendly.</strong> At 50+ with hearing issues, use <strong>hand signals</strong>: fist behind back = "I'm poaching," open hand = "Stay."</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🩺 <strong>The 50+ hearing tip
+</strong>At 50+, you might not hear your partner's "Poach!" call over the wind, the crowd, or your own serving rhythm.<strong> The fix: </strong>pre-serve hand signals<strong>. Before every serve, the poacher shows the server a hand signal: fist = "I'm poaching," open hand = "Stay," pointing to the alley = "Cover the alley." </strong>The signal is silent, visible, and 50+ reliable.**</p>
+<p><em>Ở tuổi 50+, anh có thể không nghe tiếng "Cắt!" của partner qua gió, đám đông, hoặc nhịp serve của chính anh. Sửa: </em><em>tín hiệu tay trước serve</em><em>. Trước mỗi serve, người cắt cho server tín hiệu tay: nắm đấm = "tôi cắt," tay mở = "ở lại," chỉ biên ngoài = "che biên ngoài." </em><em>Tín hiệu im, thấy được, và đáng tin ở 50+.</em>**</p>
+</blockquote>
+<h3 id="the-serve-wide-cheat-sheet">The Serve Wide Cheat Sheet<a class="headerlink" href="#the-serve-wide-cheat-sheet" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>When</strong></td>
+<td>First serve, returner's backhand is weaker</td>
+<td>Serve 1, backhand người trả yếu</td>
+</tr>
+<tr>
+<td><strong>Aim</strong></td>
+<td>Deuce corner, 2-3 ft inside sideline AND baseline</td>
+<td>Góc deuce, 60-90 cm trong biên VÀ baseline</td>
+</tr>
+<tr>
+<td><strong>Spin</strong></td>
+<td>Slice (brush the right side of the ball)</td>
+<td>Slice (quét phía phải bóng)</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>70-80% of full</td>
+<td>70-80% tối đa</td>
+</tr>
+<tr>
+<td><strong>Trajectory</strong></td>
+<td>Low, dipping, curves LEFT</td>
+<td>Thấp, dipping, cong TRÁI</td>
+</tr>
+<tr>
+<td><strong>Call before serve</strong></td>
+<td>"Poach!" or hand signal (fist)</td>
+<td>"Cắt!" hoặc tín hiệu tay (nắm đấm)</td>
+</tr>
+<tr>
+<td><strong>Call during serve</strong></td>
+<td>"Now!" or "GO!" as returner contacts</td>
+<td>"Giờ!" hoặc "ĐI!" khi người trả chạm</td>
+</tr>
+<tr>
+<td><strong>Why it works</strong></td>
+<td>Pulls returner wide, poach covers middle</td>
+<td>Kéo người trả rộng, cắt che giữa</td>
+</tr>
+<tr>
+<td><strong>50+ default</strong></td>
+<td>YES — slice + corner + poach = the 50+ trifecta</td>
+<td>CÓ — slice + góc + cắt = trifecta 50+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><a name="chapter-3"></a></p>
+<h2 id="chapter-3-serve-to-the-t-the-safest-target-down-the-middle">Chapter 3 — Serve to the T: The Safest Target (Down the Middle)<a class="headerlink" href="#chapter-3-serve-to-the-t-the-safest-target-down-the-middle" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Serve to the T is the <strong>safest doubles serve</strong>. Down the middle, into the service line, makes the returner hit <strong>UP</strong> at the poacher.</td>
+</tr>
+<tr>
+<td>Why is the T the safest? Three reasons:</td>
+</tr>
+<tr>
+<td>1. <strong>The shortest path to the service line.</strong> The T target is the closest spot in the service box to the net. The ball gets there fast, the returner has less reaction time.</td>
+</tr>
+<tr>
+<td>2. <strong>The returner has to hit UP at the poacher.</strong> A T serve has a high arc (to clear the net), and the return goes UP into the poacher's wheelhouse.</td>
+</tr>
+<tr>
+<td>3. <strong>The returner is jammed.</strong> A T serve pulls the returner toward the middle. They have to choose forehand or backhand quickly, and either choice is a defensive shot.</td>
+</tr>
+<tr>
+<td><strong>The T serve is the poacher's dream.</strong> The return floats UP, the poacher hits DOWN. The poach wins.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🧠 <strong>Mental model
+The T serve is a </strong>ceiling press<strong>. The ball goes UP at the returner (because of the high arc to clear the net), the return has to go UP again (because the returner is jammed), and the poacher is waiting at the </strong>lowest<strong> point of the parabola. </strong>The geometry guarantees a poach win.**</p>
+<p><em>Serve T là </em><em>trần ép</em><em>. Bóng đi LÊN tới người trả (vì vòng cung cao qua lưới), return phải đi LÊN nữa (vì người trả bị ép), và người cắt chờ ở </em><em>điểm thấp nhất</em><em> của parabol. </em><em>Hình học đảm bảo cú cắt thắng.</em>**</p>
+</blockquote>
+<h3 id="when-to-use-the-t-serve">When to Use the T Serve<a class="headerlink" href="#when-to-use-the-t-serve" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The poacher is ready</strong></td>
+<td>🇺🇸 Your partner is at the net, hand signal = fist</td>
+<td>🇻🇳 Partner ở lưới, tín hiệu tay = nắm đấm</td>
+</tr>
+<tr>
+<td><strong>The returner likes to cross-court</strong></td>
+<td>🇺🇸 The returner hits cross-court 90% of the time</td>
+<td>🇻🇳 Người trả đánh chéo sân 90% thời gian</td>
+</tr>
+<tr>
+<td><strong>The returner is crowding the sideline</strong></td>
+<td>🇺🇸 The returner is standing 2-3 feet from the sideline</td>
+<td>🇻🇳 Người trả đứng cách biên 60-90 cm</td>
+</tr>
+<tr>
+<td><strong>You need a safety serve</strong></td>
+<td>🇺🇸 You're at deuce, you need a high-percentage first serve</td>
+<td>🇻🇳 Anh ở deuce, cần serve 1 tỷ lệ cao</td>
+</tr>
+<tr>
+<td><strong>All 4 conditions = T serve.</strong> The T is the "smart" serve when the poach is ready.</td>
+<td><strong>Cả 4 điều kiện = serve T.</strong> T là serve "thông minh" khi cắt sẵn sàng.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>The "poacher's dream" insight
+</strong>The T serve is the poacher's dream because the geometry forces the return UP.<strong> A wide serve pulls the returner off the court (the return goes low and across). A body serve jams the returner (the return goes high but to the side). A T serve is the ONLY serve that forces the return UP into the poacher's wheelhouse. </strong>If your poacher is fast and confident, the T serve gives them the most hittable balls.**</p>
+<p><em>Serve T là mơ ước người cắt vì hình học ép return LÊN. Serve rộng kéo người trả rộng (return đi thấp và ngang). Serve thân ép người trả (return đi cao nhưng sang bên). Serve T là serve DUY NHẤT ép return LÊN vào vùng ngon người cắt. </em><em>Nếu người cắt anh nhanh và tự tin, serve T cho họ nhiều bóng để cắt nhất.</em>**</p>
+</blockquote>
+<h3 id="the-t-serve-aim-where-to-land">The T Serve Aim (Where to Land)<a class="headerlink" href="#the-t-serve-aim-where-to-land" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The T target is the center service line, about 1 foot inside the service line.</strong></td>
+</tr>
+<tr>
+<td>Specifically:</td>
+</tr>
+<tr>
+<td>- <strong>1 foot inside the service line</strong> (deep target, the returner has less time).</td>
+</tr>
+<tr>
+<td>- <strong>1 foot on the deuce side of the center line</strong> (for right-handers serving to the ad court) or <strong>1 foot on the ad side</strong> (for serving to the deuce court).</td>
+</tr>
+<tr>
+<td><strong>The T target is a 1-foot window, not a pinpoint.</strong> Anywhere near the center line works.</td>
+</tr>
+<tr>
+<td><strong>The arc to the T is higher than the wide serve</strong> (because the T is closer to the net, the ball has to clear the net at a steeper angle). This high arc is what forces the return UP.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🎯 <strong>The "high arc" cue
+</strong>The T serve's high arc is a feature, not a bug.<strong> The high arc is what forces the return UP into the poacher's wheelhouse. A flat T serve would be a body serve (different pattern, different chapter). </strong>The T is high and deep, with the ball landing in the middle third of the service box.** That's the geometry that creates the poach opportunity.</p>
+<p><em>Vòng cung cao của serve T là tính năng, không phải lỗi. Vòng cung cao là thứ ép return LÊN vào vùng ngon người cắt. Serve T phẳng sẽ là serve thân (mẫu khác, chương khác). </em><em>T là cao và sâu, với bóng rơi phần ba giữa service box.</em><em> Đó là hình học tạo cơ hội cắt.</em></p>
+</blockquote>
+<h3 id="the-t-serve-mechanics">The T Serve Mechanics<a class="headerlink" href="#the-t-serve-mechanics" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The T serve can be a flat serve OR a slice serve.</strong> Both work.</td>
+</tr>
+<tr>
+<td>- <strong>Flat T:</strong> maximum power, 90% of full, hit the back of the ball. Higher risk, higher reward.</td>
+</tr>
+<tr>
+<td>- <strong>Slice T:</strong> slice with extra curve, 70-80% of full, brush the right side. Lower risk, slightly less reward.</td>
+</tr>
+<tr>
+<td><strong>At 50+, lead with the slice T.</strong> The flat T is for big points (3rd set, 5-4 in tiebreak).</td>
+</tr>
+<tr>
+<td><strong>The toss is different from the wide serve.</strong> For a T serve, toss the ball 1 foot LEFT of center (so the ball meets the racket on its left side, which makes the face close over the top of the ball).</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>The "toss direction" rule
+</strong>Toss direction controls serve direction.<strong> Toss right → slice wide right. Toss center → flat down the middle. Toss left → kick up and to the left. </strong>The toss is the steering wheel of the serve.** A 3.5 player who can't control the toss direction can't control the serve direction.</p>
+<p><em>Hướng tung kiểm soát hướng serve. Tung phải → slice rộng phải. Tung giữa → flat xuôi giữa. Tung trái → kick lên và sang trái. </em><em>Tung là vô lăng của serve.</em><em> Người 3.5 không kiểm soát được hướng tung thì không kiểm soát được hướng serve.</em></p>
+</blockquote>
+<h3 id="the-t-serve-cheat-sheet">The T Serve Cheat Sheet<a class="headerlink" href="#the-t-serve-cheat-sheet" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>When</strong></td>
+<td>Poacher ready, returner likes cross-court, returner crowding sideline, need safety serve</td>
+<td>Người cắt sẵn, người trả thích chéo sân, dồn biên, cần serve an toàn</td>
+</tr>
+<tr>
+<td><strong>Aim</strong></td>
+<td>Center service line, 1 ft inside service line</td>
+<td>Vạch giữa, 30 cm trong vạch service</td>
+</tr>
+<tr>
+<td><strong>Spin</strong></td>
+<td>Flat OR slice (slice is 50+ default)</td>
+<td>Flat HOẶC slice (slice là mặc định 50+)</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>70-80% slice, 90% flat</td>
+<td>70-80% slice, 90% flat</td>
+</tr>
+<tr>
+<td><strong>Trajectory</strong></td>
+<td>High arc, deep</td>
+<td>Vòng cung cao, sâu</td>
+</tr>
+<tr>
+<td><strong>Toss</strong></td>
+<td>1 foot left of center</td>
+<td>30 cm trái giữa</td>
+</tr>
+<tr>
+<td><strong>Call before serve</strong></td>
+<td>"Poach!" or hand signal (fist)</td>
+<td>"Cắt!" hoặc tín hiệu tay (nắm đấm)</td>
+</tr>
+<tr>
+<td><strong>Why it works</strong></td>
+<td>Forces return UP, poach hits DOWN</td>
+<td>Ép return LÊN, người cắt đập XUỐNG</td>
+</tr>
+<tr>
+<td><strong>50+ default</strong></td>
+<td>YES — the slice T is the 50+ "smart" serve</td>
+<td>CÓ — T slice là serve "thông minh" 50+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><a name="chapter-4"></a></p>
+<h2 id="chapter-4-serve-to-the-body-the-underused-weapon">Chapter 4 — Serve to the Body: The Underused Weapon<a class="headerlink" href="#chapter-4-serve-to-the-body-the-underused-weapon" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The body serve is the <strong>most underused serve in 3.5 doubles</strong>. Most players only know "wide" and "T." They don't know the body serve.</td>
+</tr>
+<tr>
+<td>The body serve is <strong>devastating</strong> at 3.5. Why?</td>
+</tr>
+<tr>
+<td>1. <strong>The returner can't swing.</strong> A body serve hits the returner at their torso. They can't extend their arms to swing. <strong>The return is a half-volley or a block.</strong></td>
+</tr>
+<tr>
+<td>2. <strong>The return is a slow floater.</strong> A jammed returner hits a slow, loopy ball. <strong>The poacher has all the time in the world.</strong></td>
+</tr>
+<tr>
+<td>3. <strong>The returner is in a defensive position.</strong> They can't attack from a body serve. The point is yours.</td>
+</tr>
+<tr>
+<td><strong>The body serve is "for the brave" at 3.5 because it's technically harder</strong> (the toss has to be precise, the contact has to be at the body). But once learned, it's a winning weapon.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🧠 <strong>Mental model
+The body serve is a </strong>jamming shot<strong>. The returner's arms are pinned to their body, their swing is short, their return is a float. </strong>The body serve is the closest thing to a guaranteed poach in doubles** — the return is always slow, always loopy, always hittable.</p>
+<p><em>Serve thân là </em><em>cú ép</em><em>. Tay người trả bị ghim vào thân, vung ngắn, return là float. </em><em>Serve thân là thứ gần nhất với cú cắt đảm bảo trong đôi</em><em> — return luôn chậm, luôn vòng, luôn để cắt.</em></p>
+</blockquote>
+<h3 id="when-to-use-the-body-serve">When to Use the Body Serve<a class="headerlink" href="#when-to-use-the-body-serve" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The returner crowds the line</strong></td>
+<td>🇺🇸 The returner is standing 2-3 feet from the sideline, expecting a wide serve</td>
+<td>🇻🇳 Người trả đứng cách biên 60-90 cm, chờ serve rộng</td>
+</tr>
+<tr>
+<td><strong>The returner likes to attack</strong></td>
+<td>🇺🇸 The returner has a big forehand or backhand and wants to attack</td>
+<td>🇻🇳 Người trả có forehand hoặc backhand lớn và muốn tấn công</td>
+</tr>
+<tr>
+<td><strong>The poacher is ready for a put-away</strong></td>
+<td>🇺🇸 Your partner is at the net, hand signal = fist, ready to end the point</td>
+<td>🇻🇳 Partner ở lưới, tín hiệu tay = nắm đấm, sẵn sàng kết thúc điểm</td>
+</tr>
+<tr>
+<td><strong>The wind is hard to read</strong></td>
+<td>🇺🇸 The wind makes wide serves unpredictable, the T is too predictable</td>
+<td>🇻🇳 Gió làm serve rộng khó đoán, T quá dễ đoán</td>
+</tr>
+<tr>
+<td><strong>All 4 = body serve.</strong> The body serve is the "anti-prediction" serve.</td>
+<td><strong>Cả 4 = serve thân.</strong> Serve thân là serve "chống dự đoán."</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>The "crowding the line" insight
+</strong>Most 3.5 returners stand 2-3 feet from the sideline<strong> — they're preparing for the wide serve. A body serve catches them at their body. </strong>The returner who was ready for the wide serve is now caught at the body, no swing, no attack, slow float.** The poach wins.</p>
+<p><em>Hầu hết người trả 3.5 đứng cách biên 60-90 cm — họ chuẩn bị cho serve rộng. Serve thân bắt họ ở thân. </em><em>Người trả sẵn sàng cho serve rộng giờ bị bắt ở thân, không vung, không tấn công, float chậm.</em><em> Cú cắt thắng.</em></p>
+</blockquote>
+<h3 id="the-body-serve-aim-where-to-land">The Body Serve Aim (Where to Land)<a class="headerlink" href="#the-body-serve-aim-where-to-land" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The body serve hits the returner at their torso.</strong> Specifically:</td>
+</tr>
+<tr>
+<td>- <strong>1-2 feet inside the center service line</strong> (the opposite of the T, on the returner's body side).</td>
+</tr>
+<tr>
+<td>- <strong>At the returner's torso height</strong> (the ball hits them at the belly button or chest).</td>
+</tr>
+<tr>
+<td><strong>The target is a 1-2 foot window.</strong> The ball should hit the returner, not pass them.</td>
+</tr>
+<tr>
+<td><strong>If the ball passes the returner, it's a fault.</strong> The body serve is a high-percentage target only if the returner is well-positioned. If the returner is far from the body line, the body serve becomes a fault.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>The 3.5 trap with the body serve
+</strong>The 3.5 player who tries the body serve often faults<strong> — the body serve has a tighter margin than the wide or T. The ball has to be at the body, not behind or in front. </strong>At 3.5, the body serve is "for the brave" because of the margin issue.** Lead with the wide serve, add the T serve, and only add the body serve once the wide and T are automatic.</p>
+<p><em>Người 3.5 cố serve thân thường lỗi — serve thân có biên hẹp hơn serve rộng hoặc T. Bóng phải ở thân, không phía sau hoặc phía trước. </em><em>Ở 3.5, serve thân là "dành cho người dũng cảm" vì vấn đề biên.</em><em> Dẫn đầu với serve rộng, thêm serve T, và chỉ thêm serve thân khi serve rộng và T đã tự động.</em></p>
+</blockquote>
+<h3 id="the-body-serve-cheat-sheet">The Body Serve Cheat Sheet<a class="headerlink" href="#the-body-serve-cheat-sheet" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>When</strong></td>
+<td>Returner crowds line, returner likes to attack, poacher ready for put-away, wind is hard</td>
+<td>Người trả dồn biên, thích tấn công, cắt sẵn kết liễu, gió khó</td>
+</tr>
+<tr>
+<td><strong>Aim</strong></td>
+<td>1-2 ft inside center line, at returner's torso</td>
+<td>30-60 cm trong vạch giữa, ở thân người trả</td>
+</tr>
+<tr>
+<td><strong>Spin</strong></td>
+<td>Flat (or slice)</td>
+<td>Flat (hoặc slice)</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>80% of full</td>
+<td>80% tối đa</td>
+</tr>
+<tr>
+<td><strong>Trajectory</strong></td>
+<td>Flat, fast, into the body</td>
+<td>Phẳng, nhanh, vào thân</td>
+</tr>
+<tr>
+<td><strong>Toss</strong></td>
+<td>1 foot right of center (so the ball goes into the body)</td>
+<td>30 cm phải giữa (để bóng đi vào thân)</td>
+</tr>
+<tr>
+<td><strong>Call before serve</strong></td>
+<td>"Poach!" or hand signal (fist)</td>
+<td>"Cắt!" hoặc tín hiệu tay (nắm đấm)</td>
+</tr>
+<tr>
+<td><strong>Why it works</strong></td>
+<td>Jams the returner, no swing, slow floater</td>
+<td>Ép người trả, không vung, floater chậm</td>
+</tr>
+<tr>
+<td><strong>50+ frequency</strong></td>
+<td>Once per game, not every point</td>
+<td>Một lần mỗi game, không mỗi điểm</td>
+</tr>
+<tr>
+<td><strong>When NOT to use</strong></td>
+<td>Returner is far from the body line, you need a high-percentage safety serve</td>
+<td>Người trả xa đường thân, cần serve an toàn tỷ lệ cao</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><a name="chapter-5"></a></p>
+<h2 id="chapter-5-serve-volley-drills-cues-warnings-50-check-cheat-sheet">Chapter 5 — Serve + Volley, Drills, Cues, Warnings, 50+ Check, Cheat Sheet<a class="headerlink" href="#chapter-5-serve-volley-drills-cues-warnings-50-check-cheat-sheet" title="Permanent link">&para;</a></h2>
+<h3 id="5a-serve-volley-the-50-offensive-option-for-the-brave">5A. Serve + Volley — The 50+ Offensive Option (For the Brave)<a class="headerlink" href="#5a-serve-volley-the-50-offensive-option-for-the-brave" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Serve + Volley is the <strong>most aggressive</strong> of the 4 patterns. You serve AND follow to the net. There's no partner — you are both the server AND the poacher.</td>
+</tr>
+<tr>
+<td><strong>When it works:</strong> when you don't have a partner (singles), when the returner's return is weak (singles or cutthroat doubles), when the body needs a change of pace.</td>
+</tr>
+<tr>
+<td><strong>The 3 steps:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Serve</strong> (any pattern, usually the wide slice for the 50+ default).</td>
+</tr>
+<tr>
+<td>2. <strong>Split-step</strong> as the returner makes contact.</td>
+</tr>
+<tr>
+<td>3. <strong>Sprint to the net at 70%</strong> (not 100% — save the knees). Arrive at the net, split-step again, volley.</td>
+</tr>
+<tr>
+<td><strong>At 50+, the Serve + Volley is "for the brave"</strong> because of the sprint load on the knees and the heart. <strong>Use it once or twice per set, not every point.</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🩺 <strong>The 50+ Serve + Volley rule
+</strong>The Serve + Volley at 50+ has a hard limit: the sprint.<strong> The serve itself is joint-friendly (Continental + slice + 70% power = low load). But the </strong>70% sprint<strong> to the net — that's the risk. </strong>At 50+, use Serve + Volley once or twice per set, on the points where the body feels good.** Your heart, your knees, and your back will thank you.</p>
+<p><em>Serve + Volley ở 50+ có giới hạn cứng: chạy. Bản thân serve thân thiện khớp (Continental + slice + 70% lực = ít tải). Nhưng </em><em>chạy 70%</em><em> tới lưới — đó là rủi ro. </em><em>Ở tuổi 50+, dùng Serve + Volley một hai lần mỗi set, ở điểm cơ thể cảm thấy tốt.</em><em> Tim, gối, và lưng anh sẽ cảm ơn.</em></p>
+</blockquote>
+<h3 id="the-serve-volley-cheat-sheet">The Serve + Volley Cheat Sheet<a class="headerlink" href="#the-serve-volley-cheat-sheet" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Aspect</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>When</strong></td>
+<td>No partner, weak returner, body needs pace change</td>
+<td>Không partner, return yếu, cơ thể cần đổi nhịp</td>
+</tr>
+<tr>
+<td><strong>Serve</strong></td>
+<td>Wide slice (50+ default)</td>
+<td>Slice rộng (mặc định 50+)</td>
+</tr>
+<tr>
+<td><strong>Transition</strong></td>
+<td>Split-step → 70% sprint → split-step</td>
+<td>Split-step → chạy 70% → split-step</td>
+</tr>
+<tr>
+<td><strong>Net finish</strong></td>
+<td>Crosscourt volley (the default from Volley deep dive)</td>
+<td>Volley chéo (mặc định từ Volley deep dive)</td>
+</tr>
+<tr>
+<td><strong>50+ frequency</strong></td>
+<td>Once or twice per set, not every point</td>
+<td>Một hai lần mỗi set, không mỗi điểm</td>
+</tr>
+<tr>
+<td><strong>When NOT to use</strong></td>
+<td>Body says "no sprint today," returner is a strong attacker</td>
+<td>Cơ thể nói "không chạy hôm nay," người trả tấn công mạnh</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="the-5-drills-you-can-do-this-week">🛠️ The 5 Drills You Can Do This Week<a class="headerlink" href="#the-5-drills-you-can-do-this-week" title="Permanent link">&para;</a></h3>
+<h4 id="drill-1-the-aim-only-practice-solo-5-minday">Drill 1 — The "Aim Only" Practice (Solo, 5 min/day)<a class="headerlink" href="#drill-1-the-aim-only-practice-solo-5-minday" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stand at the baseline. Place 3 cones (or use 3 towels) at the 3 serve targets:</td>
+</tr>
+<tr>
+<td>- <strong>Cone 1:</strong> wide deuce corner (Serve Wide target).</td>
+</tr>
+<tr>
+<td>- <strong>Cone 2:</strong> center service line, 1 ft inside (Serve T target).</td>
+</tr>
+<tr>
+<td>- <strong>Cone 3:</strong> 1-2 ft inside center line, at returner's body (Serve Body target).</td>
+</tr>
+<tr>
+<td><strong>Hit 10 serves at each cone.</strong> Goal: 7/10 in the target window.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="drill-2-the-slice-vs-flat-comparison-solo-5-minday">Drill 2 — The "Slice vs Flat" Comparison (Solo, 5 min/day)<a class="headerlink" href="#drill-2-the-slice-vs-flat-comparison-solo-5-minday" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hit 10 flat serves (aim for the wide corner). Then 10 slice serves (aim for the wide corner).</td>
+</tr>
+<tr>
+<td><strong>Notice the difference:</strong></td>
+</tr>
+<tr>
+<td>- <strong>Flat serve:</strong> the ball goes straight, fast, then drops. Less margin.</td>
+</tr>
+<tr>
+<td>- <strong>Slice serve:</strong> the ball curves, dips, lands at the receiver's feet. More margin.</td>
+</tr>
+<tr>
+<td><strong>At 50+, the slice is the smarter default.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="drill-3-the-call-the-poach-practice-with-partner-10-min">Drill 3 — The "Call the Poach" Practice (With Partner, 10 min)<a class="headerlink" href="#drill-3-the-call-the-poach-practice-with-partner-10-min" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>You serve. Your partner is at the net. <strong>Before every serve, your partner shows a hand signal:</strong></td>
+</tr>
+<tr>
+<td>- <strong>Fist</strong> = "I'm poaching."</td>
+</tr>
+<tr>
+<td>- <strong>Open hand</strong> = "Stay."</td>
+</tr>
+<tr>
+<td>- <strong>Point to alley</strong> = "Cover the alley."</td>
+</tr>
+<tr>
+<td><strong>You serve, you read the signal, you serve to the target that matches the signal.</strong></td>
+</tr>
+<tr>
+<td><strong>Goal: 20 serves, 18 with correct signal interpretation.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="drill-4-the-4-patterns-rotation-with-partner-15-min">Drill 4 — The "4 Patterns" Rotation (With Partner, 15 min)<a class="headerlink" href="#drill-4-the-4-patterns-rotation-with-partner-15-min" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Play a practice set. <strong>Each service game, your partner calls out which of the 4 patterns to use</strong> (Wide, T, Body, or +Volley).</td>
+</tr>
+<tr>
+<td><strong>You execute the called pattern.</strong> If it's Wide, serve wide. If it's T, serve T.</td>
+</tr>
+<tr>
+<td><strong>Goal: 4 games, 1 of each pattern.</strong></td>
+</tr>
+<tr>
+<td><strong>After each game, discuss:</strong> did the pattern work? Did the poach happen? What would you do differently?</td>
+</tr>
+</tbody>
+</table>
+<h4 id="drill-5-the-toss-direction-practice-solo-3-minday">Drill 5 — The "Toss Direction" Practice (Solo, 3 min/day)<a class="headerlink" href="#drill-5-the-toss-direction-practice-solo-3-minday" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stand at the baseline. <strong>Toss 10 balls, alternating between 3 toss positions:</strong></td>
+</tr>
+<tr>
+<td>- <strong>Toss 1:</strong> 1 foot right of center (slice wide).</td>
+</tr>
+<tr>
+<td>- <strong>Toss 2:</strong> center (flat T).</td>
+</tr>
+<tr>
+<td>- <strong>Toss 3:</strong> 1 foot left of center (kick or slice T).</td>
+</tr>
+<tr>
+<td><strong>Don't hit the balls. Just toss them and let them bounce.</strong> This is toss-only practice.</td>
+</tr>
+<tr>
+<td><strong>Goal: 30 tosses, 30 in the correct zone.</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="master-cue-list">🧠 Master Cue List<a class="headerlink" href="#master-cue-list" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Cue</th>
+<th>Signal</th>
+<th>When</th>
+<th>Applies to</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>"Slice is the default"</strong></td>
+<td>80% of serves are slice, 20% are flat/kick</td>
+<td>Every serve</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"Toss is the steering wheel"</strong></td>
+<td>Toss direction controls serve direction</td>
+<td>Pre-serve</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"Aim before you toss"</strong></td>
+<td>Pick the cone (wide, T, body) BEFORE you toss</td>
+<td>Pre-serve</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"70-80% power"</strong></td>
+<td>Smart doubles serves are not max effort</td>
+<td>Contact</td>
+<td>All doubles serves</td>
+</tr>
+<tr>
+<td><strong>"Hand signal before serve"</strong></td>
+<td>Fist = poach, open hand = stay, point = cover alley</td>
+<td>Pre-serve</td>
+<td>Doubles coordination</td>
+</tr>
+<tr>
+<td><strong>"Call 'Now!' at contact"</strong></td>
+<td>"Now!" or "GO!" when the returner makes contact</td>
+<td>During serve</td>
+<td>Doubles coordination</td>
+</tr>
+<tr>
+<td><strong>"Deuce corner for wide"</strong></td>
+<td>Aim the deuce corner (for right-handers serving to ad court)</td>
+<td>Aim</td>
+<td>Serve Wide</td>
+</tr>
+<tr>
+<td><strong>"Center line for T"</strong></td>
+<td>Aim 1 ft inside the service line, on the center</td>
+<td>Aim</td>
+<td>Serve T</td>
+</tr>
+<tr>
+<td><strong>"1-2 ft inside center for body"</strong></td>
+<td>Aim 1-2 ft inside the center, at returner's torso</td>
+<td>Aim</td>
+<td>Serve Body</td>
+</tr>
+<tr>
+<td><strong>"Same serve under pressure"</strong></td>
+<td>Hit the same serve at 5-4 in the tiebreak</td>
+<td>Pressure point</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"Continental, always"</strong></td>
+<td>V to bevel #2, the volley grip</td>
+<td>Grip</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"Trophy: elbow up, racket above"</strong></td>
+<td>Palm on edge, NOT waiter's tray</td>
+<td>Trophy</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"Pronation, not wrist snap"</strong></td>
+<td>Forearm rotates 180°, not wrist</td>
+<td>Throw</td>
+<td>All serves</td>
+</tr>
+<tr>
+<td><strong>"70% sprint for Serve + Volley"</strong></td>
+<td>Save the knees, save the heart</td>
+<td>Transition</td>
+<td>Serve + Volley</td>
+</tr>
+<tr>
+<td><strong>"Survive, then shine"</strong></td>
+<td>The serve is first about getting in; placement is secondary</td>
+<td>Mental</td>
+<td>All doubles serves</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="the-7-common-errors-at-35">⚠️ The 7 Common Errors at 3.5<a class="headerlink" href="#the-7-common-errors-at-35" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Error</th>
+<th>What it looks like</th>
+<th>Fix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>"Blasting the serve"</strong></td>
+<td>Hitting 100% power on every serve, ball in net or long</td>
+<td>70-80% power, slice + placement</td>
+</tr>
+<tr>
+<td><strong>"No specific target"</strong></td>
+<td>Aiming "somewhere in the service box"</td>
+<td>Aim a 1-foot window (cone), not a vague area</td>
+</tr>
+<tr>
+<td><strong>"Wrong toss direction"</strong></td>
+<td>Tossing center for a wide serve, ball goes T</td>
+<td>"Toss is the steering wheel" — toss right for wide</td>
+</tr>
+<tr>
+<td><strong>"Waiter's tray"</strong></td>
+<td>Palm flat forward in trophy position</td>
+<td>"Palm on edge" cue, V to bevel #2</td>
+</tr>
+<tr>
+<td><strong>"Wrist snap instead of pronation"</strong></td>
+<td>Snapping the wrist at contact, elbow pain</td>
+<td>Pronation cue, forearm rotates 180°</td>
+</tr>
+<tr>
+<td><strong>"No coordination with poacher"</strong></td>
+<td>Serving without telling the partner the direction</td>
+<td>Hand signal before serve, "Now!" at contact</td>
+</tr>
+<tr>
+<td><strong>"Serving in the alley"</strong></td>
+<td>Wide serve goes out, double fault</td>
+<td>2-3 ft INSIDE the sideline, not on the line</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="the-50-reality-check">🩺 The 50+ Reality Check<a class="headerlink" href="#the-50-reality-check" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Issue</th>
+<th>At 50+ the risk is...</th>
+<th>The doubles-serve-friendly answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Shoulder strain on flat serve</strong></td>
+<td>Flat serve loads the rotator cuff</td>
+<td>Slice serve is the 50+ default (less shoulder load)</td>
+</tr>
+<tr>
+<td><strong>Tennis elbow on kick serve</strong></td>
+<td>Kick serve loads the medial elbow</td>
+<td>Save the kick serve for 50+ friendly days, lead with slice</td>
+</tr>
+<tr>
+<td><strong>Heart rate spike on Serve + Volley</strong></td>
+<td>Sprint to the net pushes heart rate to 180+</td>
+<td>Use Serve + Volley once or twice per set, not every point</td>
+</tr>
+<tr>
+<td><strong>Knee pain on sprint</strong></td>
+<td>Sprint to the net loads the knees</td>
+<td>70% sprint, smooth not fast</td>
+</tr>
+<tr>
+<td><strong>Hearing loss (can't hear "Poach!")</strong></td>
+<td>Soft voices, hearing aids</td>
+<td>Hand signals before every serve</td>
+</tr>
+<tr>
+<td><strong>Lower back from arching on kick</strong></td>
+<td>Kick serve requires back arch</td>
+<td>Save the kick serve for days when the back feels good</td>
+</tr>
+<tr>
+<td><strong>Loss of confidence after missed serve</strong></td>
+<td>One missed serve = "I'll just lob my serves"</td>
+<td>"Same serve under pressure" cue, 70% power is the smart power</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>🩺 <strong>The single most important 50+ doubles serve rule
+</strong>The slice serve is the 50+ doubles insurance policy.<strong> A 50+ player who serves 80% slice, 20% flat/kick, with placement (wide, T, or body) and poacher coordination will win 50% of their service games. </strong>The slice is the joint-friendly, percentage-friendly, poacher-friendly serve.<strong> Lead with the slice. The flat and kick are options, not defaults. </strong>The body that doesn't load the rotator cuff on every serve is the body that plays for 20 more years.**</p>
+<p><em>Serve slice là chính sách bảo hiểm đôi 50+. Người 50+ giao 80% slice, 20% flat/kick, với đặt bóng (rộng, T, hoặc thân) và phối hợp người cắt sẽ thắng 50% game giao. </em><em>Slice là serve thân thiện khớp, thân thiện tỷ lệ, thân thiện cắt bóng.</em><em> Dẫn đầu với slice. Flat và kick là tùy chọn, không phải mặc định. </em><em>Cơ thể không tải rotator cuff mỗi serve là cơ thể chơi 20 năm tới.</em>**</p>
+</blockquote>
+<hr />
+<h3 id="the-tai-chi-meditation">🧘 The Tai Chi Meditation<a class="headerlink" href="#the-tai-chi-meditation" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Principle</th>
+<th>Vietnamese</th>
+<th>Doubles Serve Application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Lã Kình</em> (捋勁)</td>
+<td>Cuộn lại</td>
+<td>The serve is <em>Lã Kình</em> — yield to the situation, redirect the returner with placement</td>
+</tr>
+<tr>
+<td><em>Tương Hỗ</em> (相助)</td>
+<td>Hỗ trợ lẫn nhau</td>
+<td>The serve + poach is <em>Tương Hỗ</em> — server and poacher are one organism, two bodies</td>
+</tr>
+<tr>
+<td><em>Hợp Nhất</em> (合一)</td>
+<td>Hợp nhất</td>
+<td>The hand signal is <em>Hợp Nhất</em> — silent coordination, the team is one</td>
+</tr>
+<tr>
+<td><em>Tỉnh Kình</em> (靜勁)</td>
+<td>Lực tĩnh</td>
+<td>The 70% power is <em>Tỉnh Kình</em> — minimum effort, maximum placement. The slice is quiet power.</td>
+</tr>
+<tr>
+<td><em>Hoàn Thủ</em> (還手)</td>
+<td>Trở về trung tâm</td>
+<td>The post-serve reset is <em>Hoàn Thủ</em> — after the serve, return to ready position, watch the next shot</td>
+</tr>
+<tr>
+<td><em>Phóng Tùng</em> (放松)</td>
+<td>Thả lỏng</td>
+<td>The loose grip is <em>Phóng Tùng</em> — Continental + soft hand = relaxed arm = free pronation</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="mental-checklist-before-each-doubles-serve">📄 Mental Checklist Before Each Doubles Serve<a class="headerlink" href="#mental-checklist-before-each-doubles-serve" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code>BEFORE THE SERVE (decision):
+  ☐ Pick the pattern: WIDE (slice, default), T (poacher&#39;s dream), BODY (jam), or +VOLLEY (offensive)
+  ☐ Pick the toss direction: right for slice wide, center for T, left for body
+  ☐ Coordinate with poacher: hand signal (fist = poach, open hand = stay, point = alley)
+
+THE SERVE (mechanics — same as Serve deep dive):
+  ☐ Grip: Continental (V → bevel #2)
+  ☐ Trophy: elbow up, racket above ear, palm on edge (NOT waiter&#39;s tray)
+  ☐ Toss: higher than feels right, slightly in front, brush the ball at the peak
+  ☐ Throw: pronation, not wrist snap
+  ☐ Contact: full extension, racket head above the ball
+  ☐ Power: 70-80% (smart doubles serve)
+  ☐ Finish: over the non-dominant shoulder
+
+AFTER THE SERVE (recovery):
+  ☐ If Wide: stay back, watch the poach (your partner covers the middle)
+  ☐ If T: stay back, watch the poach (your partner covers either side)
+  ☐ If Body: stay back, watch the poach (your partner covers the open court)
+  ☐ If +Volley: split-step → 70% sprint → split-step → volley
+
+THE TEAM (always):
+  ☐ Hand signal before serve
+  ☐ &quot;Now!&quot; or &quot;GO!&quot; at the returner&#39;s contact
+  ☐ &quot;Move as a unit&quot; — partner right, you left (after the poach)
+  ☐ If the poach wins: stay back, you have the alley
+</code></pre></div>
+<hr />
+<h2 id="one-page-printable-cheat-sheet">📄 One-Page Printable Cheat Sheet<a class="headerlink" href="#one-page-printable-cheat-sheet" title="Permanent link">&para;</a></h2>
+<div class="highlight"><pre><span></span><code>═══════════════════════════════════════════════════════════════
+  🎾 4 DOUBLES SERVE PATTERNS — 1-PAGE CHEAT SHEET
+  🎾 4 MẪU SERVE ĐÔI — TÓM TẮT 1 TRANG
+═══════════════════════════════════════════════════════════════
+
+  THE BIG IDEA: The serve is a SETUP, not a weapon. 4 patterns:
+                1. WIDE (slice, 50+ default) — pull returner off court
+                2. T (poacher&#39;s dream) — force return UP at poach
+                3. BODY (underused weapon) — jam the returner
+                4. +VOLLEY (for the brave) — serve AND follow to net
+                Serve là SETUP, không phải vũ khí. 4 mẫu.
+
+  ─────────────────────────────────────────────────────────────
+  PATTERN 1 — SERVE WIDE  |  SERVE RỘNG
+  ─────────────────────────────────────────────────────────────
+  When:       First serve, returner&#39;s backhand is weaker
+  Aim:        Deuce corner, 2-3 ft inside sideline AND baseline
+  Spin:       SLICE (50+ default) — brush the right side
+  Power:      70-80% of full
+  Trajectory: Low, dipping, curves LEFT
+  Call:       &quot;Poach!&quot; or hand signal (fist) before serve
+  Why:        Pulls returner wide, poach covers middle
+  50+ freq:   60% of first serves (the 50+ default)
+
+  ─────────────────────────────────────────────────────────────
+  PATTERN 2 — SERVE T  |  SERVE T
+  ─────────────────────────────────────────────────────────────
+  When:       Poacher ready, returner likes cross-court, safety serve
+  Aim:        Center service line, 1 ft inside service line
+  Spin:       FLAT or SLICE (slice is 50+ default)
+  Power:      70-80% slice, 90% flat
+  Trajectory: High arc, deep
+  Toss:       1 ft LEFT of center
+  Call:       &quot;Poach!&quot; or hand signal (fist) — the poacher&#39;s dream
+  Why:        Forces return UP, poach hits DOWN
+  50+ freq:   30% of first serves (the smart option)
+
+  ─────────────────────────────────────────────────────────────
+  PATTERN 3 — SERVE BODY  |  SERVE THÂN
+  ─────────────────────────────────────────────────────────────
+  When:       Returner crowds line, returner likes to attack
+  Aim:        1-2 ft inside center, at returner&#39;s TORSO
+  Spin:       FLAT (or slice)
+  Power:      80% of full
+  Trajectory: Flat, fast, into the body
+  Toss:       1 ft RIGHT of center
+  Call:       &quot;Poach!&quot; or hand signal (fist)
+  Why:        Jams the returner, no swing, slow floater
+  50+ freq:   10% of first serves (the underused weapon)
+
+  ─────────────────────────────────────────────────────────────
+  PATTERN 4 — SERVE + VOLLEY  |  SERVE + VOLLEY
+  ─────────────────────────────────────────────────────────────
+  When:       No partner, weak returner, body needs pace change
+  Serve:      WIDE SLICE (50+ default)
+  Transition: Split-step → 70% sprint → split-step
+  Net finish: Crosscourt volley (default)
+  50+ freq:   Once or twice per SET, not every point
+  When NOT:   Body says &quot;no sprint today&quot;
+
+  ─────────────────────────────────────────────────────────────
+  THE 50+ RULES  |  QUY TẮC 50+
+  ─────────────────────────────────────────────────────────────
+  • Slice:        80% of serves, 20% flat/kick
+  • Power:        70-80%, not 100%. Smart power.
+  • Toss:         Steering wheel of the serve
+  • Coordination: Hand signal before every serve (50+ hearing)
+  • Frequency:    Serve + Volley once or twice per SET
+  • Longevity:    Slice saves the shoulder. Flat loads the shoulder.
+
+  ─────────────────────────────────────────────────────────────
+  THE 5 CUES TO REMEMBER  |  5 CÂU NHẮC NHỚ
+  ─────────────────────────────────────────────────────────────
+  1. &quot;Slice is the default&quot; — 80% slice, 20% flat
+  2. &quot;Toss is the steering wheel&quot; — Toss direction controls serve direction
+  3. &quot;Aim before you toss&quot; — Pick the cone first
+  4. &quot;70-80% power&quot; — Smart doubles serves are not max effort
+  5. &quot;Hand signal before serve&quot; — Fist = poach, open hand = stay
+
+═══════════════════════════════════════════════════════════════
+  THE MASTER CUE:  &quot;Serve trong đôi không phải vũ khí. Serve là setup.
+                   Slice rộng kéo người trả, T ép return LÊN, thân ép
+                   người trả, +Volley dành cho người dũng cảm.
+                   In doubles, the serve is not a weapon. The serve is
+                   a setup. Slice wide pulls the returner, T forces the
+                   return UP, body jams the returner, +Volley is for
+                   the brave. Lead with the slice.&quot;
+═══════════════════════════════════════════════════════════════
+</code></pre></div>
+<hr />
+<h2 id="end-of-deep-dive">🏁 END OF DEEP DIVE<a class="headerlink" href="#end-of-deep-dive" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p><em>Serve trong đôi không phải vũ khí. Serve là setup. 4 mẫu — Wide, T, Body, +Volley — là 4 cách setup khác nhau cho 4 tình huống khác nhau. Ở tuổi 50+, câu trả lời mặc định — 80% serve — là slice rộng vào góc backhand. Đó không phải lực. Đó là đặt bóng. Đó là phối hợp. Đó là tuổi thọ.</em></p>
+<p><em>The serve in doubles is not a weapon. The serve is a setup. The 4 patterns — Wide, T, Body, +Volley — are 4 different setups for 4 different situations. At 50+, the default answer — 80% of serves — is the slice wide to the backhand corner. That's not power. That's placement. That's coordination. That's longevity.</em></p>
+</blockquote>
+<p>Bắt đầu tuần này với <strong>Drill 1</strong> (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm <strong>Drill 3</strong> (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾</p>
+<hr />
+<p><em>See you on the court, champion. — Hermes</em></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

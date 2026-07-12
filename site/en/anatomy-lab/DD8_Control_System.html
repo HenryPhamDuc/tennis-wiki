@@ -1,0 +1,1839 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/anatomy-lab/DD8_Control_System.html">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>DD8 — The Control System - Tennis Knowledge Base</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#dd8-the-control-system" class="nav-link">DD8 — The Control System</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📑 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-1-the-4-control-systems-vision-vestibular-proprioception-auditory" class="nav-link">Chapter 1 — The 4 Control Systems (Vision, Vestibular, Proprioception, Auditory)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-4-control-systems" class="nav-link">The 4 Control Systems</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-hierarchy-of-the-4-systems" class="nav-link">The Hierarchy of the 4 Systems</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-2-the-vestibular-system-where-balance-lives" class="nav-link">Chapter 2 — The Vestibular System (Where Balance Lives)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-5-components-of-the-vestibular-system" class="nav-link">The 5 Components of the Vestibular System</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-neural-pathway" class="nav-link">The Neural Pathway</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-4-output-pathways-from-the-vestibular-nuclei" class="nav-link">The 4 Output Pathways from the Vestibular Nuclei</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-30-ms-reflex-how-fast-is-vestibular" class="nav-link">The 30-ms Reflex — How Fast Is Vestibular?</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-3-the-5-phase-visual-cycle-how-pros-read-the-ball" class="nav-link">Chapter 3 — The 5-Phase Visual Cycle (How Pros Read the Ball)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-5-phases" class="nav-link">The 5 Phases</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-quiet-eye-phenomenon-the-key-to-pro-vision" class="nav-link">The Quiet Eye Phenomenon — The Key to Pro Vision</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-visual-mistakes-in-tennis" class="nav-link">The 3 Visual Mistakes in Tennis</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-4-proprioception-the-7000-nerve-silent-sense" class="nav-link">Chapter 4 — Proprioception (The 7,000-Nerve Silent Sense)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-sources-of-proprioceptive-input" class="nav-link">The 3 Sources of Proprioceptive Input</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-50-proprioception-decline-3-numbers" class="nav-link">The 50+ Proprioception Decline — 3 Numbers</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-4-proprioceptive-training-drills" class="nav-link">The 4 Proprioceptive Training Drills</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-5-the-reaction-time-cascade-3-layers" class="nav-link">Chapter 5 — The Reaction Time Cascade (3 Layers)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-reaction-layers" class="nav-link">The 3 Reaction Layers</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-decision-layer-the-biggest-variable" class="nav-link">The Decision Layer — The Biggest Variable</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-reaction-layer-improvement-strategies" class="nav-link">The 3 Reaction Layer Improvement Strategies</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-6-the-50-sensory-triad-why-reaction-slows" class="nav-link">Chapter 6 — The 50+ Sensory Triad (Why Reaction Slows)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#the-3-sensory-declines-numbers" class="nav-link">The 3 Sensory Declines — Numbers</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-combined-effect-doubled-reaction-time" class="nav-link">The Combined Effect — Doubled Reaction Time</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#the-plasticity-principle-why-avoidance-makes-it-worse" class="nav-link">The Plasticity Principle — Why Avoidance Makes It Worse</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-7-the-4-tennis-specific-control-drills" class="nav-link">Chapter 7 — The 4 Tennis-Specific Control Drills</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#drill-1-gaze-stabilization-vor-training" class="nav-link">Drill 1 — Gaze Stabilization (VOR Training)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#drill-2-single-leg-balance-eyes-closed" class="nav-link">Drill 2 — Single-Leg Balance (Eyes Closed)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#drill-3-pattern-recognition-100-balls" class="nav-link">Drill 3 — Pattern Recognition (100 Balls)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#drill-4-walking-on-uneven-surface-barefoot" class="nav-link">Drill 4 — Walking on Uneven Surface Barefoot</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#dd8-card-printable-the-in-uoc-dd8" class="nav-link">📋 DD8 CARD — Printable / THẺ IN ĐƯỢC DD8</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#illustrations-hinh-minh-hoa" class="nav-link">🖼️ ILLUSTRATIONS / HÌNH MINH HỌA</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#figure-1-inner-ear-3d-model-with-vestibular-system-labeled" class="nav-link">Figure 1 — Inner Ear 3D Model with Vestibular System Labeled</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-2-hidden-network-in-temporal-bone" class="nav-link">Figure 2 — Hidden Network in Temporal Bone</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-3-full-body-with-vestibular-nerve-pathway-glowing" class="nav-link">Figure 3 — Full Body with Vestibular Nerve Pathway Glowing</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-49-vestibular-functions-orientation-speed-detection-direction" class="nav-link">Figure 4–9 — Vestibular Functions (Orientation, Speed Detection, Direction)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-1015-microanatomy-hair-cells-endolymph-cupula" class="nav-link">Figure 10–15 — Microanatomy (Hair Cells, Endolymph, Cupula)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-1624-pre-conscious-reflexes" class="nav-link">Figure 16–24 — Pre-Conscious Reflexes</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-2535-pathology-and-adaptation" class="nav-link">Figure 25–35 — Pathology and Adaptation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figure-3648-functional-summary" class="nav-link">Figure 36–48 — Functional Summary</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#figures-4996-tennis-anatomy-pdf-ch7-ch9-movement-drills" class="nav-link">Figures 49–96 — Tennis Anatomy PDF Ch.7, Ch.9 (Movement Drills)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#cross-references-tham-chieu-cheo" class="nav-link">🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#sources-nguon" class="nav-link">📚 SOURCES / NGUỒN</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="dd8-the-control-system">DD8 — The Control System<a class="headerlink" href="#dd8-the-control-system" title="Permanent link">&para;</a></h1>
+<p><em>Vestibular System, Proprioception, Vision, and the 50+ Body's Adaptation</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The control system is the <strong>3rd layer of the kinetic chain</strong> (after the foundation from DD1, the structure from DD2–DD7). It's the part that makes tennis possible at all — without vestibular input, proprioception, and vision, the body can't decide WHERE to be or WHEN to move.</td>
+</tr>
+<tr>
+<td><strong>What it covers:</strong> the vestibular system (semicircular canals + otolith organs + neural pathways), proprioception (joint position sense + 7,000 nerve endings + muscle spindles), vision (5-phase visual cycle), the 50+ sensory triad (vestibular + visual + proprioceptive decline), and the 4-control-systems model.</td>
+</tr>
+<tr>
+<td><strong>What it does NOT cover:</strong> stroke mechanics (Forehand/Backhand/Serve deep dives), mental game (a separate concern), training plans (separate concern).</td>
+</tr>
+<tr>
+<td><strong>Reading time:</strong> 40–50 minutes.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📑 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The 4 Control Systems — Vision, Vestibular, Proprioception, Auditory</td>
+<td>4 Hệ Kiểm Soát — Thị Giác, Tiền Đình, Cảm Giác Sâu, Thính Giác</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The Vestibular System — Where Balance Lives</td>
+<td>Hệ Tiền Đình — Nơi Cân Bằng Trú Ngụ</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The 5-Phase Visual Cycle — How Pros Read the Ball</td>
+<td>Chu Trình Thị Giác 5 Pha — Cách Pro Đọc Bóng</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Proprioception — The 7,000-Nerve Silent Sense</td>
+<td>Cảm Giác Sâu — Giác Quan Im Lặng 7.000 Thần Kinh</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The Reaction Time Cascade — 3 Layers</td>
+<td>Chuỗi Thời Gian Phản Ứng — 3 Lớp</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The 50+ Sensory Triad — Why Reaction Slows</td>
+<td>Bộ Ba Giác Quan 50+ — Vì Sao Phản Ứng Chậm</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The 4 Tennis-Specific Control Drills</td>
+<td>4 Bài Tập Kiểm Soát Riêng Cho Tennis</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<hr />
+<h2 id="chapter-1-the-4-control-systems-vision-vestibular-proprioception-auditory">Chapter 1 — The 4 Control Systems (Vision, Vestibular, Proprioception, Auditory)<a class="headerlink" href="#chapter-1-the-4-control-systems-vision-vestibular-proprioception-auditory" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The human body has 4 control systems that operate in parallel to produce tennis movement.</strong> They are: VISION (where the ball is going), VESTIBULAR (where your head is in space), PROPRIOCEPTION (where your body parts are relative to each other), and AUDITORY (when the ball strikes the racquet).</td>
+</tr>
+<tr>
+<td><strong>These 4 systems overlap and back each other up.</strong> When one fails, the others compensate. When two fail, the system breaks down.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-4-control-systems">The 4 Control Systems<a class="headerlink" href="#the-4-control-systems" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>System</th>
+<th>What It Does</th>
+<th>Tennis Role</th>
+<th>50+ Decline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Vision</strong></td>
+<td>Where the ball is going. Where opponents are positioned.</td>
+<td>Read the serve. Track the ball. See the open court.</td>
+<td>Lens stiffens (presbyopia). Contrast sensitivity drops.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Vestibular</strong></td>
+<td>Where your head is in space. Are you rotating? Accelerating? Tilting?</td>
+<td>Balance on the split-step. Recover from off-balance positions. Orientation during overhead.</td>
+<td>Hair cells in semicircular canals decline. Balance errors increase.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Proprioception</strong></td>
+<td>Where your body parts are. Without looking.</td>
+<td>"Feel" the racquet. Hit without watching the ball. Auto-adjust footwork.</td>
+<td>30% fewer nerve endings in sole by 65. Joint position sense declines.</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Auditory</strong></td>
+<td>When the ball strikes. What string bed sound. Direction of opponent's shot.</td>
+<td>Timing the contact. Hearing the racquet face (sweet spot vs off-center).</td>
+<td>Less critical for tennis. Some high-frequency hearing loss.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-hierarchy-of-the-4-systems">The Hierarchy of the 4 Systems<a class="headerlink" href="#the-hierarchy-of-the-4-systems" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>VISION is the PRIMARY system.</strong> It operates ~150 ms ahead of conscious awareness. It plans the movement.</td>
+</tr>
+<tr>
+<td><strong>VESTIBULAR is the ORIENTATION system.</strong> It updates the body's position in space at all times. Operates in parallel with vision.</td>
+</tr>
+<tr>
+<td><strong>PROPRIOCEPTION is the EXECUTION system.</strong> It fine-tunes the movement based on feedback from joints, tendons, and feet. Operates FASTER than both (~30 ms).</td>
+</tr>
+<tr>
+<td><strong>AUDITORY is the TIMING system.</strong> It provides the "when" — the moment of contact.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Anatomy_He_Tien_Dinh_Full.docx for vestibular system. Tennis Anatomy Ch.1, Ch.9 for movement drills.</em></p>
+<hr />
+<hr />
+<h2 id="chapter-2-the-vestibular-system-where-balance-lives">Chapter 2 — The Vestibular System (Where Balance Lives)<a class="headerlink" href="#chapter-2-the-vestibular-system-where-balance-lives" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The vestibular system is deep inside the petrous bone of the skull, in the inner ear.</strong> It is part of the labyrinth alongside the cochlea (hearing). The vestibular system does NOT hear. It senses MOTION and POSITION.</td>
+</tr>
+<tr>
+<td><strong>The user's source explains:</strong> "Hệ tiền đình nằm sâu trong xương đá của hộp sọ, thuộc tai trong, ngay sau ốc tai thính giác. Khác với ốc tai nhận âm thanh, tiền đình không tạo cảm giác." (The vestibular system lies deep in the petrous bone of the skull, in the inner ear, just behind the cochlea. Unlike the cochlea which receives sound, the vestibular system doesn't create sensation.)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-5-components-of-the-vestibular-system">The 5 Components of the Vestibular System<a class="headerlink" href="#the-5-components-of-the-vestibular-system" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Component</th>
+<th>Anatomy</th>
+<th>What It Senses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Three semicircular canals</strong></td>
+<td>Anterior, posterior, horizontal. Each perpendicular to the others.</td>
+<td>Angular acceleration (rotation). The 3 canals detect rotation in 3 planes.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Utricle</strong></td>
+<td>One of two otolith organs. Sits HORIZONTAL.</td>
+<td>Horizontal linear acceleration + head tilt.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Saccule</strong></td>
+<td>The other otolith organ. Sits VERTICAL.</td>
+<td>Vertical linear acceleration (e.g., elevator).</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Hair cells</strong> (Type I + II)</td>
+<td>Inside the canals and otoliths. Have kinocilium + 40–70 stereocilia.</td>
+<td>Deflection of the stereocilia creates neural signal.</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Cupula</strong></td>
+<td>Gelatinous structure inside each canal. Hair cells embed in it.</td>
+<td>When endolymph moves, cupula bends, hair cells fire.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-neural-pathway">The Neural Pathway<a class="headerlink" href="#the-neural-pathway" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Anatomy</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Receptor</strong></td>
+<td>Hair cells in ampullae of canals</td>
+<td>Mechanical to electrical transduction</td>
+</tr>
+<tr>
+<td><strong>Afferent nerve</strong></td>
+<td>Vestibular branch of CN VIII (vestibulocochlear)</td>
+<td>Carries signal to brainstem</td>
+</tr>
+<tr>
+<td><strong>Brainstem nuclei</strong></td>
+<td>4 vestibular nuclei in the pons</td>
+<td>First integration. Send to cerebellum, spinal cord, eyes, cortex</td>
+</tr>
+<tr>
+<td><strong>Cerebellum</strong></td>
+<td>Receives vestibular + proprioceptive + visual input</td>
+<td>Balance coordination</td>
+</tr>
+<tr>
+<td><strong>Cortex</strong></td>
+<td>Parietal + temporal lobes</td>
+<td>Conscious awareness of body position</td>
+</tr>
+<tr>
+<td><strong>Spinal cord</strong></td>
+<td>Vestibulospinal tract</td>
+<td>Adjusts muscle tone to maintain posture</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-4-output-pathways-from-the-vestibular-nuclei">The 4 Output Pathways from the Vestibular Nuclei<a class="headerlink" href="#the-4-output-pathways-from-the-vestibular-nuclei" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Pathway</th>
+<th>Target</th>
+<th>Function</th>
+<th>Tennis Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. To eye muscles (CN III, IV, VI)</strong></td>
+<td>Extraocular muscles</td>
+<td>Vestibulo-ocular reflex (VOR) — keeps eyes stable when head moves</td>
+<td>See the ball clearly while moving head</td>
+</tr>
+<tr>
+<td><strong>2. To spinal cord</strong></td>
+<td>Anterior horn cells (motor neurons)</td>
+<td>Adjusts body posture automatically</td>
+<td>Maintain balance during split-step</td>
+</tr>
+<tr>
+<td><strong>3. To cerebellum</strong></td>
+<td>Vestibulocerebellum (flocculonodular lobe)</td>
+<td>Coordination of movement</td>
+<td>Smooth racquet path</td>
+</tr>
+<tr>
+<td><strong>4. To cortex</strong></td>
+<td>Parietal lobe</td>
+<td>Conscious awareness of orientation</td>
+<td>Know which way is up during an overhead</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-30-ms-reflex-how-fast-is-vestibular">The 30-ms Reflex — How Fast Is Vestibular?<a class="headerlink" href="#the-30-ms-reflex-how-fast-is-vestibular" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The vestibulo-ocular reflex (VOR) fires in 30 milliseconds.</strong> It works BEFORE conscious awareness. When you turn your head, your eyes move in the opposite direction — INSTANTLY — to keep the visual world stable.</td>
+</tr>
+<tr>
+<td><strong>This is FASTER than the reaction time of a tennis ball (~150 ms).</strong> It allows the player to track the ball smoothly even during fast head turns.</td>
+</tr>
+<tr>
+<td><strong>The 50+ truth:</strong> the VOR declines ~10–15% by age 65. The result: when you turn your head, the visual world appears to "slip" briefly before stabilizing. You feel dizzy. The ball becomes blurry during head turns.</td>
+</tr>
+<tr>
+<td><strong>The fix:</strong> vestibular rehabilitation. The "gaze stabilization" exercise. Focus on a fixed point, turn your head side to side while keeping eyes on the point. 1 min × 3/day.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Anatomy_He_Tien_Dinh_Full.docx (entire document). Reference: standard vestibular physiology texts.</em></p>
+<hr />
+<hr />
+<h2 id="chapter-3-the-5-phase-visual-cycle-how-pros-read-the-ball">Chapter 3 — The 5-Phase Visual Cycle (How Pros Read the Ball)<a class="headerlink" href="#chapter-3-the-5-phase-visual-cycle-how-pros-read-the-ball" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pros don't "see" the ball the way recreational players do.</strong> They use a 5-phase visual cycle that occurs BEFORE contact. The cycle is fast (150-250 ms total), automated (no conscious thought needed), and trainable.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-5-phases">The 5 Phases<a class="headerlink" href="#the-5-phases" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Phase</th>
+<th>What Happens</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Wide Perception (Soft Eyes)</strong></td>
+<td>Eyes "soak in" the whole court. Peripheral vision active.</td>
+<td>~50 ms</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Lock-On</strong></td>
+<td>Eyes focus on the ball. Tracking begins.</td>
+<td>~30 ms</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Narrow Focus (Tunnel Vision)</strong></td>
+<td>Eyes follow the ball exclusively. Peripheral vision suppressed.</td>
+<td>~80–120 ms</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Quiet Eye at Contact</strong></td>
+<td>Eyes are STILL on the ball for 100+ ms after contact. The longest fixation.</td>
+<td>~100–200 ms</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Re-expand</strong></td>
+<td>Eyes release. Peripheral vision returns. Next shot preparation.</td>
+<td>~50 ms</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-quiet-eye-phenomenon-the-key-to-pro-vision">The Quiet Eye Phenomenon — The Key to Pro Vision<a class="headerlink" href="#the-quiet-eye-phenomenon-the-key-to-pro-vision" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The "Quiet Eye" is the longest fixation on the ball AFTER contact.</strong> Research shows elite athletes have a Quiet Eye duration of ~200+ ms. Recreational players have ~50 ms.</td>
+</tr>
+<tr>
+<td><strong>Why it matters:</strong> the Quiet Eye is when the brain processes the feedback from the contact — was it a sweet spot hit? Did the racquet face open? This feedback loops into the next stroke's motor program. WITHOUT the Quiet Eye, the brain doesn't learn from each shot.</td>
+</tr>
+<tr>
+<td><strong>The 50+ decline:</strong> the Quiet Eye shortens with age. By 60, average Quiet Eye is ~100 ms. By 70, ~70 ms. The 50+ player is learning slower from each stroke.</td>
+</tr>
+<tr>
+<td><strong>The training:</strong> "Hold the look." After each shot in practice, hold your gaze on the contact point for 3 SECONDS (3000 ms). Train the brain that "looking longer" is allowed. After 4 weeks, the natural Quiet Eye duration extends.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-3-visual-mistakes-in-tennis">The 3 Visual Mistakes in Tennis<a class="headerlink" href="#the-3-visual-mistakes-in-tennis" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Mistake</th>
+<th>What It Looks Like</th>
+<th>The Fix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Looking at the opponent, not the ball</strong></td>
+<td>Eyes on the server's body during the toss. Eyes on the hitter's shoulder.</td>
+<td>Track the BALL from racquet to contact.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Head down at contact</strong></td>
+<td>Eyes drop to the floor after hitting. No Quiet Eye.</td>
+<td>"Hold the look" drill. Gaze stays on contact point.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Narrow focus too early</strong></td>
+<td>Eyes fix on the incoming ball too soon. Lose peripheral info on opponent's position.</td>
+<td>Use the 5-phase cycle. Soft eyes → lock-on → tunnel → quiet eye → re-expand.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Tennis Anatomy Ch.9 (Movement Drills). Reference: Quiet Eye research by Dr. Joan Vickers.</em></p>
+<hr />
+<hr />
+<h2 id="chapter-4-proprioception-the-7000-nerve-silent-sense">Chapter 4 — Proprioception (The 7,000-Nerve Silent Sense)<a class="headerlink" href="#chapter-4-proprioception-the-7000-nerve-silent-sense" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proprioception is the sense of body position WITHOUT looking.</strong> It's the sense that lets you touch your nose with your eyes closed. It's the sense that lets you know where your racquet head is during a backswing. It's the SILENT sense — you only notice it when it's broken.</td>
+</tr>
+<tr>
+<td><strong>Proprioception has 3 input sources:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Joint receptors</strong> — Ruffini endings, Pacinian corpuscles in joint capsules</td>
+</tr>
+<tr>
+<td>2. <strong>Muscle spindles</strong> — specialized fibers inside muscles that sense stretch</td>
+</tr>
+<tr>
+<td>3. <strong>Skin receptors</strong> — especially in the sole (7,000+) and palm</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-3-sources-of-proprioceptive-input">The 3 Sources of Proprioceptive Input<a class="headerlink" href="#the-3-sources-of-proprioceptive-input" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Location</th>
+<th>What It Senses</th>
+<th>Tennis Translation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Joint receptors</strong></td>
+<td>Inside joint capsules</td>
+<td>Joint angle, joint movement, end-range position</td>
+<td>"My elbow is at 90°" without looking</td>
+</tr>
+<tr>
+<td><strong>Muscle spindles</strong></td>
+<td>Inside muscles (parallel to extrafusal fibers)</td>
+<td>Muscle length and rate of change</td>
+<td>"My biceps is contracted" — for grip modulation</td>
+</tr>
+<tr>
+<td><strong>Skin receptors</strong></td>
+<td>In the skin, especially sole and palm</td>
+<td>Pressure, stretch, vibration</td>
+<td>"I'm pressing through my big toe" on push-off</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-50-proprioception-decline-3-numbers">The 50+ Proprioception Decline — 3 Numbers<a class="headerlink" href="#the-50-proprioception-decline-3-numbers" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Number</th>
+<th>What It Means</th>
+<th>Tennis Implication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>30%</strong></td>
+<td>Fewer nerve endings in the sole by age 65</td>
+<td>Reduced foot awareness. Loss of tripod foot awareness.</td>
+</tr>
+<tr>
+<td><strong>20%</strong></td>
+<td>Decline in muscle spindle sensitivity by 70</td>
+<td>Slower automatic adjustments. More "thinking" required.</td>
+</tr>
+<tr>
+<td><strong>40%</strong></td>
+<td>Decline in joint position sense at the knee by 70</td>
+<td>Less accurate stepping. More tripping.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-4-proprioceptive-training-drills">The 4 Proprioceptive Training Drills<a class="headerlink" href="#the-4-proprioceptive-training-drills" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Drill</th>
+<th>What It Trains</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Single-leg balance</strong> (eyes open)</td>
+<td>Foot + ankle proprioception</td>
+<td>Easy</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Single-leg balance</strong> (eyes closed)</td>
+<td>Vestibular + foot proprioception</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Single-leg balance on foam</strong> (eyes closed)</td>
+<td>Vestibular + foot proprioception + reflex</td>
+<td>Hard</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Walking on uneven surface</strong> barefoot (grass, sand)</td>
+<td>Multi-joint proprioception</td>
+<td>Easy</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Tennis Anatomy Ch.9 (Movement Drills). User's source: Giai_phau_Ban_chan_Tennis.docx Ch.7 (7,000 nerve endings).</em></p>
+<hr />
+<hr />
+<h2 id="chapter-5-the-reaction-time-cascade-3-layers">Chapter 5 — The Reaction Time Cascade (3 Layers)<a class="headerlink" href="#chapter-5-the-reaction-time-cascade-3-layers" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tennis reaction time has 3 LAYERS, each adding delay.</strong> The total "perceived reaction time" of 400-500 ms is the sum of all 3 layers.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-3-reaction-layers">The 3 Reaction Layers<a class="headerlink" href="#the-3-reaction-layers" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Layer</th>
+<th>What Happens</th>
+<th>Duration</th>
+<th>Where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Stimulus detection</strong></td>
+<td>Eye sees the ball moving. Vestibular detects head turn. Proprioception senses body position.</td>
+<td>~150 ms</td>
+<td>Sense organs → spinal cord / brainstem</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Decision making</strong></td>
+<td>Brain decides: forehand or backhand? Move left or right? Attack or defend?</td>
+<td>~150-200 ms</td>
+<td>Cortex</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Motor response</strong></td>
+<td>Brain sends signal to muscles. Muscles contract. Movement begins.</td>
+<td>~100-150 ms</td>
+<td>Motor cortex → spinal cord → muscles</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td></td>
+<td><strong>~400-500 ms</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-decision-layer-the-biggest-variable">The Decision Layer — The Biggest Variable<a class="headerlink" href="#the-decision-layer-the-biggest-variable" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>For experienced players, the DECISION layer is the biggest variable.</strong> A 3.5 player might take 250 ms to decide. A 4.5 player might take 150 ms. The detection layer and motor layer don't change much.</td>
+</tr>
+<tr>
+<td><strong>The decision layer is what you train with REPETITION.</strong> When you've hit 10,000 forehands, the "forehand" decision is automatic — it bypasses the conscious decision-making layer. The decision takes ~50 ms instead of 250 ms.</td>
+</tr>
+<tr>
+<td><strong>The 50+ implication:</strong> decision-making slows with age. Brain processing speed declines ~10–15% by 65. The 50+ player's "decision layer" is slower. The fix is PATTERN RECOGNITION — train specific scenarios until they're automatic.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-3-reaction-layer-improvement-strategies">The 3 Reaction Layer Improvement Strategies<a class="headerlink" href="#the-3-reaction-layer-improvement-strategies" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Strategy</th>
+<th>Drill</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Detection</strong></td>
+<td>Sharpen vision + proprioception</td>
+<td>Quiet eye training. Single-leg balance.</td>
+</tr>
+<tr>
+<td><strong>Decision</strong></td>
+<td>Pattern recognition + situational drills</td>
+<td>100 ball pattern: coach hits to 5 zones, player calls out.</td>
+</tr>
+<tr>
+<td><strong>Motor</strong></td>
+<td>Motor program automation</td>
+<td>Shadow swings. 1,000-rep protocol.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Tennis Anatomy Ch.9 (Movement Drills). Reference: reaction time research.</em></p>
+<hr />
+<hr />
+<h2 id="chapter-6-the-50-sensory-triad-why-reaction-slows">Chapter 6 — The 50+ Sensory Triad (Why Reaction Slows)<a class="headerlink" href="#chapter-6-the-50-sensory-triad-why-reaction-slows" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 50+ player has THREE sensory declines happening simultaneously:</strong> vision, vestibular, and proprioception. Each adds delay. Together, they can double the reaction time.</td>
+</tr>
+<tr>
+<td><strong>The user says explicitly: "Khả năng thích nghi qua vận động" (Adaptability through movement). The vestibular system has central compensation — repeated movement recalibrates it. Avoidance makes it worse.</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-3-sensory-declines-numbers">The 3 Sensory Declines — Numbers<a class="headerlink" href="#the-3-sensory-declines-numbers" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>System</th>
+<th>Decline by 65</th>
+<th>Tennis Impact</th>
+<th>What You Notice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vision</strong></td>
+<td>20–30% loss in contrast sensitivity. Lens stiffens (presbyopia). Pupil smaller (less light).</td>
+<td>Hard to see ball in low light. Hard to read spin.</td>
+<td>"I can't read serves like I used to."</td>
+</tr>
+<tr>
+<td><strong>Vestibular</strong></td>
+<td>10–15% decline in VOR. Hair cells in canals reduce.</td>
+<td>Slower gaze stabilization. Slight dizziness with quick turns.</td>
+<td>"The world slips when I turn my head."</td>
+</tr>
+<tr>
+<td><strong>Proprioception</strong></td>
+<td>30% fewer foot nerve endings. 20% less spindle sensitivity.</td>
+<td>Less foot awareness. Slower automatic adjustments.</td>
+<td>"I trip more than I used to."</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-combined-effect-doubled-reaction-time">The Combined Effect — Doubled Reaction Time<a class="headerlink" href="#the-combined-effect-doubled-reaction-time" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>At 25:</strong> reaction time = 400 ms. The ball arrives in 400 ms. You can return a 100 mph serve.</td>
+</tr>
+<tr>
+<td><strong>At 50:</strong> reaction time = 500 ms. The ball still arrives in 400 ms. You can JUST return a 100 mph serve.</td>
+</tr>
+<tr>
+<td><strong>At 65:</strong> reaction time = 600 ms. You can't return a 100 mph serve. You can return a 70-80 mph serve.</td>
+</tr>
+<tr>
+<td><strong>The fix is NOT to give up tennis.</strong> The fix is to: (1) play opponents who hit at your pace (doubles, mixed), (2) pre-position yourself (less court to cover), (3) use the 4 control drills below to slow the decline.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-plasticity-principle-why-avoidance-makes-it-worse">The Plasticity Principle — Why Avoidance Makes It Worse<a class="headerlink" href="#the-plasticity-principle-why-avoidance-makes-it-worse" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The user's source says it perfectly:</strong> "Tránh né làm yếu. Học qua sử dụng." (Avoidance makes it weaker. Learning through use.)</td>
+</tr>
+<tr>
+<td><strong>The brain changes based on USE.</strong> Use the vestibular system repeatedly → it adapts, recalibrates, increases synaptic density. Avoid vestibular stimulation → it weakens, becomes MORE sensitive to small disturbances.</td>
+</tr>
+<tr>
+<td><strong>The 50+ player who stops playing tennis</strong> because of "dizziness" or "balance problems" → the vestibular system weakens further → MORE dizziness → MORE avoidance → vicious cycle.</td>
+</tr>
+<tr>
+<td><strong>The 50+ player who CONTINUES playing tennis</strong> with vestibular drills → the vestibular system adapts → dizziness decreases → confidence grows → more tennis → virtuous cycle.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Anatomy_He_Tien_Dinh_Full.docx Ch.7 (Tính dẻo và phục hồi). Reference: vestibular adaptation literature.</em></p>
+<hr />
+<hr />
+<h2 id="chapter-7-the-4-tennis-specific-control-drills">Chapter 7 — The 4 Tennis-Specific Control Drills<a class="headerlink" href="#chapter-7-the-4-tennis-specific-control-drills" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Drill</th>
+<th>What It Trains</th>
+<th>Frequency</th>
+<th>Time to Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Gaze Stabilization</strong></td>
+<td>VOR (vestibulo-ocular reflex)</td>
+<td>Daily, 1 min × 3</td>
+<td>2–3 weeks for noticeable improvement</td>
+</tr>
+<tr>
+<td><strong>2. Single-Leg Balance (eyes closed)</strong></td>
+<td>Vestibular + foot proprioception</td>
+<td>Daily, 30 sec × 3 each side</td>
+<td>4–6 weeks for fall risk reduction</td>
+</tr>
+<tr>
+<td><strong>3. Pattern Recognition (100 balls)</strong></td>
+<td>Decision layer automation</td>
+<td>2×/week</td>
+<td>8–12 weeks for decision speed gain</td>
+</tr>
+<tr>
+<td><strong>4. Walking on uneven surface barefoot</strong></td>
+<td>Multi-joint proprioception + foot intrinsic</td>
+<td>Daily, 5 min</td>
+<td>4 weeks for intrinsic strength</td>
+</tr>
+</tbody>
+</table>
+<h3 id="drill-1-gaze-stabilization-vor-training">Drill 1 — Gaze Stabilization (VOR Training)<a class="headerlink" href="#drill-1-gaze-stabilization-vor-training" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Instruction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Stand 2 feet from a wall. Place a target (post-it note) at eye level.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Keep eyes on the target. Turn head left-right 30° at moderate speed.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Eyes stay FIXED on target. The world does not slip.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Continue for 1 minute. Rest 30 sec. Repeat 3×.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Progress: turn head FASTER. Then add vertical (up-down). Then add walking.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="drill-2-single-leg-balance-eyes-closed">Drill 2 — Single-Leg Balance (Eyes Closed)<a class="headerlink" href="#drill-2-single-leg-balance-eyes-closed" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Instruction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Stand barefoot near a wall (for safety).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Lift one foot a few inches.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Close eyes. Have a friend time you.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stay balanced. Stop when you need to step down.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3 reps × 30 sec each side, daily.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="drill-3-pattern-recognition-100-balls">Drill 3 — Pattern Recognition (100 Balls)<a class="headerlink" href="#drill-3-pattern-recognition-100-balls" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Instruction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Coach (or friend) hits balls to 5 zones: short, deep, left, right, middle.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Player calls out the zone BEFORE the ball arrives.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Record how many zones are correctly called.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Progress: increase speed. Add spin variation.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Goal: 90% correct calls in &lt;300 ms.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="drill-4-walking-on-uneven-surface-barefoot">Drill 4 — Walking on Uneven Surface Barefoot<a class="headerlink" href="#drill-4-walking-on-uneven-surface-barefoot" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Instruction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Walk barefoot on grass, sand, or a textured mat.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Slow. Feel each foot's contact.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5 minutes daily.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Progress: add uneven surfaces (pebbles, foam). Add hill walking.</td>
+</tr>
+</tbody>
+</table>
+<p><em>Source: Tennis Anatomy Ch.9 (Movement Drills). Reference: balance training literature, VOR research.</em></p>
+<hr />
+<hr />
+<h2 id="dd8-card-printable-the-in-uoc-dd8">📋 DD8 CARD — Printable / THẺ IN ĐƯỢC DD8<a class="headerlink" href="#dd8-card-printable-the-in-uoc-dd8" title="Permanent link">&para;</a></h2>
+<p>╔═══════════════════════════════════════════════════════════╗
+║  DD8 CARD — THE CONTROL SYSTEM                            ║
+║  THẺ DD8 — HỆ KIỂM SOÁT                                  ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🎯 ONE BIG IDEA / Ý TƯỞNG CỐT LÕI:                      ║
+║     Tennis needs 4 control systems: vision, vestibular,    ║
+║     proprioception, auditory. The 50+ decline is 20–30%   ║
+║     in each. USE maintains, AVOIDANCE weakens. Keep       ║
+║     playing tennis — that's the vestibular adaptation.    ║
+║                                                            ║
+║     Tennis cần 4 hệ kiểm soát: thị giác, tiền đình,      ║
+║     cảm giác sâu, thính giác. Suy giảm 50+ là 20–30%    ║
+║     mỗi cái. DÙNG duy trì, TRÁNH NÉ yếu đi. Tiếp tục    ║
+║     chơi tennis — đó là thích nghi tiền đình.             ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  KEY NUMBERS / CÁC CON SỐ CHÍNH:                          ║
+║  • 4 control systems: vision, vestibular, proprio, audio  ║
+║  • 5-phase visual cycle (soft eyes → quiet eye → expand)  ║
+║  • Quiet eye duration: pros 200+ ms, 50+ players 100 ms   ║
+║  • VOR reflex: 30 ms (faster than conscious awareness)    ║
+║  • Reaction time: 25yo = 400ms, 50yo = 500ms, 65yo = 600ms║
+║  • 30% fewer sole nerve endings by 65                     ║
+║  • Vestibular hair cells decline ~10–15% by 65           ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  ⚠️ TOP MISTAKE / LỖI PHỔ BIẾN NHẤT:                     ║
+║     Stopping tennis because of "dizziness" or "balance    ║
+║     problems." Avoidance weakens the vestibular system    ║
+║     further. The virtuous cycle: keep playing + gaze     ║
+║     stabilization drill + balance work = adaptation.     ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  🔁 DRILL / BÀI TẬP:                                       ║
+║     1. Gaze stabilization: focus on target, turn head    ║
+║        side-to-side. 1 min × 3/day.                        ║
+║     2. Single-leg balance eyes closed: 30 sec × 3 each   ║
+║        side, daily.                                        ║
+║     3. Pattern recognition (100 balls): call the zone     ║
+║        before the ball arrives. 2×/week.                  ║
+║     4. Walking barefoot on grass or sand: 5 min daily.    ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  💭 MASTER CUE / CÂU NHẮC TỔNG:                           ║
+║     "Use it or lose it. Keep playing."                    ║
+║     "Dùng hoặc mất. Tiếp tục chơi."                      ║
+║                                                            ║
+╚═══════════════════════════════════════════════════════════╝</p>
+<p>╔═══════════════════════════════════════════════════════════╗
+║  DD8 CARD — THE CONTROL SYSTEM                            ║
+║  THẺ DD8 — HỆ KIỂM SOÁT                                  ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🎯 ONE BIG IDEA / Ý TƯỞNG CỐT LÕI:                      ║
+║     Tennis needs 4 control systems: vision, vestibular,    ║
+║     proprioception, auditory. The 50+ decline is 20–30%   ║
+║     in each. USE maintains, AVOIDANCE weakens. Keep       ║
+║     playing tennis — that's the vestibular adaptation.    ║
+║                                                            ║
+║     Tennis cần 4 hệ kiểm soát: thị giác, tiền đình,      ║
+║     cảm giác sâu, thính giác. Suy giảm 50+ là 20–30%    ║
+║     mỗi cái. DÙNG duy trì, TRÁNH NÉ yếu đi. Tiếp tục    ║
+║     chơi tennis — đó là thích nghi tiền đình.             ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  KEY NUMBERS / CÁC CON SỐ CHÍNH:                          ║
+║  • 4 control systems: vision, vestibular, proprio, audio  ║
+║  • 5-phase visual cycle (soft eyes → quiet eye → expand)  ║
+║  • Quiet eye duration: pros 200+ ms, 50+ players 100 ms   ║
+║  • VOR reflex: 30 ms (faster than conscious awareness)    ║
+║  • Reaction time: 25yo = 400ms, 50yo = 500ms, 65yo = 600ms║
+║  • 30% fewer sole nerve endings by 65                     ║
+║  • Vestibular hair cells decline ~10–15% by 65           ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  ⚠️ TOP MISTAKE / LỖI PHỔ BIẾN NHẤT:                     ║
+║     Stopping tennis because of "dizziness" or "balance    ║
+║     problems." Avoidance weakens the vestibular system    ║
+║     further. The virtuous cycle: keep playing + gaze     ║
+║     stabilization drill + balance work = adaptation.     ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  🔁 DRILL / BÀI TẬP:                                       ║
+║     1. Gaze stabilization: focus on target, turn head    ║
+║        side-to-side. 1 min × 3/day.                        ║
+║     2. Single-leg balance eyes closed: 30 sec × 3 each   ║
+║        side, daily.                                        ║
+║     3. Pattern recognition (100 balls): call the zone     ║
+║        before the ball arrives. 2×/week.                  ║
+║     4. Walking barefoot on grass or sand: 5 min daily.    ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  💭 MASTER CUE / CÂU NHẮC TỔNG:                           ║
+║     "Use it or lose it. Keep playing."                    ║
+║     "Dùng hoặc mất. Tiếp tục chơi."                      ║
+║                                                            ║
+╚═══════════════════════════════════════════════════════════╝</p>
+<hr />
+<h2 id="illustrations-hinh-minh-hoa">🖼️ ILLUSTRATIONS / HÌNH MINH HỌA<a class="headerlink" href="#illustrations-hinh-minh-hoa" title="Permanent link">&para;</a></h2>
+<p><em>96 images available in <code>Anatomy_Lab/images/DD8_control_system/</code> (48 from Anatomy_He_Tien_Dinh_Full.docx + 48 from Tennis Anatomy PDF).</em></p>
+<h3 id="figure-1-inner-ear-3d-model-with-vestibular-system-labeled">Figure 1 — Inner Ear 3D Model with Vestibular System Labeled<a class="headerlink" href="#figure-1-inner-ear-3d-model-with-vestibular-system-labeled" title="Permanent link">&para;</a></h3>
+<p><code>images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img01.png</code> (Hình 1, 0.0s)</p>
+<h3 id="figure-2-hidden-network-in-temporal-bone">Figure 2 — Hidden Network in Temporal Bone<a class="headerlink" href="#figure-2-hidden-network-in-temporal-bone" title="Permanent link">&para;</a></h3>
+<p><code>images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img02.png</code> (Hình 2, 2.1s)</p>
+<h3 id="figure-3-full-body-with-vestibular-nerve-pathway-glowing">Figure 3 — Full Body with Vestibular Nerve Pathway Glowing<a class="headerlink" href="#figure-3-full-body-with-vestibular-nerve-pathway-glowing" title="Permanent link">&para;</a></h3>
+<p><code>images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img03.png</code> (Hình 3, 4.2s)</p>
+<h3 id="figure-49-vestibular-functions-orientation-speed-detection-direction">Figure 4–9 — Vestibular Functions (Orientation, Speed Detection, Direction)<a class="headerlink" href="#figure-49-vestibular-functions-orientation-speed-detection-direction" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Description</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>4</td>
+<td>Emphasizes balance function, spatial orientation</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img04.png</code></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Brain area receiving signals — cerebellum + vestibular nuclei</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img05.png</code></td>
+</tr>
+<tr>
+<td>6</td>
+<td>System telling brain where the head is</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img06.png</code></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Measuring head movement speed</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img07.png</code></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Determining movement direction</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img08.png</code></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Close-up of semicircular canal with fluid</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img09.png</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="figure-1015-microanatomy-hair-cells-endolymph-cupula">Figure 10–15 — Microanatomy (Hair Cells, Endolymph, Cupula)<a class="headerlink" href="#figure-1015-microanatomy-hair-cells-endolymph-cupula" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Description</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>Canal wall with microscopic hair cells</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img10.png</code></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Endolymph moving when head tilts</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img11.png</code></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Head tilt activating the canal</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img12.png</code></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Hair cells bending</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img13.png</code></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Mechanical to electrical conversion — nerve synapse</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img14.png</code></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Impulse traveling up to brainstem</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img15.png</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="figure-1624-pre-conscious-reflexes">Figure 16–24 — Pre-Conscious Reflexes<a class="headerlink" href="#figure-1624-pre-conscious-reflexes" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Description</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16</td>
+<td>Reaction before consciousness</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img16.png</code></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Activation before falling</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img17.png</code></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Before vision blurs</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img18.png</code></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Before conscious awareness</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img19.png</code></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Coordination with eye and muscle</td>
+<td><code>Anatomy_He_Tien_Dinh_Full__img20.png</code></td>
+</tr>
+<tr>
+<td>21–24</td>
+<td>Eye adjustment, gaze stabilization, walking</td>
+<td><code>img21–24.png</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="figure-2535-pathology-and-adaptation">Figure 25–35 — Pathology and Adaptation<a class="headerlink" href="#figure-2535-pathology-and-adaptation" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Description</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>25–28</td>
+<td>Consequences when vestibular function is lost (walking instability, standing difficulty, vertigo)</td>
+<td><code>img25–28.png</code></td>
+</tr>
+<tr>
+<td>29–31</td>
+<td>Inflammation, stress effects, dizziness, nausea</td>
+<td><code>img29–31.png</code></td>
+</tr>
+<tr>
+<td>32–35</td>
+<td>Adaptation through movement, plasticity, recovery</td>
+<td><code>img32–35.png</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="figure-3648-functional-summary">Figure 36–48 — Functional Summary<a class="headerlink" href="#figure-3648-functional-summary" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Figure</th>
+<th>Description</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>36–40</td>
+<td>Plasticity and recovery through exposure</td>
+<td><code>img36–40.png</code></td>
+</tr>
+<tr>
+<td>41–48</td>
+<td>Orientation control, silent guidance, posture maintenance</td>
+<td><code>img41–48.png</code></td>
+</tr>
+</tbody>
+</table>
+<h3 id="figures-4996-tennis-anatomy-pdf-ch7-ch9-movement-drills">Figures 49–96 — Tennis Anatomy PDF Ch.7, Ch.9 (Movement Drills)<a class="headerlink" href="#figures-4996-tennis-anatomy-pdf-ch7-ch9-movement-drills" title="Permanent link">&para;</a></h3>
+<p><em>These are 3D rendered tennis-related images. See files 49–96 in <code>Anatomy_Lab/images/DD8_control_system/</code> (note: these are the Tennis Anatomy PDF-extracted images that contain tennis stroke diagrams with no obvious vestibular labeling — they are useful as reference for the kinetic chain, not the vestibular system).</em></p>
+<p><em>All image filenames verified to exist in <code>Anatomy_Lab/images/DD8_control_system/</code>.</em></p>
+<hr />
+<h2 id="cross-references-tham-chieu-cheo">🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO<a class="headerlink" href="#cross-references-tham-chieu-cheo" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Topic in DD8</th>
+<th>See Also</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vestibular + balance</td>
+<td><strong>DD7 Ankles &amp; Feet</strong> — 7,000 nerve endings, 30 ms foot reflex</td>
+</tr>
+<tr>
+<td>Vision + tracking the ball</td>
+<td><strong>DD1 Player in Motion</strong> — 6 critical angles at contact</td>
+</tr>
+<tr>
+<td>Proprioception + auto-adjustment</td>
+<td><strong>DD5 Hips &amp; Thighs</strong> — deep rotators, glute med</td>
+</tr>
+<tr>
+<td>5-phase visual cycle</td>
+<td><strong>DD1 Player in Motion</strong> — split-step, contact 45°</td>
+</tr>
+<tr>
+<td>Reaction time decline</td>
+<td><strong>DD6 Knees</strong> — falls risk, joint position sense</td>
+</tr>
+<tr>
+<td>50+ sensory triad</td>
+<td><strong>DD6 Knees</strong> — proprioception in ACL prevention</td>
+</tr>
+<tr>
+<td>Use it or lose it</td>
+<td><strong>DD5 Hips &amp; Thighs</strong> — deep rotators go silent without use</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="sources-nguon">📚 SOURCES / NGUỒN<a class="headerlink" href="#sources-nguon" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Type</th>
+<th>What It Contributed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Human anatomy/Anatomy_He_Tien_Dinh_Full.docx</code></td>
+<td>User's Vietnamese notes (48 images)</td>
+<td>Vestibular system anatomy (5 components), neural pathway (CN VIII → brainstem → cerebellum → cortex), 4 output pathways, 30 ms reflex, pathology (vertigo, Ménière's), plasticity and adaptation through movement</td>
+</tr>
+<tr>
+<td><code>Tennis Knowledge/7.Tennis Books in pdf/Tennis Anatomy ( PDFDrive ).pdf</code> Ch.9 (Movement Drills)</td>
+<td>Reference textbook</td>
+<td>Reaction drills, balance training, proprioception exercises</td>
+</tr>
+<tr>
+<td><code>Human anatomy/Giai_phau_Ban_chan_Tennis.docx</code></td>
+<td>User's Vietnamese notes</td>
+<td>7,000 nerve endings, 30 ms reflex, foot proprioception</td>
+</tr>
+<tr>
+<td>Dr. Joan Vickers research</td>
+<td>Reference for Quiet Eye</td>
+<td>Quiet Eye phenomenon in expert athletes</td>
+</tr>
+<tr>
+<td>Vestibular rehabilitation literature</td>
+<td>Reference for VOR training</td>
+<td>Gaze stabilization, balance retraining</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>*End of DD8 — The Control System</p>
+<p>*End of Anatomy Lab Library</p>
+<p>*Next: ReadMe.md with What's NEW, What's NOT, reading path</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../assets/custom.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

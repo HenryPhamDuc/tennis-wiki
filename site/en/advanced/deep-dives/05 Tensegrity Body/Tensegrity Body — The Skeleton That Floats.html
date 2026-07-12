@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>05 Tensegrity Body - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item active" aria-current="page">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#tensegrity-body-the-skeleton-that-floats" class="nav-link">Tensegrity Body — The Skeleton That Floats</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#foreword-loi-mo-au" class="nav-link">🎾 FOREWORD / LỜI MỞ ĐẦU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📑 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-1-what-is-tensegrity" class="nav-link">Chapter 1 — What is Tensegrity?</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-2-your-body-as-a-tensegrity-mast" class="nav-link">Chapter 2 — Your Body as a Tensegrity Mast</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-3-the-3-tones-soft-soft-punch" class="nav-link">Chapter 3 — The 3 Tones — Soft, Soft, PUNCH</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-4-why-muscles-release-not-create" class="nav-link">Chapter 4 — Why Muscles Release, Not Create</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-5-the-50-protocol-elasticity-over-strength" class="nav-link">Chapter 5 — The 50+ Protocol — Elasticity Over Strength</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#drills-bai-tap" class="nav-link">Drills / Bài Tập</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#common-mistakes-loi-pho-bien" class="nav-link">📋 COMMON MISTAKES / LỖI PHỔ BIẾN</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#master-cue-cau-nhac-tong" class="nav-link">🧠 MASTER CUE / CÂU NHẮC TỔNG</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="3"><a href="#master-cheat-sheet-printable-the-in-uoc" class="nav-link">📋 MASTER CHEAT SHEET — PRINTABLE / THẺ IN ĐƯỢC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="tensegrity-body-the-skeleton-that-floats">Tensegrity Body — The Skeleton That Floats<a class="headerlink" href="#tensegrity-body-the-skeleton-that-floats" title="Permanent link">&para;</a></h1>
+<p><em>Your bones don't touch — they float in a web of fascia. Once you understand this, you stop fighting your body.</em>
+<em>Xương bạn không chạm nhau — chúng nổi trong mạng lưới fascia. Một khi hiểu điều này, bạn ngừng chống lại cơ thể.</em></p>
+<hr />
+<h2 id="foreword-loi-mo-au">🎾 FOREWORD / LỜI MỞ ĐẦU<a class="headerlink" href="#foreword-loi-mo-au" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Friend</strong>, let me tell you a secret most coaches will never say out loud: your muscles do not create power. <strong>They release it.</strong> The actual force-transmission system in your body is fascia — a continuous web of elastic connective tissue that wraps around every muscle, bone, and joint. When you push against the ground, the force does not travel bone-to-bone like a chain. It travels <em>through the fascia web</em> like a wave through water.</td>
+</tr>
+<tr>
+<td>The name for this principle is <strong>tensegrity</strong> — <em>tensional integrity</em>. A tensegrity structure is held together by continuous tension and discontinuous compression. The bones are the discontinuous compression. The fascia is the continuous tension. They never touch directly — they float.</td>
+</tr>
+<tr>
+<td>The tennis implication is huge. If your fascia is tight (from over-training, under-rolling, or just sitting at a desk for 30 years), your body cannot transmit force efficiently. You'll feel "stuck" — strong arms but slow racket head speed. The fix is not more strength training. <strong>The fix is restoring elasticity to the fascia.</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📑 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>What is Tensegrity?</td>
+<td>Tensigrity là gì?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Your Body as a Tensegrity Mast</td>
+<td>Cơ Thể Bạn như Cột Buồm Tensigrity</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The 3 Tones — Soft, Soft, PUNCH</td>
+<td>3 Trương Lực — Mềm, Mềm, ĐẤM</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Why Muscles Release, Not Create</td>
+<td>Tại Sao Cơ Giải Phóng, Không Tạo</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The 50+ Protocol — Elasticity Over Strength</td>
+<td>Giao Thức 50+ — Đàn Hồi Hơn Sức Mạnh</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-1-what-is-tensegrity">Chapter 1 — What is Tensegrity?<a class="headerlink" href="#chapter-1-what-is-tensegrity" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The architectural principle:</strong> tensegrity was discovered by sculptor Kenneth Snelson and named by Buckminster Fuller. The basic structure is rigid poles (compression) floating in a web of cables (tension). The poles never touch each other. The cables hold everything together.</td>
+</tr>
+<tr>
+<td><strong>Your skeleton is a tensegrity structure.</strong> Your femur doesn't rest on your tibia — they float, suspended by the iliotibial band, the hamstrings, the popliteus, and a dozen other fascial structures. The same is true at every joint in your body.</td>
+</tr>
+<tr>
+<td><strong>Why this matters:</strong> traditional anatomy treats the body like a machine — bone-on-bone leverage, lever-and-pulley mechanics. This is wrong. The body is a <em>tensile structure</em>. Forces travel through the tension web (fascia), not the compression columns (bones).</td>
+</tr>
+<tr>
+<td><strong>The tennis result:</strong> when your fascia is healthy and elastic, force from the ground reaches your racket head with minimum loss. When your fascia is tight or dehydrated, the force gets stuck. You'll feel it as "I swung hard but the ball didn't go."</td>
+</tr>
+<tr>
+<td><strong>Cue / Câu nhắc:</strong> <em>"Don't fight the web. Restore its elasticity."</em> / <em>"Đừng chống lại mạng lưới. Khôi phục độ đàn hồi của nó."</em></td>
+</tr>
+<tr>
+<td><strong>50+ note:</strong> at 50+, fascia dehydrates and tightens naturally. Without counter-measures, you'll lose 10-20% of force-transmission efficiency per decade. The fix is daily rolling + weekly stretching — not heavier weights.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-2-your-body-as-a-tensegrity-mast">Chapter 2 — Your Body as a Tensegrity Mast<a class="headerlink" href="#chapter-2-your-body-as-a-tensegrity-mast" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The model:</strong> think of your trunk as a tensegrity mast. The spine is the central compression column. The fascia lines (back line, front line, lateral lines, spiral lines) are the tension cables. Your arms hang from the cables. Your legs hang from the cables. The whole structure is held upright by <em>balanced tension</em>, not by <em>muscle effort</em>.</td>
+</tr>
+<tr>
+<td><strong>The 4 main tension lines:</strong></td>
+</tr>
+<tr>
+<td><strong>1. Back Line (Superficial):</strong> plantar fascia → calves → hamstrings → sacrotuberous ligament → spinal erectors → suboccipitals → top of head.</td>
+</tr>
+<tr>
+<td><strong>2. Front Line (Superficial):</strong> anterior tibialis → quads → rectus abdominis → sternalis → chest.</td>
+</tr>
+<tr>
+<td><strong>3. Lateral Line:</strong> peroneals → IT band → TFL/glute medius → quadratus lumborum → intercostals → SCM → skull.</td>
+</tr>
+<tr>
+<td><strong>4. Spiral Line:</strong> see the deep-dive on Fascia Spirals.</td>
+</tr>
+<tr>
+<td><strong>The tennis translation:</strong> when you serve, the back line stretches as you arch backward (the trophy pose). The front line is then <em>recoiled</em> — it releases the energy as you explode forward into the ball. Both lines fire in sequence, like a bow and a bowstring.</td>
+</tr>
+<tr>
+<td><strong>The 4-phase serve from a tensegrity view:</strong></td>
+</tr>
+<tr>
+<td>1. <strong>Back line stretch</strong> — loading the bow</td>
+</tr>
+<tr>
+<td>2. <strong>Front line pre-tension</strong> — bracing the bowstring</td>
+</tr>
+<tr>
+<td>3. <strong>Coordinated release</strong> — bow + bowstring fire</td>
+</tr>
+<tr>
+<td>4. <strong>Recoil</strong> — both lines return to neutral</td>
+</tr>
+<tr>
+<td><strong>Cue / Câu nhắc:</strong> <em>"Load the bow, brace the string, fire both."</em> / <em>"Nạp cung, giữ dây, bắn cả hai."</em></td>
+</tr>
+<tr>
+<td><strong>50+ note:</strong> at 50+, the back line loses elasticity first. The trophy pose feels "tight." Counter-measure: cat-cow daily + standing backbend against a wall. Restoring back-line elasticity adds 5-10 mph to serve speed without any strength training.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-3-the-3-tones-soft-soft-punch">Chapter 3 — The 3 Tones — Soft, Soft, PUNCH<a class="headerlink" href="#chapter-3-the-3-tones-soft-soft-punch" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The insight:</strong> your body has three different "tones" that you must learn to switch between. Most amateur players live in only one tone — the supportive tone — and never access the other two.</td>
+</tr>
+<tr>
+<td><strong>Tone 1 — Supportive Tone (The Frame):</strong> your core, legs, and shoulder blades should be stable and firm (but not rigid). They hold you up. They create the <em>base</em> from which the other tones can fire.</td>
+</tr>
+<tr>
+<td><strong>Tone 2 — Elastic Tone (The Spring):</strong> your muscles and tendons should be springy and ready to release. Think of a coiled spring. They store elastic energy between phases (backswing → forward swing).</td>
+</tr>
+<tr>
+<td><strong>Tone 3 — Expressive Tone (The Strike):</strong> this is a brief moment of firmness at the exact moment of contact. Like a quick "PUNCH" of energy. Then immediately relax again.</td>
+</tr>
+<tr>
+<td><strong>The rhythm: soft → soft → PUNCH → relax.</strong></td>
+</tr>
+<tr>
+<td>You spend most of the swing in supportive + elastic (tones 1 and 2). The expressive tone (tone 3) is <em>only</em> at contact. Then you immediately return to supportive + elastic.</td>
+</tr>
+<tr>
+<td><strong>The common mistake:</strong> staying in supportive tone the entire time. The body feels "solid" and "ready," but the wave cannot flow. The racket head comes through slowly because the elastic tone never gets a chance to release.</td>
+</tr>
+<tr>
+<td><strong>The tennis test:</strong> record yourself at 120fps hitting a forehand. If your arm is bent at the elbow through the entire forward swing (rather than extending at contact), you're stuck in supportive tone.</td>
+</tr>
+<tr>
+<td><strong>Cue / Câu nhắc:</strong> <em>"Soft-soft-PUNCH-relax."</em> / <em>"Mềm-mềm-ĐẤM-thư giãn."</em></td>
+</tr>
+<tr>
+<td><strong>50+ note:</strong> the expressive-tone window gets <em>narrower</em> as you age (slower twitch). You cannot rely on long bursts of force at 50+. Train the elastic recoil instead — it fires faster than muscle contraction.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-4-why-muscles-release-not-create">Chapter 4 — Why Muscles Release, Not Create<a class="headerlink" href="#chapter-4-why-muscles-release-not-create" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The myth:</strong> every strength coach teaches "muscles create force." You contract your bicep, your arm bends. You contract your quad, your leg extends.</td>
+</tr>
+<tr>
+<td><strong>The truth:</strong> muscles <em>do</em> contract, but the <em>force</em> you feel in a tennis stroke comes from the <em>release</em> of elastic energy stored in the tendons and fascia. A single muscle contraction can produce ~100 Newtons of force directly. The elastic recoil of the same muscle + its tendon + the surrounding fascia can release 5-10x that force.</td>
+</tr>
+<tr>
+<td><strong>Why this changes your training:</strong> if you train only with weights, you build muscle but <em>not</em> the elastic capacity to release that force. If you train with explosive plyometrics (medicine ball throws, jump rope, reaction ball), you build the <em>release</em> system.</td>
+</tr>
+<tr>
+<td><strong>The tennis-specific elastic training:</strong></td>
+</tr>
+<tr>
+<td>- <strong>Medicine ball overhead throws</strong> — load + release pattern of the serve</td>
+</tr>
+<tr>
+<td>- <strong>Med-ball rotational throws</strong> — load + release of the forehand</td>
+</tr>
+<tr>
+<td>- <strong>Jump rope</strong> — fast ankle + calf elastic recoil</td>
+</tr>
+<tr>
+<td>- <strong>Pogo hops</strong> — pure elastic ankle recoil</td>
+</tr>
+<tr>
+<td><strong>The release timing matters:</strong> the muscle should <em>contract eccentrically</em> (lengthen under tension) during the loading phase, then <em>release concentrically</em> (shorten) during the firing phase. Eccentric loading is what stores the elastic energy. Skipping the eccentric phase means no elastic release.</td>
+</tr>
+<tr>
+<td><strong>Cue / Câu nhắc:</strong> <em>"Don't be the engine. Be the release valve."</em> / <em>"Đừng là động cơ. Hãy là van giải phóng."</em></td>
+</tr>
+<tr>
+<td><strong>50+ note:</strong> at 50+, eccentric loading is <em>more important</em> than concentric. The "loading" phase of every stretch-shortening cycle is what keeps the tendons and fascia healthy. Eccentric exercise (slow descents, controlled lowering) is also the best defense against tendon injury.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-5-the-50-protocol-elasticity-over-strength">Chapter 5 — The 50+ Protocol — Elasticity Over Strength<a class="headerlink" href="#chapter-5-the-50-protocol-elasticity-over-strength" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The wrong priority at 50+:</strong> most players over 50 think they need more strength. They add weight-room days, buy heavier dumbbells, chase one-rep maxes. <strong>This is the wrong game.</strong> Strength without elasticity = rigidity = slow racket head = chronic injury.</td>
+</tr>
+<tr>
+<td><strong>The right priority at 50+:</strong> <strong>elasticity over strength</strong>. Daily rolling. Weekly deep stretching. Eccentric loading. Plyometric release drills. Yoga or taichi once a week.</td>
+</tr>
+<tr>
+<td><strong>The 7-day rolling protocol (Henry-52 routine):</strong></td>
+</tr>
+<tr>
+<td>- <strong>Mon/Fri:</strong> back line (calves, hamstrings, glutes, spinal erectors) — 5 min total</td>
+</tr>
+<tr>
+<td>- <strong>Tue/Sat:</strong> front line (quads, hip flexors, pecs) — 5 min total</td>
+</tr>
+<tr>
+<td>- <strong>Wed/Sun:</strong> lateral line (IT band, outer quad, intercostals, lats) — 5 min total</td>
+</tr>
+<tr>
+<td>- <strong>Thu:</strong> spiral line (peroneals, TFL, obliques, pecs) — 5 min total</td>
+</tr>
+<tr>
+<td><strong>The 7-day stretching protocol (10 minutes nightly):</strong></td>
+</tr>
+<tr>
+<td>- Cat-cow × 10 cycles</td>
+</tr>
+<tr>
+<td>- World's greatest stretch × 5 each side</td>
+</tr>
+<tr>
+<td>- Hip 90/90 stretch × 60s each side</td>
+</tr>
+<tr>
+<td>- Pigeon pose × 60s each side</td>
+</tr>
+<tr>
+<td>- Standing forward fold × 60s</td>
+</tr>
+<tr>
+<td><strong>The 7-day release drills (15 minutes, 3x/week):</strong></td>
+</tr>
+<tr>
+<td>- Med-ball overhead throw × 10</td>
+</tr>
+<tr>
+<td>- Med-ball rotational throw × 10 each side</td>
+</tr>
+<tr>
+<td>- Jump rope 3 × 60s</td>
+</tr>
+<tr>
+<td>- Pogo hops 3 × 30s</td>
+</tr>
+<tr>
+<td><strong>The total time cost:</strong> ~25 minutes/day for rolling + stretching + release drills. Much less than a single weights session. Much more effective for tennis performance at 50+.</td>
+</tr>
+<tr>
+<td><strong>The trade-off you're making:</strong> you'll be ~10% weaker in pure strength tests. You'll be ~30% more elastic, faster, more coordinated, and injury-free. The trade is overwhelmingly worth it.</td>
+</tr>
+<tr>
+<td><strong>Cue / Câu nhắc:</strong> <em>"Strength ages out. Elasticity ages well."</em> / <em>"Sức mạnh già đi theo tuổi. Đàn hồi già đi một cách đẹp."</em></td>
+</tr>
+<tr>
+<td><strong>50+ insight:</strong> fascia has very few pain receptors. It loses elasticity silently — you don't feel it until something tears. The 7-day rolling protocol is <em>prevention</em>, not cure. Start before the tear, not after.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="drills-bai-tap">Drills / Bài Tập<a class="headerlink" href="#drills-bai-tap" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Drill</th>
+<th>What It Does</th>
+<th>Cách Làm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Foam-roll routine</strong></td>
+<td>Restores fascial elasticity</td>
+<td>Roll each major line 2 min. Slow, not fast. Stop on tender spots for 30s.</td>
+</tr>
+<tr>
+<td><strong>Cat-cow with breath</strong></td>
+<td>Re-distributes spinal tension</td>
+<td>All fours. Exhale-cat (round), inhale-cow (arch). 10 cycles.</td>
+</tr>
+<tr>
+<td><strong>Wall-lean stretch</strong></td>
+<td>Releases back-line tension</td>
+<td>Stand 2 feet from wall. Lean forward with hands on wall, hips back. Hold 30s × 3.</td>
+</tr>
+<tr>
+<td><strong>Slow shadow with breath</strong></td>
+<td>Re-trains fascia to fire in waves</td>
+<td>10 forehand shadows, breathing OUT through contact. Notice the wave.</td>
+</tr>
+<tr>
+<td><strong>Med-ball overhead throw</strong></td>
+<td>Trains eccentric + concentric loading</td>
+<td>4kg med-ball. Load fully back (eccentric), throw forward overhand (concentric). 10 reps.</td>
+</tr>
+<tr>
+<td><strong>Pogo hops</strong></td>
+<td>Builds pure ankle elastic recoil</td>
+<td>Hop on both feet, knees straight, 30s × 3.</td>
+</tr>
+<tr>
+<td><strong>World's greatest stretch</strong></td>
+<td>Opens all 4 lines simultaneously</td>
+<td>Lunge + rotate + reach up + look up. 5 each side.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="common-mistakes-loi-pho-bien">📋 COMMON MISTAKES / LỖI PHỔ BIẾN<a class="headerlink" href="#common-mistakes-loi-pho-bien" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Mistake</th>
+<th>Why It's Wrong</th>
+<th>Lỗi</th>
+<th>Tại Sao Sai</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Chasing heavier weights at 50+</td>
+<td>Strength without elasticity = rigidity = injury</td>
+<td>Săn tạ nặng hơn ở 50+</td>
+<td>Sức mạnh không đàn hồi = cứng = chấn thương</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Skipping rolling because "no pain"</td>
+<td>Fascia loses elasticity silently</td>
+<td>Bỏ qua lăn vì "không đau"</td>
+<td>Fascia mất đàn hồi âm thầm</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Stretching AFTER tennis only</td>
+<td>The best window is BEFORE tennis</td>
+<td>Chỉ giãn SAU tennis</td>
+<td>Cửa sổ tốt nhất là TRƯỚC tennis</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Holding stretch too long (&gt;60s)</td>
+<td>After 60s, you're stretching the tendon (which you don't want)</td>
+<td>Giữ giãn quá lâu (&gt;60s)</td>
+<td>Sau 60s, bạn đang giãn gân (không muốn)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Using the roller like a weapon</td>
+<td>Fast hard rolling irritates fascia. Slow gentle rolling heals it.</td>
+<td>Dùng con lăn như vũ khí</td>
+<td>Lăn nhanh mạnh gây kích ứng fascia. Lăn chậm nhẹ chữa lành nó.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Skipping eccentric training</td>
+<td>Skipping eccentric = no elastic energy to release</td>
+<td>Bỏ qua tập ly tâm</td>
+<td>Bỏ qua ly tâm = không có năng lượng đàn hồi để giải phóng</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="master-cue-cau-nhac-tong">🧠 MASTER CUE / CÂU NHẮC TỔNG<a class="headerlink" href="#master-cue-cau-nhac-tong" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p>Don't be the engine. Be the release valve. Your muscles don't create force — they release the fascia's stored elastic energy. Train the release. Train the elasticity. Strength can wait.</p>
+<p>Đừng là động cơ. Hãy là van giải phóng. Cơ bạn không tạo lực — chúng giải phóng năng lượng đàn hồi đã lưu của fascia. Hãy tập giải phóng. Hãy tập đàn hồi. Sức mạnh có thể chờ.</p>
+</blockquote>
+<hr />
+<h3 id="master-cheat-sheet-printable-the-in-uoc">📋 MASTER CHEAT SHEET — PRINTABLE / THẺ IN ĐƯỢC<a class="headerlink" href="#master-cheat-sheet-printable-the-in-uoc" title="Permanent link">&para;</a></h3>
+<div class="codehilite"><pre><span></span><code><span class="err">╔════════════════════════════════════════════════════════════════════════════╗</span>
+<span class="err">║</span><span class="w">  </span><span class="n">TENSEGRITY</span><span class="w"> </span><span class="n">BODY</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">CƠ</span><span class="w"> </span><span class="n">THỂ</span><span class="w"> </span><span class="n">TENSIGRITY</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">The</span><span class="w"> </span><span class="n">Skeleton</span><span class="w"> </span><span class="n">That</span><span class="w"> </span><span class="n">Floats</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">Bộ</span><span class="w"> </span><span class="n">Xương</span><span class="w"> </span><span class="n">Biết</span><span class="w"> </span><span class="n">Nổi</span><span class="w">                            </span><span class="err">║</span>
+<span class="err">╠════════════════════════════════════════════════════════════════════════════╣</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">🎯</span><span class="w"> </span><span class="n">ONE</span><span class="w"> </span><span class="n">BIG</span><span class="w"> </span><span class="n">IDEA</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="err">Ý</span><span class="w"> </span><span class="n">TƯỞNG</span><span class="w"> </span><span class="n">CỐT</span><span class="w"> </span><span class="n">LÕI</span><span class="p">:</span><span class="w">                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Your</span><span class="w"> </span><span class="n">muscles</span><span class="w"> </span><span class="n">don</span><span class="s1">&#39;t create power. They release the fascia&#39;</span><span class="n">s</span><span class="w"> </span><span class="n">stored</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">elastic</span><span class="w"> </span><span class="n">energy</span><span class="o">.</span><span class="w"> </span><span class="n">Train</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">release</span><span class="p">,</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">strength</span><span class="o">.</span><span class="w">                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Cơ</span><span class="w"> </span><span class="n">bạn</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="n">tạo</span><span class="w"> </span><span class="n">lực</span><span class="o">.</span><span class="w"> </span><span class="n">Chúng</span><span class="w"> </span><span class="n">giải</span><span class="w"> </span><span class="n">phóng</span><span class="w"> </span><span class="n">năng</span><span class="w"> </span><span class="n">lượng</span><span class="w"> </span><span class="err">đà</span><span class="n">n</span><span class="w"> </span><span class="n">hồi</span><span class="w"> </span><span class="n">của</span><span class="w"> </span><span class="n">fascia</span><span class="o">.</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Hãy</span><span class="w"> </span><span class="n">tập</span><span class="w"> </span><span class="n">giải</span><span class="w"> </span><span class="n">phóng</span><span class="p">,</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="n">phải</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="o">.</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">KEY</span><span class="w"> </span><span class="n">CUES</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CÂU</span><span class="w"> </span><span class="n">NHẮC</span><span class="w"> </span><span class="n">CHÍNH</span><span class="p">:</span><span class="w">                                               </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Bones float in fascia. They don&#39;t touch.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Xương nổi trong fascia. Chúng không chạm nhau.&quot;</span><span class="w">                        </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Soft-soft-PUNCH-relax.&quot;</span><span class="w">                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Mềm-mềm-ĐẤM-thư giãn.&quot;</span><span class="w">                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Eccentric loading stores the elastic. Concentric release fires it.&quot;</span><span class="w">    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Nạp ly tâm lưu đàn hồi. Giải phóng đồng tâm bắn nó.&quot;</span><span class="w">                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Strength ages out. Elasticity ages well.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Sức mạnh già đi. Đàn hồi già đi đẹp.&quot;</span><span class="w">                                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Roll daily. Stretch weekly. Release 3x/week.&quot;</span><span class="w">                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Lăn hàng ngày. Giãn hàng tuần. Giải phóng 3 lần/tuần.&quot;</span><span class="w">                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">⚠️</span><span class="w"> </span><span class="n">TOP</span><span class="w"> </span><span class="n">MISTAKE</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">LỖI</span><span class="w"> </span><span class="n">PHỔ</span><span class="w"> </span><span class="n">BIẾN</span><span class="w"> </span><span class="n">NHẤT</span><span class="p">:</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Chasing</span><span class="w"> </span><span class="n">heavier</span><span class="w"> </span><span class="n">weights</span><span class="w"> </span><span class="n">at</span><span class="w"> </span><span class="mi">50</span><span class="o">+</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">strength</span><span class="w"> </span><span class="n">without</span><span class="w"> </span><span class="n">elasticity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rigidity</span><span class="w"> </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="n">slow</span><span class="w"> </span><span class="n">racket</span><span class="w"> </span><span class="n">head</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">chronic</span><span class="w"> </span><span class="n">injury</span><span class="o">.</span><span class="w"> </span><span class="n">The</span><span class="w"> </span><span class="n">fix</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">NOT</span><span class="w"> </span><span class="n">more</span><span class="w"> </span><span class="n">strength</span><span class="o">.</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Săn</span><span class="w"> </span><span class="n">tạ</span><span class="w"> </span><span class="n">nặng</span><span class="w"> </span><span class="n">hơn</span><span class="w"> </span><span class="err">ở</span><span class="w"> </span><span class="mi">50</span><span class="o">+</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="err">đà</span><span class="n">n</span><span class="w"> </span><span class="n">hồi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">cứng</span><span class="w"> </span><span class="n">nhắc</span><span class="w">           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="err">đầ</span><span class="n">u</span><span class="w"> </span><span class="n">vợt</span><span class="w"> </span><span class="n">chậm</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">chấn</span><span class="w"> </span><span class="n">thương</span><span class="w"> </span><span class="n">mạn</span><span class="o">.</span><span class="w"> </span><span class="n">Cách</span><span class="w"> </span><span class="n">sửa</span><span class="w"> </span><span class="n">KHÔNG</span><span class="w"> </span><span class="n">phải</span><span class="w"> </span><span class="n">thêm</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="o">.</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">🔁</span><span class="w"> </span><span class="n">DRILL</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">BÀI</span><span class="w"> </span><span class="n">TẬP</span><span class="p">:</span><span class="w">                                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">The</span><span class="w"> </span><span class="mi">7</span><span class="o">-</span><span class="n">Day</span><span class="w"> </span><span class="n">Tensegrity</span><span class="w"> </span><span class="n">Reset</span><span class="w"> </span><span class="p">(</span><span class="mi">25</span><span class="w"> </span><span class="nb">min</span><span class="o">/</span><span class="n">day</span><span class="p">)</span><span class="w">                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="n">Mon</span><span class="o">/</span><span class="n">Fri</span><span class="p">:</span><span class="w"> </span><span class="n">roll</span><span class="w"> </span><span class="n">back</span><span class="w"> </span><span class="n">line</span><span class="o">.</span><span class="w"> </span><span class="n">Tue</span><span class="o">/</span><span class="n">Sat</span><span class="p">:</span><span class="w"> </span><span class="n">front</span><span class="w"> </span><span class="n">line</span><span class="o">.</span><span class="w"> </span><span class="n">Wed</span><span class="o">/</span><span class="n">Sun</span><span class="p">:</span><span class="w"> </span><span class="n">lateral</span><span class="o">.</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">Thu</span><span class="p">:</span><span class="w"> </span><span class="n">spiral</span><span class="o">.</span><span class="w">                                                         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="n">Nightly</span><span class="p">:</span><span class="w"> </span><span class="n">cat</span><span class="o">-</span><span class="n">cow</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">world</span><span class="s1">&#39;s greatest stretch × 5 each side,       ║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">pigeon</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="w"> </span><span class="n">each</span><span class="w"> </span><span class="n">side</span><span class="p">,</span><span class="w"> </span><span class="n">standing</span><span class="w"> </span><span class="n">fold</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="o">.</span><span class="w">                         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="mi">3</span><span class="n">x</span><span class="o">/</span><span class="n">week</span><span class="p">:</span><span class="w"> </span><span class="n">med</span><span class="o">-</span><span class="n">ball</span><span class="w"> </span><span class="n">overhead</span><span class="w"> </span><span class="n">throw</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">med</span><span class="o">-</span><span class="n">ball</span><span class="w"> </span><span class="n">rotational</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="w">     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">each</span><span class="w"> </span><span class="n">side</span><span class="p">,</span><span class="w"> </span><span class="n">jump</span><span class="w"> </span><span class="n">rope</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="p">,</span><span class="w"> </span><span class="n">pogo</span><span class="w"> </span><span class="n">hops</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">30</span><span class="n">s</span><span class="o">.</span><span class="w">                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">💭</span><span class="w"> </span><span class="n">MASTER</span><span class="w"> </span><span class="n">CUE</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CÂU</span><span class="w"> </span><span class="n">NHẮC</span><span class="w"> </span><span class="n">TỔNG</span><span class="p">:</span><span class="w">                                           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="s2">&quot;Don&#39;t be the engine. Be the release valve.&quot;</span><span class="w">                           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="s2">&quot;Đừng là động cơ. Hãy là van giải phóng.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">╚════════════════════════════════════════════════════════════════════════════╝</span>
+
+
+<span class="err">╔════════════════════════════════════════════════════════════════════════════╗</span>
+<span class="err">║</span><span class="w">  </span><span class="n">TENSEGRITY</span><span class="w"> </span><span class="n">BODY</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">CƠ</span><span class="w"> </span><span class="n">THỂ</span><span class="w"> </span><span class="n">TENSIGRITY</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">The</span><span class="w"> </span><span class="n">Skeleton</span><span class="w"> </span><span class="n">That</span><span class="w"> </span><span class="n">Floats</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">Bộ</span><span class="w"> </span><span class="n">Xương</span><span class="w"> </span><span class="n">Biết</span><span class="w"> </span><span class="n">Nổi</span><span class="w">                            </span><span class="err">║</span>
+<span class="err">╠════════════════════════════════════════════════════════════════════════════╣</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">🎯</span><span class="w"> </span><span class="n">ONE</span><span class="w"> </span><span class="n">BIG</span><span class="w"> </span><span class="n">IDEA</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="err">Ý</span><span class="w"> </span><span class="n">TƯỞNG</span><span class="w"> </span><span class="n">CỐT</span><span class="w"> </span><span class="n">LÕI</span><span class="p">:</span><span class="w">                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Your</span><span class="w"> </span><span class="n">muscles</span><span class="w"> </span><span class="n">don</span><span class="s1">&#39;t create power. They release the fascia&#39;</span><span class="n">s</span><span class="w"> </span><span class="n">stored</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">elastic</span><span class="w"> </span><span class="n">energy</span><span class="o">.</span><span class="w"> </span><span class="n">Train</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">release</span><span class="p">,</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">strength</span><span class="o">.</span><span class="w">                  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Cơ</span><span class="w"> </span><span class="n">bạn</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="n">tạo</span><span class="w"> </span><span class="n">lực</span><span class="o">.</span><span class="w"> </span><span class="n">Chúng</span><span class="w"> </span><span class="n">giải</span><span class="w"> </span><span class="n">phóng</span><span class="w"> </span><span class="n">năng</span><span class="w"> </span><span class="n">lượng</span><span class="w"> </span><span class="err">đà</span><span class="n">n</span><span class="w"> </span><span class="n">hồi</span><span class="w"> </span><span class="n">của</span><span class="w"> </span><span class="n">fascia</span><span class="o">.</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Hãy</span><span class="w"> </span><span class="n">tập</span><span class="w"> </span><span class="n">giải</span><span class="w"> </span><span class="n">phóng</span><span class="p">,</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="n">phải</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="o">.</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="n">KEY</span><span class="w"> </span><span class="n">CUES</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CÂU</span><span class="w"> </span><span class="n">NHẮC</span><span class="w"> </span><span class="n">CHÍNH</span><span class="p">:</span><span class="w">                                               </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Bones float in fascia. They don&#39;t touch.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Xương nổi trong fascia. Chúng không chạm nhau.&quot;</span><span class="w">                        </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Soft-soft-PUNCH-relax.&quot;</span><span class="w">                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Mềm-mềm-ĐẤM-thư giãn.&quot;</span><span class="w">                                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Eccentric loading stores the elastic. Concentric release fires it.&quot;</span><span class="w">    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Nạp ly tâm lưu đàn hồi. Giải phóng đồng tâm bắn nó.&quot;</span><span class="w">                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Strength ages out. Elasticity ages well.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Sức mạnh già đi. Đàn hồi già đi đẹp.&quot;</span><span class="w">                                 </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">•</span><span class="w"> </span><span class="s2">&quot;Roll daily. Stretch weekly. Release 3x/week.&quot;</span><span class="w">                          </span><span class="err">║</span>
+<span class="err">║</span><span class="w">    </span><span class="s2">&quot;Lăn hàng ngày. Giãn hàng tuần. Giải phóng 3 lần/tuần.&quot;</span><span class="w">                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">⚠️</span><span class="w"> </span><span class="n">TOP</span><span class="w"> </span><span class="n">MISTAKE</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">LỖI</span><span class="w"> </span><span class="n">PHỔ</span><span class="w"> </span><span class="n">BIẾN</span><span class="w"> </span><span class="n">NHẤT</span><span class="p">:</span><span class="w">                                     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Chasing</span><span class="w"> </span><span class="n">heavier</span><span class="w"> </span><span class="n">weights</span><span class="w"> </span><span class="n">at</span><span class="w"> </span><span class="mi">50</span><span class="o">+</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">strength</span><span class="w"> </span><span class="n">without</span><span class="w"> </span><span class="n">elasticity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rigidity</span><span class="w"> </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="n">slow</span><span class="w"> </span><span class="n">racket</span><span class="w"> </span><span class="n">head</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">chronic</span><span class="w"> </span><span class="n">injury</span><span class="o">.</span><span class="w"> </span><span class="n">The</span><span class="w"> </span><span class="n">fix</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">NOT</span><span class="w"> </span><span class="n">more</span><span class="w"> </span><span class="n">strength</span><span class="o">.</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">Săn</span><span class="w"> </span><span class="n">tạ</span><span class="w"> </span><span class="n">nặng</span><span class="w"> </span><span class="n">hơn</span><span class="w"> </span><span class="err">ở</span><span class="w"> </span><span class="mi">50</span><span class="o">+</span><span class="w"> </span><span class="err">—</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="w"> </span><span class="n">không</span><span class="w"> </span><span class="err">đà</span><span class="n">n</span><span class="w"> </span><span class="n">hồi</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">cứng</span><span class="w"> </span><span class="n">nhắc</span><span class="w">           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="err">đầ</span><span class="n">u</span><span class="w"> </span><span class="n">vợt</span><span class="w"> </span><span class="n">chậm</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">chấn</span><span class="w"> </span><span class="n">thương</span><span class="w"> </span><span class="n">mạn</span><span class="o">.</span><span class="w"> </span><span class="n">Cách</span><span class="w"> </span><span class="n">sửa</span><span class="w"> </span><span class="n">KHÔNG</span><span class="w"> </span><span class="n">phải</span><span class="w"> </span><span class="n">thêm</span><span class="w"> </span><span class="n">sức</span><span class="w"> </span><span class="n">mạnh</span><span class="o">.</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">🔁</span><span class="w"> </span><span class="n">DRILL</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">BÀI</span><span class="w"> </span><span class="n">TẬP</span><span class="p">:</span><span class="w">                                                      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="n">The</span><span class="w"> </span><span class="mi">7</span><span class="o">-</span><span class="n">Day</span><span class="w"> </span><span class="n">Tensegrity</span><span class="w"> </span><span class="n">Reset</span><span class="w"> </span><span class="p">(</span><span class="mi">25</span><span class="w"> </span><span class="nb">min</span><span class="o">/</span><span class="n">day</span><span class="p">)</span><span class="w">                                </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="n">Mon</span><span class="o">/</span><span class="n">Fri</span><span class="p">:</span><span class="w"> </span><span class="n">roll</span><span class="w"> </span><span class="n">back</span><span class="w"> </span><span class="n">line</span><span class="o">.</span><span class="w"> </span><span class="n">Tue</span><span class="o">/</span><span class="n">Sat</span><span class="p">:</span><span class="w"> </span><span class="n">front</span><span class="w"> </span><span class="n">line</span><span class="o">.</span><span class="w"> </span><span class="n">Wed</span><span class="o">/</span><span class="n">Sun</span><span class="p">:</span><span class="w"> </span><span class="n">lateral</span><span class="o">.</span><span class="w">      </span><span class="err">║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">Thu</span><span class="p">:</span><span class="w"> </span><span class="n">spiral</span><span class="o">.</span><span class="w">                                                         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="n">Nightly</span><span class="p">:</span><span class="w"> </span><span class="n">cat</span><span class="o">-</span><span class="n">cow</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">world</span><span class="s1">&#39;s greatest stretch × 5 each side,       ║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">pigeon</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="w"> </span><span class="n">each</span><span class="w"> </span><span class="n">side</span><span class="p">,</span><span class="w"> </span><span class="n">standing</span><span class="w"> </span><span class="n">fold</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="o">.</span><span class="w">                         </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="err">—</span><span class="w"> </span><span class="mi">3</span><span class="n">x</span><span class="o">/</span><span class="n">week</span><span class="p">:</span><span class="w"> </span><span class="n">med</span><span class="o">-</span><span class="n">ball</span><span class="w"> </span><span class="n">overhead</span><span class="w"> </span><span class="n">throw</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">med</span><span class="o">-</span><span class="n">ball</span><span class="w"> </span><span class="n">rotational</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">10</span><span class="w">     </span><span class="err">║</span>
+<span class="err">║</span><span class="w">       </span><span class="n">each</span><span class="w"> </span><span class="n">side</span><span class="p">,</span><span class="w"> </span><span class="n">jump</span><span class="w"> </span><span class="n">rope</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">60</span><span class="n">s</span><span class="p">,</span><span class="w"> </span><span class="n">pogo</span><span class="w"> </span><span class="n">hops</span><span class="w"> </span><span class="mi">3</span><span class="w"> </span><span class="err">×</span><span class="w"> </span><span class="mi">30</span><span class="n">s</span><span class="o">.</span><span class="w">                    </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">────────────────────────────────────────────────────────────────────────</span><span class="w">  </span><span class="err">║</span>
+<span class="err">║</span><span class="w">  </span><span class="err">💭</span><span class="w"> </span><span class="n">MASTER</span><span class="w"> </span><span class="n">CUE</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CÂU</span><span class="w"> </span><span class="n">NHẮC</span><span class="w"> </span><span class="n">TỔNG</span><span class="p">:</span><span class="w">                                           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="s2">&quot;Don&#39;t be the engine. Be the release valve.&quot;</span><span class="w">                           </span><span class="err">║</span>
+<span class="err">║</span><span class="w">     </span><span class="s2">&quot;Đừng là động cơ. Hãy là van giải phóng.&quot;</span><span class="w">                              </span><span class="err">║</span>
+<span class="err">║</span><span class="w">                                                                            </span><span class="err">║</span>
+<span class="err">╚════════════════════════════════════════════════════════════════════════════╝</span>
+</code></pre></div></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

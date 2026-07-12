@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/foundation/deep-dives/Slice%20Approach/ReadMe.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>ReadMe - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="3"><a href="#the-big-idea-the-approach-is-a-4-step-pattern-not-a-single-shot" class="nav-link">The big idea: "The approach is a 4-STEP PATTERN, not a single shot"</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#5-chapters" class="nav-link">5 chapters</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#the-5-step-pipeline-executed" class="nav-link">The 5-step pipeline, executed</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#key-35-level-choices-i-made" class="nav-link">Key 3.5-level choices I made</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#how-this-connects-to-the-existing-series" class="nav-link">How this connects to the existing series</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#the-most-important-sentence-from-this-deep-dive" class="nav-link">The most important sentence from this deep dive</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#the-master-cue" class="nav-link">The master cue</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#file-summary" class="nav-link">File summary</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="3"><a href="#want-me-to-continue" class="nav-link">Want me to continue?</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<p>Done. Deep Dive on Slice Approach saved to: <strong><code>C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Approach\Slice Approach — The Senior-Friendly Way to the Net.md</code></strong> (~58 KB, EN-VI bilingual, 5 chapters)</p>
+<h3 id="the-big-idea-the-approach-is-a-4-step-pattern-not-a-single-shot">The big idea: "The approach is a 4-STEP PATTERN, not a single shot"<a class="headerlink" href="#the-big-idea-the-approach-is-a-4-step-pattern-not-a-single-shot" title="Permanent link">&para;</a></h3>
+<p>The slice approach is the most under-practiced pattern in 3.5 tennis. Most players hit a "good shot" and wonder why they can't capitalize. This deep dive reframes the approach as a <strong>complete pattern</strong> — 4 steps that must be done in sequence:</p>
+<ol>
+<li><strong>DECIDE</strong> (4 questions) → 2. <strong>SLICE</strong> → 3. <strong>TRANSITION</strong> → 4. <strong>VOLLEY</strong></li>
+</ol>
+<p>Skip any step and the pattern breaks. The decision is the step 3.5 players skip most.</p>
+<h3 id="5-chapters">5 chapters<a class="headerlink" href="#5-chapters" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Chapter</th>
+<th>Role in the 3.5 game</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. The Big Idea</strong></td>
+<td>The approach as a 4-step pattern + the 4 Decision Questions</td>
+<td>Mental framework</td>
+</tr>
+<tr>
+<td><strong>2. The Two Slice Approaches</strong></td>
+<td>Backhand (default) + Forehand (next step)</td>
+<td>The 3.5+ default + the option</td>
+</tr>
+<tr>
+<td><strong>3. The Transition</strong></td>
+<td>Side-shuffle → diagonal sprint → split-step (the "rebound" model)</td>
+<td>The footwork 3.5 players skip</td>
+</tr>
+<tr>
+<td><strong>4. The Volley Finish</strong></td>
+<td>The volley you already know (tied to Volley deep dive) — Punch + Cross / Block + Wait</td>
+<td>The finishing move</td>
+</tr>
+<tr>
+<td><strong>5. Drills, Cues, Warnings, 50+</strong></td>
+<td>5 drills, 15 cues, 7 errors, tai chi table, mental checklist, 1-page cheat sheet</td>
+<td>Practice and reference</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-5-step-pipeline-executed">The 5-step pipeline, executed<a class="headerlink" href="#the-5-step-pipeline-executed" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What I did</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ABSORB</strong></td>
+<td>Read the existing slice files (Slice - Return Variation, Slice - Low Ball Variation, Quick Reference - Slice Cheat Sheet), the Backhand deep dive Ch 4 (slice as 50+ workhorse), the Volley deep dive (L-shape, U-shape, 70/30, decision tree), the Footwork deep dive (split-step timing, side-shuffle), and the Return of Serve deep dive (block + redirect principle)</td>
+</tr>
+<tr>
+<td><strong>EXTRACT</strong></td>
+<td>Pulled 30+ concepts across the decision tree, two slice approaches, transition footwork, volley finish, and 50+ concerns → mapped to 15 cues, 7 errors, 5 drills, 6 tai chi principles</td>
+</tr>
+<tr>
+<td><strong>ORGANIZE</strong></td>
+<td>5 chapters organized as the 4-step pattern (Decide → Slice → Transition → Volley) + Drills. Default = backhand slice approach. Alternatives = forehand slice (next step), topspin approach (for the brave)</td>
+</tr>
+<tr>
+<td><strong>SYNTHESIZE</strong></td>
+<td>Master coach voice, taichi parallels (<em>Lã Kình</em> on the macro approach, <em>Hoàn Thủ</em> on the transition, <em>Tụ Bộ</em> on the recovery shuffle, <em>Tỉnh Kình</em> on quiet power), 50+ cues (knee, back, heart rate, smooth not fast)</td>
+</tr>
+<tr>
+<td><strong>FORMAT</strong></td>
+<td>EN-VI side-by-side tables, the "4 Decision Questions" gate, the "Rebound" transition model, the "Seesaw" volley aim model, sound cues ("phập" vs "bộp" for slice diagnosis), printable 1-page cheat sheet (EN + VI, Surrey bag-ready)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="key-35-level-choices-i-made">Key 3.5-level choices I made<a class="headerlink" href="#key-35-level-choices-i-made" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Led with the backhand slice approach (default), not the forehand slice approach.</strong> The Continental grip is already in your hand from the volley series. No grip change. Cross-court geometry is friendlier. The forehand slice is a "next step" option.</li>
+<li><strong>Made the 4 Decision Questions the gatekeeper.</strong> Most 3.5 players approach on the wrong ball (deep) or against a set opponent. The 4 questions (ball short? opponent off-balance? deep slice possible? open court visible?) eliminate 70% of bad approaches.</li>
+<li><strong>Split transition footwork into its own chapter.</strong> The transition is where most approaches die. Players hit a great slice and then stop at the baseline. The "rebound" model (side-shuffle → sprint → split-step) is the missing piece.</li>
+<li><strong>Used the "frying pan" cue for the slice approach</strong> — face open like a car hood, ball is a pancake, racket is the pan. This translated the high-to-low swing into a body image (pan flipping a pancake), not a swing mechanic.</li>
+<li><strong>Connected the volley finish back to the Volley deep dive.</strong> Nothing new to learn — same L-shape, same 6-inch punch, same Continental grip. The slice approach only changes WHEN you arrive and WHERE you aim.</li>
+<li><strong>Used the "seesaw" model for volley aim.</strong> The open court is the side OPPOSITE to where you approached. If you can see the geometry, you can see the volley target.</li>
+<li><strong>Made the 70% sprint explicit.</strong> At 50+, full sprint loads the knees, the back, and the heart. A 70% sprint that arrives 0.3 seconds later is the joint-friendly choice.</li>
+<li><strong>Ended with a printable 1-page cheat sheet</strong> in both languages, with the 4 Decision Questions, the 5 Transition steps, and the "Phrased Master Cue" at the bottom.</li>
+</ul>
+<h3 id="how-this-connects-to-the-existing-series">How this connects to the existing series<a class="headerlink" href="#how-this-connects-to-the-existing-series" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Deep Dive</th>
+<th>Connection to Slice Approach</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Backhand (Ch 4 — Slice Workhorse)</strong></td>
+<td>The backhand slice approach is essentially a "slice backhand with intent to approach." Same grip, same swing path, same sound — only the aim is deeper and the footwork is forward.</td>
+</tr>
+<tr>
+<td><strong>Slice - Low Ball Variation</strong></td>
+<td>The "scoop &amp; slide" scoop is useful for a SHORT, LOW approach ball. The slice approach uses the same scoop + side-shuffle for low-bounce opportunities.</td>
+</tr>
+<tr>
+<td><strong>Slice - Return Variation</strong></td>
+<td>The "block &amp; redirect" principle is the SAME principle as the slice approach. Both use the Continental grip, the hood face, and the L-shape wrist. The only difference: the slice return goes to the deep middle; the slice approach goes to the deep corner.</td>
+</tr>
+<tr>
+<td><strong>Volley (Ch 4 — Decision Tree)</strong></td>
+<td>The volley finish at the end of the approach is the EXACT volley from the Volley deep dive. The 5-volley decision tree (punch, block, drop, half-volley, lob volley) applies 100% after an approach.</td>
+</tr>
+<tr>
+<td><strong>Footwork (Ch 2-3 — Ready + Split-Step)</strong></td>
+<td>The transition footwork uses the same split-step + side-shuffle pattern. The "small step" recovery is the same as "Hoàn Thủ" (return to center) from the footwork deep dive.</td>
+</tr>
+<tr>
+<td><strong>Lob and Overhead (Ch 4 — Counter-Overhead)</strong></td>
+<td>If the opponent's pass is a lob over your head, the counter-overhead or lob volley decision tree from the Lob and Overhead deep dive applies.</td>
+</tr>
+<tr>
+<td><strong>Forehand (4 L-layer dives)</strong></td>
+<td>The 70/30 rhythm (L1) and the chest-rotation axis (L3) apply to the slice approach — the chest drives the slice, the arm just delivers it.</td>
+</tr>
+<tr>
+<td><strong>Return of Serve (Ch 3 — Block Return)</strong></td>
+<td>The block + wait pattern after a hard approach pass is the same as the block return. "Survive first, then shine" applies to both.</td>
+</tr>
+<tr>
+<td><strong>Complete Manual</strong></td>
+<td>The Complete Manual will need a new "Approach Patterns" section that points here for the deep version.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-most-important-sentence-from-this-deep-dive">The most important sentence from this deep dive<a class="headerlink" href="#the-most-important-sentence-from-this-deep-dive" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p><em>"Approach không phải một cú. Approach là một pattern: Quyết định → Slice → Chuyển tiếp → Volley. The approach is not a shot. The approach is a pattern: Decide → Slice → Transition → Volley."</em></p>
+</blockquote>
+<p>A 3.5 player who follows the 4 steps will win 60% of their approaches. A 3.5 player who skips the decision and rushes the transition will win 30%. The decision is the 30% difference.</p>
+<h3 id="the-master-cue">The master cue<a class="headerlink" href="#the-master-cue" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p><em>"The slice approach is how 50+ players play tennis for 20 more years. Not because the slice approach is easy — but because it lets you keep approaching without wrecking your shoulder, your back, or your heart. That's why the slice approach is not a 'tactical choice' — it's a 'longevity choice.'"</em></p>
+</blockquote>
+<h3 id="file-summary">File summary<a class="headerlink" href="#file-summary" title="Permanent link">&para;</a></h3>
+<ul>
+<li>📁 <code>C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Approach\</code></li>
+<li>📄 <code>Slice Approach — The Senior-Friendly Way to the Net.md</code> (~58 KB, 5 chapters, EN-VI bilingual)</li>
+<li>📄 <code>ReadMe.md</code> (this file)</li>
+</ul>
+<h3 id="want-me-to-continue">Want me to continue?<a class="headerlink" href="#want-me-to-continue" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Next</th>
+<th>What it covers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mental Game</strong></td>
+<td>The 2-second ritual, double-fault recovery, pressure points, the "approach nerves"</td>
+</tr>
+<tr>
+<td><strong>Doubles Patterns (return + 1)</strong></td>
+<td>The 4 doubles return patterns (return + 1, return + approach, return + lob, return + 2) — the slice approach is the gateway</td>
+</tr>
+<tr>
+<td><strong>Approach Drills: 4-Week Plan</strong></td>
+<td>A progressive drill calendar: Week 1 decisions, Week 2 backhand slice, Week 3 transition, Week 4 volley finish</td>
+</tr>
+<tr>
+<td><strong>Complete Manual v2</strong></td>
+<td>Roll the 8 deep dives (this + lob &amp; overhead + backhand + return + serve + volley + footwork + 4 forehand pieces) into a single ~100-page master reference</td>
+</tr>
+</tbody>
+</table>
+<p>Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾</p>
+<hr />
+<p>Hy vọng tuần này anh sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với <strong>Drill 5</strong> (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm <strong>Drill 1</strong> (slice approach triangulation) để học hình học. Trong 4 tuần, anh sẽ tự tin approach 1-2 lần mỗi set.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

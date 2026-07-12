@@ -1,0 +1,2039 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/angle-atlas/DD7%20-%20The%20Sensor%20System.html">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>DD7 — The Sensor System — Feedback Loops, PV vs SV, and Error Correction - Tennis Knowledge Base</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#dd7-the-sensor-system-feedback-loops-pv-vs-sv-and-error-correction" class="nav-link">DD7 — The Sensor System — Feedback Loops, PV vs SV, and Error Correction</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#dd7-he-cam-bien-vong-phan-hoi-pv-vs-sv-va-sua-loi" class="nav-link">DD7 — Hệ Cảm Biến — Vòng Phản Hồi, PV vs SV, và Sửa Lỗi</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">Document Map / Bản Đồ Tài Liệu</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">Table of Contents / Mục Lục</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-1-the-control-engineering-view-of-tennis" class="nav-link">Chapter 1 — The Control Engineering View of Tennis</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-1-goc-nhin-ky-thuat-ieu-khien-cua-tennis" class="nav-link">Chương 1 — Góc Nhìn Kỹ Thuật Điều Khiển Của Tennis</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-2-the-5-sensor-channels" class="nav-link">Chapter 2 — The 5 Sensor Channels</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-2-5-kenh-cam-bien" class="nav-link">Chương 2 — 5 Kênh Cảm Biến</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-3-channel-1-proprioception-the-hidden-6th-sense" class="nav-link">Chapter 3 — Channel 1 — Proprioception (The Hidden 6th Sense)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-3-kenh-1-cam-giac-sau-giac-quan-thu-6-an" class="nav-link">Chương 3 — Kênh 1 — Cảm Giác Sâu (Giác Quan Thứ 6 Ẩn)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-4-channel-2-feet-ground-contact-as-pv" class="nav-link">Chapter 4 — Channel 2 — Feet (Ground Contact as PV)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-4-kenh-2-ban-chan-tiep-at-lam-pv" class="nav-link">Chương 4 — Kênh 2 — Bàn Chân (Tiếp Đất làm PV)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-5-channel-3-hands-racket-grip-as-pv" class="nav-link">Chapter 5 — Channel 3 — Hands (Racket Grip as PV)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-5-kenh-3-ban-tay-cam-vot-lam-pv" class="nav-link">Chương 5 — Kênh 3 — Bàn Tay (Cầm Vợt làm PV)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-6-channel-4-eyes-vision-as-pv-sv-source" class="nav-link">Chapter 6 — Channel 4 — Eyes (Vision as PV + SV Source)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-6-kenh-4-mat-thi-giac-lam-pv-nguon-sv" class="nav-link">Chương 6 — Kênh 4 — Mắt (Thị Giác làm PV + Nguồn SV)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-7-channel-5-ears-vestibular-sound-head-position" class="nav-link">Chapter 7 — Channel 5 — Ears + Vestibular (Sound + Head Position)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-7-kenh-5-tai-tien-inh-am-thanh-vi-tri-au" class="nav-link">Chương 7 — Kênh 5 — Tai + Tiền Đình (Âm Thanh + Vị Trí Đầu)</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#71-reading-the-balance-control-loop-a-walk-through" class="nav-link">7.1 — Reading the Balance Control Loop (A Walk-Through)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#71-oc-vong-kiem-soat-thang-bang-i-tung-buoc" class="nav-link">7.1 — Đọc Vòng Kiểm Soát Thăng Bằng (Đi Từng Bước)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-8-the-3-feedback-loop-types" class="nav-link">Chapter 8 — The 3 Feedback Loop Types</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-8-3-loai-vong-phan-hoi" class="nav-link">Chương 8 — 3 Loại Vòng Phản Hồi</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-9-error-correction-from-error-to-refinement" class="nav-link">Chapter 9 — Error Correction: From Error to Refinement</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-9-sua-loi-tu-sai-so-en-tinh-chinh" class="nav-link">Chương 9 — Sửa Lỗi: Từ Sai Số Đến Tinh Chỉnh</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-10-the-5-phase-body-perception-cycle-internal-vs-external-focus" class="nav-link">Chapter 10 — The 5-Phase Body Perception Cycle (Internal vs External Focus)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-10-chu-ky-nhan-thuc-co-the-5-pha-tap-trung-trong-vs-ngoai" class="nav-link">Chương 10 — Chu Kỳ Nhận Thức Cơ Thể 5 Pha (Tập Trung Trong vs Ngoài)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-11-training-the-sensors-drills" class="nav-link">Chapter 11 — Training the Sensors (Drills)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-11-tap-cac-cam-bien-bai-tap" class="nav-link">Chương 11 — Tập Các Cảm Biến (Bài Tập)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-12-the-sensor-atlas-a-visual-synthesis-of-the-5-channels" class="nav-link">Chapter 12 — The Sensor Atlas — A Visual Synthesis of the 5 Channels</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chuong-12-tap-ban-o-cam-bien-tong-hop-truc-quan-5-kenh" class="nav-link">Chương 12 — Tập Bản Đồ Cảm Biến — Tổng Hợp Trực Quan 5 Kênh</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#121-reaction-time-cascade-the-aging-sensor" class="nav-link">12.1 — Reaction Time Cascade (The Aging Sensor)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#121-thac-phan-xa-cam-bien-lao-hoa" class="nav-link">12.1 — Thác Phản Xạ (Cảm Biến Lão Hóa)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#122-the-50-sensory-triad-three-sensors-decline-together" class="nav-link">12.2 — The 50+ Sensory Triad (Three Sensors Decline Together)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#122-bo-ba-cam-bien-50-ba-cam-bien-cung-suy-giam" class="nav-link">12.2 — Bộ Ba Cảm Biến 50+ (Ba Cảm Biến Cùng Suy Giảm)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#123-brain-region-integration-the-sensor-controller-wiring" class="nav-link">12.3 — Brain Region Integration (The Sensor + Controller Wiring)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#123-tich-hop-vung-nao-au-noi-cam-bien-bo-ieu-khien" class="nav-link">12.3 — Tích Hợp Vùng Não (Đấu Nối Cảm Biến + Bộ Điều Khiển)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#124-the-use-it-or-lose-it-principle-tennis-is-protective" class="nav-link">12.4 — The Use-It-Or-Lose-It Principle (Tennis Is Protective)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#124-nguyen-tac-dung-hoac-mat-tennis-la-bao-ve" class="nav-link">12.4 — Nguyên Tắc Dùng-Hoặc-Mất (Tennis Là Bảo Vệ)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#125-the-complete-sensor-system-map-one-page" class="nav-link">12.5 — The Complete Sensor System Map (One Page)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#125-ban-o-he-cam-bien-hoan-chinh-mot-trang" class="nav-link">12.5 — Bản Đồ Hệ Cảm Biến Hoàn Chỉnh (Một Trang)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#chapter-card-printable-the-in-uoc" class="nav-link">📋 Chapter Card — Printable / Thẻ In Được</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#final-word-loi-cuoi" class="nav-link">🎯 Final Word / Lời Cuối</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="dd7-the-sensor-system-feedback-loops-pv-vs-sv-and-error-correction">DD7 — The Sensor System — Feedback Loops, PV vs SV, and Error Correction<a class="headerlink" href="#dd7-the-sensor-system-feedback-loops-pv-vs-sv-and-error-correction" title="Permanent link">&para;</a></h1>
+<h1 id="dd7-he-cam-bien-vong-phan-hoi-pv-vs-sv-va-sua-loi">DD7 — Hệ Cảm Biến — Vòng Phản Hồi, PV vs SV, và Sửa Lỗi<a class="headerlink" href="#dd7-he-cam-bien-vong-phan-hoi-pv-vs-sv-va-sua-loi" title="Permanent link">&para;</a></h1>
+<p><em>Deep Dive #7 — The Anatomy &amp; Geometry Project for Tennis Players 3.5 → 4.5</em>
+<em>Chuyên Đề Số 7 — Dự Án Giải Phẫu &amp; Hình Học cho Người Chơi Tennis 3.5 → 4.5</em></p>
+<p><em>Built from the 20-chapter body perception handbook at <code>Cẩm nang về cảm nhận cơ thể trong tennis/</code> and <code>Proprioception in Tennis</code> (Claude coauthor)</em>
+<em>Xây từ cẩm nang 20 chương nhận thức cơ thể tại <code>Cẩm nang về cảm nhận cơ thể trong tennis/</code> và <code>Proprioception in Tennis</code> (đồng tác giả Claude)</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">Document Map / Bản Đồ Tài Liệu<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The missing layer.</strong> Your previous deep dives (DD1–DD6) cover the <strong>hardware</strong> (angles, springs, neurology, muscles, skeleton) and the <strong>controller</strong> (brain regions, decision layers). This DD covers the <strong>sensors</strong> — the 5 channels that feedback what the body is ACTUALLY doing, so the controller can compare <strong>Process Values (PV)</strong> against <strong>Set Values (SV)</strong> and correct errors.</td>
+</tr>
+<tr>
+<td><strong>The 5 sensor channels</strong> — <strong>proprioception</strong> (where my joints are), <strong>feet</strong> (where the ground is), <strong>hands</strong> (what the racket is doing), <strong>eyes</strong> (where the ball is + where the court is), <strong>ears + vestibular</strong> (where my head is in space + where the racket contact sounds come from).</td>
+</tr>
+<tr>
+<td><strong>The PV/SV control loop</strong> — every stroke is a controller trying to make PV match SV. <strong>When PV ≠ SV, there's an error.</strong> The body has 3 ways to correct: (1) live feedback (good — visible during stroke), (2) post-stroke feedback (better — across multiple strokes), (3) anticipatory correction (best — before the stroke starts).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">Table of Contents / Mục Lục<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Chapter</th>
+<th>Chương</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The Control Engineering View of Tennis</td>
+<td>Góc Nhìn Kỹ Thuật Điều Khiển Của Tennis</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The 5 Sensor Channels</td>
+<td>5 Kênh Cảm Biến</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Channel 1 — Proprioception (The Hidden 6th Sense)</td>
+<td>Kênh 1 — Cảm Giác Sâu (Giác Quan Thứ 6 Ẩn)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Channel 2 — Feet (Ground Contact as PV)</td>
+<td>Kênh 2 — Bàn Chân (Tiếp Đất làm PV)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Channel 3 — Hands (Racket Grip as PV)</td>
+<td>Kênh 3 — Bàn Tay (Cầm Vợt làm PV)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Channel 4 — Eyes (Vision as PV + SV Source)</td>
+<td>Kênh 4 — Mắt (Thị Giác làm PV + Nguồn SV)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Channel 5 — Ears + Vestibular (Sound + Head Position)</td>
+<td>Kênh 5 — Tai + Tiền Đình (Âm Thanh + Vị Trí Đầu)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>The 3 Feedback Loop Types</td>
+<td>3 Loại Vòng Phản Hồi</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Error Correction: From Error to Refinement</td>
+<td>Sửa Lỗi: Từ Sai Số Đến Tinh Chỉnh</td>
+</tr>
+<tr>
+<td>10</td>
+<td>The 5-Phase Body Perception Cycle (Internal vs External Focus)</td>
+<td>Chu Kỳ Nhận Thức Cơ Thể 5 Pha (Tập Trung Trong vs Ngoài)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Training the Sensors (Drills)</td>
+<td>Tập Các Cảm Biến (Bài Tập)</td>
+</tr>
+<tr>
+<td>📋</td>
+<td>Sensor System Cheat Sheet</td>
+<td>Bảng Tóm Tắt Hệ Cảm Biến</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<hr />
+<h1 id="chapter-1-the-control-engineering-view-of-tennis">Chapter 1 — The Control Engineering View of Tennis<a class="headerlink" href="#chapter-1-the-control-engineering-view-of-tennis" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-1-goc-nhin-ky-thuat-ieu-khien-cua-tennis">Chương 1 — Góc Nhìn Kỹ Thuật Điều Khiển Của Tennis<a class="headerlink" href="#chuong-1-goc-nhin-ky-thuat-ieu-khien-cua-tennis" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Every tennis stroke is a feedback-controlled action.</strong> Your brain sets a Set Value (SV) — "I want a forehand down-the-line, 70% pace, with topspin." Your body executes. Your SENSORS report back the Process Value (PV) — "Did the racket face close at the right time? Did the wrist lock? Did the foot land under the hip?"</td>
+</tr>
+<tr>
+<td><strong>The chain</strong> — <strong>SV (brain goal) → Controller (motor cortex) → Actuators (muscles) → Body action (swing) → Environment (ball flight) → Sensors (eyes, ears, proprioception) → Feedback to brain → Error correction → Updated SV.</strong></td>
+</tr>
+<tr>
+<td><strong>The key insight</strong> — most tennis instruction focuses on the SV and the Controller ("swing low to high", "rotate your hips"). It does NOT focus on the SENSORS. <strong>Players who improve their sensors improve faster</strong> than players who improve their controllers.</td>
+</tr>
+<tr>
+<td><strong>The source document nails this</strong> (Ch.1, "Tỉnh Thức Cơ Thể"): <em>"Khi bạn chỉ tập trung vào quả bóng (vật thể bên ngoài), bạn bỏ quên cỗ máy đang tạo ra cú đánh (cơ thể của chính bạn)."</em> Translation: when you only focus on the ball (external focus), you forget the body (internal sensors).</td>
+</tr>
+<tr>
+<td><strong>The 5 sensor channels</strong> are the 5 PV sources. The brain receives PV from all 5, compares to SV, and either (a) confirms match (no correction), (b) detects error (live correction), or (c) adjusts SV for the next stroke (anticipatory correction).</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Train the sensors, not just the swing."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-2-the-5-sensor-channels">Chapter 2 — The 5 Sensor Channels<a class="headerlink" href="#chapter-2-the-5-sensor-channels" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-2-5-kenh-cam-bien">Chương 2 — 5 Kênh Cảm Biến<a class="headerlink" href="#chuong-2-5-kenh-cam-bien" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Channel / Kênh</th>
+<th>What It Senses / Nó Cảm Nhận</th>
+<th>Where the Sensors Are / Vị Trí Cảm Biến</th>
+<th>Speed / Tốc Độ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Proprioception / Cảm giác sâu</strong></td>
+<td>Joint angles, muscle tension, limb position</td>
+<td>Muscle spindles, Golgi tendon organs, joint receptors, skin stretch receptors</td>
+<td><strong>~80 m/s</strong> (fastest sensory organ)</td>
+</tr>
+<tr>
+<td><strong>Channel 4 — Feet / Kênh 4 — Bàn chân</strong></td>
+<td>Ground contact, surface texture, weight distribution, push-off force</td>
+<td>7,000+ nerve endings in sole, plantar fascia, foot joint receptors</td>
+<td><strong>30 ms reflex</strong> (faster than consciousness)</td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Foot 26 bones - sensor structure" src="images/DD7_sensor_system/DD7_sensors_16_foot_26_bones.png" /></td>
+<td><img alt="Bàn chân 26 xương - cấu trúc cảm biến" src="images/DD7_sensor_system/DD7_sensors_16_foot_26_bones.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0a / Hình 0a</strong> — Foot bones as the lever/sensor platform. The 26 bones provide 33 joints that act as both force transmitters (actuator) AND position sensors.</td>
+<td><strong>Hình 0a</strong> — Xương bàn chân làm nền tảng đòn bẩy/cảm biến. 26 xương cung cấp 33 khớp hoạt động vừa là bộ truyền lực (cơ cấu chấp hành) VỪA là cảm biến vị trí.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Foot 7000+ nerve endings" src="images/DD7_sensor_system/DD7_sensors_17_foot_nerve_endings.png" /></td>
+<td><img alt="Bàn chân 7000+ đầu dây thần kinh" src="images/DD7_sensor_system/DD7_sensors_17_foot_nerve_endings.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0b / Hình 0b</strong> — Plantar view showing the dense nerve network in the sole. 7,000+ sensors, 30 ms reflex — the foot is the body's fastest external sensor.</td>
+<td><strong>Hình 0b</strong> — Nhìn dưới lòng bàn chân thấy mạng lưới thần kinh dày đặc. 7.000+ cảm biến, 30 ms phản xạ — bàn chân là cảm biến bên ngoài nhanh nhất cơ thể.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Foot windlass - sensor + actuator" src="images/DD7_sensor_system/DD7_sensors_18_foot_windlass.png" /></td>
+<td><img alt="Windlass bàn chân - cảm biến + cơ cấu chấp hành" src="images/DD7_sensor_system/DD7_sensors_18_foot_windlass.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0c / Hình 0c</strong> — Windlass mechanism: the foot is BOTH a sensor (detects arch tension) AND an actuator (stores energy for push-off). This dual role is why the foot is the most important tennis sensor.</td>
+<td><strong>Hình 0c</strong> — Cơ chế windlass: bàn chân vừa là cảm biến (phát hiện căng cung) VỪA là cơ cấu chấp hành (tích năng lượng đẩy). Vai trò kép này là lý do bàn chân là cảm biến tennis quan trọng nhất.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Cubital tunnel — hand sensor background" src="images/DD7_sensor_system/DD7_sensors_13_cubital_tunnel.png" /></td>
+<td><img alt="Cubital tunnel - nền cảm biến tay" src="images/DD7_sensor_system/DD7_sensors_13_cubital_tunnel.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0d / Hình 0d</strong> — Cubital tunnel (ulnar nerve pathway). Even before the hand senses anything, the elbow's ulnar nerve pathway is gated by elbow flexion — a hidden sensor constraint.</td>
+<td><strong>Hình 0d</strong> — Cubital tunnel (đường dây thần kinh trụ). Ngay cả trước khi tay cảm nhận bất cứ gì, đường dây thần kinh trụ ở khuỷu bị chặn bởi gập khuỷu — một ràng buộc cảm biến ẩn.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Hand 27 bones — sensor platform" src="images/DD7_sensor_system/DD7_sensors_14_hand_27_bones.png" /></td>
+<td><img alt="Tay 27 xương - nền cảm biến" src="images/DD7_sensor_system/DD7_sensors_14_hand_27_bones.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0e / Hình 0e</strong> — The 27 hand bones (8 carpals + 5 metacarpals + 14 phalanges) provide the sensor platform for the racket. More bones = more sensors = more PV detail.</td>
+<td><strong>Hình 0e</strong> — 27 xương bàn tay (8 cổ tay + 5 đốt bàn tay + 14 đốt ngón) cung cấp nền cảm biến cho vợt. Nhiều xương hơn = nhiều cảm biến hơn = PV chi tiết hơn.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img alt="Carpal tunnel contents — sensor density" src="images/DD7_sensor_system/DD7_sensors_15_carpal_tunnel_contents.png" /></td>
+<td><img alt="Nội dung ống cổ tay - mật độ cảm biến" src="images/DD7_sensor_system/DD7_sensors_15_carpal_tunnel_contents.png" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Figure 0f / Hình 0f</strong> — Carpal tunnel cross-section: 9 tendons + 1 median nerve packed into 2 cm². Sensor density is incredibly high — the wrist is one of the most sensor-dense body parts.</td>
+<td><strong>Hình 0f</strong> — Mặt cắt ống cổ tay: 9 gân + 1 dây thần kinh giữa nhồi vào 2 cm². Mật độ cảm biến cực cao — cổ tay là một trong những bộ phận cảm biến dày đặc nhất.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Hands / Bàn tay</strong></td>
+<td>Racket position, grip pressure, vibration at contact, face angle</td>
+<td>Meissner corpuscles, Pacinian corpuscles, Merkel disks, joint receptors</td>
+<td><strong>~50–70 m/s</strong></td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Eyes / Mắt</strong></td>
+<td>Ball position, ball speed, ball spin, court position, opponent position</td>
+<td>Rods (motion), cones (detail), retina, optic nerve → visual cortex</td>
+<td><strong>~200 ms conscious</strong> (but 30 ms sub-conscious)</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Ears + Vestibular / Tai + Tiền đình</strong></td>
+<td>Sound of contact (line calls), head rotation, head tilt, gravity direction</td>
+<td>Cochlea, semicircular canals (3), otolith organs (2), hair cells</td>
+<td><strong>15–50 ms</strong> for vestibular; ears direct to brain</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 5 channels are independent but integrated.</strong> Each runs at its own speed. The brain WEIGHTS them by relevance:</td>
+</tr>
+<tr>
+<td><strong>For a return of serve (high speed, unknown direction)</strong>: eyes (where ball will land) &gt; feet (split-step reflex) &gt; proprioception (body position) &gt; hands (last-second grip) &gt; ears (contact sound)</td>
+</tr>
+<tr>
+<td><strong>For a volley (close range, already in position)</strong>: hands (racket face) &gt; eyes (opponent) &gt; proprioception (arm angle) &gt; ears (contact sound for placement) &gt; feet (already positioned)</td>
+</tr>
+<tr>
+<td><strong>For a serve (full control)</strong>: proprioception (kinetic chain timing) &gt; hands (grip and release) &gt; eyes (target) &gt; feet (toss) &gt; ears (verification)</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "5 sensors. 5 speeds. The brain weights them per shot."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-3-channel-1-proprioception-the-hidden-6th-sense">Chapter 3 — Channel 1 — Proprioception (The Hidden 6th Sense)<a class="headerlink" href="#chapter-3-channel-1-proprioception-the-hidden-6th-sense" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-3-kenh-1-cam-giac-sau-giac-quan-thu-6-an">Chương 3 — Kênh 1 — Cảm Giác Sâu (Giác Quan Thứ 6 Ẩn)<a class="headerlink" href="#chuong-3-kenh-1-cam-giac-sau-giac-quan-thu-6-an" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The body has 5 senses everyone knows</strong> (sight, hearing, touch, taste, smell) <strong>+ 1 that almost no recreational player thinks about</strong>: <strong>proprioception</strong> — the sense of where your body is in space, without looking.</td>
+</tr>
+<tr>
+<td><strong>Close your eyes. Raise your right hand above your head.</strong> You knew where your hand was without seeing it. That's proprioception. <strong>It's running 24/7</strong> — even when you're sleeping.</td>
+</tr>
+<tr>
+<td><strong>The proprioception hardware</strong> (covered in detail in DD3 Ch.3 and DD5 Ch.7):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Receptor / Thụ Thể</th>
+<th>Where / Vị Trí</th>
+<th>What It Detects / Nó Phát Hiện</th>
+<th>Speed / Tốc Độ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Muscle spindles / Thoi cơ</strong></td>
+<td>Inside every muscle / Bên trong mỗi cơ</td>
+<td>Muscle stretch + velocity of stretch / Giãn cơ + vận tốc giãn</td>
+<td><strong>~80 m/s</strong> (fastest)</td>
+</tr>
+<tr>
+<td><strong>Golgi tendon organs / Cơ quan Golgi gân</strong></td>
+<td>At muscle-tendon junction / Chỗ nối cơ-gân</td>
+<td>Force / Lực</td>
+<td>Slower</td>
+</tr>
+<tr>
+<td><strong>Joint receptors / Thụ thể khớp</strong></td>
+<td>Joint capsules (esp. knees, ankles, shoulders) / Bao khớp</td>
+<td>Joint angle + motion direction / Góc khớp + hướng chuyển động</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td><strong>Skin stretch receptors / Thụ thể giãn da</strong></td>
+<td>Skin around joints / Da quanh khớp</td>
+<td>Skin stretch (extra angle info) / Giãn da</td>
+<td>Medium</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proprioception accuracy by joint</strong> (typical 4.0 player, from DD1 Ch.3 and DD3 Ch.3):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Joint / Khớp</th>
+<th>Detection Accuracy / Độ Chính Xác Phát Hiện</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Shoulder / Vai</strong></td>
+<td>~3°–5° rotation change / thay đổi xoay</td>
+</tr>
+<tr>
+<td><strong>Elbow / Khuỷu</strong></td>
+<td>~2°–4° flexion change / thay đổi gập</td>
+</tr>
+<tr>
+<td><strong>Wrist / Cổ tay</strong></td>
+<td>~2°–3° flexion change / thay đổi gập</td>
+</tr>
+<tr>
+<td><strong>Hip / Hông</strong></td>
+<td>~3°–5° rotation change / thay đổi xoay</td>
+</tr>
+<tr>
+<td><strong>Knee / Gối</strong></td>
+<td>~2°–4° flexion change / thay đổi gập</td>
+</tr>
+<tr>
+<td><strong>Ankle / Cổ chân</strong></td>
+<td>~2°–3° dorsiflexion change / thay đổi gập lưng</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Why proprioception matters more than vision at contact</strong> — at the moment of contact, your eyes CANNOT track the ball (the VOR stabilizes them, but visual processing still takes 30–50 ms). <strong>Your proprioception tells you where the racket is in that millisecond</strong> — and that's the only feedback you have.</td>
+</tr>
+<tr>
+<td><strong>The 3.5 vs 4.5 proprioception gap</strong> — a 3.5 player has ~30%–40% worse proprioception than a 4.5 player. <strong>This gap closes with training.</strong> Specific drills (closed-eye balance, single-leg stance, racket-position matching) improve proprioception by 30%–50% in 8 weeks.</td>
+</tr>
+<tr>
+<td><strong>The 50+ decline</strong> — proprioception declines ~10%–15% per decade after 50. <strong>This is why older players lose balance.</strong> It's not a "balance problem" — it's a SENSOR problem. Train the sensor.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Close your eyes. Trust your joints. They know."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-4-channel-2-feet-ground-contact-as-pv">Chapter 4 — Channel 2 — Feet (Ground Contact as PV)<a class="headerlink" href="#chapter-4-channel-2-feet-ground-contact-as-pv" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-4-kenh-2-ban-chan-tiep-at-lam-pv">Chương 4 — Kênh 2 — Bàn Chân (Tiếp Đất làm PV)<a class="headerlink" href="#chuong-4-kenh-2-ban-chan-tiep-at-lam-pv" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The foot is BOTH a sensor AND an actuator.</strong> It senses the ground (PV) AND it transmits force (action). Most players only train the actuator half. They forget the sensor half.</td>
+</tr>
+<tr>
+<td><strong>The foot's sensor hardware</strong> (from Anatomy_Lab DD7):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Component / Thành Phần</th>
+<th>Count / Số Lượng</th>
+<th>Function / Chức Năng</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nerve endings in sole / Đầu dây thần kinh lòng bàn chân</strong></td>
+<td><strong>7,000+</strong></td>
+<td>Pressure, texture, vibration detection</td>
+</tr>
+<tr>
+<td><strong>Plantar fascia nerve endings / Đầu dây thần kinh cân gan chân</strong></td>
+<td>Dense / Dày đặc</td>
+<td>Arch tension detection</td>
+</tr>
+<tr>
+<td><strong>Foot joint receptors / Thụ thể khớp chân</strong></td>
+<td>33 joints × ~10 receptors each = <strong>~330</strong></td>
+<td>Joint angle + position</td>
+</tr>
+<tr>
+<td><strong>Cutaneous mechanoreceptors / Thụ thể cơ học da</strong></td>
+<td>Meissner + Pacinian + Merkel + Ruffini</td>
+<td>Light touch, vibration, pressure</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 30 ms foot reflex</strong> — the foot's nerve endings fire a reflex in <strong>30 milliseconds</strong> — <strong>FASTER than conscious thought (~200 ms)</strong>. <strong>This reflex IS the split-step mechanism.</strong></td>
+</tr>
+<tr>
+<td><strong>The control engineering view</strong> — the foot sensor runs the FASTEST feedback loop in your body. <strong>SV: "be balanced."</strong> PV from foot: "am I balanced?" <strong>If PV ≠ SV, the foot reflex fires within 30 ms.</strong> The conscious brain (cortex) only learns about the imbalance 170 ms later.</td>
+</tr>
+<tr>
+<td><strong>The 3 sources of foot PV</strong>:</td>
+</tr>
+<tr>
+<td><strong>1. Pressure distribution (PV-pressure)</strong> — where your weight is on each foot. <strong>Stand on one foot</strong>: you feel the pressure shift to the ball of the foot and big toe. <strong>This is your body telling you where your center of mass is.</strong></td>
+</tr>
+<tr>
+<td><strong>2. Surface texture (PV-texture)</strong> — clay, hard court, grass. Each surface has different friction. <strong>Your foot senses this and adjusts push-off force.</strong></td>
+</tr>
+<tr>
+<td><strong>3. Vibration timing (PV-impact)</strong> — when your foot lands, you FEEL the moment of contact. <strong>This timing PV is critical for split-step timing.</strong></td>
+</tr>
+<tr>
+<td><strong>The "rooting" cue</strong> — the source document (Ch.1) uses the term "Rooting" (Nghệ Thuật Rễ Cây). <strong>Imagine your feet as tree roots</strong> — spreading, gripping, sensing. <strong>Every push-off begins with foot sensing</strong>.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "The foot is a sensor first, an engine second."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-5-channel-3-hands-racket-grip-as-pv">Chapter 5 — Channel 3 — Hands (Racket Grip as PV)<a class="headerlink" href="#chapter-5-channel-3-hands-racket-grip-as-pv" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-5-kenh-3-ban-tay-cam-vot-lam-pv">Chương 5 — Kênh 3 — Bàn Tay (Cầm Vợt làm PV)<a class="headerlink" href="#chuong-5-kenh-3-ban-tay-cam-vot-lam-pv" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The hand reports back what the racket is doing.</strong> Grip pressure, face angle, vibration, position in space. <strong>Without hand PV, you cannot fine-tune the racket.</strong></td>
+</tr>
+<tr>
+<td><strong>The hand's sensor hardware</strong>:</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Receptor / Thụ Thể</th>
+<th>Where / Vị Trí</th>
+<th>What It Detects / Nó Phát Hiện</th>
+<th>Density / Mật Độ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Meissner corpuscles / Thể Meissner</strong></td>
+<td>Fingertips, palm / Đầu ngón, lòng bàn tay</td>
+<td>Light touch, grip / Chạm nhẹ, cầm</td>
+<td><strong>Highest in fingertips</strong> — most sensitive</td>
+</tr>
+<tr>
+<td><strong>Pacinian corpuscles / Thể Pacini</strong></td>
+<td>Deep in palm + fingers / Sâu trong lòng bàn tay + ngón</td>
+<td>Vibration / Rung</td>
+<td>High</td>
+</tr>
+<tr>
+<td><strong>Merkel disks / Đĩa Merkel</strong></td>
+<td>Skin surface / Bề mặt da</td>
+<td>Sustained pressure, edges / Áp lực liên tục, cạnh</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td><strong>Ruffini endings / Đầu Ruffini</strong></td>
+<td>Deep dermis / Bì sâu</td>
+<td>Skin stretch / Giãn da</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td><strong>Joint receptors / Thụ thể khớp</strong></td>
+<td>Wrist + finger joints / Cổ tay + khớp ngón</td>
+<td>Joint angle / Góc khớp</td>
+<td>Wrist ~330, fingers ~330</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 4 sources of hand PV</strong>:</td>
+</tr>
+<tr>
+<td><strong>1. Grip pressure (PV-grip)</strong> — the hand reports back how hard you're squeezing. <strong>3/10 at rest, 7/10 at contact, 3/10 at follow-through</strong> (Anatomy_Lab DD3 grip pressure rule). <strong>Most recreational players grip 8/10 continuously</strong> — they LOSE the pressure PV because they're always maxed out.</td>
+</tr>
+<tr>
+<td><strong>2. Face angle (PV-face)</strong> — the thumb + index finger sense the racket face's orientation. <strong>Open = slice, closed = topspin, vertical = flat.</strong> This PV is processed ~50 ms before contact — you adjust during the swing.</td>
+</tr>
+<tr>
+<td><strong>3. Vibration at contact (PV-impact)</strong> — at the moment of contact, the ball's vibration travels through the racket to your hand. <strong>Sweet spot = small vibration (clean hit). Off-center = large vibration (twist).</strong> This PV is processed in ~10–30 ms.</td>
+</tr>
+<tr>
+<td><strong>4. Racket position (PV-position)</strong> — the hand knows where the racket is in space (proprioception). <strong>At contact, you know if the racket is high, low, left, right of your body center</strong> — without looking.</td>
+</tr>
+<tr>
+<td><strong>The "dead hand" problem</strong> — many coaches say "relax your grip." But if the hand is COMPLETELY relaxed, <strong>you lose PV-grip AND PV-face</strong>. Better cue: "Active hand, soft fingers." <strong>The hand should be ALIVE</strong> — receiving PV constantly — even between shots.</td>
+</tr>
+<tr>
+<td><strong>The "soft hands firm contact" rule</strong> — the source document (Ch.12 backhand): "Soft hands firm contact." <strong>Hands are soft enough to absorb feedback, firm enough to transmit force.</strong> This is the tension balance that maximizes both PV-sensitivity and power.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Active hand, soft fingers. PV every millisecond."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-6-channel-4-eyes-vision-as-pv-sv-source">Chapter 6 — Channel 4 — Eyes (Vision as PV + SV Source)<a class="headerlink" href="#chapter-6-channel-4-eyes-vision-as-pv-sv-source" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-6-kenh-4-mat-thi-giac-lam-pv-nguon-sv">Chương 6 — Kênh 4 — Mắt (Thị Giác làm PV + Nguồn SV)<a class="headerlink" href="#chuong-6-kenh-4-mat-thi-giac-lam-pv-nguon-sv" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The eyes are the ONLY input channel for tennis.</strong> The brain has NO direct contact with the ball. Everything it knows about the ball comes through vision (and sometimes sound for line calls).</td>
+</tr>
+<tr>
+<td><strong>Vision has a dual role</strong> — it provides BOTH the SV (where I want to hit) AND the PV (what's happening). <strong>This is unique among the 5 channels.</strong> Proprioception, feet, hands, ears provide PV only. <strong>Eyes provide BOTH directions.</strong></td>
+</tr>
+<tr>
+<td><strong>The visual PV (incoming)</strong>:</td>
+</tr>
+<tr>
+<td><strong>1. Ball trajectory (PV-ball)</strong> — where the ball is, where it will be, how fast, how much spin. <strong>Updated every 30–50 ms in conscious vision</strong>, but every 15 ms in sub-conscious (vestibular + reticular).</td>
+</tr>
+<tr>
+<td><strong>2. Court position (PV-court)</strong> — where the lines are, where the opponent is, where you are. <strong>Updated less often</strong> (~200 ms) but stays in peripheral vision constantly.</td>
+</tr>
+<tr>
+<td><strong>3. Opponent body (PV-opponent)</strong> — what is the opponent doing? Racket position, weight shift, shoulder turn. <strong>This is the SV source for YOUR shot</strong> (you choose based on what they give you).</td>
+</tr>
+<tr>
+<td><strong>The visual SV (target)</strong>:</td>
+</tr>
+<tr>
+<td><strong>1. Target location (SV-target)</strong> — where you want the ball to land. <strong>This SV is set BEFORE the shot</strong> (~200 ms before). It's the goal the entire body tries to achieve.</td>
+</tr>
+<tr>
+<td><strong>2. Trajectory intent (SV-trajectory)</strong> — flat, topspin, slice, lob. <strong>Set by grip + face angle + racket path.</strong></td>
+</tr>
+<tr>
+<td><strong>3. Speed intent (SV-speed)</strong> — full, 70%, 50%, touch. <strong>Set by swing speed.</strong></td>
+</tr>
+<tr>
+<td><strong>The Quiet Eye</strong> (covered in DD3 Ch.2 and confirmed by Anatomy_Lab DD8): elite players fixate on the contact zone for <strong>0.3–0.5 s</strong>. Recreational players: 0.1–0.2 s. <strong>Longer quiet eye = better timing = better shot quality.</strong></td>
+</tr>
+<tr>
+<td><img alt="Visual tracking and quiet eye" src="images/DD7_sensor_system/DD7_sensors_04_visual_tracking.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 4 / Hình 4</strong> — Visual tracking and the quiet eye in action. Elite players fixate on the contact zone for 0.3–0.5s, longer than recreational players (0.1–0.2s). This sustained gaze is what allows precise timing.</td>
+</tr>
+<tr>
+<td><img alt="5-phase visual cycle" src="images/DD7_sensor_system/DD7_sensors_05_visual_sequence.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 5 / Hình 5</strong> — The 5-phase visual cycle: Wide perception → Lock-on → Narrow focus → Quiet eye → Re-expand. Each phase has a measurable time (0.5s / 0.3s / 0.1s / 0.05–0.1s / 0.2s).</td>
+</tr>
+<tr>
+<td><img alt="Visual reaction at contact" src="images/DD7_sensor_system/DD7_sensors_07_visual_reaction_contact.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 6 / Hình 6</strong> — Visual reaction at the moment of contact. At impact, the eyes cannot track — VOR stabilizes them. <strong>Proprioception takes over</strong> for the final 50 ms before contact.</td>
+</tr>
+<tr>
+<td><strong>The 50+ vision decline</strong> — presbyopia (loss of near focus) starts at 40–45. Peripheral vision narrows ~10°–20° by 70. <strong>Use yellow balls on dark courts</strong> for max contrast. <strong>Turn head more often</strong> to compensate for peripheral narrowing.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Eyes set the goal. Eyes check the result. Both eyes, both jobs."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-7-channel-5-ears-vestibular-sound-head-position">Chapter 7 — Channel 5 — Ears + Vestibular (Sound + Head Position)<a class="headerlink" href="#chapter-7-channel-5-ears-vestibular-sound-head-position" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-7-kenh-5-tai-tien-inh-am-thanh-vi-tri-au">Chương 7 — Kênh 5 — Tai + Tiền Đình (Âm Thanh + Vị Trí Đầu)<a class="headerlink" href="#chuong-7-kenh-5-tai-tien-inh-am-thanh-vi-tri-au" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="Vestibular 3D anatomy overview" src="images/DD7_sensor_system/DD7_sensors_01_vestibular_3d_anatomy.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 1 / Hình 1</strong> — The 3 semicircular canals (anterior, posterior, horizontal) detect head rotation. The 2 otolith organs detect linear acceleration and head tilt. This is the COMPLETE vestibular anatomy — one of the body's most sophisticated sensors.</td>
+</tr>
+<tr>
+<td><img alt="Vestibular 3D detail" src="images/DD7_sensor_system/DD7_sensors_02_vestibular_3d_detail.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 2 / Hình 2</strong> — Close-up of vestibular anatomy showing the ampullae (the sensory organs at the base of each semicircular canal) and the otolith organs (utricle + saccule). The ampullae contain hair cells that bend when endolymph fluid moves during head rotation.</td>
+</tr>
+<tr>
+<td><strong>The ears provide two channels</strong> — sound (for contact quality + opponent cues) AND vestibular (for head position + balance). <strong>These run in parallel but feel different.</strong></td>
+</tr>
+<tr>
+<td><strong>The ear's PV-audio</strong> (sound at contact):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Sound Cue / Tín Hiệu Âm Thanh</th>
+<th>What It Tells You / Nó Nói Gì</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>"Bộp" / "Pop"</strong> (sweet spot clean hit)</td>
+<td>Center contact. Ball will go where aimed.</td>
+</tr>
+<tr>
+<td><strong>"Cộc" / "Thud"</strong> (off-center)</td>
+<td>Edge contact. Ball will spin unpredictably.</td>
+</tr>
+<tr>
+<td><strong>"Phập" / "Puff"</strong> (open face)</td>
+<td>Slice / underspin shot. Ball will float.</td>
+</tr>
+<tr>
+<td><strong>"Pực" / "Whip crack"</strong> (closed face, fast)</td>
+<td>Topspin shot at speed. Ball will dip.</td>
+</tr>
+<tr>
+<td><strong>No sound at all / Không âm thanh nào</strong></td>
+<td>Miss or mishit. Ball didn't reach strings.</td>
+</tr>
+<tr>
+<td><strong>Racket frame sound (clink) / Âm thanh khung vợt</strong></td>
+<td>Frame contact. Ball will fly off-target.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The ear's PV-audio timing</strong> — sound is the FASTEST sensory channel after reflexes. <strong>~10–15 ms from contact to brain.</strong> This is why you know INSTANTLY whether the shot was clean or not.</td>
+</tr>
+<tr>
+<td><strong>The opponent's sound cues</strong> — opponent's footwork sound tells you where they are. <strong>Opponent's contact sound tells you the spin and pace.</strong></td>
+</tr>
+<tr>
+<td><img alt="Otoconia crystals — which way is UP" src="images/DD7_sensor_system/DD7_sensors_03_otoconia_crystals.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 3 / Hình 3</strong> — Otoconia: tiny calcium carbonate crystals in the otolith organs. <strong>These move with gravity</strong> and tell the brain which way is UP. Loss of otoconia (or dislodging during whiplash) = vertigo (BPPV — benign paroxysmal positional vertigo).</td>
+</tr>
+<tr>
+<td><img alt="The Body Balance Control System — full loop" src="images/DD7_sensor_system/DD7_sensors_19_balance_control_system_full.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 3a / Hình 3a</strong> — <strong>THE COMPLETE BALANCE CONTROL SYSTEM</strong> (the image you provided — "HỆ THỐNG KIỂM SOÁT THĂNG BẰNG CƠ THỂ"). 6 components in sequence: <strong>Vị trí đầu → Hệ tiền đình → VOR → Mắt → Não bộ → Các bộ phận cơ thể</strong>, with a feedback loop curving back to head position. <strong>This is the master diagram for the entire chapter.</strong> When the vestibular sensor changes (e.g., head rotates), it triggers VOR (eye stabilization), which sends visual PV to the brain, which integrates with proprioception, which commands muscle response, which changes head position — closing the loop. <strong>Every balance moment in tennis is this loop running in real-time.</strong></td>
+</tr>
+<tr>
+<td><strong>The vestibular PV-balance</strong> (head position in space):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Vestibular Input / Đầu Vào Tiền Đình</th>
+<th>What It Detects / Nó Phát Hiện</th>
+<th>Speed / Tốc Độ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>3 semicircular canals / 3 ống bán nguyệt</strong></td>
+<td>Head rotation (x, y, z axes)</td>
+<td>~15 ms</td>
+</tr>
+<tr>
+<td><strong>Utricle / Utricle</strong></td>
+<td>Horizontal linear acceleration + head tilt</td>
+<td>~20 ms</td>
+</tr>
+<tr>
+<td><strong>Saccule / Saccule</strong></td>
+<td>Vertical linear acceleration + head tilt</td>
+<td>~20 ms</td>
+</tr>
+<tr>
+<td><strong>Hair cells in otoliths / Tế bào lông trong otolith</strong></td>
+<td>Gravity direction (which way is UP)</td>
+<td>Continuous</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The vestibular PV-rotation</strong> — at every serve, the head rotates ~120° in &lt;0.5s. <strong>The vestibular system tracks this rotation in real-time.</strong></td>
+</tr>
+<tr>
+<td><strong>Why head STILL matters</strong> — when your head is stable, your eyes can lock on the contact zone (quiet eye). When your head bounces, your eyes bounce. <strong>VOR (vestibulo-ocular reflex) keeps your gaze stable DURING head motion.</strong></td>
+</tr>
+<tr>
+<td><strong>The 50+ vestibular decline</strong> — hair cells die after 40. By 60, ~20%–30% reduction in vestibular sensitivity. <strong>This is why older players lose balance on quick direction changes.</strong> Train vestibular: head rotations slow (10 reps each direction daily) + single-leg stance with head turns (30 sec daily).</td>
+</tr>
+<tr>
+<td><strong>The ear + vestibular combo for balance</strong> — ears + vestibular work together for balance. <strong>Ears hear the body falling, vestibular detects the head rotating.</strong> Tennis requires BOTH simultaneously.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Hear the shot. Feel the head. Both give you PV."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="71-reading-the-balance-control-loop-a-walk-through">7.1 — Reading the Balance Control Loop (A Walk-Through)<a class="headerlink" href="#71-reading-the-balance-control-loop-a-walk-through" title="Permanent link">&para;</a></h2>
+<h2 id="71-oc-vong-kiem-soat-thang-bang-i-tung-buoc">7.1 — Đọc Vòng Kiểm Soát Thăng Bằng (Đi Từng Bước)<a class="headerlink" href="#71-oc-vong-kiem-soat-thang-bang-i-tung-buoc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The diagram (Figure 3a) shows the <strong>complete balance control loop</strong>. Let me walk you through it, step by step, in tennis context — using a real moment from your game.</td>
+</tr>
+<tr>
+<td><strong>The moment</strong> — your opponent hits a sharp crosscourt forehand. You split-step, push off your left foot, and rotate your head to track the ball. <strong>What happens in your body in the next 200 ms?</strong></td>
+</tr>
+<tr>
+<td><strong>Step 1 — Vị trí đầu (Head position)</strong> — your head rotates ~90° to the right in 0.15s. The semicircular canals in your inner ear detect this rotation in real-time. <strong>The PV here is: "head is moving at 600°/s to the right."</strong></td>
+</tr>
+<tr>
+<td><strong>Step 2 — Hệ tiền đình (Vestibular system)</strong> — the 3 canals (anterior, posterior, horizontal) each fire according to which axis the rotation is on. The horizontal canal fires strongest (it's a yaw rotation). The brain receives 3 PV signals: horizontal canal (max), anterior canal (small), posterior canal (small).</td>
+</tr>
+<tr>
+<td><strong>Step 3 — VOR (Phản xạ tiền đình-mắt)</strong> — the brain sends a counter-signal to the eye muscles: rotate eyes LEFT at 600°/s, to compensate for the head rotating right. <strong>The eyes stay locked on the ball, even though the head is rotating.</strong> This is the quiet-eye mechanism.</td>
+</tr>
+<tr>
+<td><strong>Step 4 — Mắt (Eye)</strong> — the eye's retina receives the ball's image. <strong>It does NOT move</strong> (VOR is keeping it stable). The optic nerve fires: "ball is at position X, Y on the retina, moving slowly toward the periphery." <strong>The PV is: "ball is still 0.3s away from me, approaching at 1.2 m/s."</strong></td>
+</tr>
+<tr>
+<td><strong>Step 5 — Não bộ (Brain)</strong> — the brain INTEGRATES all PV: vestibular (head moving right), VOR (eyes stable), eye (ball position). It compares to SV (where I want to hit). <strong>Decision: "this is a forehand, crosscourt return, 70% pace."</strong></td>
+</tr>
+<tr>
+<td><strong>Step 6 — Các bộ phận cơ thể (Body parts)</strong> — the brain sends commands via motor cortex → spinal cord → muscles. <strong>Muscles fire in sequence</strong>: right leg push-off, trunk rotation, right arm cocking, swing. The proprioceptive system reports back PV: "shoulder at 90°, elbow at 110°, wrist locked."</td>
+</tr>
+<tr>
+<td><strong>Step 7 — Feedback loop</strong> — the body changes head position (the swing moves the head), which changes the vestibular PV, which re-triggers VOR, which re-stabilizes eyes, which gets a new ball position, which goes back to the brain. <strong>The loop runs CONTINUOUSLY, ~50 ms per cycle.</strong></td>
+</tr>
+<tr>
+<td><strong>The tennis implication</strong> — if ANY link in this loop is broken, your balance fails. <strong>The 50+ decline hits the vestibular link hardest</strong> (hair cells die, sensitivity drops 20–30%). That's why older players feel "off-balance" on quick direction changes.</td>
+</tr>
+<tr>
+<td><strong>The 3 takeaways from this diagram</strong> — (1) <strong>Balance is not a single thing</strong> — it's a 6-component system, (2) <strong>VOR is the silent hero</strong> — without it, your eyes bounce every time your head moves, (3) <strong>The feedback loop means balance is never "done"</strong> — it runs continuously, even when you think you're standing still.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "The diagram is the chapter. Read it slowly. Every box is a sensor. Every arrow is a feedback loop. Every moment on court is this loop running."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-8-the-3-feedback-loop-types">Chapter 8 — The 3 Feedback Loop Types<a class="headerlink" href="#chapter-8-the-3-feedback-loop-types" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-8-3-loai-vong-phan-hoi">Chương 8 — 3 Loại Vòng Phản Hồi<a class="headerlink" href="#chuong-8-3-loai-vong-phan-hoi" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Every tennis shot generates 3 types of feedback</strong>. They happen at different times and have different impacts.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Feedback Type / Loại Phản Hồi</th>
+<th>When / Khi Nào</th>
+<th>Speed / Tốc Độ</th>
+<th>Source / Nguồn</th>
+<th>What It Does / Nó Làm Gì</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Live feedback (during stroke) / Trực tiếp (trong cú)</strong></td>
+<td>Within the 0.5s swing</td>
+<td><strong>10–50 ms</strong></td>
+<td>Hand (vibration, grip), foot (planted), vestibular (head rotation)</td>
+<td>Small mid-swing corrections. Limited time.</td>
+</tr>
+<tr>
+<td><strong>2. Post-stroke feedback (after ball lands) / Sau cú (sau bóng rơi)</strong></td>
+<td>Within 1–3 seconds</td>
+<td><strong>200–500 ms</strong></td>
+<td>Eyes (ball flight), ears (line call), ball landing position</td>
+<td>Compare PV (where ball landed) to SV (where you aimed). Mark error.</td>
+</tr>
+<tr>
+<td><strong>3. Anticipatory feedback (across strokes) / Dự đoán (qua các cú)</strong></td>
+<td>Across 5–50 strokes</td>
+<td><strong>5–30 minutes</strong></td>
+<td>Pattern recognition (temporal lobe), motor learning (cerebellum), memory (basal ganglia)</td>
+<td>Adjust SV for next stroke based on pattern of errors. This is where ADAPTATION happens.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 3.5 player's mistake</strong> — most 3.5 players focus on <strong>TYPE 2 (post-stroke)</strong> because that's where they're told to look. "Watch the ball" = post-stroke visual feedback.</td>
+</tr>
+<tr>
+<td><strong>The 4.5 player's focus</strong> — they use <strong>TYPE 1 (live) AND TYPE 3 (anticipatory)</strong>. <strong>Live</strong>: they sense mid-swing errors through hand proprioception. <strong>Anticipatory</strong>: they remember "the last 3 forehands went long" and adjust the next stroke BEFORE it starts.</td>
+</tr>
+<tr>
+<td><strong>The training implication</strong> — to become 4.5, you need:</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Type / Loại</th>
+<th>Training / Tập Luyện</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Type 1 (live) / Trực tiếp</strong></td>
+<td>Slow-motion swings with focused attention on hand/feet feedback (10 reps daily)</td>
+</tr>
+<tr>
+<td><strong>Type 2 (post-stroke) / Sau cú</strong></td>
+<td>Standard match play (eyes track ball, brain notes result)</td>
+</tr>
+<tr>
+<td><strong>Type 3 (anticipatory) / Dự đoán</strong></td>
+<td>Pattern-recognition drills (deliberate practice of adjusting SV based on PV patterns)</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The most-overlooked type</strong> — TYPE 3 (anticipatory) is the most under-trained. <strong>Most players repeat the SAME stroke 1000 times without adapting.</strong> They only adapt when someone tells them to. <strong>Autonomous adaptation</strong> comes from Type 3 training.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Three feedback loops. Train all three. Most train only one."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-9-error-correction-from-error-to-refinement">Chapter 9 — Error Correction: From Error to Refinement<a class="headerlink" href="#chapter-9-error-correction-from-error-to-refinement" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-9-sua-loi-tu-sai-so-en-tinh-chinh">Chương 9 — Sửa Lỗi: Từ Sai Số Đến Tinh Chỉnh<a class="headerlink" href="#chuong-9-sua-loi-tu-sai-so-en-tinh-chinh" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Errors are the SOURCE of learning.</strong> Every unforced error contains information. <strong>PV ≠ SV. The body learns to make them match.</strong></td>
+</tr>
+<tr>
+<td><strong>The error correction hierarchy</strong> (from fastest to slowest):</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Level / Cấp</th>
+<th>Time to Correct / Thời Gian Sửa</th>
+<th>What Happens / Chuyện Gì Xảy Ra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Mid-swing micro-adjustment / Điều chỉnh giữa cú</strong></td>
+<td>10–50 ms</td>
+<td>Hand grip adjusts, foot pivots, vestibular reorients. Body's automatic compensation.</td>
+</tr>
+<tr>
+<td><strong>2. Stroke-to-stroke adjustment / Điều chỉnh giữa các cú</strong></td>
+<td>1–5 seconds</td>
+<td>Eyes + proprioception compare PV (last ball) to SV (intent). Small SV adjustment for next stroke.</td>
+</tr>
+<tr>
+<td><strong>3. Pattern recognition / Nhận diện mẫu</strong></td>
+<td>5–30 minutes</td>
+<td>Temporal lobe detects: "5 forehands in a row went long." SV shifts down.</td>
+</tr>
+<tr>
+<td><strong>4. Habit formation / Hình thành thói quen</strong></td>
+<td>1–4 weeks</td>
+<td>Basal ganglia stores new motor pattern. Cerebellum makes it automatic.</td>
+</tr>
+<tr>
+<td><strong>5. Identity change / Thay đổi bản ngã</strong></td>
+<td>Months-Years</td>
+<td>"I am a player who can hit a backhand down-the-line." Brain self-image updates.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The "death by degrees" problem</strong> — most 3.5 players make SMALL errors across 1000 strokes. <strong>Each error is &lt; 5% off the SV.</strong> Cumulative effect: a stroke pattern that's 30% off the SV, but the player doesn't NOTICE because each individual error is small.</td>
+</tr>
+<tr>
+<td><strong>The fix — large deliberate errors</strong> — practice making LARGE errors (50% off SV) on purpose, then correct back to SV. <strong>This trains the brain to NOTICE the error signal.</strong> Without this training, the 5% errors stay invisible.</td>
+</tr>
+<tr>
+<td><strong>The "10,000-rep rule" revisited</strong> — from DD3 Ch.4: basal ganglia caches a motor pattern after ~3,000–10,000 repetitions. <strong>But the cache is only as good as the ERROR CORRECTION during those reps.</strong> Reps with no feedback = no learning.</td>
+</tr>
+<tr>
+<td><strong>The "deliberate practice" rule</strong> — Anders Ericsson's research (1993): <strong>the difference between expert and amateur is NOT amount of practice. It's the QUALITY of feedback during practice.</strong> Pros practice with full attention + immediate correction. Amateurs practice on autopilot.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Errors are teachers. Make them loud. Then correct."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-10-the-5-phase-body-perception-cycle-internal-vs-external-focus">Chapter 10 — The 5-Phase Body Perception Cycle (Internal vs External Focus)<a class="headerlink" href="#chapter-10-the-5-phase-body-perception-cycle-internal-vs-external-focus" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-10-chu-ky-nhan-thuc-co-the-5-pha-tap-trung-trong-vs-ngoai">Chương 10 — Chu Kỳ Nhận Thức Cơ Thể 5 Pha (Tập Trung Trong vs Ngoài)<a class="headerlink" href="#chuong-10-chu-ky-nhan-thuc-co-the-5-pha-tap-trung-trong-vs-ngoai" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The source document (20-chapter body perception handbook) defines a 5-phase cycle</strong> for internal body awareness during tennis. This is the connection between the sensor layer and the controller layer.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Phase / Pha</th>
+<th>Focus / Tập Trung</th>
+<th>Sensors Used / Cảm Biến Dùng</th>
+<th>Internal vs External / Trong vs Ngoài</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. WIDE PERCEPTION (0.5s before) / NHẬN THỨC RỘNG (0.5s trước)</strong></td>
+<td>Court, opponent, ball</td>
+<td>Eyes (peripheral), ears (ambient sound), vestibular (head position)</td>
+<td><strong>EXTERNAL focus</strong> — looking OUT at the environment</td>
+</tr>
+<tr>
+<td><strong>2. ROOTING (0.3s before) / RỄ CÂY (0.3s trước)</strong></td>
+<td>Foot contact with ground</td>
+<td><strong>Feet</strong> (plantar nerve endings), proprioception (ankle/hip), vestibular (gravity)</td>
+<td><strong>INTERNAL focus</strong> — feeling INWARD to the body</td>
+</tr>
+<tr>
+<td><strong>3. SPACING (0.1s before) / KHOẢNG CÁCH (0.1s trước)</strong></td>
+<td>Distance to ball</td>
+<td>Eyes (central), proprioception (arm extension), vestibular (lean)</td>
+<td><strong>EXTERNAL focus</strong> — ball position</td>
+</tr>
+<tr>
+<td><strong>4. SWING (during) / VUNG (trong)</strong></td>
+<td>Kinetic chain</td>
+<td>Proprioception (every joint), hand (grip), vestibular (rotation)</td>
+<td><strong>INTERNAL focus</strong> — feeling every segment</td>
+</tr>
+<tr>
+<td><strong>5. CONTACT + AFTER (0.1s after) / TIẾP XÚC + SAU (0.1s sau)</strong></td>
+<td>Hit quality + recovery</td>
+<td><strong>Ears (sound)</strong>, hand (vibration), eyes (ball flight start), feet (re-plant)</td>
+<td><strong>EXTERNAL focus</strong> — ball flight + line calls</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The "internal focus" cue</strong> — the source (Ch.1) emphasizes: <strong>"Tư duy hướng nội"</strong> (Internal Kinesthetic Awareness). The master coach Federer, Nadal, Djokovic — when asked how they decide what to hit, they describe INTERNAL sensations (weight, balance, swing feel), NOT external targets (where the ball goes).</td>
+</tr>
+<tr>
+<td><strong>The Wulf research</strong> — Gabriele Wulf (2007, 2013) showed that <strong>internal focus (on body) produces FASTER learning than external focus (on outcome)</strong> for motor skills. <strong>This is the opposite of what most coaches teach.</strong></td>
+</tr>
+<tr>
+<td><strong>The exception — for tactical decisions</strong> — Wulf also showed that EXTERNAL focus is better for TACTICAL decisions (where to hit, when to change direction). <strong>Use INTERNAL for stroke mechanics, EXTERNAL for tactics.</strong></td>
+</tr>
+<tr>
+<td><strong>The 3-3-3 breathing cue</strong> — the source (Ch.5) recommends: <strong>3-second inhale during wide perception, 3-second hold during rooting, 3-second exhale during swing.</strong> <strong>This synchronizes breath with PV intake.</strong> Exhaling during the swing also stabilizes the spine via intrathoracic pressure.</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Internal for body, external for ball. Switch at contact."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-11-training-the-sensors-drills">Chapter 11 — Training the Sensors (Drills)<a class="headerlink" href="#chapter-11-training-the-sensors-drills" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-11-tap-cac-cam-bien-bai-tap">Chương 11 — Tập Các Cảm Biến (Bài Tập)<a class="headerlink" href="#chuong-11-tap-cac-cam-bien-bai-tap" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 5 sensor drills</strong> (1 per channel, daily). 5 minutes × 5 sensors = 25 min/day. Combined with the 16-min routine from DD6 = ~40 min/day. <strong>This is the full body-perception program.</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Sensor / Cảm Biến</th>
+<th>Drill / Bài Tập</th>
+<th>Duration / Thời Gian</th>
+<th>What It Trains / Nó Tập Gì</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Proprioception / Cảm giác sâu</strong></td>
+<td><strong>Slow-motion forehand with vocal cue</strong> — swing at 1/4 speed. Say "load-snap" out loud. Focus on every joint's position.</td>
+<td><strong>5 min</strong></td>
+<td>Joint position awareness, mid-swing micro-adjustment</td>
+</tr>
+<tr>
+<td><strong>2. Feet / Bàn chân</strong></td>
+<td><strong>Barefoot side-shuffle on grass</strong> (or soft surface). Slow. Focus on foot pressure at every step.</td>
+<td><strong>5 min</strong></td>
+<td>Foot pressure PV, ground contact awareness</td>
+</tr>
+<tr>
+<td><strong>3. Hands / Bàn tay</strong></td>
+<td><strong>Grip pressure metronome</strong> — hold racket. 3 sec at 3/10. 1 sec at 7/10. Repeat. 20 reps.</td>
+<td><strong>5 min</strong></td>
+<td>Grip pressure PV (high to low), finger activation</td>
+</tr>
+<tr>
+<td><strong>4. Eyes / Mắt</strong></td>
+<td><strong>Quiet eye training</strong> — partner tosses ball. Lock on contact zone for 0.5 sec BEFORE swinging. 20 reps.</td>
+<td><strong>5 min</strong></td>
+<td>Quiet eye duration (target 0.3–0.5 sec)</td>
+</tr>
+<tr>
+<td><strong>5. Ears + Vestibular / Tai + Tiền đình</strong></td>
+<td><strong>Single-leg stand with head rotations + eyes closed</strong>. 30 sec × 3 each leg. Focus on sounds in the room (PV-audio) + head movement (PV-vestibular).</td>
+<td><strong>5 min</strong></td>
+<td>Vestibular + auditory integration</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The "blink drill"</strong> (from source Ch.1) — the most direct exercise for "forcing" proprioception when vision is removed:</td>
+</tr>
+<tr>
+<td><strong>Steps</strong> — partner tosses ball. You track ball normally. <strong>At 0.5 sec before contact, CLOSE YOUR EYES.</strong> Hit the ball with eyes closed. Hold finish for 2 seconds. Open eyes. Check ball position.</td>
+</tr>
+<tr>
+<td><strong>What it reveals</strong> — your proprioception's accuracy. <strong>If your stroke form is identical with eyes closed vs eyes open, your proprioception is calibrated.</strong> If form collapses, your proprioception needs work.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-12-the-sensor-atlas-a-visual-synthesis-of-the-5-channels">Chapter 12 — The Sensor Atlas — A Visual Synthesis of the 5 Channels<a class="headerlink" href="#chapter-12-the-sensor-atlas-a-visual-synthesis-of-the-5-channels" title="Permanent link">&para;</a></h1>
+<h1 id="chuong-12-tap-ban-o-cam-bien-tong-hop-truc-quan-5-kenh">Chương 12 — Tập Bản Đồ Cảm Biến — Tổng Hợp Trực Quan 5 Kênh<a class="headerlink" href="#chuong-12-tap-ban-o-cam-bien-tong-hop-truc-quan-5-kenh" title="Permanent link">&para;</a></h1>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>This chapter is a visual summary</strong> — each of the remaining figures illustrates a key concept from the preceding chapters. Print this chapter as a single sheet for your tennis bag.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="121-reaction-time-cascade-the-aging-sensor">12.1 — Reaction Time Cascade (The Aging Sensor)<a class="headerlink" href="#121-reaction-time-cascade-the-aging-sensor" title="Permanent link">&para;</a></h2>
+<h2 id="121-thac-phan-xa-cam-bien-lao-hoa">12.1 — Thác Phản Xạ (Cảm Biến Lão Hóa)<a class="headerlink" href="#121-thac-phan-xa-cam-bien-lao-hoa" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="Reaction time cascade" src="images/DD7_sensor_system/DD7_sensors_06_reaction_time_cascade.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 7 / Hình 7</strong> — Reaction time cascade with age: 25yo = 400 ms, 50yo = 500 ms, 65yo = 600 ms, 75yo = 700 ms. This is the <strong>UPPER LIMIT</strong> on what serve speed each age can return.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="122-the-50-sensory-triad-three-sensors-decline-together">12.2 — The 50+ Sensory Triad (Three Sensors Decline Together)<a class="headerlink" href="#122-the-50-sensory-triad-three-sensors-decline-together" title="Permanent link">&para;</a></h2>
+<h2 id="122-bo-ba-cam-bien-50-ba-cam-bien-cung-suy-giam">12.2 — Bộ Ba Cảm Biến 50+ (Ba Cảm Biến Cùng Suy Giảm)<a class="headerlink" href="#122-bo-ba-cam-bien-50-ba-cam-bien-cung-suy-giam" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="Sensory triad decline at 50+" src="images/DD7_sensor_system/DD7_sensors_08_sensory_triad_decline.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 8 / Hình 8</strong> — The 50+ sensory triad: vision, vestibular, AND proprioception all decline SIMULTANEOUSLY. Most training programs focus on one — the smart training programs train all three.</td>
+</tr>
+<tr>
+<td><img alt="Compensation strategy" src="images/DD7_sensor_system/DD7_sensors_09_compensation_strategy.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 9 / Hình 9</strong> — How to compensate: when one sensor declines, train the others harder. E.g., if vestibular drops → rely more on visual + proprioception. <strong>Redundancy is the 50+ player's secret weapon.</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="123-brain-region-integration-the-sensor-controller-wiring">12.3 — Brain Region Integration (The Sensor + Controller Wiring)<a class="headerlink" href="#123-brain-region-integration-the-sensor-controller-wiring" title="Permanent link">&para;</a></h2>
+<h2 id="123-tich-hop-vung-nao-au-noi-cam-bien-bo-ieu-khien">12.3 — Tích Hợp Vùng Não (Đấu Nối Cảm Biến + Bộ Điều Khiển)<a class="headerlink" href="#123-tich-hop-vung-nao-au-noi-cam-bien-bo-ieu-khien" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="Brain region integration" src="images/DD7_sensor_system/DD7_sensors_10_brain_region_integration.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 10 / Hình 10</strong> — How all the brain regions work together: visual cortex (PV-eye) → cerebellum (timing) → motor cortex (controller) → muscles (actuators) → proprioception (PV back). <strong>The loop closes through sensory feedback.</strong></td>
+</tr>
+<tr>
+<td><img alt="Neural pathway" src="images/DD7_sensor_system/DD7_sensors_11_neural_pathway.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 11 / Hình 11</strong> — Neural pathway: sensory neuron → spinal cord → brainstem → thalamus → sensory cortex → motor cortex → spinal cord → muscle. <strong>Total round-trip: ~50 ms.</strong> This is the fastest your body can correct a stroke.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="124-the-use-it-or-lose-it-principle-tennis-is-protective">12.4 — The Use-It-Or-Lose-It Principle (Tennis Is Protective)<a class="headerlink" href="#124-the-use-it-or-lose-it-principle-tennis-is-protective" title="Permanent link">&para;</a></h2>
+<h2 id="124-nguyen-tac-dung-hoac-mat-tennis-la-bao-ve">12.4 — Nguyên Tắc Dùng-Hoặc-Mất (Tennis Là Bảo Vệ)<a class="headerlink" href="#124-nguyen-tac-dung-hoac-mat-tennis-la-bao-ve" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="Use it or lose it — keep playing" src="images/DD7_sensor_system/DD7_sensors_12_use_it_or_lose_it.png" /></td>
+</tr>
+<tr>
+<td><strong>Figure 12 / Hình 12</strong> — The 50+ use-it-or-lose-it principle. <strong>Tennis itself is the antidote</strong> to sensory decline. A 50+ player who plays 3×/week maintains 70-80% of capacities. A 50+ player who stops loses them at 2× the rate.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="125-the-complete-sensor-system-map-one-page">12.5 — The Complete Sensor System Map (One Page)<a class="headerlink" href="#125-the-complete-sensor-system-map-one-page" title="Permanent link">&para;</a></h2>
+<h2 id="125-ban-o-he-cam-bien-hoan-chinh-mot-trang">12.5 — Bản Đồ Hệ Cảm Biến Hoàn Chỉnh (Một Trang)<a class="headerlink" href="#125-ban-o-he-cam-bien-hoan-chinh-mot-trang" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The 5 sensor channels</strong> visualized as a complete system:</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Sensor / Cảm Biến</th>
+<th>Image / Hình</th>
+<th>Function / Chức Năng</th>
+<th>Speed / Tốc Độ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proprioception / Cảm giác sâu</strong></td>
+<td>(covered in DD5 Ch.7 muscle spindle / Golgi diagrams)</td>
+<td>Joint angles, muscle tension</td>
+<td>~80 m/s</td>
+</tr>
+<tr>
+<td><strong>Feet / Bàn chân</strong></td>
+<td>Figure 0a, 0b, 0c (this chapter)</td>
+<td>Ground contact, push-off</td>
+<td>30 ms reflex</td>
+</tr>
+<tr>
+<td><strong>Hands / Bàn tay</strong></td>
+<td>Figure 0d, 0e, 0f (this chapter)</td>
+<td>Grip, vibration, face angle</td>
+<td>~50–70 m/s</td>
+</tr>
+<tr>
+<td><strong>Eyes / Mắt</strong></td>
+<td>Figure 4, 5, 6 (Ch.6 + this chapter)</td>
+<td>Ball tracking, target, opponent</td>
+<td>~200 ms conscious</td>
+</tr>
+<tr>
+<td><strong>Ears + Vestibular / Tai + Tiền đình</strong></td>
+<td>Figure 1, 2, 3 (Ch.7)</td>
+<td>Sound, head position, balance</td>
+<td>15–50 ms</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The feedback loop</strong> — every sensor feeds PV to the brain, which compares to SV and adjusts:</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight"><pre><span></span><code>SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing)
+   ↑                                                                    ↓
+   └────────── Sensors (5 channels) ←── Environment (ball/court) ←─────┘
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The daily routine</strong> — 5 min × 5 sensors = 25 min/day of sensor training. Combined with the 16-min DD6 routine = <strong>40 min total body-perception program.</strong> This is what the pros do naturally. Recreational players have to do it deliberately.</td>
+</tr>
+<tr>
+<td><strong>The 50+ imperative</strong> — by 50, you've lost 10–30% of each sensor. <strong>You cannot play the same tennis.</strong> But you can play BETTER tennis by ADAPTING the sensor mix: rely more on visual (yellow balls, contrast), more on proprioception (slow-motion drills), more on vestibular (head-turn balance).</td>
+</tr>
+<tr>
+<td><em>Master cue:</em> "Five sensors, three loops, one body. Train all five, train all three, then play tennis."</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="chapter-card-printable-the-in-uoc">📋 Chapter Card — Printable / Thẻ In Được<a class="headerlink" href="#chapter-card-printable-the-in-uoc" title="Permanent link">&para;</a></h2>
+<div class="highlight"><pre><span></span><code>╔═══════════════════════════════════════════════════════════╗
+║  THE SENSOR SYSTEM — KEY IDEAS                           ║
+║  HỆ CẢM BIẾN — Ý TƯỞNG CHÍNH                            ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🎯 ONE BIG IDEA / Ý TƯỞNG CỐT LÕI:                      ║
+║     Tennis is a feedback-controlled action.               ║
+║     PV (what&#39;s happening) vs SV (what you wanted)        ║
+║     drives every stroke. Train the 5 SENSORS.             ║
+║     Tennis là hành động điều khiển phản hồi.             ║
+║     PV (đang xảy ra) vs SV (bạn muốn gì) dẫn             ║
+║     mỗi cú. Tập 5 CẢM BIẾN.                              ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  THE 5 SENSORS / 5 CẢM BIẾN:                               ║
+║                                                            ║
+║  1. Proprioception — joint angles, muscle tension        ║
+║  2. Feet — ground contact, pressure distribution         ║
+║  3. Hands — racket grip, face angle, vibration           ║
+║  4. Eyes — ball position, target, opponent                ║
+║  5. Ears + Vestibular — sound, head position, balance     ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  THE 3 FEEDBACK LOOPS / 3 VÒNG PHẢN HỒI:                   ║
+║                                                            ║
+║  1. Live (during stroke) — 10–50 ms — hand + feet + vest ║
+║  2. Post-stroke (after ball lands) — 200–500 ms — eyes   ║
+║  3. Anticipatory (across strokes) — minutes — pattern    ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  ⚠️ TOP MISTAKE / LỖI PHỔ BIẾN NHẤT:                     ║
+║     Training only TYPE 2 feedback (post-stroke &quot;watch    ║
+║     the ball&quot;). Train ALL 3 — especially TYPE 1 (live)   ║
+║     and TYPE 3 (anticipatory).                            ║
+║     Chỉ tập phản hồi LOẠI 2 (sau cú &quot;nhìn bóng&quot;).      ║
+║     Tập CẢ 3 — đặc biệt LOẠI 1 (trực tiếp) và            ║
+║     LOẠI 3 (dự đoán).                                    ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  🔁 DRILL / BÀI TẬP:                                       ║
+║     BLINK DRILL — partner tosses ball. Close eyes        ║
+║     0.5 sec before contact. Hit. Open eyes. Check.        ║
+║     20 reps daily. Tests proprioception accuracy.         ║
+║     BẠI BLINK — bạn cùng tung. Nhắm mắt 0.5 giây         ║
+║     trước tiếp xúc. Đánh. Mở mắt. Kiểm.                  ║
+║     20 lần hàng ngày. Test cảm giác sâu.                 ║
+║                                                            ║
+║  ────────────────────────────────────────────────────────  ║
+║  💭 MASTER CUE / CÂU NHẮC TỔNG:                           ║
+║     &quot;Five sensors, three loops. Train the difference.&quot;   ║
+║     &quot;Năm cảm biến, ba vòng. Tập cái khác biệt.&quot;         ║
+║                                                            ║
+╚═══════════════════════════════════════════════════════════╝
+</code></pre></div>
+<hr />
+<h2 id="final-word-loi-cuoi">🎯 Final Word / Lời Cuối<a class="headerlink" href="#final-word-loi-cuoi" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Friend, this DD7 completes the picture. <strong>DD1–DD6 = the hardware (joints, muscles, brain). DD7 = the sensors (the 5 feedback channels).</strong> Together: a complete control system.</td>
+</tr>
+<tr>
+<td>The source document puts it perfectly (Ch.17, "Giảm Lỗi"): <em>"Kỹ thuật vung tay hiếm khi là thủ phạm chính. Lỗi đánh hỏng thực chất là sự sụp đổ tạm thời của bản đồ không gian và hệ thống cảm nhận nội tại."</em> Translation: <strong>unforced errors are not stroke-mechanic failures. They are SENSOR failures.</strong></td>
+</tr>
+<tr>
+<td>This changes how you should train. <strong>Stop chasing the perfect swing. Start sharpening your sensors.</strong></td>
+</tr>
+<tr>
+<td>See you on the court, with sharper sensors.</td>
+</tr>
+<tr>
+<td><strong>Total concepts integrated from your source and the wider neuroscience/sensor literature:</strong> 70+ covering the 5 sensor channels, the 3 feedback loop types, the PV vs SV framework, the error correction hierarchy, the 5-phase body perception cycle, the Wulf internal/external focus research, the 5 sensor drills, and the blink drill.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong>Sources / Nguồn</strong>:</p>
+<ul>
+<li><strong>Primary</strong>: 20-chapter body perception handbook (<code>Cẩm nang về cảm nhận cơ thể trong tennis/Vi_Nhan_Thuc_Co_The_Tennis_20_Chuong.docx</code> and per-chapter MDs Ch.1–Ch.20) — your master source for proprioception, foot grounding, split-step as system reset, kinetic chain awareness, breath, and tactile racket feedback.</li>
+<li><strong>Supporting</strong>: <code>proprioception_in_tennis.md</code> (Claude coauthor, 4.3 KB ) + <code>proprioception_in_tennis_detailed_vi.md</code> (Claude coauthor, 1.4 KB Vietnamese).</li>
+<li><strong>Cross-references</strong>: DD1 (Angle Atlas), DD2 (Joints as Springs), DD3 (Neurological Foundation), DD4 (Muscle Hierarchy), DD5 (Skeletal Architecture), DD6 (The 50+ Body), Anatomy_Lab DD7 (feet + 7,000 nerves), Anatomy_Lab DD8 (control system).</li>
+<li><strong>Research</strong>: Gabriele Wulf (2007, 2013) on internal vs external focus; Anders Ericsson (1993) on deliberate practice; Vickers (1996, 2007) on quiet eye.</li>
+</ul>
+<p><em>End of Deep Dive #7 — The Sensor System</em>
+<em>Hết Chuyên Đề Số 7 — Hệ Cảm Biến</em></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../assets/custom.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

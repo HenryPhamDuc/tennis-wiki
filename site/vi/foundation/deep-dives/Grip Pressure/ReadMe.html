@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/vi/foundation/deep-dives/Grip%20Pressure/ReadMe.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>Grip Pressure Deep Dive — ReadMe - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../en/manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#grip-pressure-deep-dive-readme" class="nav-link">Grip Pressure Deep Dive — ReadMe</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#what-was-produced" class="nav-link">What was produced</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="grip-pressure-deep-dive-readme">Grip Pressure Deep Dive — ReadMe<a class="headerlink" href="#grip-pressure-deep-dive-readme" title="Permanent link">&para;</a></h1>
+<h2 id="what-was-produced">What was produced<a class="headerlink" href="#what-was-produced" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Size</th>
+<th>Chapters</th>
+<th>Output type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Grip Pressure — The Dial You Control Every Shot.md</code></td>
+<td>~38 KB / 357 lines</td>
+<td>5 (Philosophy, Scale, Stroke Map, Problems, Drills &amp; Cheat Sheet)</td>
+<td><code>topic_deep_dive</code> (chuẩn Độ sâu, EN-VI bilingual)</td>
+</tr>
+<tr>
+<td>This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái Tay × 4 incl. cắt variations, Phát Bóng, Vôlei, Footwork, Return of Phát Bóng, Doubles Tactics, Foundations &amp; Grip, Compléte Manual, Lob and Overhead, Mental Game, Slice Approach, Slice Family Doubles, Slice Variations, Doubles Serves, Doubles Patterns, Continental Grip, Eastern Semi-Western Grip, Grip Change Map).</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## The 5-step pipeline summary</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Step</td>
+<td>What happened</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Read <code>tennis-huấn luyện viên-system</code> skill v1.3.0; surveyed <code>Deep Dives/</code>; re-read <code>Foundations &amp; Grip.md</code> to find the "3/10 swing, 9/10 impact" hook the file already planted but did not develop; loaded <code>vietnamese-sound-cues.md</code> to keep onomatopoeia canonical.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Identified cách cầm vợt pressure as the missing dial between cách cầm vợt choice (Continental / Eastern Semi-Western / Grip Change Map) and stroke execution (the 5-stroke family). Extracted the 50+ tendon-protection angle and the sound-diagnosis channel.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Single-topic (not bundled-family) → 5-chapter L1-L4 frame doesn't apply. Chose: Philosophy → Scale → Stroke Map → Pressure Problems → Drills &amp; Cheat Sheet. This mirrors the structure of <code>Foundations &amp; Grip</code> (philosophy → scale → map → problems → bài tậps) but develops pressure as its own system.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Master-huấn luyện viên-direct Giọng nói, "rational delỗi + alternatives labelled Tham khảo." Touchstone phrases mined from user profile: "Hold the bird, catch the bóng" (parallel to "Ask the shoulder, not the ego"), "Calm hand, fierce catch" (parallel to "Cú Trái Tay is your mirror"). Vietnamese natural throughout, onomatopoeia consistent with <code>vietnamese-sound-cues.md</code>.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Side-by-side EN-VI tables, single-pipe rule honored (155 table rows, 0 double/triple pipe drift), master cue card in ╔══╗ ASCII box, final word, end-of-dive marker.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## Key 3.5+50+ choices made</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Decision</td>
+<td>What I chose</td>
+<td>What I skipped</td>
+<td>Why</td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+</tr>
+<tr>
+<td>Delỗi peak pressure per stroke</td>
+<td>Cú Thuận Tay 8/10, Vôlei 7/10, Phát Bóng 9/10, block return 7/10</td>
+<td>"Squeeze more to hit harder" trope</td>
+<td>50+ tendons cannot afford cách cầm vợt above 9 even at peak; the L-angle and gravity do the heavy lifting.</td>
+</tr>
+<tr>
+<td>Volume of strokes in the map</td>
+<td>16 (cú đánh nềns + Vôlei variants + return variants + Phát Bóng phases + smash + lob variants)</td>
+<td>Just "cú đánh nềns and vôleis"</td>
+<td>A 50+ player in Surrey hits every one of these; mapping them is the cheat sheet's job.</td>
+</tr>
+<tr>
+<td>Sound-diagnosis Độ sâu</td>
+<td>Dedicated 6-row table in Ch 4 with explicit pressure numbers</td>
+<td>Generic "listen to your shots" advice</td>
+<td>The user already uses pực/bộp/bịch/cốc/phập as primary 3.5-level feedback — pressure mapping complétes the loop.</td>
+</tr>
+<tr>
+<td>The "5 never-above" rules</td>
+<td>Vôlei 8, block return 7, cắt 9-fingers-only</td>
+<td>"Tighten for control" intuition</td>
+<td>These three strokes have hard ceilings; exceeding them causes injury, not power. The 50+ angle made these non-negotiable.</td>
+</tr>
+<tr>
+<td>Bird-in-the-hand metaphor</td>
+<td>"Hold the bird, catch the bóng"</td>
+<td>The "hold like a baby bird" cliché</td>
+<td>The cliché stops at the cách cầm vợt; this version connects the <em>swing</em> to <em>impact</em> (the calm → spike → release arc).</td>
+</tr>
+<tr>
+<td>## Cross-references</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>This deep dive touches on</td>
+<td>Related file in the library</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Grip bevels (where the pressure lands on the hand)</td>
+<td><code>Deep Dives/Foundations &amp; Grip/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Continental pressure for Vôlei/cắt/Phát Bóng</td>
+<td><code>Deep Dives/Continental Grip/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Eastern Semi-Western pressure for Cú Thuận Tay</td>
+<td><code>Deep Dives/Eastern Semi-Western Grip/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>When to change cách cầm vợt between strokes</td>
+<td><code>Deep Dives/Grip Change Map/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>The block return's pressure ceiling</td>
+<td><code>Deep Dives/Return of Phát Bóng/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>The Vôlei's "block, don't swing" + pressure</td>
+<td><code>Deep Dives/Vôlei/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>The cắt's "soft hands, firm contact"</td>
+<td><code>Deep Dives/Slice Variations/</code></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## What's next? (options for continuation)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Option</td>
+<td>What it would produce</td>
+<td>Why it would help</td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td></td>
+</tr>
+<tr>
+<td>A</td>
+<td>Build the Grip Pressure Web App — interactive HTML where you click a stroke, see the swing→impact ramp animated, and hear the sound (pực/bộp/bịch).</td>
+<td>Reinforces the dial concept kinesthetically; lives next to the Compléte Manual HTML.</td>
+<td></td>
+</tr>
+<tr>
+<td>B</td>
+<td>Wrist Mobility &amp; 50+ Longevity deep dive — the joint the cách cầm vợt pressure protects. Forearm stretches, eccentric exercises, the cortisone-prevention checklist.</td>
+<td>Natural follow-up: pressure is the dial, mobility is the joint it protects.</td>
+<td></td>
+</tr>
+<tr>
+<td>C</td>
+<td>Pressure Calibration Log — a one-page printable the user fills in after each trận: "Cú Thuận Tay today: 5/7, Vôlei: 2/6, Phát Bóng: 4/8 — felt tight on the cắt."</td>
+<td>Turns the cheat sheet from passive Tham khảo to active self-huấn luyện viêning.</td>
+<td></td>
+</tr>
+<tr>
+<td>D</td>
+<td>Cross-Tham khảo patch — go through all 19 existing deep dives and tag any sentence that mentions cách cầm vợt pressure with a <code>→ see Grip Pressure/</code> link.</td>
+<td>Makes the dial visible across the library without rewriting any file.</td>
+<td></td>
+</tr>
+<tr>
+<td>E</td>
+<td>Stop here. The dial is documented; the cheat sheet is in the bag.</td>
+<td>Sometimes the best move is to lét it settle before adding more.</td>
+<td></td>
+</tr>
+<tr>
+<td>## Files</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <code>Grip Pressure — The Dial You Control Every Shot.md</code> — the deep dive itself</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <code>ReadMe.md</code> — this file</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

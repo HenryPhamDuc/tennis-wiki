@@ -1,0 +1,1431 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/vi/elite/deep-dives/08%20Hidden%20Speed/Hidden%20Speed%20%E2%80%94%20The%20Reaction%20Layer%20Asymmetry%20Test%20and%20Per-Layer%20Training%20System.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../en/manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../../en/manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../../en/advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system" class="nav-link">Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop" class="nav-link">Deep-Dive #8 — Tốc Độ Ẩn — Kiểm Tra Bất Đối Xứng 3 Lớp Phản Ứng và Hệ Thống Tập Theo Lớp</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📖 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system">Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System<a class="headerlink" href="#deep-dive-8-hidden-speed-the-3-reaction-layers-and-your-per-layer-training-system" title="Permanent link">&para;</a></h1>
+<h1 id="deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop">Deep-Dive #8 — Tốc Độ Ẩn — Kiểm Tra Bất Đối Xứng 3 Lớp Phản Ứng và Hệ Thống Tập Theo Lớp<a class="headerlink" href="#deep-dive-8-toc-o-an-kiem-tra-bat-oi-xung-3-lop-phan-ung-va-he-thong-tap-theo-lop" title="Permanent link">&para;</a></h1>
+<p><em>The Speed Most Players Never Train — A 25-minute deep-dive for the 5.0+ player.</em>
+<em>Tốc Độ Hầu Hết Người Chơi Không Bao Giờ Tập — Deep-dive 25 phút cho người chơi 5.0+.</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deep-dive này thêm gì. Elite Manual Chương 8 đã giới thiệu 3 lớp phản ứng (Kích thích → Vỏ não → Vận động) và kiểm tra bất đối xứng phơi bày lớp nào là nút cổ chai CỦA ANH. Deep-dive này cho anh <em>hệ thống vận hành đầy đủ:</em> phác đồ kiểm tra theo lớp, phác đồ tập theo lớp, và tích hợp với myelin (Deep-Dive #3) để anh xây lớp quan trọng cho ANH.</td>
+</tr>
+<tr>
+<td>Ai nên đọc. Bất cứ ai cảm thấy "nhanh lúc tập, chậm lúc đấu." Bất cứ ai có đối thủ dường như "thấy bóng sớm" hoặc "có nhiều thời gian hơn." Bất cứ ai có số đo phản ứng (từ app) dường như không nhất quán với kết quả trận.</td>
+</tr>
+<tr>
+<td>Thời gian đọc. ~25 phút. Kiểm tra theo lớp: 1-2 giờ. Tập theo lớp: 30-60 ngày.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📖 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Chapter</th>
+<th>English</th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The 3 Reaction Layers (Detail)</td>
+<td>3 Lớp Phản Ứng (Chi Tiết)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The Asymmetry Test Protocol</td>
+<td>Phác Đồ Kiểm Tra Bất Đối Xứng</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Layer 1 Training (Stimulus)</td>
+<td>Tập Lớp 1 (Kích Thích)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Layer 2 Training (Cortex)</td>
+<td>Tập Lớp 2 (Vỏ Não)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Layer 3 Training (Motor)</td>
+<td>Tập Lớp 3 (Vận Động)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>The Integration with Myelin &amp; Decision</td>
+<td>Tích Hợp với Myelin &amp; Quyết Định</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Asymmetry Chart</td>
+<td>Biểu Đồ Bất Đối Xứng</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Your Hidden Speed Card</td>
+<td>Thẻ Tốc Độ Ẩn Của Bạn</td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 1 — 3 Lớp Phản Ứng (Chi Tiết)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái nhìn chuẩn (và tại sao sai).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hầu hết HLV nói "thời gian phản ứng" như thể đó là một số. Họ kiểm tra bằng app phản ứng (ánh sáng hoặc âm thanh xuất hiện, bạn gõ nhanh nhất có thể). Kết quả: 200-300ms cho người 5.0+. Họ kết luận: "thời gian phản ứng bạn tốt."</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tại sao điều này gây hiểu lầm. Một số phản ứng che giấu <em>lớp nào</em> là nút cổ chai. Người chơi 250ms phản ứng có thể chậm ở <em>nhìn bóng</em> (Lớp 1) nhưng nhanh ở <em>di chuyển vợt</em> (Lớp 3). Hoặc ngược lại. <em>Cùng tổng thời gian. Khác nút cổ chai. Khác tập.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 1 — Phát hiện kích thích (50-100ms).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian từ "bóng rời vợt đối thủ" đến "hệ thị giác tôi ghi nhận." Bao gồm xử lý võng mạc, truyền thị giác, và nhận thức vỏ thị giác sơ cấp. <em>Tốc độ cảm biến thô của mắt.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái gì ảnh hưởng Lớp 1. Độ sắc nét thị giác (mắt bạn có nhìn rõ?), độ nhạy tương phản (mắt nhìn được với trời?), xử lý ngoại vi vs. trung tâm, sức khỏe mắt, hydrat hóa, mệt mỏi.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 2 — Quyết định vỏ não (50-150ms).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian từ "tôi thấy bóng" đến "tôi biết đánh cú nào." Bao gồm nhận dạng mẫu, sinh lựa chọn, chọn quyết định. <em>Tốc độ đồng hồ cờ vua của não.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái gì ảnh hưởng Lớp 2. Số "chunk" trong trí nhớ (Deep-Dive #9), độ rõ quy tắc quyết định, trạng thái áp lực (choking chậm Lớp 2), tính cụ thể tập (myelin ở đây giảm thời gian Lớp 2).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 3 — Thực hiện vận động (50-100ms).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian từ "tôi biết cú" đến "vợt gặp bóng." Bao gồm lập kế hoạch vận động, kích hoạt cơ, vận động khớp. <em>Tốc độ nối dây của cơ thể.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái gì ảnh hưởng Lớp 3. Loại sợi cơ (% sợi nhanh), mật độ myelin (6.000% từ Deep-Dive #3), trạng thái khởi động, mệt mỏi CNS, độ chính xác cửa sổ tiếp xúc.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tổng = 150-350ms. Hầu hết 5.0+: 250-300ms tổng. Nhanh nhất: 180-220ms. 4.5 chậm nhất: 350-450ms. <em>Khoảng cách 200ms giữa nhanh và chậm phần lớn ở Lớp 2 (quyết định) và Lớp 3 (myelin).</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 2 — Phác Đồ Kiểm Tra Bất Đối Xứng</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nguyên tắc. Để biết lớp nào là nút cổ chai CỦA ANH, cô lập từng lớp và kiểm tra độc lập. <em>Ba kiểm tra con.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Kiểm tra A — Lớp 1 (kích thích).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dựng. Bạn giữ bóng tennis ẩn sau màn chắn. Bạn thả bóng (hoặc phơi bày). Anh nói "bây giờ!" khoảnh khắc anh thấy. <em>Bạn ghi phản ứng.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Biến thiên. Lặp với bóng trên nền khác (trời, hàng rào, sân). Lặp với bóng động vs. tĩnh.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái anh đo. Tốc độ phản ứng thị giác thuần — chỉ Lớp 1. Kỳ vọng 5.0+: 80-150ms. <em>Nếu của anh cao hơn nhiều (180ms+), Lớp 1 là nút cổ chai.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Kiểm tra B — Lớp 2 (quyết định).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dựng. Bạn cho anh xem thẻ với <em>hướng</em> (trái/phải) và <em>loại cú</em> (Cú Thuận Tay/Cú Trái Tay). Anh nói cú thành tiếng nhanh nhất có thể. <em>Bạn ghi thời gian quyết định.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Biến thiên. Thẻ ngẫu nhiên. Rồi thẻ <em>có mẫu</em> (anh biết cái tiếp). Ngẫu nhiên = kiểm tra nhận dạng mẫu. Có mẫu = kiểm tra tốc độ đầu ra thuần.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái anh đo. Thời gian quyết định — chỉ Lớp 2 (không kích thích thị giác, không thực hiện vận động). Kỳ vọng 5.0+ có chunk tốt: 50-150ms. <em>Nếu của anh cao hơn nhiều (200ms+), Lớp 2 là nút cổ chai.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Kiểm tra C — Lớp 3 (vận động).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dựng. Anh biết cú (Cú Thuận Tay chéo sân). Bạn cho bóng chậm. Anh đánh cú. <em>Bạn đo thời gian từ "bóng rời vợt" đến "vợt gặp bóng" bằng video 240fps.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Biến thiên. Lặp ở tốc độ tăng dần.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cái anh đo. Thực hiện vận động — chỉ Lớp 3. Kỳ vọng 5.0+ có myelin tốt: 80-120ms từ quyết định đến tiếp xúc. <em>Nếu của anh cao hơn nhiều (150ms+), Lớp 3 là nút cổ chai.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Biểu đồ bất đối xứng.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vẽ ba kết quả kiểm tra trên tam giác. Cạnh dài nhất = lớp nút cổ chai của anh. <em>Tập cái đó.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 3 — Tập Lớp 1 (Kích Thích)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nguyên tắc tập Lớp 1. Lớp 1 phần lớn là <em>vật lý</em> (sức khỏe mắt, võng mạc, thị giác). Tập cải thiện <em>tốc độ xử lý,</em> không phải giải phẫu.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 1 — Theo dõi bóng ngoại vi (10 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Đứng yên. Bạn đánh bóng đến chỗ ngẫu nhiên. Anh không xoay đầu. <em>Chỉ mắt theo dõi.</em> Cái này tập tốc độ xử lý ngoại vi.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 2 — Bài tập nhạy tương phản (5 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tập trong ánh sáng khác nhau (nắng, mây, trong nhà, chạng vạng). Độ nhạy tương phản của mắt thích ứng với môi trường. <em>Đa dạng tập thích ứng.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 3 — Ném bóng theo dõi màu (5 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Dùng bóng màu khác nhau (vàng, cam, trắng). Ném và gọi màu trước khi bắt. <em>Cái này tập tốc độ phân loại thị giác.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 4 — Khởi động mắt-tay (3 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Gõ ngón tay chậm trong khi xem vật di chuyển (kim đồng hồ, bóng lắc). Mắt theo dõi trong khi tay di chuyển. <em>Tập xử lý song song.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian tập Lớp 1: 25 phút/ngày, tối thiểu 30 ngày. Cải thiện kỳ vọng: 20-40ms.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 4 — Tập Lớp 2 (Vỏ Não)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nguyên tắc tập Lớp 2. Lớp 2 là <em>nhận thức.</em> Tập là để <em>xây thêm chunk</em> (Deep-Dive #9) và <em>tự động hóa quy tắc quyết định.</em> Đây là đòn bẩy lớn nhất ở 5.0+.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 1 — Nhận dạng mẫu (10 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Xem video tennis. Tạm dừng ở khoảnh khắc tiếp xúc. <em>Dự đoán</em> bóng sẽ đi đâu (vạch, chiều sâu, xoáy). Bỏ tạm dừng và kiểm. <em>Theo thời gian, dự đoán nhanh hơn.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 2 — Thẻ nháy quyết định (5 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tạo 20 thẻ flash cho thấy tình huống tennis (đối thủ ở lưới, bóng rơi ngắn, v.v.). Cho xem mỗi cái 1 giây. <em>Gọi tên</em> cú thành tiếng trong 1 giây. Tự đo thời gian; giảm dần.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 3 — Dàn dựng kịch bản chiến thuật (10 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tái dàn dựng tinh thần kịch bản cụ thể: "Tôi giao, đối thủ trả sâu vào Cú Trái Tay, tôi có 2 giây, tôi đánh gì?" <em>Chạy 5 kịch bản mỗi ngày. Mỗi cái &lt;5 giây quyết.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 4 — Mô phỏng trận cò ngẫu nhiên (15 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bạn gọi hướng cú ngẫu nhiên. Anh phải quyết và thực hiện trong 1.5 giây. <em>Cái này kết hợp Lớp 2 + Lớp 3 dưới áp lực nhẹ.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian tập Lớp 2: 40 phút/ngày, 30-60 ngày. Cải thiện kỳ vọng: 30-60ms.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 5 — Tập Lớp 3 (Vận Động)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nguyên tắc tập Lớp 3. Lớp 3 là <em>myelin.</em> Tập là để myelin hóa mẫu cú với tính cụ thể cao (Deep-Dive #3) và biến thiên cao (tập biến thiên).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 1 — Myelin hóa cú cụ thể (20 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chọn MỘT cú. Khoan ở 50% tốc độ 50 rep, 70% tốc độ 30 rep, 90% tốc độ 20 rep. <em>Chú ý ở Lớp 3 (vận động) chỉ.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 2 — Cú Thuận Tay biến thiên (15 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Xem phác đồ tập biến thiên Deep-Dive #3. <em>Cái này tập Lớp 3 myelin hóa đặc điểm chung qua biến thiên.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 3 — Khởi động sợi nhanh (10 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ngoài sân: chống đẩy plyometric, squat nhảy, ném bóng y tế. Trên sân: tiếp cận 3 bước + chạy nước rút, lặp 10x. <em>Sợi cơ nhanh có thể tập ở người lớn tuổi (chậm hơn người trẻ, nhưng có thể).</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bài 4 — Chuỗi phản ứng-thực hiện (15 phút/ngày).</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bạn cho bóng ngẫu nhiên. Anh phản ứng VÀ thực hiện. Áp lực thời gian tập Lớp 2 + Lớp 3 cùng nhau. <em>Ghi thời gian quyết-định-đến-tiếp-xúc bằng video 240fps. Mục tiêu &lt;300ms tổng.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thời gian tập Lớp 3: 60 phút/ngày, 60-90 ngày. Cải thiện kỳ vọng: 30-80ms.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 6 — Tích Hợp với Myelin &amp; Quyết Định</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chồng 3 lớp.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 1 (kích thích) là <em>mắt.</em> Tập bằng bài thị giác. Cải thiện 20-40ms trong 30 ngày.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 2 (quyết định) là <em>não.</em> Tập bằng chunk và thẻ nháy. Cải thiện 30-60ms trong 30-60 ngày.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lớp 3 (vận động) là <em>cơ + myelin.</em> Tập bằng bài cú. Cải thiện 30-80ms trong 60-90 ngày.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tiềm năng tăng tốc tổng.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nếu anh tập cả 3 lớp có hệ thống trong 90 ngày, <em>tổng</em> thời gian phản ứng có thể giảm 80-180ms. Từ 300ms xuống 220-250ms (hoặc thấp hơn). <em>Đó là khác biệt giữa 4.5 và 5.5.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nguyên tắc "tập bất đối xứng." Nếu kiểm tra bất đối xứng cho thấy Lớp 2 là nút cổ chai (vd. 220ms), dành 70% thời gian tập cho Lớp 2, 30% cho hai lớp kia. <em>Đừng phân phối đều; giải quyết nút cổ chai CỦA ANH trước.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Kiểm tra lại hàng tuần. Chạy lại kiểm tra bất đối xứng mỗi 2 tuần. Khi một lớp cải thiện, nút cổ chai có thể chuyển. <em>Hiệu chỉnh lại.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 7 — Biểu Đồ Bất Đối Xứng</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vẽ biểu đồ của anh.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Vẽ tam giác. Ghi các góc L1, L2, L3. Vẽ ba kết quả kiểm tra là khoảng cách từ góc tương ứng (càng cao thời gian, đường càng dài). <em>Đường dài nhất là nút cổ chai.</em></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ví dụ đọc.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Người cân bằng. Cả ba đường dài tương tự (vd. L1=110ms, L2=130ms, L3=100ms). Tập cả ba đều.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nút cổ chai thống trị Lớp 2. Đường L2 dài hơn nhiều (vd. L1=100ms, L2=220ms, L3=110ms). <em>Người 4.0-4.5 cổ điển.</em> Tập quyết định nặng.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nút cổ chai thống trị Lớp 3. Đường L3 dài hơn nhiều (vd. L1=100ms, L2=120ms, L3=200ms). <em>Người lớn tuổi hoặc chấn thương.</em> Tập myelin + sợi nhanh.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nút cổ chai thống trị Lớp 1. Đường L1 dài hơn nhiều (vd. L1=200ms, L2=130ms, L3=110ms). <em>Thường vấn đề thị giác hoặc mệt.</em> Tập mắt + kiểm tra sức khỏe mắt.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td># Chương 8 — Thẻ Tốc Độ Ẩn Của Bạn</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>* * *</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 📋 Deep-Dive #8 Master Card — Printable / Thẻ Tổng Deep-Dive #8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╔═══════════════════════════════════════════════════════════════╗</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THẺ TỐC ĐỘ ẨN — BẤT ĐỐI XỨNG 3 LỚP CỦA BẠN ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╠═══════════════════════════════════════════════════════════════╣</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ MY ASYMMETRY TEST RESULTS / KẾT QUẢ BẤT ĐỐI XỨNG: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L1 (stimulus): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L1 (kích thích): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L2 (decision): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L2 (quyết định): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L3 (motor): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L3 (vận động): <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Total: <strong><em>_</em></strong> ms / Tổng: <strong><em>_</em></strong> ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ MY BOTTLENECK / NÚT CỔ CHAI CỦA TÔI: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>___ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ MY TRAINING ALLOCATION / PHÂN BỔ TẬP CỦA TÔI: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L1 bài tậps: <strong><em>_ min/day (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Bài L1: <strong><em>_ phút/ngày (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L2 bài tậps: <strong><em>_ min/day (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Bài L2: <strong><em>_ phút/ngày (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L3 bài tậps: <strong><em>_ min/day (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Bài L3: <strong><em>_ phút/ngày (</em></strong>_%) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THE 4 L1 DRILLS / 4 BÀI L1: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Peripheral-vision tracking (Theo dõi ngoại vi) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Contrast sensitivity (Nhạy tương phản) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Color-tracking bóng tosses (Ném bóng theo màu) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Eye-hand motor priming (Khởi động mắt-tay) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THE 4 L2 DRILLS / 4 BÀI L2: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Pattern recognition video (Video nhận dạng mẫu) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Decision flash cards (Thẻ nháy quyết định) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Tactical scenario rehearsal (Dàn dựng chiến thuật) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Random-cue trận sim (Mô phỏng trận cò ngẫu nhiên) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THE 4 L3 DRILLS / 4 BÀI L3: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Stroke-specific myelination (Myelin cú cụ thể) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Variable Cú Thuận Tay (Cú Thuận Tay biến thiên) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Fast-twitch primer (Khởi động sợi nhanh) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ □ Reaction-execution chain (Chuỗi phản ứng-thực hiện) ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ 2-WEEK RE-TEST SCHEDULE / LỊCH KIỂM TRA LẠI 2 TUẦN: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Test 1: <strong><em>_/</em></strong><em> Test 2: <strong><em>_/</em></strong></em> ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Kiểm tra 1: <strong><em>_/</em></strong><em> Kiểm tra 2: <strong><em>_/</em></strong></em> ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Test 3: <strong><em>_/</em></strong><em> Test 4: <strong><em>_/</em></strong></em> ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ Kiểm tra 3: <strong><em>_/</em></strong><em> Kiểm tra 4: <strong><em>_/</em></strong></em> ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ 💭 MASTER CUE / CÂU NHẮC TỔNG: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ "Train the layer that is slow. Not the layer that is fun." ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ "Tập lớp chậm. Không phải lớp vui." ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╚═══════════════════════════════════════════════════════════════╝</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╔═══════════════════════════════════════════════════════════════╗</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ THẺ TỐC ĐỘ ẨN — BẤT ĐỐI XỨNG 3 LỚP CỦA BẠN ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╠═══════════════════════════════════════════════════════════════╣</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ MY ASYMMETRY TEST / KIỂM TRA BẤT ĐỐI XỨNG: ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ L1: <strong><em>_</em>ms L2: </strong><strong><em>ms L3: </em></strong>__ms Total: _____ms ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ BOTTLENECK: <strong><em>_</em></strong><strong><em>_</em> ALLOCATION: L1 </strong>_% L2 <strong><em>% L3 </em></strong>%║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ 💭 MASTER CUE: "Train the slow layer, not the fun one." ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ "Tập lớp chậm, không lớp vui." ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>║ ║</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>╚═══════════════════════════════════════════════════════════════╝</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## 🎯 FINAL WORD / LỜI CUỐI</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Anh đã dành nhiều năm tập lớp cơ thể anh có thể tập. Lớp cơ thể anh <em>không thể</em> tập — đó là nơi 200ms sống. Kiểm tra bất đối xứng mất 1-2 giờ. Tập mất 90 ngày. Kết quả là người 5.0+ <em>cảm thấy như</em> có nhiều thời gian hơn đối thủ — vì họ có. "Tốc độ ẩn" luôn ở đó, ẩn sau tập luyện mất cân bằng của anh.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>---</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sources / Nguồn:</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- Tennis Research - Neuro athlétics - with Kwen-Ollama.md (Ch 3.4 — "Cách làm chủ tốc độ phản ứng," 3-layer model (Stimulus → Cortex → Motor), 200ms expert edge)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- Tennis Research with Kwen-Ollama.md (Ch 1.4 — 3 tầng phản xạ — sensory, decision, motor; Ch 11.7 — per-layer luyện tập; Ch 6 — hidden speed gap analysis)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- Advanced Tennis Kilướiic-Chain Manual.md (Reaction-Time Pyramid, per-stage luyện tập protocols)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- Futuristic Tennis Manual by Olama.md (Neuro athlétic, NKF reaction-time coefficient, Δt_synch)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

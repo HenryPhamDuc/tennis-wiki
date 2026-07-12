@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://127.0.0.1:8000/en/elite/deep-dives/09%20Decision%20Latency/Decision%20Latency%20%E2%80%94%20Chunk%20Library%20Builder%20and%20the%20200ms%20Expert%20Edge.html">
+        <link rel="shortcut icon" href="../../../../img/favicon.ico">
+        <title>Deep-Dive #9 — Decision Latency — Your Personal Chunk Library and the 200ms Expert Edge - Tennis Knowledge Base</title>
+        <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../../../css/brands.min.css" rel="stylesheet">
+        <link href="../../../../css/solid.min.css" rel="stylesheet">
+        <link href="../../../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../../../assets/custom.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/yaml.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/languages/bash.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../../../index.html">Tennis Knowledge Base</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../../../../index.html" class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" class="nav-link">English Site</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" class="nav-link">Vietnamese Site</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Vietnamese Basics</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/index.html" class="dropdown-item">CẨM NANG QUẦN VỢT TOÀN DIỆN</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/balance.html" class="dropdown-item">1. Thăng bằng (Balance)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/kinetic-chain.html" class="dropdown-item">2. Chuỗi động học (Kinetic Chain)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/movement.html" class="dropdown-item">3. Di chuyển (Movement)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/grips.html" class="dropdown-item">4. Cách cầm vợt (Grips)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/serve.html" class="dropdown-item">5. Giao bóng (Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/return-of-serve.html" class="dropdown-item">6. Đỡ giao bóng (Return of Serve)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/forehand.html" class="dropdown-item">7. Đánh thuận tay (Forehand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/backhand.html" class="dropdown-item">8. Đánh trái tay (Backhand)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/drop-shot-and-lob.html" class="dropdown-item">9. Đánh bóng nhỏ và bóng bổng (Drop Shot and Lob)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/approach-shot.html" class="dropdown-item">10. Đánh bóng tấn công (Approach Shot)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/volleys.html" class="dropdown-item">11. Đánh bóng bổng (Volleys)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/future-strokes.html" class="dropdown-item">12. Cú đánh tương lai (Future Strokes)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/singles.html" class="dropdown-item">13. Đơn (Singles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/doubles.html" class="dropdown-item">14. Đôi (Doubles)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/psychology.html" class="dropdown-item">15. Tâm lý (Psychology)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/fitness.html" class="dropdown-item">16. Thể lực (Fitness)</a>
+</li>
+                                    
+<li>
+    <a href="../../../../vi/cam-nang-quan-vot-toan-dien/conclusion.html" class="dropdown-item">Kết luận (Conclusion)</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Absolute Tennis Manual</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../manual/absolute-tennis/index.html" class="dropdown-item">ABSOLUTE TENNIS Manual</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Training Programs</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Agassi_Return_Mastery_Program.html" class="dropdown-item">Agassi Return Mastery</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Djokovic_Flexibility_Program.html" class="dropdown-item">Djokovic Flexibility & Adaptability</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Federer_All-Court_Game_Program.html" class="dropdown-item">Federer All-Court Game</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Nadal_Physical_Training_Program.html" class="dropdown-item">Nadal Physical Training</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/training-programs/Sampras_Serve_Development_Program.html" class="dropdown-item">Sampras Serve Development</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Technical Analysis</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Forehand_Evolution_Analysis.html" class="dropdown-item">Forehand Evolution</a>
+</li>
+            
+<li>
+    <a href="../../../manual/absolute-tennis/technical-analysis/Serve_Biomechanics_From_Sampras_To_Isner.html" class="dropdown-item">Serve Biomechanics</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Advanced Deep Dives</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/01%20Embodied%20Cognition/Embodied%20Cognition%20%E2%80%94%20Tennis%20as%20a%20Living%20Lab.html" class="dropdown-item">01 Embodied Cognition</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/02%20Two%20Engines/Two%20Engines%20%E2%80%94%20Rotational%20vs.%20Linear%20Power.html" class="dropdown-item">02 Two Engines</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/03%20Proprioception/Proprioception%20%E2%80%94%20Your%20Hidden%20GPS.html" class="dropdown-item">03 Proprioception</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/04%20Reflex%20Arcs/Reflex%20Arcs%20%E2%80%94%20The%203%20Speeds%20of%20Your%20Body.html" class="dropdown-item">04 Reflex Arcs</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/05%20Tensegrity%20Body/Tensegrity%20Body%20%E2%80%94%20The%20Skeleton%20That%20Floats.html" class="dropdown-item">05 Tensegrity Body</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/06%20Fascia%20Spiral/Fascia%20Spirals%20%E2%80%94%20The%20Anatomy%20Trains%20Connection.html" class="dropdown-item">06 Fascia Spiral</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/07%20X-Factor%20Anatomy/X-Factor%20Anatomy%20%E2%80%94%20The%2045%C2%B0%20Pre-Load.html" class="dropdown-item">07 X-Factor Anatomy</a>
+</li>
+                                    
+<li>
+    <a href="../../../advanced/deep-dives/08%20Head%20Position%20and%20Vestibular/Head%20Position%20and%20Vestibular%20%E2%80%94%20The%20First%20Balance%20Decision.html" class="dropdown-item">08 Head Position</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">System</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+                                    
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Players</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+                                    
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">System</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../system/training-programs/index.md" class="dropdown-item">Training Programs</a>
+</li>
+            
+<li>
+    <a href="../../../../system/technical-analysis/index.md" class="dropdown-item">Technical Analysis</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Players</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../../../players/rivalry-analyses/index.md" class="dropdown-item">Rivalry Analyses</a>
+</li>
+            
+<li>
+    <a href="../../../../players/player-profiles/index.md" class="dropdown-item">Player Profiles</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-9-decision-latency-your-personal-chunk-library-and-the-200ms-expert-edge" class="nav-link">Deep-Dive #9 — Decision Latency — Your Personal Chunk Library and the 200ms Expert Edge</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#deep-dive-9-o-tre-quyet-inh-thu-vien-chunk-ca-nhan-va-loi-the-chuyen-gia-200ms" class="nav-link">Deep-Dive #9 — Độ Trễ Quyết Định — Thư Viện Chunk Cá Nhân và Lợi Thế Chuyên Gia 200ms</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#document-map-ban-o-tai-lieu" class="nav-link">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#table-of-contents-muc-luc" class="nav-link">📖 TABLE OF CONTENTS / MỤC LỤC</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-1-what-a-chunk-actually-is-detail" class="nav-link">Chapter 1 — What a Chunk Actually Is (Detail)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-2-the-72-working-memory-limit" class="nav-link">Chapter 2 — The 7±2 Working Memory Limit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-3-the-200ms-expert-edge-neuroscience" class="nav-link">Chapter 3 — The 200ms Expert Edge (Neuroscience)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-4-inventorying-your-existing-chunks" class="nav-link">Chapter 4 — Inventorying Your Existing Chunks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-5-the-chunk-builder-protocol-30-days" class="nav-link">Chapter 5 — The Chunk-Builder Protocol (30 days)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-6-naming-and-retrieving-chunks" class="nav-link">Chapter 6 — Naming and Retrieving Chunks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-7-the-tactical-decision-tree" class="nav-link">Chapter 7 — The Tactical Decision Tree</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#chapter-8-your-chunk-library-card" class="nav-link">Chapter 8 — Your Chunk Library Card</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="3"><a href="#deep-dive-9-master-card-printable-the-tong-deep-dive-9" class="nav-link">📋 Deep-Dive #9 Master Card — Printable / Thẻ Tổng Deep-Dive #9</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#final-word-loi-cuoi" class="nav-link">🎯 FINAL WORD / LỜI CUỐI</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="deep-dive-9-decision-latency-your-personal-chunk-library-and-the-200ms-expert-edge">Deep-Dive #9 — Decision Latency — Your Personal Chunk Library and the 200ms Expert Edge<a class="headerlink" href="#deep-dive-9-decision-latency-your-personal-chunk-library-and-the-200ms-expert-edge" title="Permanent link">&para;</a></h1>
+<h1 id="deep-dive-9-o-tre-quyet-inh-thu-vien-chunk-ca-nhan-va-loi-the-chuyen-gia-200ms">Deep-Dive #9 — Độ Trễ Quyết Định — Thư Viện Chunk Cá Nhân và Lợi Thế Chuyên Gia 200ms<a class="headerlink" href="#deep-dive-9-o-tre-quyet-inh-thu-vien-chunk-ca-nhan-va-loi-the-chuyen-gia-200ms" title="Permanent link">&para;</a></h1>
+<p><em>Why 5.0+ Players Seem to Have More Time — A 25-minute deep-dive for the 5.0+ player.</em></p>
+<p><em>Tại Sao Người 5.0+ Có Vẻ Có Nhiều Thời Gian Hơn — Deep-dive 25 phút cho người chơi 5.0+.</em></p>
+<hr />
+<h2 id="document-map-ban-o-tai-lieu">📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU<a class="headerlink" href="#document-map-ban-o-tai-lieu" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>What this deep-dive adds.</strong> The Elite Manual Chapter 9 introduced chunks (Heuer's 7±2 concept) and the 200ms expert edge. This deep-dive gives you the <em>operational system</em> — how to identify YOUR existing chunks, how to build new chunks for tactical situations, how to name them so they become addressable, and the integration with Layer 2 of the reaction system (Deep-Dive #8). By the end, you will have a <em>personal chunk library</em> — 20-50 named patterns that your decision-system can retrieve in 50-150ms.</td>
+</tr>
+<tr>
+<td><strong>Who should read this.</strong> Anyone who feels they have "no time" to decide. Anyone whose opponent always seems to "know what they're doing." Anyone whose brain "blank" on big points (because no chunk fits).</td>
+</tr>
+<tr>
+<td><strong>Reading time.</strong> ~25 minutes. Chunk-library build: 60-90 days of consistent tactical drilling.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="table-of-contents-muc-luc">📖 TABLE OF CONTENTS / MỤC LỤC<a class="headerlink" href="#table-of-contents-muc-luc" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Chapter</th>
+<th></th>
+<th>Tiếng Việt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>What a Chunk Actually Is (Detail)</td>
+<td>Chunk Thực Sự Là Gì (Chi Tiết)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The 7±2 Working Memory Limit</td>
+<td>Giới Hạn Bộ Nhớ Làm Việc 7±2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The 200ms Expert Edge (Neuroscience)</td>
+<td>Lợi Thế Chuyên Gia 200ms (Thần Kinh Học)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Inventorying Your Existing Chunks</td>
+<td>Kiểm Kho Chunk Hiện Có</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The Chunk-Builder Protocol (30 days)</td>
+<td>Phác Đồ Xây Chunk (30 ngày)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Naming and Retrieving Chunks</td>
+<td>Đặt Tên và Truy Xuất Chunk</td>
+</tr>
+<tr>
+<td>7</td>
+<td>The Tactical Decision Tree</td>
+<td>Cây Quyết Định Chiến Thuật</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Your Chunk Library Card</td>
+<td>Thẻ Thư Viện Chunk Của Bạn</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-1-what-a-chunk-actually-is-detail">Chapter 1 — What a Chunk Actually Is (Detail)<a class="headerlink" href="#chapter-1-what-a-chunk-actually-is-detail" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The chess analogy.</strong> A chess grandmaster can hold ~50,000 game patterns in long-term memory. When a position appears, the grandmaster recognizes <em>which pattern it matches</em> in 100-200ms and recalls the <em>correct move for that pattern</em> in another 100ms. Total decision: 200-300ms.</td>
+</tr>
+<tr>
+<td><strong>What a chunk is in tennis.</strong> A <em>chunk</em> is a named pattern of: (a) what you see (the situation), (b) what you decide (the shot), (c) what you execute (the technique). When all three are bundled into one retrievable unit, your brain can produce the whole decision in 50-150ms. <em>Without the chunk, your brain would have to compute (a), (b), (c) separately — 200-400ms.</em></td>
+</tr>
+<tr>
+<td><strong>The speed math.</strong></td>
+</tr>
+<tr>
+<td><strong>With chunk:</strong> see → retrieve → execute = 50ms + 50ms + 100ms = 200ms.</td>
+</tr>
+<tr>
+<td><strong>Without chunk:</strong> see → analyze → choose → plan → execute = 80ms + 100ms + 80ms + 50ms + 100ms = 410ms.</td>
+</tr>
+<tr>
+<td><strong>The 200ms gap.</strong> A player with 20 strong chunks can produce a decision in 200ms. A player with 5 weak chunks produces it in 400ms. <em>Same body. Same racket. 200ms difference.</em> This is the expert edge.</td>
+</tr>
+<tr>
+<td><strong>Why chunks are personal.</strong> A chunk is <em>your</em> name for a pattern. A pro's chunk library has different names and different retrieval cues than yours. <em>The chunk library is your tactical fingerprint.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-2-the-72-working-memory-limit">Chapter 2 — The 7±2 Working Memory Limit<a class="headerlink" href="#chapter-2-the-72-working-memory-limit" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Miller's law (1956).</strong> George Miller showed that human working memory holds ~7±2 items simultaneously. Under stress, this drops to ~5. <em>A player who tries to think of all possible shots during a point is operating at 7+ items, immediately overwhelmed.</em></td>
+</tr>
+<tr>
+<td><strong>How chunks expand capacity.</strong> Each chunk <em>contains</em> multiple sub-decisions but is treated as ONE item in working memory. A player with 20 chunks has effectively expanded working memory from 7 items to 7 chunks × 3 sub-decisions = ~21 items. <em>That's 3x more tactical capacity.</em></td>
+</tr>
+<tr>
+<td><strong>The pressure multiplier.</strong> Under pressure, chunks are MORE efficient because they bypass the slow deliberative pathway. The chunk is <em>already computed</em> — it just gets retrieved. <em>This is why experienced players play better under pressure than beginners — not because they're calmer, but because they have more chunks.</em></td>
+</tr>
+<tr>
+<td><strong>The expert player's "automaticity."</strong> What looks like "instinct" in a 5.0+ player is <em>retrieval,</em> not magic. The body retrieves a chunk from memory. The decision is instant. The execution follows. <em>No deliberation. No choice paralysis. Just retrieval.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-3-the-200ms-expert-edge-neuroscience">Chapter 3 — The 200ms Expert Edge (Neuroscience)<a class="headerlink" href="#chapter-3-the-200ms-expert-edge-neuroscience" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The research.</strong> Chase &amp; Simon (1973), then Klein &amp; Crandall (1995), then Heuer (2013) all studied expert decision-making. The consistent finding: expert players retrieve patterns (chunks) in 100-200ms. Novices compute decisions in 300-500ms. <em>The 200ms gap is the expert edge.</em></td>
+</tr>
+<tr>
+<td><strong>The tennis-specific version.</strong> Tennis research (Yarrow, Brown, Koller, 2009) found expert tennis players have a specific <em>perceptual-cognitive advantage:</em> they extract more information per fixation (eye-look) than novices. <em>They see more with each look.</em> This is chunk-driven perception — the chunk <em>directs</em> the eye.</td>
+</tr>
+<tr>
+<td><strong>The compounding effect.</strong> Each chunk you build adds ~10-30ms to your tactical speed. With 20 chunks, you've gained 200-600ms of decision speed. <em>That's the difference between reaching every ball and not reaching many.</em></td>
+</tr>
+<tr>
+<td><strong>The chunk ladder.</strong></td>
+</tr>
+<tr>
+<td><strong>Level 0 — No chunks.</strong> Decision by analysis, 400-600ms. Novice.</td>
+</tr>
+<tr>
+<td><strong>Level 1 — 5-10 basic chunks.</strong> Decision by retrieval for known patterns, 250-350ms. Rec player.</td>
+</tr>
+<tr>
+<td><strong>Level 2 — 15-25 chunks across categories.</strong> Decision by retrieval for most patterns, 200-280ms. Club 4.0-4.5.</td>
+</tr>
+<tr>
+<td><strong>Level 3 — 30-50 chunks across categories.</strong> Decision by retrieval for almost all patterns, 150-220ms. 5.0+.</td>
+</tr>
+<tr>
+<td><strong>Level 4 — 50+ chunks with rich connections.</strong> Decision by <em>combination</em> of chunks, 120-180ms. 5.5+ expert.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-4-inventorying-your-existing-chunks">Chapter 4 — Inventorying Your Existing Chunks<a class="headerlink" href="#chapter-4-inventorying-your-existing-chunks" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Step 1 — Recall 10 recent match points.</strong></td>
+</tr>
+<tr>
+<td>For each point, write:</td>
+</tr>
+<tr>
+<td>• Situation (S): <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>_____</td>
+</tr>
+<tr>
+<td>• Decision (D): <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>_____</td>
+</tr>
+<tr>
+<td>• Execution (E): <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>_____</td>
+</tr>
+<tr>
+<td><strong>Step 2 — Look for patterns.</strong></td>
+</tr>
+<tr>
+<td>Do 2-3 of your points share the same S? They are <em>one chunk.</em> Do they share S and D? They are <em>the same chunk.</em> Do they share only E? They are <em>different chunks with similar execution.</em></td>
+</tr>
+<tr>
+<td><strong>Step 3 — Count your current chunks.</strong></td>
+</tr>
+<tr>
+<td>Most 5.0+ players have <em>unconsciously</em> built 10-20 chunks over years of play. <em>You have chunks; you just don't know their names yet.</em></td>
+</tr>
+<tr>
+<td><strong>Step 4 — Name each chunk.</strong></td>
+</tr>
+<tr>
+<td>Use your own naming convention. Some options:</td>
+</tr>
+<tr>
+<td>• By situation: "Deep return to backhand."</td>
+</tr>
+<tr>
+<td>• By shot: "Inside-out forehand."</td>
+</tr>
+<tr>
+<td>• By opponent behavior: "Moonballer's slice."</td>
+</tr>
+<tr>
+<td>• By feeling: "Heavy lob reply."</td>
+</tr>
+<tr>
+<td><strong>Step 5 — Score each chunk's retrieval speed.</strong></td>
+</tr>
+<tr>
+<td>For each chunk, time yourself: "Imagine the situation. How long until you can name your shot?" Use a stopwatch.</td>
+</tr>
+<tr>
+<td><strong>&lt;500ms:</strong> chunk is <em>slow</em> — needs myelin.</td>
+</tr>
+<tr>
+<td><strong>200-500ms:</strong> chunk is <em>normal</em> — practice retrieval.</td>
+</tr>
+<tr>
+<td><strong>&lt;200ms:</strong> chunk is <em>fast</em> — already myelinated. Use it.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-5-the-chunk-builder-protocol-30-days">Chapter 5 — The Chunk-Builder Protocol (30 days)<a class="headerlink" href="#chapter-5-the-chunk-builder-protocol-30-days" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The principle.</strong> Chunks are built by <em>deliberate repetition of one specific pattern.</em> You pick a pattern. You play it 30-50 times in 1 week. You time your retrieval. You add it to the library.</td>
+</tr>
+<tr>
+<td><strong>Week 1 — Build 3 opponent-based chunks.</strong></td>
+</tr>
+<tr>
+<td>Pick 3 situations where your opponent has specific patterns. Common:</td>
+</tr>
+<tr>
+<td>• "Opponent hits moonball" → my chunk: "Slice and approach."</td>
+</tr>
+<tr>
+<td>• "Opponent rushes the net" → my chunk: "Lob or passing shot."</td>
+</tr>
+<tr>
+<td>• "Opponent serves wide to my forehand" → my chunk: "Inside-out forehand return."</td>
+</tr>
+<tr>
+<td>For each, drill 50 reps over 3-4 sessions. Time retrieval each day.</td>
+</tr>
+<tr>
+<td><strong>Week 2 — Build 3 shot-based chunks.</strong></td>
+</tr>
+<tr>
+<td>Pick 3 shot patterns where YOU have specific actions.</td>
+</tr>
+<tr>
+<td>• "Serve + approach" → my chunk: "Body serve + volley."</td>
+</tr>
+<tr>
+<td>• "Return of second serve" → my chunk: "Deep cross-court."</td>
+</tr>
+<tr>
+<td>• "Baseline neutral rally" → my chunk: "Topspin to backhand side."</td>
+</tr>
+<tr>
+<td><strong>Week 3 — Build 3 situational chunks.</strong></td>
+</tr>
+<tr>
+<td>Pick 3 match-situation patterns.</td>
+</tr>
+<tr>
+<td>• "Break point down" → my chunk: "Big first serve."</td>
+</tr>
+<tr>
+<td>• "30-30 on my serve" → my chunk: "T-plus-one forehand."</td>
+</tr>
+<tr>
+<td>• "Ad court, defending" → my chunk: "High deep slice."</td>
+</tr>
+<tr>
+<td><strong>Week 4 — Build 3 pressure-inoculation chunks.</strong></td>
+</tr>
+<tr>
+<td>Pick 3 high-pressure patterns.</td>
+</tr>
+<tr>
+<td>• "Match point for me" → my chunk: "First serve + volley."</td>
+</tr>
+<tr>
+<td>• "Tiebreak, 5-5" → my chunk: "Cross-court rally."</td>
+</tr>
+<tr>
+<td>• "Third set, 4-4" → my chunk: "Hold serve."</td>
+</tr>
+<tr>
+<td><strong>The library after 30 days.</strong> 12 new chunks. Combined with your existing 10-20, you now have 22-32 chunks. <em>At retrieval speed 200-300ms, this puts you solidly in the 5.0+ chunk band.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-6-naming-and-retrieving-chunks">Chapter 6 — Naming and Retrieving Chunks<a class="headerlink" href="#chapter-6-naming-and-retrieving-chunks" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Why naming matters.</strong> A chunk without a name is hard to retrieve — you cannot "call it up" because you don't know what to call. A <em>named</em> chunk is a <em>retrievable</em> chunk.</td>
+</tr>
+<tr>
+<td><strong>The naming convention.</strong></td>
+</tr>
+<tr>
+<td><strong>Format:</strong> "[Situation-cue] → [Shot]"</td>
+</tr>
+<tr>
+<td><strong>Examples.</strong></td>
+</tr>
+<tr>
+<td>"Moonball incoming" → "Slice approach."</td>
+</tr>
+<tr>
+<td>"Net rusher" → "Topspin lob."</td>
+</tr>
+<tr>
+<td>"Deep return to BH" → "Slice deep CC."</td>
+</tr>
+<tr>
+<td><strong>The retrieval drill.</strong></td>
+</tr>
+<tr>
+<td><strong>Step 1.</strong> Read the situation-cue (out loud or in your head).</td>
+</tr>
+<tr>
+<td><strong>Step 2.</strong> Stopwatch starts.</td>
+</tr>
+<tr>
+<td><strong>Step 3.</strong> Say your shot (out loud).</td>
+</tr>
+<tr>
+<td><strong>Step 4.</strong> Stopwatch stops.</td>
+</tr>
+<tr>
+<td><strong>The goal.</strong> Retrieval time &lt;200ms. If above, repeat the chunk in practice until below.</td>
+</tr>
+<tr>
+<td><strong>The "in-flight" retrieval.</strong> During a real point, the retrieval happens in 50-150ms — too fast for conscious measurement. <em>You just know what to hit.</em> That's the goal.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-7-the-tactical-decision-tree">Chapter 7 — The Tactical Decision Tree<a class="headerlink" href="#chapter-7-the-tactical-decision-tree" title="Permanent link">&para;</a></h1>
+<hr />
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The decision tree structure.</strong> A 5.0+ player's chunk library is organized like a tree. The trunk: serve/return. The branches: deep/short/cross-court/DTL. The leaves: shot types within each branch.</td>
+</tr>
+<tr>
+<td><strong>Tree example (forehand).</strong></td>
+</tr>
+<tr>
+<td><strong>Trunk: I have time on my forehand side.</strong></td>
+</tr>
+<tr>
+<td><strong>Branch 1: Opponent at baseline.</strong></td>
+</tr>
+<tr>
+<td>• Deep cross-court topspin</td>
+</tr>
+<tr>
+<td>• DTL drive</td>
+</tr>
+<tr>
+<td>• Inside-out forehand</td>
+</tr>
+<tr>
+<td><strong>Branch 2: Opponent at net.</strong></td>
+</tr>
+<tr>
+<td>• Topspin lob</td>
+</tr>
+<tr>
+<td>• Passing shot DTL</td>
+</tr>
+<tr>
+<td>• Drop shot cross-court</td>
+</tr>
+<tr>
+<td><strong>Branch 3: Opponent out of position.</strong></td>
+</tr>
+<tr>
+<td>• Put-away forehand (open court)</td>
+</tr>
+<tr>
+<td>• Approach shot</td>
+</tr>
+<tr>
+<td><strong>The leaf naming.</strong> Each leaf is a <em>chunk.</em> Name each leaf with the convention: "[Situation] → [Shot]." Each is one chunk in your library.</td>
+</tr>
+<tr>
+<td><strong>The tree-build exercise.</strong></td>
+</tr>
+<tr>
+<td>Draw YOUR tactical decision tree for forehand, backhand, serve, return, volley. Each tree should have 5-10 leaves. <em>That's 25-50 chunks total when finished.</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="chapter-8-your-chunk-library-card">Chapter 8 — Your Chunk Library Card<a class="headerlink" href="#chapter-8-your-chunk-library-card" title="Permanent link">&para;</a></h1>
+<hr />
+<h3 id="deep-dive-9-master-card-printable-the-tong-deep-dive-9">📋 Deep-Dive #9 Master Card — Printable / Thẻ Tổng Deep-Dive #9<a class="headerlink" href="#deep-dive-9-master-card-printable-the-tong-deep-dive-9" title="Permanent link">&para;</a></h3>
+<div class="codehilite"><pre><span></span><code>╔═══════════════════════════════════════════════════════════════╗
+║  THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM       ║
+║  THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT       ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  MY CURRENT CHUNKS / CHUNK HIỆN TẠI: _____ chunks            ║
+║  CHUNK HIỆN TẠI CỦA TÔI: _____ chunk                          ║
+║                                                                ║
+║  MY CHUNK LADDER LEVEL / CẤP THANG CHUNK:                      ║
+║  □ Level 0 (0 chunks)  □ Level 1 (5-10)                       ║
+║  □ Level 2 (15-25)  □ Level 3 (30-50)  □ Level 4 (50+)       ║
+║                                                                ║
+║  ──────────────────────────────────────────────────────────    ║
+║                                                                ║
+║  MY 12 NEW CHUNKS (30-day build):                              ║
+║  12 CHUNK MỚI CỦA TÔI (xây 30 ngày):                          ║
+║  Week 1 — Opponent-based:                                      ║
+║  Tuần 1 — Dựa đối thủ:                                        ║
+║  1. _____________________________ → ____________________      ║
+║  2. _____________________________ → ____________________      ║
+║  3. _____________________________ → ____________________      ║
+║  Week 2 — Shot-based: / Tuần 2 — Dựa cú:                       ║
+║  4. _____________________________ → ____________________      ║
+║  5. _____________________________ → ____________________      ║
+║  6. _____________________________ → ____________________      ║
+║  Week 3 — Situational: / Tuần 3 — Tình huống:                  ║
+║  7. _____________________________ → ____________________      ║
+║  8. _____________________________ → ____________________      ║
+║  9. _____________________________ → ____________________      ║
+║  Week 4 — Pressure-inoculation:                                 ║
+║  Tuần 4 — Tiêm chủng áp lực:                                   ║
+║  10. ____________________________ → ____________________      ║
+║  11. ____________________________ → ____________________      ║
+║  12. ____________________________ → ____________________      ║
+║                                                                ║
+║  ──────────────────────────────────────────────────────────    ║
+║                                                                ║
+║  MY DECISION TREE / CÂY QUYẾT ĐỊNH CỦA TÔI:                 ║
+║  Forehand: _____ chunks                                        ║
+║  Backhand: _____ chunks                                        ║
+║  Serve: _____ chunks                                           ║
+║  Return: _____ chunks                                          ║
+║  Volley: _____ chunks                                          ║
+║  TOTAL: _____ chunks / TỔNG: _____ chunk                       ║
+║                                                                ║
+║  ──────────────────────────────────────────────────────────    ║
+║                                                                ║
+║  RETRIEVAL SPEED TEST / KIỂM TRA TỐC ĐỘ TRUY XUẤT:           ║
+║  Chunk name: ____________  Retrieval: _____ ms                 ║
+║  Tên chunk: ____________  Truy xuất: _____ ms                  ║
+║  Target: &lt;200 ms / Mục tiêu: &lt;200 ms                           ║
+║                                                                ║
+║  💭 MASTER CUE / CÂU NHẮC TỔNG:                                ║
+║     &quot;Patterns, not analysis. Retrieval, not thinking.&quot;         ║
+║     &quot;Mẫu, không phân tích. Truy xuất, không nghĩ.&quot;             ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
+
+
+╔═══════════════════════════════════════════════════════════════╗
+║  THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM       ║
+║  THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT       ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  CURRENT CHUNKS: ____   TARGET: 30-50 by 90 days              ║
+║                                                                ║
+║  TREE: Forehand ___ BH ___ Serve ___ Return ___ Volley ___    ║
+║                                                                ║
+║  RETRIEVAL SPEED: _____ ms (target &lt;200)                       ║
+║                                                                ║
+║  💭 &quot;Patterns, not analysis. Retrieval, not thinking.&quot;          ║
+║     &quot;Mẫu, không phân tích. Truy xuất, không nghĩ.&quot;             ║
+║                                                                ║
+╚═══════════════════════════════════════════════════════════════╝
+</code></pre></div>
+
+<hr />
+<h2 id="final-word-loi-cuoi">🎯 FINAL WORD / LỜI CUỐI<a class="headerlink" href="#final-word-loi-cuoi" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>🇺🇸</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A 5.0+ player who <em>seems to have more time</em> is not faster, smarter, or more talented than a 4.5. They have more chunks — more patterns retrievable in 50-150ms. The 200ms expert edge is not magic. It is <em>deliberate pattern-building,</em> one chunk per week, for 30+ weeks. You already have 10-20 chunks unconsciously. This deep-dive asks you to make them conscious, name them, time them, and add 12 more in 30 days. The chunk library is your tactical fingerprint. No one else has yours.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong>Sources / Nguồn:</strong></p>
+<ul>
+<li>Tennis Research - Neuro athletics - with Kwen-Ollama.md (Ch 4 — Heuer's chunk model applied to tennis, 200ms expert edge, decision latency)</li>
+<li>Tennis Research with Kwen-Ollama.md (Ch 5.4 — Schéma chiến thuật (tactical schema), 7±2 working memory, Ch 12 — chunk naming and retrieval)</li>
+<li>Chase &amp; Simon (1973) — Perception in chess — the chunk theory foundation</li>
+<li>Klein &amp; Crandall (1995) — The recognition-primed decision (RPD) model — expert decision-making</li>
+<li>Miller (1956) — The magical number seven, plus or minus two — working memory limit</li>
+<li>Futuristic Tennis Manual by Olama.md (Adaptive Intelligence — decision in 200ms via pattern recognition)</li>
+</ul>
+<p><strong>See you on the court, engineer.</strong> / <strong>Hẹn gặp trên sân, kỹ sư.</strong></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../../js/base.js"></script>
+        <script src="../../../../assets/custom.js"></script>
+        <script src="../../../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

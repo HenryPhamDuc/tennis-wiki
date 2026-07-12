@@ -20,6 +20,11 @@ backend:
   name: github
   repo: HenryPhamDuc/tennis-wiki          # owner/repo
   branch: main                             # site is deployed from main
+  # OAuth proxy -- Cloudflare Worker that holds the client_secret.
+  # See docs/admin/oauth-proxy/README.md for the 5-min setup.
+  # After `wrangler deploy`, paste the workers.dev URL below.
+  base_url: REPLACE_WITH_WORKER_URL        # e.g. https://sveltia-cms-github-oauth.<you>.workers.dev
+  auth_endpoint: /login/oauth/authorize
   commit_messages:
     create: 'cms: create {{collection}} "{{slug}}"'
     update: 'cms: edit {{collection}} "{{slug}}"'
