@@ -1,9 +1,15 @@
 name: Mirror CMS files from docs/ to site/
+
 on:
   push:
     paths:
       - 'docs/admin/**'
       - '.github/workflows/mirror-admin.yml'
+
+# Default GITHUB_TOKEN is read-only. Need contents:write so this
+# workflow can push its mirror commit back to main.
+permissions:
+  contents: write
 
 jobs:
   mirror:
