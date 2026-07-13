@@ -1,3 +1,9 @@
+---
+title: Sveltia CMS GitHub OAuth Proxy
+lang: en
+---
+
+
 # Sveltia CMS GitHub OAuth Proxy
 
 Tiny Cloudflare Worker (~50 lines) that proxies the two GitHub OAuth
@@ -66,3 +72,11 @@ talks to GitHub server-to-server (no CORS issues).
 
 Free tier: 100,000 requests/day. Sveltia CMS makes ~5 OAuth requests
 per editor session. **Effectively free** for this use case.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
