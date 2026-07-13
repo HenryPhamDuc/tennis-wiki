@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 I spent years struggling with slice family doubles until I discovered a few key principles. Here, I break down what actually works, based on my own trial and error.
 
 ## Navigation
@@ -9,3 +14,7 @@ I spent years struggling with slice family doubles until I discovered a few key 
 - [Readme](ReadMe.md)
 - [Slice Family Doubles — The 8 Shot Doubles Playbook](Slice Family Doubles — The 8-Shot Doubles Playbook.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

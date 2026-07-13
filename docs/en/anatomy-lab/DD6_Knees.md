@@ -1,3 +1,9 @@
+---
+title: DD6 — Knees
+lang: en
+---
+
+
 # DD6 — Knees
 
 *Patella, Meniscus, ACL, and Why 50–80° Flexion Is the Only Safe Loading Zone*
@@ -5,13 +11,6 @@
 ---
 
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
-
-| 🇺🇸  |
-| --- |
-| The knee is the **largest joint in the body** and the most injured. It's a hinge joint with 2 degrees of freedom (flexion/extension + small rotation). It's STABLE when loaded in the sagittal plane (straight line). It's VULNERABLE when loaded in the frontal or transverse plane (valgus, varus, rotation). |
-| **What it covers:** the 4-bone knee (femur, tibia, fibula, patella), the 4 main ligaments (ACL, PCL, MCL, LCL), the 2 menisci, the patellofemoral joint, the 50–80° flexion loading rule, why valgus collapse causes ACL tears, and the 50+ adaptations for knee longevity. |
-| **What it does NOT cover:** the hip (DD5), ankle/foot (DD7), or thigh muscles in detail (DD5). |
-| **Reading time:** 30–40 minutes. |
 
 ---
 
@@ -32,11 +31,6 @@
 * * *
 
 ## Chapter 1 — The Knee Joint (4 Bones, 4 Ligaments, 2 Menisci)
-
-| 🇺🇸  |
-| --- |
-| **The knee is the LARGEST joint in the body** and the most commonly injured joint in sport. It is a HINGE joint (mainly flexion/extension) with a small rotational component (last 30° of extension, called the "screw-home mechanism"). |
-| **4 bones, 4 main ligaments, 2 menisci, ~14 bursae, multiple tendons.** The knee's job is to transmit forces between the femur (above) and the tibia (below) while allowing controlled motion. The patella acts as a pulley for the quadriceps. |
 
 ### The 4 Bones of the Knee
 
@@ -71,11 +65,6 @@
 
 ## Chapter 2 — The ACL (Why Valgus + Rotation Tears It)
 
-| 🇺🇸  |
-| --- |
-| **The ACL is the most famous knee ligament because its tear ends careers and sidelines players for 9–12 months.** The mechanism is almost always the same: VALGUS (knee collapses inward) + ROTATION (foot planted, body twists) + often a flexed knee position. |
-| **In tennis, the most dangerous moment is the LATERAL PUSH-OFF after a wide forehand or backhand.** The outside leg is the "bridge" (DD1). If the knee caves inward (valgus) at push-off, the ACL is at risk. The wider the stance and the more rotation, the higher the risk. |
-
 ### The 3 ACL Tear Mechanisms in Tennis
 
 | # | Mechanism | When It Happens | Prevention |
@@ -85,12 +74,6 @@
 | **3** | **Landing from jump** | Overhead smash or jump serve, landing on one leg. | Soft landing drills. Both feet if possible. |
 
 ### The "Knee Over 2nd Toe" Rule — A Self-Check
-
-| 🇺🇸  |
-| --- |
-| **Stand sideways next to a mirror, feet shoulder-width.** Look at your knee relative to your foot. Your kneecap should be centered over your 2nd toe (the toe next to the big toe). |
-| **If the knee is INSIDE the 2nd toe** (knee caves inward), you have valgus collapse. This is the position that tears ACLs. |
-| **If the knee is OUTSIDE the 2nd toe** (knee bows outward), you have varus. Less common, but the LCL is at risk. |
 
 ### The 50+ ACL Reality — 3 Numbers
 
@@ -107,11 +90,6 @@
 * * *
 
 ## Chapter 3 — The Menisci (The Knee's "C-Shock" Absorbers)
-
-| 🇺🇸  |
-| --- |
-| **The menisci are 2 C-shaped pieces of fibrocartilage between the femur and tibia.** They are not "padding." They are LOAD DISTRIBUTORS. They increase the contact area between the femur and tibia from ~6 cm² (bones alone) to ~14 cm² (with menisci). |
-| **Each meniscus has 2 zones:** the OUTER third (vascularized, can heal if torn) and the INNER two-thirds (avascular, cannot heal if torn). This is why some meniscus tears need surgery and some heal on their own. |
 
 ### The Meniscus Zones — Why Location Matters
 
@@ -131,12 +109,6 @@
 
 ### The 50+ Meniscus Truth — Don't Rush to Surgery
 
-| 🇺🇸  |
-| --- |
-| **In a 50+ player, the meniscus tear is often DEGENERATIVE.** It's part of the aging process. Studies show that ~30% of asymptomatic 50-year-olds have meniscus tears visible on MRI. The tear is not the problem. The INFLAMMATION around the tear is the problem. |
-| **The 6-week rule:** if you have a meniscus tear WITHOUT locking, try 6 weeks of PT FIRST. Most degenerative tears settle with PT. Surgery is reserved for tears that LOCK (mechanical) or fail PT. |
-| **The MRI trap:** an MRI shows the tear. Your brain fixates on the tear. You assume surgery will fix it. Often the surgery removes part of the meniscus. Less meniscus = more load on the cartilage = earlier osteoarthritis. |
-
 *Source: Tennis Anatomy Ch.7 (Legs), Ch.10 (Common Tennis Injuries). Reference: Sihvonen et al., 2013 — degenerative meniscus tear treatment.*
 
 ---
@@ -144,12 +116,6 @@
 * * *
 
 ## Chapter 4 — The Patella (Why Tracking Matters)
-
-| 🇺🇸  |
-| --- |
-| **The patella (kneecap) is the largest sesamoid bone in the body** — a bone embedded in a tendon (the patellar tendon, which is the continuation of the quadriceps tendon). It acts as a PULLEY for the quadriceps. |
-| **The patella's job is to INCREASE the lever arm of the quadriceps.** Without the patella, the quad would have ~30% less leverage to extend the knee. The patella makes the quad a much more powerful extensor. |
-| **The patella must TRACK in a groove on the front of the femur (the trochlear groove).** If it tracks to the side (lateral tracking), the cartilage on the back of the patella wears unevenly. This is "patellofemoral pain syndrome" — the most common knee pain in 50+ recreational athletes. |
 
 ### The Patella's Path — Up, Down, In, Out
 
@@ -170,12 +136,6 @@
 
 ### The 50+ Patella Reality — Why Stairs Hurt
 
-| 🇺🇸  |
-| --- |
-| **Stair climbing produces patellofemoral joint forces of 3–4× body weight.** Going DOWN stairs produces even higher forces (4–5× body weight) due to eccentric quadriceps loading. |
-| **The fix for 50+ players:** avoid stairs as exercise. If you must use stairs, take them ONE AT A TIME, with the good leg going UP first and DOWN last. This minimizes patellofemoral load. |
-| **The tennis court cue:** use the ramp, not the steps. Most tennis facilities have accessible ramps. They look "soft" but they're joint-saving. |
-
 *Source: Tennis Anatomy Ch.7, Ch.10. Reference: patellofemoral joint force calculations from multiple orthopaedic sources.*
 
 ---
@@ -183,12 +143,6 @@
 * * *
 
 ## Chapter 5 — The 50–80° Loading Rule (The Safe Zone for Tennis)
-
-| 🇺🇸  |
-| --- |
-| **The user's source DOCX states a critical rule:** "Gối: Giữ 50–80° khi nạp lực, tránh >90° trong lunge sâu. Đáp chân dưới hông, ống chân gần thẳng đứng." (Knee: Keep 50–80° when loading force, avoid >90° in deep lunge. Land with foot under hip, shin near vertical.) |
-| **This is the same range as the cheetah's safe flexion (the cheetah uses 135–150° for sprinting, but the human knee in tennis should stay at 50–80° for lunges).** The 50–80° range maximizes patellar tendon elastic storage while keeping ACL shear forces low. |
-| **Why <50° doesn't work either:** a straight knee (close to 0°) loads the joint with high compressive force but little elastic storage. The patellar tendon is barely stretched. No spring. The quad has to do all the work — fatigue and tendonitis. |
 
 ### The 4 Loading Zones of the Knee
 
@@ -201,12 +155,6 @@
 | **>90°** | Deep flexion | Patella jams into the femur. ACL at high risk. | Avoid in tennis. |
 
 ### The Shin Angle Rule — Why "Vertical Shin" Matters
-
-| 🇺🇸  |
-| --- |
-| **At a 50–80° knee flexion, the shin should be NEARLY VERTICAL (or just slightly forward of vertical).** This keeps the knee over the foot. The force vector goes from the ground, through the foot, up the shin, through the knee, into the femur — all in a near-straight line. |
-| **If the shin leans forward past vertical** (knee too far in front of the foot), the tibia translates anteriorly. The ACL has to resist this translation. Over time, ACL stretches → laxity → higher tear risk. |
-| **If the shin leans backward** (knee behind the foot), the knee is too straight. No elastic storage. The quad does all the work. Patellar tendonitis risk. |
 
 ### The 4 Lunge Mistakes — and the Fix
 
@@ -234,18 +182,7 @@
 
 ### The Patellar Tendonitis Truth — Eccentric Squats Save It
 
-| 🇺🇸  |
-| --- |
-| **Patellar tendonitis is the most common overuse knee injury in 50+ tennis players.** The tendon has micro-tears that don't heal. The conventional treatment (rest, ice, NSAIDs) doesn't work. The PROVEN treatment is ECCENTRIC SQUATS on a 25° decline board. |
-| **The protocol:** 3 sets of 15 reps, twice daily, on a decline board. Slowly lower yourself (3 sec eccentric), then use the GOOD leg to push back up. The bad leg only does the DOWN phase. After 12 weeks, most cases resolve. |
-| **The science:** eccentric loading stimulates tendon remodeling. The tendon grows stronger in the direction of load. New collagen fibers align. The micro-tears heal. |
-
 ### The IT Band Truth — It's Not Tight, It's Compressed
-
-| 🇺🇸  |
-| --- |
-| **The IT band is a thick tendinous structure that runs from the tensor fasciae latae (TFL) and gluteus maximus to the lateral tibia.** For decades, runners and tennis players have FOAM ROLLED the IT band to "release" it. The IT band is not a muscle — it's a tendon. You cannot stretch a tendon by rolling it. |
-| **The real fix:** the IT band feels tight because the TFL and glute max (the muscles that tense it) are overworking. The fix is to STRENGTHEN the glute med (which is the muscle that should be doing the lateral hip work but isn't), so the IT band doesn't have to. |
 
 *Source: Tennis Anatomy Ch.10. Reference: eccentric squat protocol from Purdam et al., 2009 (the original Alfredson-protocol adaptation for patellar tendon).*
 
@@ -254,15 +191,6 @@
 * * *
 
 ## Chapter 7 — The 50+ Knee Longevity Protocol
-
-| 🇺🇸  |
-| --- |
-| **The 50+ knee is NOT a 25-year-old knee.** Less cartilage, less synovial fluid, weaker quads, slower recovery. But with the right protocol, you can play tennis pain-free into your 70s and 80s. The protocol has 4 parts. |
-| **The 4-Part Protocol** |
-| 1. **Daily:** the 50–80° loading rule. Every lunge, every step, every recovery. |
-| 2. **3×/week:** quad strengthening (VMO focus) + glute med activation. |
-| 3. **2×/week:** eccentric squats (if patellar tendonitis) OR knee CARs (if stiffness). |
-| 4. **Always:** knee over 2nd toe. Foot under hip on lunges. Wider stance on groundstrokes. |
 
 ### The 5-Color Tagging for Knee Health
 
@@ -473,3 +401,10 @@
 *End of DD6 — Knees
 
 *Next: DD7 — Ankles & Feet (26 Bones, 33 Joints, Windlass, Happy Feet)
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

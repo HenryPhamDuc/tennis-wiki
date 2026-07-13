@@ -1,3 +1,8 @@
+---
+title: ReadMe.md
+lang: en
+---
+
 # ReadMe.md
 
 ## Topic: Foundations & Grip
@@ -16,3 +21,7 @@ This deep dive covers the fundamental interface between the player, the racket, 
 - **Safety over Power**: Discouraged Western grip in favor of Semi-Western/Eastern for wrist/elbow longevity.
 - **Tensegrity Focus**: Emphasized "Adaptive Firmness" (3/10 during swing, 9/10 at impact) to prevent over-tightening (Self 1 interference).
 - **Native Vietnamese**: Used "cạnh vợt" for bevels and "đệm gót tay" for heel pad for natural coaching feel.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

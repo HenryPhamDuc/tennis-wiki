@@ -1,3 +1,9 @@
+---
+title: 📗 The Elite Tennis Mastery Manual
+lang: en
+---
+
+
 # 📗 The Elite Tennis Mastery Manual
 
 ## Break-Free from Orthodox Methodology
@@ -49,6 +55,15 @@ This revolutionary manual challenges conventional tennis teaching and helps you 
 ---
 
 **Ready to break free and find your own system?** Click the link above to begin the elite manual.
+
 ## Pages in this folder
 - [The Elite Tennis Mastery Manual — Break Free From Orthodox Methodology](The Elite Tennis Mastery Manual — Break-Free from Orthodox Methodology.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

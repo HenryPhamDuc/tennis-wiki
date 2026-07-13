@@ -1,7 +1,14 @@
+---
+title: Sampras Serve Development Program
+lang: en
+---
+
 # Sampras Serve Development Program
 
 ## Overview
-This training program is designed to develop a serve modeled after Pete Sampras, widely regarded as having one of the greatest serves in tennis history. The program focuses on developing explosive power, pinpoint accuracy, variety, and the ability to serve effectively under pressure—hallmarks of Sampras's serve that helped him win 14 Grand Slam titles.
+This training program is designed to develop a serve modeled after Pete Sampras, widely regarded as having one of the greatest serves in tennis history.
+The program focuses on developing explosive power, pinpoint accuracy, variety, and the ability to serve effectively under pressure—hallmarks of Sampras's serve that helped him win 14 Grand Slam titles
+.
 
 ## Program Overview
 - **Duration**: 12 weeks (can be adjusted based on athlete level)
@@ -11,6 +18,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
 - **Prerequisites**: Proper serving grip (continental or eastern backhand grip), basic service motion fundamentals
 
 ## Phase 1: Foundation Weeks (Weeks 1-2)
+
 ### Goals: Establish proper technique, develop consistent toss, build foundational strength
 
 #### Technical Work
@@ -48,6 +56,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
   - Start at 50% power, focus on placement
 
 ## Phase 2: Power Development (Weeks 3-4)
+
 ### Goals: Increase serve speed, develop kinetic chain efficiency, add variety
 
 #### Technical Work
@@ -87,6 +96,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
   - Focus on maintaining same toss and motion for all serves
 
 ## Phase 3: Pressure & Match Simulation (Weeks 5-6)
+
 ### Goals: Develop ability to serve under fatigue and pressure, refine second serve
 
 #### Technical Work
@@ -121,6 +131,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
   - Track first serve percentage under simulated pressure
 
 ## Phase 4: Advanced Integration (Weeks 7-8)
+
 ### Goals: Integrate serve into overall game, develop patterns, refine tactical usage
 
 #### Technical Work
@@ -155,6 +166,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
   - Work on serving patterns based on score (e.g., more aggressive on break points)
 
 ## Phase 5: Maintenance & Refinement (Weeks 9-12)
+
 ### Goals: Maintain gains, fine-tune for competition, develop consistency under all conditions
 
 #### Technical Work
@@ -187,6 +199,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
   - Pressure serving games with consequences
 
 ## Evaluation Metrics
+
 ### Technical Benchmarks
 - **Toss Consistency**: <2 inches variance in toss placement
 - **First Serve Percentage**: 60%+ in practice, 55%+ in matches
@@ -278,6 +291,7 @@ This training program is designed to develop a serve modeled after Pete Sampras,
 - **Mental Game**: Develop serving routines and stress management techniques
 
 ## Sample Drills Library
+
 ### Toss Mastery
 1. **Toss and Catch**: 50 reps, focus on consistent height/placement
 2. **Toss to Target**: Hit cones placed at different heights/locations
@@ -333,3 +347,6 @@ This training program is designed to develop a serve modeled after Pete Sampras,
 *Program developed based on analysis of Pete Sampras's serve technique, training methodologies, and match performance data.*
 *Adapt volume, intensity, and focus based on individual athlete needs, age, and competitive level.*
 *Consult with qualified tennis coach and fitness professional before beginning any intensive training program.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

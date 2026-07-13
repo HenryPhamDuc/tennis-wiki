@@ -1,3 +1,9 @@
+---
+title: Index
+lang: en
+---
+
+
 The journey to mastering backhand was full of frustrating moments. In this section, I’ll walk you through the breakthroughs that finally changed my game.
 
 ## Navigation
@@ -15,3 +21,11 @@ The journey to mastering backhand was full of frustrating moments. In this secti
 
 
 5. **Share your knowledge** - Teach what you've learned to others to reinforce your own understanding.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

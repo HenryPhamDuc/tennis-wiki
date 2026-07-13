@@ -1,9 +1,18 @@
+---
+title: Grip Pressure Deep Dive — ReadMe
+lang: en
+---
+
 # Grip Pressure Deep Dive — ReadMe
+
 ## What was produced
 | File | Size | Chapters | Output type |
 |---|---|---|---|
 | `Grip Pressure — The Dial You Control Every Shot.md` | ~38 KB / 357 lines | 5 (Philosophy, Scale, Stroke Map, Problems, Drills & Cheat Sheet) | `topic_deep_dive` (chuẩn Độ sâu, EN-VI bilingual) |
-This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái Tay × 4 incl. cắt variations, Phát Bóng, Vôlei, Footwork, Return of Phát Bóng, Doubles Tactics, Foundations & Grip, Compléte Manual, Lob and Overhead, Mental Game, Slice Approach, Slice Family Doubles, Slice Variations, Doubles Serves, Doubles Patterns, Continental Grip, Eastern Semi-Western Grip, Grip Change Map).
+This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái Tay × 4 incl.
+cắt variations, Phát Bóng, Vôlei, Footwork, Return of Phát Bóng, Doubles Tactics, Foundations & Grip, Compléte Manual, Lob and Overhead, Mental Game, Slice Approach, Slice Family Doubles, Slice Variat
+ions, Doubles Serves, Doubles Patterns, Continental Grip, Eastern Semi-Western Grip, Grip Change Map).
+
 ## The 5-step pipeline summary
 | Step | What happened |
 |---|---|
@@ -12,6 +21,7 @@ This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái
 | Single-topic (not bundled-family) → 5-chapter L1-L4 frame doesn't apply. Chose: Philosophy → Scale → Stroke Map → Pressure Problems → Drills & Cheat Sheet. This mirrors the structure of `Foundations & Grip` (philosophy → scale → map → problems → bài tậps) but develops pressure as its own system. |
 | Master-huấn luyện viên-direct Giọng nói, "rational delỗi + alternatives labelled Tham khảo." Touchstone phrases mined from user profile: "Hold the bird, catch the bóng" (parallel to "Ask the shoulder, not the ego"), "Calm hand, fierce catch" (parallel to "Cú Trái Tay is your mirror"). Vietnamese natural throughout, onomatopoeia consistent with `vietnamese-sound-cues.md`. |
 | Side-by-side EN-VI tables, single-pipe rule honored (155 table rows, 0 double/triple pipe drift), master cue card in ╔══╗ ASCII box, final word, end-of-dive marker. |
+
 ## Key 3.5+50+ choices made
 | Decision | What I chose | What I skipped | Why |
 |---|---|---|---|
@@ -20,6 +30,7 @@ This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái
 | Sound-diagnosis Độ sâu | Dedicated 6-row table in Ch 4 with explicit pressure numbers | Generic "listen to your shots" advice | The user already uses pực/bộp/bịch/cốc/phập as primary 3.5-level feedback — pressure mapping complétes the loop. |
 | The "5 never-above" rules | Vôlei 8, block return 7, cắt 9-fingers-only | "Tighten for control" intuition | These three strokes have hard ceilings; exceeding them causes injury, not power. The 50+ angle made these non-negotiable. |
 | Bird-in-the-hand metaphor | "Hold the bird, catch the bóng" | The "hold like a baby bird" cliché | The cliché stops at the cách cầm vợt; this version connects the *swing* to *impact* (the calm → spike → release arc). |
+
 ## Cross-references
 | This deep dive touches on | Related file in the library |
 |---|---|
@@ -30,6 +41,10 @@ This is the 22nd deep dive in the library (after Cú Thuận Tay × 4, Cú Trái
 | The block return's pressure ceiling | `Deep Dives/Return of Phát Bóng/` |
 | The Vôlei's "block, don't swing" + pressure | `Deep Dives/Vôlei/` |
 | The cắt's "soft hands, firm contact" | `Deep Dives/Slice Variations/` |
+
 ## Files
 - `Grip Pressure — The Dial You Control Every Shot.md` — the deep dive itself
 - `ReadMe.md` — this file
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

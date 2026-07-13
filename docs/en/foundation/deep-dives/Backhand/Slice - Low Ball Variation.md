@@ -1,4 +1,10 @@
+---
+title: 🎾 Topic Deep Dive — The Low Ball Slice
+lang: en
+---
+
 # 🎾 Topic Deep Dive — The Low Ball Slice
+
 ### *The "Scoop & Slide"
 
 ---
@@ -13,31 +19,13 @@
 
 # Chapter 1 — The Big Idea: The Low Ball is a Trap
 
-| 🇺🇸  |
-| --- |
-| A ball that lands below the net cord is the #1 "shot killer" for 3.5 players. Most try to lift it with topspin, leading to shanks or nets. The low-ball slice is your "emergency exit." |
-| **At 50+, do not fight the low ball.** If the ball is below your knees, your hips can't generate enough upward force for topspin safely. Use the slice to "scoop" the ball and keep it moving. |
-
 ---
 
 # Chapter 2 — The Technique: "Scoop & Slide"
 
-| 🇺🇸  |
-| --- |
-| **1. The Knee Lunge:** You must get your chest down to the ball's level. Bend the knees deeply. If you bend your back instead of knees, you lose stability and risk injury. |
-| **2. The "Scoop":** Instead of a "high-to-low" swing (which would put the racket into the ground), use a **"flat-to-forward"** path. The racket head moves under the ball like a scoop. |
-| **3. The "Slide":** As you make contact, imagine "sliding" the racket face under the ball. Keep the face **slightly open** (hood position) to create the necessary underspin for stability. |
-
 ---
 
 # Chapter 3 — The 50+ Drill: "The Low-Wall Rally"
-
-| 🇺🇸  |
-| --- |
-| **Wall-Low Rally:** Stand 3m from the wall. Drop the ball low and slice it against the wall, aiming for the bottom 1/4 of the wall. |
-| **Focus:** Feel the "scoop" under the ball. |
-| **Goal:** 10 consecutive "clean" slices that hit the bottom of the wall. |
-| **Why this works for 50+:** the wall never misses, never moves, and the feedback is instant. You see and hear whether the ball is going to the bottom 1/4 of the wall. Most importantly: no bending under a moving ball while a 25-year-old smashes it back at you. |
 
 ---
 
@@ -72,3 +60,7 @@
      - Don't lunge hard. Use a controlled step and bridge leg.
      - Đừng bước lunge mạnh. Dùng bước kiểm soát và chân trụ vững.
 ```
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

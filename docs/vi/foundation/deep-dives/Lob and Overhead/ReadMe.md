@@ -1,6 +1,14 @@
-Done. Deep Dive on Lob and Overhead saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Lob and Overhead\Lob and Overhead — The Vertical Game.md` (~67 KB, 574 lines, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on Lob and Overhead saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Lob and Overhead\Lob and Overhead — The Vertical Game.md` (~67 KB, 574 lines, EN-VI bilingual, 5
+ chapters)
+
 ### Ý Tưởng Chính: "The Vertical Game"
-This deep dive frames the lob and the cú cao as two answers to the same problem — the bóng is in the air — rather than two separate strokes. The "vertical" axis (up-down) is what decides điểms at 3.5+ when opponents are good enough to retrieve everything from side to side.
+This deep dive frames the lob and the cú cao as two answers to the same problem — the bóng is in the air — rather than two separate strokes.
+The "vertical" axis (up-down) is what decides điểms at 3.5+ when opponents are good enough to retrieve everything from side to side.
 | Chapter | What it covers | Role in the 3.5 ván |
 |---|---|---|
 | 1. Ý Tưởng Chính | "The Vertical Game" + the Ladder of 4 Situations + tai chi framing | Mental framework |
@@ -8,6 +16,7 @@ This deep dive frames the lob and the cú cao as two answers to the same problem
 | 3. The Overhead | The "Sane Smash" — tracking, position, trophy, "fall don't swing", 3 situations | The 50+ reward |
 | 4. The Specialty Shots | Lob Vôlei + counter-cú cao (tied to the Vôlei deep dive Ch 4) | The lưới toolkit |
 | 5. Drills, Cues, Warnings, 50+ | 5 bài tậps, 15 cues, 7 errors, tai chi table, mental checklist, 1-page cheat sheet | Practice and Tham khảo |
+
 ### The 5-step pipeline, executed
 | Step | What I did |
 |---|---|
@@ -16,14 +25,21 @@ This deep dive frames the lob and the cú cao as two answers to the same problem
 | 5 chapters, organized by theme (vertical ván) with sub-variations (defensive vs. offensive lob, Sane vs. aggressive smash, lob Vôlei vs. counter-cú cao). Delỗi = defensive cắt lob + Sane Smash. Alternatives labelled "Tham khảo" or "for the brave" |
 | Master huấn luyện viên Giọng nói, taichi parallels (*Lã Kình* on lob, *Cung Bộ* on cú cao, *Tỉnh Kình* on quiet power, *Tụ Bộ* on the downward fall), 50+ cues (shoulder, neck, knee, head-still) |
 | EN-VI side-by-side tables, the "Ladder of 4 Situations" decision tree, sound cues ("phập" vs "bộp" for cắt/flat lob), printable 1-page cheat sheet (EN + VI, Surrey bag-ready) |
+
 ### Key 3.5-level choices I made
-- Led with the defensive cắt lob, not the offensive xoáy trên lob. Most 3.5 players try the offensive lob first because Federer does it — but it requires precise margin and strong cách cầm vợt management. The defensive cắt lob is the rational delỗi at 50+: low stress, high percentage, no shoulder load. The defensive lob is the 3.5's insurance policy.
-- Named the cú cao the "Sane Smash." giải trí players delỗi to "swing hard, hit it long." The Sane Smash is the opposite: track, position, turn, fall. Gravity does the work, not the arm. This is joint protection disguised as technique.
+- Led with the defensive cắt lob, not the offensive xoáy trên lob.
+Most 3.5 players try the offensive lob first because Federer does it — but it requires precise margin and strong cách cầm vợt management.
+The defensive cắt lob is the rational delỗi at 50+: low stress, high percentage, no shoulder load. The defensive lob is the 3.5's insurance policy.
+- Named the cú cao the "Sane Smash." giải trí players delỗi to "swing hard, hit it long." The Sane Smash is the opposite: track, position, turn, fall. Gravity does the work, not the arm.
+This is joint protection disguised as technique.
 - Framed the lob + cú cao as ONE topic ("the vertical ván"). They're not separate shots. They're two answers to the same problem. Seeing them as a pair is the master-huấn luyện viên insight.
-- Tied the lob Vôlei + counter-cú cao to the existing Vôlei deep dive (Ch 4). Avoided duplication — the Vôlei deep dive already has the 1-paragraph treatment. This deep dive expands them with the 3.5+ decision tree.
+- Tied the lob Vôlei + counter-cú cao to the existing Vôlei deep dive (Ch 4). Avoided duplication — the Vôlei deep dive already has the 1-paragraph treatment.
+This deep dive expands them with the 3.5+ decision tree.
 - Skipped frame counts and joint angles. Translated "lift the vợt head" into "scratch your back" and "sane smash" into "PUT IT DOWN." The 3.5 player needs the body image, not the physics.
-- Added the doubles pattern callout. "My partner phát bóngs, I hit a deep defensive lob, partner poaches the reply. Three shots, one điểm." — this is the 50+ doubles cheat code, mentioned as a sidebar in Ch 4.
+- Added the doubles pattern callout. "My partner phát bóngs, I hit a deep defensive lob, partner poaches the reply.
+Three shots, one điểm." — this is the 50+ doubles cheat code, mentioned as a sidebar in Ch 4.
 - Ended with a printable 1-page cheat sheet in both languages, with the "phập vs bộp" sound-cue pair for cắt lob diagnosis (Surrey bag-ready).
+
 ### How this connects to the existing series
 | Deep Dive | Connection to Lob & Overhead |
 |---|---|
@@ -34,9 +50,12 @@ This deep dive frames the lob and the cú cao as two answers to the same problem
 | Footwork (Ch 2 — split-step) | The Sane Smash tracking uses the same split-step + side-shuffle pattern as the lưới ván. The "small step" recovery after a lob is the same as the "Hoàn Thủ" (return to center) from the di chuyển deep dive. |
 | Return of Phát Bóng | The offensive xoáy trên lob is a useful counter-attack against weak second phát bóngs — but at 3.5+, the defensive cắt lob is the safer return pattern. |
 | Compléte Manual | The Compléte Manual will need a new "Vertical Game" section that điểms here for the deep version. |
+
 ### The most important sentence from this deep dive
 > *"Lob mua thời gian. Overhead đổi thời gian thành điểm. The lob buys you time. The cú cao cashes it in."*
-A player who can hit a deep defensive lob AND a Sane Smash will win more điểms at 3.5 than a player with a bigger Cú Thuận Tay but no vertical ván. The vertical ván is the chess move that breaks the tranh bóng rhythm.
+A player who can hit a deep defensive lob AND a Sane Smash will win more điểms at 3.5 than a player with a bigger Cú Thuận Tay but no vertical ván.
+The vertical ván is the chess move that breaks the tranh bóng rhythm.
+
 ### Want me to continue?
 | Next | What it covers |
 |---|---|
@@ -52,3 +71,6 @@ File summary:
 - 📄 `Lob and Overhead — The Vertical Game.md` (~67 KB, 574 lines, 5 chapters, EN-VI bilingual)
 - 📄 `ReadMe.md` (this file)
 Hy vọng tuần này anh sẽ thêm "trò chơi dọc" vào toolkit ở Surrey. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — đưa vợt ra sau cao là chìa khóa của mọi lob.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

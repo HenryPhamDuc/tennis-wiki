@@ -1,8 +1,15 @@
+---
+title: Muscle Hierarchy — Which Muscles Fire When, Segment by Segment
+lang: en
+---
+
 # Muscle Hierarchy — Which Muscles Fire When, Segment by Segment
+
 # Hệ Thống Cơ Bậc — Cơ Nào Bắn Khi Nào, Theo Từng Đoạn Cơ Thể
 *Deep Dive #4 — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5*
 *Chuyên Đề Số 4 — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5*
 ---
+
 ## Document Map / Bản Đồ Tài Liệu
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Tài liệu này KHÔNG phải là — Không phải cẩm nang kỹ thuật cú. Không phải sách giải phẫu. Không phải hướng dẫn tập. Đây là lớp giữa GÓC (DD1) và LÒ XO (DD2) — các cơ thực sự di chuyển các góc và nạp các lò xo. |
 | Tại sao điều này quan trọng ở 3.5 → 4.5 — Hầu hết người chơi biết "dùng chân". Ít người biết rằng mông lớn bắn 0.1s TRƯỚC tứ đầu đùi trong Cú Thuận Tay. Biết cơ nào bắn theo thứ tự nào là khác biệt giữa "cố gắng" và "bắn chính xác". |
 ---
+
 ## Table of Contents / Mục Lục
 | # | Chapter | Chương |
 |---|---|---|
@@ -24,7 +32,9 @@
 | 📋 | Muscle Map Cheat Sheet | Bảng Tóm Tắt Cơ |
 ---
 * * *
+
 # Chapter 1 — The Source's Big Insight — Muscle Strength ≠ Muscle Order
+
 # Chương 1 — Insight Lớn Của Nguồn — Sức Cơ ≠ Thứ Tự Cơ
 | |
 | --- |
@@ -39,7 +49,9 @@
 | Hệ quả cho tập luyện — Đừng chỉ tập cơ MẠNH. Tập CUỘC TIẾP SỨC — sự tuần tự. Nâng nặng chậm (squat, bench press) tập cơ mạnh. Bài phối hợp nhanh (ném bóng y tế, lắc vợt) tập timing tiếp sức. |
 | *Câu nhắc tổng:* "Mạnh sang nhanh, đoạn theo đoạn. Đừng để một cơ làm cả cuộc tiếp sức." |
 * * *
+
 # Chapter 2 — The Lower-Body Segment — Hip, Knee, Ankle
+
 # Chương 2 — Đoạn Thân Dưới — Hông, Gối, Cổ Chân
 | |
 | --- |
@@ -56,7 +68,9 @@
 | Chày trước — Phía trước xương chày. GẬP LƯNG (kéo ngón chân lên). Bắn khi chân cần đáp mềm. Kích hoạt: ~30%–50% khi đáp split-step hoặc nhảy. |
 | Cơ bàn chân nội tại — 20+ cơ nhỏ trong chính bàn chân. Chúng tạo CUNG, phân phối trọng lượng, và cung cấp thăng bằng tinh tế. Kích hoạt: ~10%–30% liên tục, cao hơn nhiều trong các cú thử thách thăng bằng. |
 * * *
+
 # Chapter 3 — The Trunk Segment — Core Muscles
+
 # Chương 3 — Đoạn Thân — Cơ Lõi
 | |
 | --- |
@@ -73,7 +87,9 @@
 | Cơ nối hông-thân |
 | Lưng rộng — "Lat." Chạy từ lưng dưới tới cánh tay trên. Nối thân với tay. Vừa cơ thân VỪA cơ tay . Bắn trong Cú Trái Tay để kéo tay ngang người. Kích hoạt: ~40%–60% Cú Trái Tay, ~50%–70% Phát Bóng. |
 * * *
+
 # Chapter 4 — The Shoulder Segment — Rotator Cuff & Deltoids
+
 # Chương 4 — Đoạn Vai — Chóp Xoay & Delta
 | |
 | --- |
@@ -92,7 +108,9 @@
 | Lưng rộng (đếm ở thân nữa). "Lat." DUỖI + KHÉP + XOAY TRONG tay. Làm việc với ngực lớn để quất tay. Kích hoạt: ~50%–70% Cú Trái Tay, ~60%–80% Phát Bóng. |
 | Cảnh báo vai 50+ — Gân trên gai có MÁU cung cấp KÉM. Sau 50 tuổi, nó thoái hóa ~1% mỗi năm ngay cả không chấn thương. Cộng với chuyển động giao bóng lặp lại, đó là lý do chấn thương vai liên quan Phát Bóng tăng vọt sau 50. Cách sửa : khởi động chóp xoay cụ thể (bài tập dây, tối thiểu 5 phút). |
 * * *
+
 # Chapter 5 — The Arm Segment — Biceps, Triceps, Forearm
+
 # Chương 5 — Đoạn Tay — Nhị Đầu, Tam Đầu, Cẳng Tay
 | |
 | --- |
@@ -106,7 +124,9 @@
 | Sấp tròn + Sấp vuông — Trước cẳng tay. SẤP cẳng tay (xoay lòng bàn tay xuống). Bắn trong downswing Cú Thuận Tay để đóng mặt vợt. Kích hoạt: ~30%–50% tiếp xúc Cú Thuận Tay. |
 | Ngửa — Sâu trong cẳng tay. NGỬA cẳng tay (xoay lòng bàn tay lên). Bắn trong Cú Trái Tay để mở mặt. Kích hoạt: ~30%–50% tiếp xúc Cú Trái Tay. |
 * * *
+
 # Chapter 6 — The Wrist & Hand Segment
+
 # Chương 6 — Đoạn Cổ Tay & Bàn Tay
 | |
 | --- |
@@ -126,7 +146,9 @@
 | Lumbricals + Interossei (10+ cơ giữa các đốt bàn tay). Điều khiển tinh tế vị trí ngón trên cách cầm vợt. |
 | Cảnh báo tay 50+ — Cơ bàn tay nội tại mất ~15% khối lượng sau 60 tuổi. Đây là lý do sức mạnh cầm giảm. Nó cũng giảm điều khiển tinh tế góc mặt vợt. Tập với dụng cụ tăng cường cách cầm vợt + xô gạo để duy trì. |
 * * *
+
 # Chapter 7 — The Stroke-by-Stroke Muscle Sequence
+
 # Chương 7 — Chuỗi Cơ Theo Từng Cú
 | |
 | --- |
@@ -142,7 +164,9 @@
 | Quy tắc "cơ lớn trước" — Trong mọi cú, cơ đầu tiên bắn là cơ LỚN, CHẬM (mông, tứ đầu, ngực, lưng rộng). Cơ cuối cùng bắn là cơ NHỎ, NHANH (gập cổ tay, cơ bàn tay nội tại). Không bao giờ đảo ngược thứ tự này. Cơ lớn tới trước để nạp; cơ nhỏ tới sau để tinh chỉnh. |
 | Kiểm tra "cơ thiếu" — Nếu một cơ trong bảng trên không bắn khi bạn đánh một cú, bạn có lỗ hổng trong chuỗi động lực. Bạn sẽ mất lực bằng đóng góp của cơ đó. Thiếu mông lớn = mất 30% lực. Thiếu ngực lớn trong Cú Trái Tay = mất 50% lực. |
 * * *
+
 # Chapter 8 — Why Muscles Fail in Different Ways at 50+
+
 # Chương 8 — Tại Sao Cơ Hỏng Theo Cách Khác Nhau Ở 50+
 | |
 | --- |
@@ -157,12 +181,16 @@
 | Nguyên tắc tập cơ 50+ — Dùng tải nhẹ, nhiều lần, tempo chậm để tập sợi co chậm bạn vẫn có, trong khi NHẸ NHÀNG duy trì co nhanh. Nâng nặng (trên 80% 1RM) có rủi ro cho người 50+ chưa tập. |
 | *Câu nhắc tổng:* "Type I (chậm) giữ bạn chơi. Type II (nhanh) giữ bạn thắng. Tập cả hai, khác nhau." |
 * * *
+
 # Chapter 9 — Anatomy_Lab Integration — The Segment-by-Segment Muscle Numbers
+
 # Chương 9 — Tích Hợp Anatomy_Lab — Số Cơ Theo Từng Đoạn
 | |
 | --- |
 | Chương này xếp lớp con số cơ theo đoạn cụ thể từ thư viện `Anatomy_Lab/` (mông lớn, 6 cơ xoay sâu, hip CARs, dây thần kinh trụ, cơ bàn tay nội tại) lên khung hệ cơ của chuyên đề này. |
+
 ## 9.1 — Gluteus Maximus — The Largest Muscle (50% of Tennis Power)
+
 ## 9.1 — Mông Lớn — Cơ Lớn Nhất (50% Lực Tennis)
 | |
 | --- |
@@ -170,7 +198,9 @@
 | ![Giải phẫu mông lớn](images/DD5_hips_thighs/DD5_hips_thighs_01.png) |
 | Hình 1 — Mông lớn từ góc nhìn sau. Cơ lớn nhất cơ thể. |
 | Biến đổi tư thế rộng — Tư thế tennis tiêu chuẩn (chân ~rộng vai) tải phần lớn TỨ ĐẦU ĐÙI. Tư thế rộng hơn (1.5× rộng vai) tải MÔNG LỚN thêm ~30%–40%. Đây là insight Anatomy_Lab: tư thế rộng = mông nhiều hơn = lực nhiều hơn + ít stress gối. |
+
 ## 9.2 — The 6 Deep Hip Rotators (The "Hip Centering" System)
+
 ## 9.2 — 6 Cơ Xoay Hông Sâu (Hệ "Tâm Hông")
 | |
 | --- |
@@ -178,7 +208,9 @@
 | ![6 cơ xoay hông sâu](images/DD5_hips_thighs/DD5_hips_thighs_03.png) |
 | Hình 2 — 6 cơ xoay hông sâu nhìn từ phía sau. Chúng bao quanh cổ xương đùi. |
 | Hệ quả — "Hông cứng" thường KHÔNG phải vấn đề dẻo dai. Đó là vấn đề KIỂM SOÁT — 6 cơ xoay không bắn đúng trình tự để tâm hông. Hip CARs (Xoay Khớp Có Kiểm Soát) phục hồi kiểm soát với 12–18° tăng xoay trong trong 2–3 tuần. |
+
 ## 9.3 — Hip CARs (The Activation Drill, Not a Stretch)
+
 ## 9.3 — Hip CARs (Bài Tập Kích Hoạt, Không Phải Giãn)
 | |
 | --- |
@@ -186,7 +218,9 @@
 | ![Chuyển động Hip CARs](images/DD5_hips_thighs/DD5_hips_thighs_05.png) |
 | Hình 3 — Hip CARs: xoay chậm khớp hông qua TOÀN BỘ biên khả dụng, có kiểm soát, cả hai hướng. Vị trí biên cuối quan trọng nhất — đó là nơi cơ xoay bắn mạnh nhất. |
 | Phác đồ — 5 lần × 2 hướng × 2 hiệp × hàng ngày. Sau 2–3 tuần, xoay trong hông tăng 12°–18° KHÔNG CẦN giãn tĩnh nào. Đây là ý nghĩa "kích hoạt, không giãn". |
+
 ## 9.4 — The Back: 3 Layers (40+ Muscles)
+
 ## 9.4 — Lưng: 3 Lớp (40+ Cơ)
 | |
 | --- |
@@ -203,7 +237,9 @@
 | --- |
 | Quy tắc multifidus — Multifidus teo 10% chỉ trong 24 giờ sau đau lưng cấp. Não "quên" cách kích hoạt nó. Bạn không cần tập chung — bạn cần TÁI KÍCH HOẠT CỤ THỂ multifidus. Đây là lý do đau lưng thành mạn: bộ ổn định tắt, nhưng đa số trị liệu nhắm cơ lớn. |
 | Bài "Bird Dog" là tái kích hoạt multifidus chuẩn: duỗi tay đối diện + chân đối diện, giữ 5 giây, lặp 10 lần mỗi bên. Hàng ngày. |
+
 ## 9.5 — The Quadriceps (4 Muscles, 50–80° Loading Rule)
+
 ## 9.5 — Tứ Đầu Đùi (4 Cơ, Quy Tắc Tải 50°–80°)
 | |
 | --- |
@@ -211,15 +247,11 @@
 | ![Giải phẫu tứ đầu đùi](images/DD6_knees/DD6_knees_pdf03.jpeg) |
 | Hình 6 — Tứ đầu đùi: thẳng đùi (giữa) + 3 cơ rộng. |
 | Quy tắc tải an toàn 50°–80° — ứng suất gân xương bánh chè TỐI THIỂU ở 50°–80° gập gối. Dưới 50° (chân quá thẳng): gân xương bánh chè chùng, không lực. Trên 80°: ứng suất tăng nhanh. Trên 90°: ứng suất tăng 40%–60% và rủi ro viêm gân xương bánh chè tăng vọt. |
+
 ## 9.6 — Eccentric Squats Fix Patellar Tendonitis (Not Rest!)
+
 ## 9.6 — Squat Eccentric Chữa Viêm Gân Xương Bánh Chè (Không Phải Nghỉ!)
-| 🇻🇳 Tiệt Việt |
-| --- |
-| Phát hiện Anatomy_Lab DD6 — viêm gân xương bánh chè (đầu gối người nhảy) được chữa bởi squat ECCENTRIC trên bảng nghiêng 25° , 3 hiệp × 15 lần, 3 ngày/tuần, trong 12 tuần. NGHỈ KHÔNG chữa được vi rách gân. Tải eccentric kích thích tái cấu trúc collagen. |
-| ![Dáng squat eccentric](images/DD6_knees/DD6_knees_pdf08.jpeg) |
-| Hình 7 — Squat eccentric trên bảng nghiêng 25°. Độ nghiêng chuyển tải sang gân xương bánh chè. |
-| Phác đồ từ Purdam 2009 — 3×15 lần, 3 ngày/tuần, 12 tuần, chỉ eccentric (hạ chậm dưới tải, dùng cả hai chân để đứng lên). Tỷ lệ thành công: ~80% trở lại thi đấu. |
-## 9.7 — The Hand: 27 Bones, 8 Carpals, 9 Tendons
+
 ## 9.7 — Bàn Tay: 27 Xương, 8 Cổ Tay, 9 Gân
 | |
 | --- |
@@ -230,6 +262,7 @@
 | Hình 9 — Mặt cắt ống cổ tay: 9 gân + 1 dây thần kinh giữa nhồi vào 2 cm². |
 | Quy tắc áp lực cầm — 3/10 lúc nghỉ → 7/10 lúc tiếp xúc → 3/10 lúc follow-through. Đa số người chơi phong trào cầm 8/10 liên tục. Kết quả là mỏi cẳng tay và mất kiểm soát mặt vợt tinh tế. |
 * * *
+
 ## 📋 Chapter Card — Printable / Thẻ In Được
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -280,6 +313,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 * * *
+
 ## 🎯 Final Word / Lời Cuối
 | |
 | --- |
@@ -297,3 +331,6 @@ Sources / Nguồn :
 - Faulkner et al. (2007) — Aging and skelétal muscle
 *End of Deep Dive #4 — Muscle Hierarchy*
 *Hết Chuyên Đề Số 4 — Hệ Thống Cơ Bậc*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

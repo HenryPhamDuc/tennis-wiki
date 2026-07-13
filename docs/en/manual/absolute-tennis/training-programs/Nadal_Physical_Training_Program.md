@@ -1,13 +1,21 @@
+---
+title: Nadal Physical Training Program
+lang: en
+---
+
 # Nadal Physical Training Program
 
 ## Overview
-This training program is designed to develop the physical attributes and on-court movements that define Rafael Nadal's dominance, particularly his legendary topspin forehand, defensive sliding, and incredible endurance on clay courts. The program focuses on building explosive lower body strength, lateral mobility, core stability, and the specific movement patterns that allow Nadal to defend and counterpunch with exceptional effectiveness.
+This training program is designed to develop the physical attributes and on-court movements that define Rafael Nadal's dominance, particularly his legendary topspin forehand, defensive sliding, and in
+credible endurance on clay courts. The program focuses on building explosive lower body strength, lateral mobility, core stability, and the specific movement patterns that allow Nadal to defend and co
+unterpunch with exceptional effectiveness.
 
 ## Program Overview
 - **Duration**: 12 weeks (can be adjusted based on athlete level)
 - **Frequency**: 4-5 sessions per week (mix of on-court and off-court training)
 - **Session Length**: 90-120 minutes
-- **Equipment Needed**: Tennis court, balls, agility ladder, cones, resistance bands, medicine balls, slide board (or smooth surface for sliding practice), foam roller, massage ball, video analysis equipment
+- **Equipment Needed**: Tennis court, balls, agility ladder, cones, resistance bands, medicine balls, slide board (or smooth surface for sliding practice), foam roller, massage ball, video analysis eq
+uipment
 - **Prerequisites**: Solid foundation in basic tennis strokes, basic lateral movement comfort, no serious joint limitations (consult with sports physician if needed)
 
 ## Philosophy & Approach
@@ -19,6 +27,7 @@ Nadal's physical game is built on:
 5. **Injury Prevention & Longevity Focus**: Emphasis on shoulder, knee, and ankle health
 
 ## Phase 1: Foundation & Movement Preparation (Weeks 1-3)
+
 ### Goals: Develop proper movement mechanics, build foundational strength, introduce sliding basics
 
 #### Movement & Footwork
@@ -67,6 +76,7 @@ Nadal's physical game is built on:
   - Practice moving to wide forehand and backhand, then recovering to center
   - Emphasize outside foot lead for lateral movement
   
+
 ### Week 1-3 Schedule Example
 - Monday: Movement Foundations + Lower Body Power (90 min)
 - Wednesday: Core Stability + Forehand Technique (90 min)
@@ -74,6 +84,7 @@ Nadal's physical game is built on:
 - Sunday: Integrated On-Court Practice (90 min) - focus on movement and forehand
 
 ## Phase 2: Sliding & Defensive Development (Weeks 4-6)
+
 ### Goals: Develop sliding technique, improve defensive capabilities, build endurance base
 
 #### Movement & Sliding
@@ -119,6 +130,7 @@ Nadal's physical game is built on:
   - Practice using defensive shots to neutralize and regain court position
   - Work on transitioning from defense to neutral with high, deep balls
   
+
 ### Week 4-6 Schedule Example
 - Tuesday: Sliding Technique + Lateral Power (90 min)
 - Thursday: Defensive Movement + Core Power (90 min)
@@ -126,6 +138,7 @@ Nadal's physical game is built on:
 - Sunday: Match Play Simulation (90 min) - implement defensive skills
 
 ## Phase 3: Endurance & High-Intensity Work (Weeks 7-9)
+
 ### Goals: Develop exceptional endurance, maintain explosiveness under fatigue, refine sliding under match conditions
 
 #### Endurance & Conditioning
@@ -138,6 +151,7 @@ Nadal's physical game is built on:
   - 30 seconds all-out effort (sprints, burpees, mountain climbers)/90 seconds active recovery x 8-10
   - Court suicides with racket: sprint to net, touch net, backpedal to baseline x 6-8
   
+
 #### Strength Maintenance & Power
 - **Maintenance Strength** (15 minutes/session)
   - Squats: 3 sets of 8 (moderate weight)
@@ -170,6 +184,7 @@ Nadal's physical game is built on:
   - Practice turning defensive slides into offensive opportunities
   - Work on hitting aggressive shots immediately after recovery slide
   
+
 ### Week 7-9 Schedule Example
 - Monday: Endurance Intervals + Maintenance Strength (90 min)
 - Wednesday: HIIT + Core Endurance (90 min)
@@ -177,6 +192,7 @@ Nadal's physical game is built on:
 - Sunday: Extended Match Play (120 min) - focus on maintaining intensity
 
 ## Phase 4: Integration & Match Preparation (Weeks 10-12)
+
 ### Goals: Integrate all physical components into match play, peak for competition, maintain health
 
 #### Competition Preparation
@@ -189,6 +205,7 @@ Nadal's physical game is built on:
   - Week 11: Moderate volume, high intensity
   - Week 12: Low volume, maintenance intensity (focus on sharpness and recovery)
   
+
 #### Maintenance & Recovery
 - **Active Recovery Sessions** (2-3 times/week)
   - Light swimming, cycling, or yoga (30-45 minutes)
@@ -230,6 +247,7 @@ Nadal's physical game is built on:
 | Sunday | Extended Match Play | 120 min |
 
 ## Key Drills Library
+
 ### Sliding & Recovery
 1. **Slide and Recover**: Slide to wide forehand, hit recovery step, recover to center
 2. **Slide to Shadow Stroke**: Slide wide, immediately hit shadow forehand/backhand during recovery
@@ -247,6 +265,7 @@ Nadal's physical game is built on:
 3. **Continuous Point Play**: Play points for 5 minutes straight, focus on movement quality
 
 ## Physical Conditioning Guidelines
+
 ### Lower Body Power & Explosiveness
 - **Frequency**: 3-4 times per week
 - **Intensity**: High effort, low reps (6-10 reps for power movements)
@@ -273,6 +292,7 @@ Nadal's physical game is built on:
   - Extended match simulation: play points for 10-15 minutes with limited rest
 
 ## Evaluation and Progress Tracking
+
 ### Weekly Metrics to Track
 1. **Lateral Movement Time**: Time to move laterally 5 meters and back (goal: improve by 10-15%)
 2. **Sliding Distance**: Maximum controlled slide distance on appropriate surface
@@ -296,6 +316,7 @@ Nadal's physical game is built on:
 5. **Injury Markers**: Monitor for joint soreness, particularly knees, ankles, shoulders
 
 ## Adaptation for Different Levels
+
 ### Beginner Focus (NTRP 2.5-3.5)
 - **Weeks 1-3**: Extended focus on basic movement patterns and sliding fundamentals (use socks on smooth surface)
 - **Weeks 4-6**: Slower pace feeds, emphasis on making contact while moving
@@ -348,3 +369,6 @@ Nadal's physical game is built on:
 - **Coaching Aids**: USPTA/PTR clay court specialist materials, Nadal's academy training principles
 - **Technology**: GPS trackers, accelerometers, high-speed cameras for movement analysis if available
 - **Expert Consultation**: Consider working with a strength and conditioning coach familiar with tennis demands
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

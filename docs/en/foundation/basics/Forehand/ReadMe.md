@@ -1,3 +1,8 @@
+---
+title: Readme
+lang: en
+---
+
 
 
 ### What's inside (the 5-step pipeline, executed)
@@ -125,3 +130,7 @@ That's the 50+ truth of tennis. Your eyes will slow down. Your body doesn't have
     After:   Keep doing L4 drills forever. They're the insurance.
 
 **4 weeks from now, the difference won't be in your head. It'll be in your hand.**
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

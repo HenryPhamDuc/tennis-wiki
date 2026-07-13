@@ -1,6 +1,12 @@
+---
+title: 🎾 Topic Deep Dive — Footwork
+lang: en
+---
+
 Saved. Here's the deep dive:
 
 # 🎾 Topic Deep Dive — Footwork
+
 ### *Di Chuyển Thông Minh
 
 **File:** `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Footwork\Footwork — The Art of Smart Movement.md` (40 KB, 5 chapters, EN-VI bilingual)
@@ -19,12 +25,6 @@ Saved. Here's the deep dive:
 
 ## Series parameters carried forward (per your memory)
 
-- ✅ 3.5-level recreational cues
-- ✅ EN-VI side-by-side bilingual tables
-- ✅ Master-coach voice ("anh," "tôi," "em")
-- ✅ 50+ longevity adjustments (knee safety, back safety, smart > fast)
-- ✅ Tai chi principles (Thường Tùng, Cung Bộ, Hư-Thực, Tụ Bộ, Hoàn Thủ)
-- ✅ 1-page printable cheat sheet at the end (tape in the bag)
 
 ## How this fits the series
 
@@ -38,7 +38,8 @@ Saved. Here's the deep dive:
 | The Volley | The 6th stroke | Redirection, L-shape, step-in |
 | **Footwork** ← this one | **The foundation** | **Ready position, split-step, 4 moves, recovery** |
 
-This is the first **non-stroke** deep dive. Footwork is the silent foundation under every shot — the topic that turns all 6 stroke deep-dives from "I know the technique" into "I can actually use it in a match."
+This is the first **non-stroke** deep dive. Footwork is the silent foundation under every shot — the topic that turns all 6 stroke deep-dives from "I know the technique" into "I can actually use it in
+ a match."
 
 ## Key insights drawn from your source material
 
@@ -46,7 +47,8 @@ This is the first **non-stroke** deep dive. Footwork is the silent foundation un
 2. **The 4 named moves** — pulled your giáo trình's table (Lateral Hop / Drop Step / Cross-Over / Recovery) and built an entire chapter around them, in order of difficulty.
 3. **The 300ms split-step gift** — your giáo trình said "thêm 300ms quý báu." I made that the central hook of Chapter 3.
 4. **The Cross-Over caution** — your "high-injury move" warning was transformed into a 50+ rule: use it as a last resort, not a first choice.
-5. **Tai chi integration** — *Thường Tùng* (always loose/ready), *Cung Bộ* (bow stance), *Tụ Bộ* (drop step), *Hoàn Thủ* (return to center). Each maps to a footwork principle and reinforces the cross-series voice.
+5. **Tai chi integration** — *Thường Tùng* (always loose/ready), *Cung Bộ* (bow stance), *Tụ Bộ* (drop step), *Hoàn Thủ* (return to center).
+Each maps to a footwork principle and reinforces the cross-series voice.
 
 ## Key 3.5-level choices I made
 
@@ -60,7 +62,8 @@ This is the first **non-stroke** deep dive. Footwork is the silent foundation un
 
 > *"You're playing a 20-year sport. Footwork is your longevity insurance policy. Buy it now."*
 
-A player who starts 300ms early with small steps beats a player who starts 800ms late with a sprint. The early starter's heart rate stays low, the joints stay healthy, and the match lasts 3 hours instead of 90 minutes.
+A player who starts 300ms early with small steps beats a player who starts 800ms late with a sprint.
+The early starter's heart rate stays low, the joints stay healthy, and the match lasts 3 hours instead of 90 minutes.
 
 ## Your Deep Dives folder now has
 
@@ -92,3 +95,6 @@ A player who starts 300ms early with small steps beats a player who starts 800ms
 Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
 
 Chúc anh di chuyển nhẹ ở Surrey. Tuần này tập Mirror Split-Step 20 lần mỗi ngày — trước khi bất kỳ cú đánh nào khác. Bắt đầu từ nền, mọi thứ tự dựng lên.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

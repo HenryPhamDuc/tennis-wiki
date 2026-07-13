@@ -1,6 +1,13 @@
+---
+title: 🌟 Elite - Unconventional Tennis Mastery
+lang: en
+---
+
+
 # 🌟 Elite - Unconventional Tennis Mastery
 
-Welcome to the **Elite** section, where we transcend conventional tennis teaching and explore the cutting edge of performance science. This is where orthodox methodology ends and personal discovery begins.
+Welcome to the **Elite** section, where we transcend conventional tennis teaching and explore the cutting edge of performance science.
+This is where orthodox methodology ends and personal discovery begins.
 
 ---
 
@@ -66,3 +73,10 @@ The Elite section integrates:
 ---
 
 **Ready to break free and find your own system?** Start with the [Elite Manual](basics/Elite%20Manual/) or explore specific concepts in [Deep Dives](deep-dives/).
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

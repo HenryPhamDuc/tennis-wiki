@@ -1,6 +1,12 @@
+---
+title: 🎾 Topic Deep Dive — The Serve
+lang: en
+---
+
 Saved. Here's the deep dive:
 
 # 🎾 Topic Deep Dive — The Serve
+
 ### *The Gravity & Rotation Serve
 
 **File:** `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Serve\Serve — The Gravity & Rotation Serve.md` (48 KB, 6 chapters, EN-VI bilingual)
@@ -30,12 +36,14 @@ Saved. Here's the deep dive:
 | Racket Embodiment | L4 — The feel | Proprioception, automaticity |
 | **The Serve** ← this one | **The 5th stroke** | **Grip, kinetic chain, toss, contact, finish** |
 
-This is the first **non-forehand** deep dive. It carries forward the same master-coach voice, the 50+ adjustments, and the EN-VI side-by-side format — but applies them to a different biomechanical system (vertical whip + toss, not horizontal whip + ground contact).
+This is the first **non-forehand** deep dive. It carries forward the same master-coach voice, the 50+ adjustments, and the EN-VI side-by-side format — but applies them to a different biomechanical sys
+tem (vertical whip + toss, not horizontal whip + ground contact).
 
 ---
 
 
-1. **Continental grip + lateral palm plane** — from your "Tennis serve grip analysis" notes. The "lateral, not vertical" distinction is the single biggest unlock for elbow health. I made it a whole cue.
+1. **Continental grip + lateral palm plane** — from your "Tennis serve grip analysis" notes. The "lateral, not vertical" distinction is the single biggest unlock for elbow health.
+I made it a whole cue.
 2. **Pronation over wrist snap** — from your "Serve technique" notes. Modern biomechanics (and modern elbow health) reject the "snap your wrist" teaching. Pronation is shoulder + forearm, not wrist.
 3. **The "heavy weight" racket drop** — your exact phrase, used as the central visual cue for the swing. The racket is the slingshot stone, not the muscle.
 4. **The 1-2 count** — your "1 = trophy, 2 = hip thrust" formulation. I formalized it as the rhythm of the serve.
@@ -76,3 +84,7 @@ A gravity serve at 80% pace with good placement beats a muscle serve at 100% wit
         └── Serve — The Gravity & Rotation Serve.md
 
 ---
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

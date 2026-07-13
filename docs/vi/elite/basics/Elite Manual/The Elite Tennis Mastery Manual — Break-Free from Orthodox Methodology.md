@@ -1,9 +1,19 @@
-# The Elite Tennis Mastery Manual — Break-Free From Orthodox Methodology
-# Cẩm Nang Tennis Đỉnh Cao — Phá Vỡ Phương Pháp Giáo Điều để Tìm Hệ Thống Riêng Của Bạn
-*A bilingual (EN-VI) manual for the player who has outgrown the chuẩn playbook. For the 5.0+ player who stops copying the pros and starts engineering a system that is uniquely theirs — trained, tested, and refined by themselves, for themselves.*
-*Cẩm nang song ngữ (EN-VI) dành cho người chơi đã vượt qua giáo trình chuẩn. Cho người chơi 5.0+ ngừng bắt chước tay vợt chuyên nghiệp và bắt đầu thiết kế một hệ thống thuộc về riêng mình — tự tập, tự kiểm, tự tinh chỉnh.*
-*Built on the source materials in `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\` — Futuristic Tennis Manual by Olama, Tennis Research - Neuro athlétics with Kwen-Ollama, Tennis Research with Kwen-Ollama, and Advanced Tennis Kilướiic-Chain Manual.*
 ---
+title: The Elite Tennis Mastery Manual — Break-Free From Orthodox Methodology
+lang: en
+---
+
+# The Elite Tennis Mastery Manual — Break-Free From Orthodox Methodology
+
+# Cẩm Nang Tennis Đỉnh Cao — Phá Vỡ Phương Pháp Giáo Điều để Tìm Hệ Thống Riêng Của Bạn
+*A bilingual (EN-VI) manual for the player who has outgrown the chuẩn playbook.
+For the 5.0+ player who stops copying the pros and starts engineering a system that is uniquely theirs — trained, tested, and refined by themselves, for themselves.*
+*Cẩm nang song ngữ (EN-VI) dành cho người chơi đã vượt qua giáo trình chuẩn.
+Cho người chơi 5.0+ ngừng bắt chước tay vợt chuyên nghiệp và bắt đầu thiết kế một hệ thống thuộc về riêng mình — tự tập, tự kiểm, tự tinh chỉnh.*
+*Built on the source materials in `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\` — Futuristic Tennis Manual by Olama, Tennis Research - Neuro athlétics with K
+wen-Ollama, Tennis Research with Kwen-Ollama, and Advanced Tennis Kilướiic-Chain Manual.*
+---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -12,6 +22,7 @@
 | Cuốn này KHÔNG phải gì. Không phải thêm một mẫu tay vợt pro để bắt chước. Không phải chương trình 12 tuần. Không phải Kinh Thánh kỹ thuật cố định. Không phải "5 cú Cú Thuận Tay hay nhất." Đây là *khung để bạn thiết kế hệ thống của chính mình* — và một tấm cheat sheet in được bỏ vào túi vợt. |
 | Lời hứa. Nếu bạn đọc xong cuốn này và xây dựng một bài tập cá nhân, một câu nhắc cá nhân, một chỉ số cá nhân — bạn sẽ chơi hay hơn trong 90 ngày so với việc bắt chước swing pro suốt 90 ngày. Cơ thể thắng là cơ thể biết chính mình. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Part | English | Tiếng Việt |
 |---|---|---|
@@ -31,6 +42,7 @@
 | 14 | The Elite Cheat Sheet — One Page for the Bag | Thẻ Đỉnh Cao — Một Trang Bỏ Túi |
 | 15 | Final Words — You Are the Coach Now | Lời Cuối — Bây Giờ Bạn Là HLV Của Chính Mình |
 * * *
+
 # Phần 1 — Tuyên Ngôn Phản Giáo Điều
 * * *
 | |
@@ -46,6 +58,7 @@
 | Nói dối 5. "Cảm giác là kẻ thù của khoa học." Không. Đến 5.0+, cảm giác là khoa học duy nhất anh tin được theo thời gian thực. Con số — HRV, RPM, tốc độ swing — mô tả quá khứ. Cảm giác kể anh về cú *này*. |
 | Cái gì thay thế giáo điều. Một hệ thống cá nhân : câu nhắc của anh, bài tập của anh, chỉ số "đủ tốt" của anh, quy tắc quyết định hàng ngày của anh. Phần còn lại của cuốn sách này là giàn giáo cho hệ thống đó. |
 | Tuyên ngôn 5.0+, do anh viết, cho anh. *Tôi là kỹ sư hệ thống của chính mình. Tôi tin kiến thức cơ thể mình. Tôi để dữ liệu thông tin cho tôi, không sai khiến tôi. Tôi từ chối bắt chước người khác. Tôi xây cú đánh của mình như nước tìm đường — qua ràng buộc, qua lặp lại, qua chú ý. Tôi không bắt chước. Tôi khám phá.* |
+
 ### 📋 Chapter 1 Card — Printable / Thẻ In Được Chương 1
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 1 CARD — THE ANTI-ORTHODOX MANIFESTO ║
@@ -130,6 +143,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 2 — Trương Lực — Động Cơ Bị Lãng Quên
 * * *
 | |
@@ -147,6 +161,7 @@
 | Nhật ký trương lực (bắt đầu hôm nay). Trong 7 ngày tới, ghi một con số 1-5 sau mỗi trận hoặc buổi tập: "Tôi đã ở vùng nào nhiều nhất trong trận?" Rồi hỏi: *Có phải vùng phù hợp với việc tôi đang làm?* |
 | Câu nhắc cho trương lực. HLV giáo điều cho anh hai chữ ("lỏng ra!" hoặc "siết lại!"). Anh sẽ tự cho mình năm chữ. Chọn chữ nào cảm thấy đúng với cơ thể ANH: |
 | Khám phá cá nhân: thử viết năm chữ đơn, mỗi vùng một chữ, mà có nghĩa với cơ thể *của anh*. Chữ đúng với anh có thể chẳng giống chữ đúng với người khác. Đó mới là điểm. |
+
 ### 📋 Chapter 2 Card — Printable / Thẻ In Được Chương 2
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 2 CARD — TRƯƠNG LỰC: THE LOST ENGINE ║
@@ -235,6 +250,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 3 — Myelin — Tại Sao Chất Lượng Xây Sự Đỉnh Cao
 * * *
 | |
@@ -251,6 +267,7 @@
 | Bước 4 — Dừng khi chú ý tụt. Tay vợt 5.0+ kết thúc tập khi tập trung tụt, không phải khi đồng hồ bảo. Chất lượng chú ý mới là yếu tố giới hạn, không phải phút. |
 | Bước 5 — Ngủ cho nó. Myelin dày lên trong giấc ngủ sóng chậm. 7-9 tiếng. Không thương lượng. Kỹ năng anh tập hôm nay được xây đêm nay lúc anh ngủ. |
 | Sự thật 5.0+. Số lượng tập là biến được đánh giá quá cao nhất trong tennis. Chất lượng chú ý lúc tập là biến bị đánh giá quá thấp nhất. Đến 5.0+, thời gian tập của anh sẽ trông *nhàm* với người 4.0 — ít bóng hơn, chậm hơn, nghỉ nhiều hơn — và tốc độ tiến bộ của anh sẽ *cao hơn*. |
+
 ### 📋 Chapter 3 Card — Printable / Thẻ In Được Chương 3
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 3 CARD — MYELINATION: QUALITY, NOT QUANTITY ║
@@ -345,6 +362,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 4 — Ba Mẫu — Khám Phá Cú Thuận Tay Của Riêng Bạn
 * * *
 | |
@@ -362,6 +380,7 @@
 | Bước 4. Đặt tên mẫu của bạn. Khi đã khám phá được, đặt tên cho nó. "Cú Thuận Tay của Henry" hữu ích hơn "cú Cú Thuận Tay." Nó là của anh. Anh sở hữu điểm mạnh và dị biệt của nó. |
 | Nguyên tắc gương. Cái đúng với Cú Thuận Tay cũng đúng với Cú Trái Tay, giao bóng, Vôlei. Mỗi cú có ít nhất ba lời giải đỉnh cao. Giáo điều chọn một. 5.0+ mời anh khám phá cái của mình. |
 | Nhật ký khám phá 5.0+. Mỗi tháng, ghi: "Tháng này tôi nhận ra cú [tên cú] của tôi làm động tác này mà không ai dạy." Động tác anh tự làm là động tác thuộc về anh. |
+
 ### 📋 Chapter 4 Card — Printable / Thẻ In Được Chương 4
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 4 CARD — THE THREE MODELS ║
@@ -450,6 +469,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 5 — Áp Lực Là Sự Kiện Thần Kinh — Tiêm Chủng, Không Né Tránh
 * * *
 | |
@@ -467,6 +487,7 @@
 | Nấc 5 — Trận thật. Đây không phải nấc anh leo; là kết quả leo các nấc trước. Đến lúc lên nấc này, hệ thần kinh đã được *tiêm chủng*. Áp lực không cảm thấy nguy hiểm; cảm thấy như *ngày thường*. |
 | Sự thật 5.0+ về choking. Choking không phải khiếm khuyết đạo đức. Nó là *lỗ hổng tập luyện.* Nếu anh choking, câu trả lời không phải "cố hơn." Câu trả lời là "Tôi đã sót một nấc trên thang tiêm chủng. Tôi sẽ leo lại." |
 | Thang cá nhân của bạn. Xây thang với các nấc phù hợp *stressor của bạn* — không phải của HLV. Có người choking ở điểm lớn. Có người choking ở lỗi biên. Có người choking khi bố mẹ xem. Nấc anh cần là nấc làm anh sợ. |
+
 ### 📋 Chapter 5 Card — Printable / Thẻ In Được Chương 5
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 5 CARD — PRESSURE INOCULATION ║
@@ -555,6 +576,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 6 — Kình & Mushin — Nơi Thái Cực Gặp Thần Kinh Học
 * * *
 | |
@@ -569,6 +591,7 @@
 | Bước 3 — Dùng tập trung ngoài, không phải trong. Câu nhắc thân thiện với Mushin chỉ *ra ngoài* — "đánh xuyên qua chỗ này," "gửi âm thanh đến góc kia," "bóng rơi xuống vạch đó." Câu nhắc trong ("xoay vai," "cong khuỷu") đánh thức Self 1. Câu nhắc ngoài để Self 2 làm việc. |
 | Bước 4 — Tìm cò kích hoạt Mushin cá nhân. Mỗi người chơi 5.0+ có nghi thức cá nhân chuyển từ Self 1 sang Self 2. Có thể là pattern hơi thở, đếm nhảy, chuỗi từ, cử chỉ. *Khám phá của bạn.* |
 | Hiểu biết 5.0+. HLV giáo điều nói "tập trung hơn." Hiểu biết 5.0+ là tập trung là vấn đề khi nó ghi đè tập luyện. Người chơi 5.0+ đã tập đủ để tập trung trở thành *nhân chứng yên tĩnh*, không phải *người kiểm soát ồn ào*. Đó là Kình. Đó là Mushin. Đó là cùng trí tuệ nhà sư dạy nghìn năm. |
+
 ### 📋 Chapter 6 Card — Printable / Thẻ In Được Chương 6
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 6 CARD — KÌNH & MUSHIN ║
@@ -661,6 +684,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 7 — Tự Khám Phá Qua Ràng Buộc
 * * *
 | |
@@ -676,6 +700,7 @@
 | Ràng buộc 5 — Vùng yêu thích. Đánh dấu ô 1m ở bất cứ đâu trên sân. Đánh 10 bóng vào ô đó. Chọn ô cảm thấy *đúng với anh*, không phải ô HLV sẽ chọn. |
 | Hiểu biết 5.0+. Phương pháp qua ràng buộc đặt HLV vào vai trò *nhà thiết kế môi trường*, không phải *nhà độc tài kỹ thuật*. Cơ thể là chuyên gia về cơ thể. Môi trường là câu hỏi. Cơ thể tìm câu trả lời. |
 | Thư viện ràng buộc cá nhân. Trong tháng tới, ghi lại mọi ràng buộc anh thử và điều cơ thể làm. Anh sẽ khám phá ràng buộc mà cơ thể ANH đáp ứng mà cơ thể khác không. Đó là *của anh*. |
+
 ### 📋 Chapter 7 Card — Printable / Thẻ In Được Chương 7
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 7 CARD — CONSTRAINT-LED SELF-DISCOVERY ║
@@ -768,6 +793,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 8 — Tốc Độ Ẩn Của Cơ Thể — Ba Lớp Phản Ứng
 * * *
 | |
@@ -783,6 +809,7 @@
 | Nếu độ chính xác tụt hơn 30% ở điều kiện ngẫu nhiên, Cortex đang làm quá nhiều. Cú đánh cần thêm myelin hóa Spinal/Brainstem qua tập biến thiên. |
 | Nếu độ chính xác tương đương cả hai, myelin hóa đã đủ sâu. Ưu tiên tập chuyển sang *biến thiên chiến thuật* (chương tiếp) và *tiêm chủng áp lực* (Chương 5). |
 | Sự thật 5.0+. Ba lớp cơ thể không tách rời. Chúng tạo hệ thống phân cấp. Người chơi 5.0+ biết lớp nào đang bắn cho cú nào, ở khoảnh khắc nào, và đã tập tất cả đến mức tốc độ và tính đúng *hợp nhất*. |
+
 ### 📋 Chapter 8 Card — Printable / Thẻ In Được Chương 8
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 8 CARD — THE HIDDEN SPEED ║
@@ -873,6 +900,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 9 — Độ Trễ Quyết Định — Heuer, Chunking, và Thư Viện Mẫu
 * * *
 | |
@@ -887,6 +915,7 @@
 | Bước 3 — Đặt tên mẫu. Khi chơi, *đặt tên cái đang xảy ra.* "Rally Cú Trái Tay chéo sân, bóng thứ 5, đối thủ hơi mất thăng bằng, sau đường cuối sân, nảy chậm, ba mét sau đường cuối sân." Đặt tên tạo chunk. Trải nghiệm không tên không tạo. |
 | Bước 4 — Tập đọc, không chỉ đánh. Mỗi tuần 10 phút nhờ bạn tập cho bóng vào chỗ ngẫu nhiên. ĐỪNG đánh lại. Chỉ *đọc tên tình huống* thành tiếng. "Bóng cắt, Cú Thuận Tay tôi, đối thủ ở lưới, trọng lượng tôi lùi." Cái này xây phía *nhận diện* của chunking, nhanh hơn để tập hơn phía phản ứng. |
 | Hiểu biết 5.0+. Anh không cần phản xạ nhanh hơn. Anh cần *thư viện mẫu phong phú hơn.* Thư viện phát triển qua trải nghiệm đa dạng, đặt tên, và xem có chủ đích. Người chơi 5.0+ là *người sưu tập mẫu.* |
+
 ### 📋 Chapter 9 Card — Printable / Thẻ In Được Chương 9
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 9 CARD — DECISION LATENCY ║
@@ -979,6 +1008,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 10 — Kỷ Luật Tự Huấn Luyện
 * * *
 | |
@@ -995,6 +1025,7 @@
 | Thứ Bảy. Chơi trận có chủ đích. Đặt tên mẫu trong trận. |
 | Chủ Nhật. Đánh giá 5 câu. Xem video. Kế hoạch tuần sau. |
 | Hiểu biết 5.0+. Tự HLV không phải vắng mặt HLV. Nó là *tích hợp* HLV bên ngoài với quan sát bên trong, dữ liệu bên trong, và thiết kế bên trong. Người chơi tự HLV là người rời sân, mở nhật ký, và viết bài tập tiếp — trước khi HLV kịp nghĩ. |
+
 ### 📋 Chapter 10 Card — Printable / Thẻ In Được Chương 10
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 10 CARD — THE SELF-COACHING DISCIPLINE ║
@@ -1081,6 +1112,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 11 — HRV, CNS, và Bảng Điều Khiển Hàng Ngày
 * * *
 | |
@@ -1100,6 +1132,7 @@
 | Tập ngày xanh trông thế nào. |
 | Tập đầy đủ. Tiêm chủng áp lực (Chương 5). Thi đấu nhiều mẫu (Chương 9). Buổi cường độ cao. CNS đã sẵn sàng phát triển.* |
 | Hiểu biết 5.0+. Người chơi 5.0+ không tập giống nhau mỗi ngày. Tập luyện của họ *thích ứng với hệ thần kinh.* Có ngày hệ nói "phát triển." Có ngày hệ nói "nghỉ." Nghe điều này là cái tách người 5.0+ khỏi người 4.0 tốt bụng tập mạnh mỗi ngày và tự hỏi sao bình nguyên. |
+
 ### 📋 Chapter 11 Card — Printable / Thẻ In Được Chương 11
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 11 CARD — HRV & YOUR DAILY DASHBOARD ║
@@ -1190,6 +1223,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 12 — Choking, Hạch Hạnh Nhân, và Hai Nỗi Sợ Của 5.0+
 * * *
 | |
@@ -1206,6 +1240,7 @@
 | Công cụ 2 — Tái khung thất bại. Sau mỗi cú trượt lúc tập, nói thành tiếng: "Tốt. Thêm một mẩu dữ liệu cho thư viện." Cái này tái điều kiện hạch hạnh nhân để *không* coi lỗi là mối đe dọa. |
 | Công cụ 3 — Reset sau lỗi. Reset 3 bước sau mỗi lỗi tự đánh: (1) Thở ra hết. (2) Đọc tên mục tiêu cú tiếp thành tiếng. (3) Nảy bóng số lần phù hợp với anh. Rồi chơi. |
 | Hiểu biết 5.0+. Choking ở 5.0+ không phải điểm yếu để giấu. Nó là *lỗ hổng tập luyện* để lấp. Hạch hạnh nhân đang làm chính xác cái nó tiến hóa để làm. Việc của anh là dạy nó, chậm và lặp, rằng tennis không phải khẩn cấp đe dọa tính mạng. Dạy là tiêm chủng. Tiêm chủng là cách chữa. |
+
 ### 📋 Chapter 12 Card — Printable / Thẻ In Được Chương 12
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 12 CARD — CHOKING & THE TWO TERRORS ║
@@ -1294,6 +1329,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 13 — Thư Viện Giấc Mơ — 5.0+ Sẽ Trông Ra Sao Vào 2030
 * * *
 | |
@@ -1306,6 +1342,7 @@
 | Công cụ 5 — Hồ sơ gen và chuyển hóa. DNA kể anh loại sợi cơ, cách hệ thần kinh phản ứng stress, tốc độ chuyển hóa lactate. Người chơi 5.0+ của 2030 sẽ tập *theo gen của mình*, không theo chương trình chung. |
 | Nguyên tắc KHÔNG đổi. Với tất cả công cụ này, *nguyên tắc* của cuốn này vẫn vậy: *cơ thể biết chính mình. Người chơi là kỹ sư. Dữ liệu thông tin; không sai khiến.* Người 5.0+ với mọi công cụ 2030 nhưng chưa xây hệ thống riêng sẽ chẳng hơn gì người 4.0 không có công cụ nào. |
 | Câu hỏi 5.0+ hướng tương lai. Khi mỗi công cụ mới xuất hiện, hỏi: *"Công cụ này phục vụ HỆ THỐNG CỦA TÔI, hay cố thay thế HỆ THỐNG CỦA TÔI?"* Giữ cái thứ nhất; bỏ cái thứ hai. |
+
 ### 📋 Chapter 13 Card — Printable / Thẻ In Được Chương 13
 ╔═══════════════════════════════════════════════════════════╗
 ║ CHAPTER 13 CARD — THE DREAM LIBRARY ║
@@ -1392,11 +1429,13 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 14 — Thẻ Đỉnh Cao — Một Trang Bỏ Túi
 * * *
 | |
 | --- |
 | Đây là trang duy nhất anh in, gấp, bỏ vào túi vợt. Không phải mục lục. Không phải tóm tắt. Nó là *xương sống hệ thống của anh*, 13 điều phải nhớ khi não mệt và chân nặng. |
+
 ### 📋 ELITE MASTER CHEAT SHEET / THẺ TỔNG ĐỈNH CAO
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE 13 LAWS OF THE 5.0+ SELF-DESIGNED SYSTEM ║
@@ -1567,6 +1606,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 * * *
+
 # Phần 15 — Lời Cuối — Bây Giờ Bạn Là HLV Của Chính Mình
 * * *
 | |
@@ -1583,19 +1623,27 @@
 | Thiền kết thúc. |
 | *Anh không phải cơ thể anh sinh ra. Anh là cơ thể anh đã tập. Anh không phải cú swing anh bắt chước. Anh là cú swing hệ thần kinh anh đã khám phá. Anh không phải những trận anh thua. Anh là những trận hệ thần kinh anh đã học từ. Anh không phải Nadal kế tiếp, Alcaraz kế tiếp, Djokovic kế tiếp. Anh là ANH đầu tiên. Và đó mới là tennis duy nhất quan trọng.* |
 | Hẹn gặp trên sân, kỹ sư. |
+
 ### 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
 | Foundation 3.0 cho anh cú swing. Thư viện Advanced 3.5→4.5 cho anh cơ thể. Cẩm nang Đỉnh Cao 5.0+ cho anh *chính anh.* Không có cẩm nang thứ tư. Chỉ có sân, hệ thống, và lựa chọn hàng ngày để làm kỹ sư của cả hai. Phần còn lại là rep, ngủ, và sự tích lũy chậm của myelin quanh vận động *thực sự thuộc về anh.* |
 * * *
+
 ### 📚 READY FOR THE NEXT LEVEL? / SẴN SÀNG CHO CẤP ĐỘ TIẾP THEO?
 | |
 | --- |
 | Cuốn này cố ý là *một tài liệu duy nhất.* Mỗi trong 13 chương là điểm khởi đầu cho deep-dive. Cấp tiếp theo của thư viện sẽ là deep-dive theo chương — ví dụ, khám phá đầy đủ *phác đồ myelin hóa* (Chương 3), hoặc *thiết kế thư viện ràng buộc* (Chương 7), hoặc *bộ chống choking chi tiết* (Chương 12). |
 | Bảo tôi chương nào nói với bạn to nhất, và tôi sẽ sản xuất deep-dive 15-25 phút về nó, theo cùng định dạng EN-VI song ngữ, bảng cạnh nhau, cheat sheet in được như phần còn lại của thư viện. |
 ---
-*Built on the source materials in `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\` — Futuristic Tennis Manual by Olama (5-chapter Integrated Master System: DET→NKF→KIO→APS→IMS), Tennis Research - Neuro athlétics - with Kwen-Ollama (12 chapters: neuro-athlétics + Tai Chi), Tennis Research with Kwen-Ollama (21 chapters: trương lực/tone + self-huấn luyện viêning), and Advanced Tennis Kilướiic-Chain Manual (10 chapters: ground-up power + digital twin).*
-*This manual synthesizes the unique elite (5.0+) territory — trương lực as the lost engine, myelination as the substrate, pressure as inoculable, Kình/Mushin as the Eastern-Western synthesis, constraint-led self-discovery, the chunk library, and self-huấn luyện viêning discipline — that the 3.0 Foundation and 3.5→4.5 Advanced projects do not cover.*
+*Built on the source materials in `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\` — Futuristic Tennis Manual by Olama (5-chapter Integrated Master System: DET→
+NKF→KIO→APS→IMS), Tennis Research - Neuro athlétics - with Kwen-Ollama (12 chapters: neuro-athlétics + Tai Chi), Tennis Research with Kwen-Ollama (21 chapters: trương lực/tone + self-huấn luyện viênin
+g), and Advanced Tennis Kilướiic-Chain Manual (10 chapters: ground-up power + digital twin).*
+*This manual synthesizes the unique elite (5.0+) territory — trương lực as the lost engine, myelination as the substrate, pressure as inoculable, Kình/Mushin as the Eastern-Western synthesis, constrai
+nt-led self-discovery, the chunk library, and self-huấn luyện viêning discipline — that the 3.0 Foundation and 3.5→4.5 Advanced projects do not cover.*
 *See you on the court, engineer.* / *Hẹn gặp trên sân, kỹ sư.*
 ---
 END OF MANUAL / HẾT CẨM NANG
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

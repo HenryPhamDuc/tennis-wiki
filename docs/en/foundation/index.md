@@ -1,3 +1,9 @@
+---
+title: 🎾 Foundation - Tennis Fundamentals
+lang: en
+---
+
+
 # 🎾 Foundation - Tennis Fundamentals
 
 Welcome to the Foundation section of the Tennis Knowledge Base. This is where you build the essential skills that every successful tennis player needs.
@@ -36,3 +42,10 @@ Start with [Basics](basics/) if you're building your foundation from the ground 
 ---
 
 **Next Section**: [Advanced](../advanced/) - Where fundamentals meet strategy and mental game
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

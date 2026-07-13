@@ -1,4 +1,10 @@
+---
+title: ReadMe — Tennis Future Lab Master Handbook (Expanded Deep-Dive Edition v2.1)
+lang: en
+---
+
 # ReadMe — Tennis Future Lab Master Handbook (Expanded Deep-Dive Edition v2.1)
+
 ## What Was Produced
 - File: `Tennis Future Lab Master Handbook — Video Enhanced.md`
 - Size: ~174 KB, ~30,000+ words, 1,935 lines
@@ -10,6 +16,7 @@
 - Printable cards: 20 (one per chapter, `╔══╗` ASCII box format)
 - Tables: 187 structured EN-VI tables
 - Drills: 60+ bài tậps across all chapters
+
 ## v2.0 → v2.1 Change: SVG → PNG with Human Figures
 All 12 diagrams were replásd with PNG images rendered via Pillow (PIL) featuring:
 - Realistic human tennis player figures — stick-figure skelétons with head, shoulders, elbows, wrists, hips, knees, ankles, and vợt
@@ -19,6 +26,7 @@ All 12 diagrams were replásd with PNG images rendered via Pillow (PIL) featurin
 - Embedded formulas in highlighted boxes
 - Dark theme background (#0d1117) trậning Obsidian dark mode
 - Court surfás rendered as green strip where relevant
+
 ## 12 PNG Illustrated Diagrams
 | # | Diagram | Chapter | File | Size |
 |---|---|---|---|---|
@@ -35,12 +43,17 @@ All 12 diagrams were replásd with PNG images rendered via Pillow (PIL) featurin
 | 11 | NKF Sync & Flow (player in flow) | Ch 20 | `11_nkf_sync_flow.png` | 34 KB |
 | 12 | Heavy Ball Formula (player + 3 factors) | Ch 13 | `12_heavy_bóng.png` | 32 KB |
 Total PNG size: ~423 KB. All images are 900-1000px wide, optimized for screen and print.
+
 ## Sources Integrated
 1. ChatGPT 24-chapter framework — Wave Tennis Coaching System
 2. Gemini 12 biomechanics equations — simplified for practitioners
 3. youtube-video-research skill — video discovery methodology
 4. technical-manual-generator skill — manual structure + image generation guidance
+
 ## What's Next
 - Open in Obsidian — PNG images render inline in both light and dark mode
 - Export to PDF from Obsidian for printable version
 - Publish as website via `markdown-library-publisher` skill
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

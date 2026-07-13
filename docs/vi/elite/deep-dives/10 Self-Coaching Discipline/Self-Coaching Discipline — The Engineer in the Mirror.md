@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #10 — Self-Coaching Discipline — The Engineer in the Mirror
+lang: en
+---
+
 # Deep-Dive #10 — Self-Coaching Discipline — The Engineer in the Mirror
+
 # Deep-Dive #10 — Kỷ Luật Tự Huấn Luyện — Kỹ Sư Trong Gương
 *The 4 Pillars of Self-Coaching and Your 5-Question Review — A 25-minute deep-dive for the 5.0+ player.*
 *4 Trụ Cột Tự Huấn Luyện và Đánh Giá 5 Câu Hỏi — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai tập nhưng không theo dõi. Bất cứ ai có mục tiêu nhưng không đánh giá. Bất cứ ai đã thử "tự huấn luyện" nhưng không có hệ thống. |
 | Thời gian đọc. ~25 phút. Kỷ luật tự huấn luyện mất 90+ ngày để cài; cả đời để tinh chỉnh. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | The Self-Coaching Failure Modes | Chế Độ Thất Bại Tự Huấn Luyện |
 | 8 | Your Self-Coaching Discipline Card | Thẻ Kỷ Luật Tự Huấn Luyện Của Bạn |
 * * *
+
 # Chương 1 — Tại Sao Tự Huấn Luyện Là Kỷ Luật (Không Phải Tâm Trạng)
 * * *
 | |
@@ -34,6 +43,7 @@
 | Trụ 3 — Mục tiêu SMART. Mục tiêu Cụ thể, Đo được, Đạt được, Liên quan, Có thời hạn. |
 | Trụ 4 — Đánh giá 5 câu hỏi. Tích hợp hàng tuần của cả ba trên. |
 * * *
+
 # Chương 2 — Trụ 1 — Nhật Ký Hàng Ngày
 * * *
 | |
@@ -55,6 +65,7 @@
 | Ngày 60 — Đặt lại. Tiêu điểm nào tỷ lệ cao nhất? Giữ. Cái nào thấp nhất? Thay bằng mới. |
 | Ngày 90 — Tổng hợp. Viết tóm tắt 1 trang hành trình 3 tháng. *Cái này trở thành "Cẩm Nang Tự Huấn Luyện" của anh.* |
 * * *
+
 # Chương 3 — Trụ 2 — Hệ Video
 * * *
 | |
@@ -75,6 +86,7 @@
 | Hệ gắn thẻ video. |
 | Gắn thẻ mỗi clip video với: ngày, tiêu điểm (vd. "cổ tay vững lúc tiếp xúc"), và quan sát 1 dòng. Lưu trong một thư mục. *Qua 90 ngày, anh có lưu trữ 90 clip tiến bộ của mình.* |
 * * *
+
 # Chương 4 — Trụ 3 — Mục Tiêu SMART
 * * *
 | |
@@ -99,6 +111,7 @@
 | Ngày 43-63: "Thêm truy xuất Chunk #1 <200ms." |
 | Ngày 64-90: "Tích hợp mọi thứ trong thi đấu — chỉ số 5.0+ đạt [X]." |
 * * *
+
 # Chương 5 — Trụ 4 — Đánh Giá 5 Câu Hỏi Hàng Tuần
 * * *
 | |
@@ -120,6 +133,7 @@
 | Câu 5 — Tiêu điểm một tuần tới là gì? |
 | Chọn MỘT tiêu điểm cho tuần tới. *Một.* Không hai, không ba. *Một tiêu điểm mỗi tuần — vì chú ý hàng tuần là hữu hạn.* |
 * * *
+
 # Chương 6 — Tích Hợp Siêu Cấu Trúc với 9 Deep-Dive Trước
 * * *
 | |
@@ -143,6 +157,7 @@
 | Đánh giá 5 câu hỏi + công cụ. |
 | C1-C5 tham chiếu dữ liệu mỗi công cụ từ tuần. *Đánh giá tích hợp mọi thứ.* |
 * * *
+
 # Chương 7 — Chế Độ Thất Bại Tự Huấn Luyện
 * * *
 | |
@@ -153,8 +168,10 @@
 | Thất bại 4 — Bỏ đánh giá hàng tuần. "Tôi không có 30 phút Chủ Nhật này." *Thì làm 5 phút. Nhưng đừng bỏ.* Đánh giá là tích hợp. *Bỏ nó phân mảnh hệ thống.* |
 | Thất bại 5 — Nhầm tự huấn luyện với tự phê bình. "Tôi mắc 3 lỗi trong trận đó, tôi là kẻ thất bại." *Không. Lỗi là dữ liệu. Dữ liệu là nhiên liệu. Trận tiếp bắt đầu với dữ liệu mới, không phán xét cũ.* |
 * * *
+
 # Chương 8 — Thẻ Kỷ Luật Tự Huấn Luyện Của Bạn
 * * *
+
 ### 📋 Deep-Dive #10 Master Card — Printable / Thẻ Tổng Deep-Dive #10
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS ║
@@ -235,6 +252,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -246,3 +264,6 @@ Sources / Nguồn:
 - Advanced Tennis Kilướiic-Chain Manual.md (Self-huấn luyện viêning & bio-informed periodization — SMART goal templates)
 - Locke & Latham (2002) — Building a practically useful theory of goal setting — the SMART framework foundation
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

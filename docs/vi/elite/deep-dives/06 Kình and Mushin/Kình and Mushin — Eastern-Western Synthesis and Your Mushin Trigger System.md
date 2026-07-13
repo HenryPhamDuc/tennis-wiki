@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #6 — Kình & Mushin — Eastern-Western Synthesis and Your Mushin Trigger System
+lang: en
+---
+
 # Deep-Dive #6 — Kình & Mushin — Eastern-Western Synthesis and Your Mushin Trigger System
+
 # Deep-Dive #6 — Kình & Mushin — Tổng Hợp Đông-Tây và Hệ Thống Cò Mushin Của Bạn
 *The Body's Two States — Soft Outside, Ready Inside — A 25-minute deep-dive for the 5.0+ player.*
 *Hai Trạng Thái Cơ Thể — Mềm Ngoài, Sẵn Trong — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai cơ thể chơi tốt lúc tập nhưng sụp trong trận. Bất cứ ai đầu "chen vào" kỹ thuật đã tập. Bất cứ ai đã nghe "tin cơ thể bạn" nhưng không thể, vì không biết CÁCH NÀO. |
 | Thời gian đọc. ~25 phút. Khám phá cò Mushin cá nhân: 14-30 ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | Kình + Self-Coaching + Myelin Integration | Tích Hợp Kình + Tự HLV + Myelin |
 | 8 | Your Mushin Master Card | Thẻ Mushin Tổng Của Bạn |
 * * *
+
 # Chương 1 — Sự Phân Chia Self 1 / Self 2 (Thần Kinh Học)
 * * *
 | |
@@ -34,6 +43,7 @@
 | Tỷ lệ không khỏe mạnh. Dưới áp lực, Self 1 *chiếm quyền.* Nó cố *kiểm soát* vận động đã tập. Kết quả: cơ thể trở thành con rối của người điều khiển bối rối. *Đây là choking.* |
 | Hình ảnh. Tưởng tượng hai người trong buồng lái máy bay. Phi công Self 2 có 10.000 giờ bay máy bay cụ thể đó. Hành khách Self 1 đã đọc sách về bay. Trong điều kiện yên tĩnh, Phi công Self 2 bay. Dưới nhiễu động, Hành khách Self 1 nắm điều khiển. *Máy bay rơi.* |
 * * *
+
 # Chương 2 — Bẫy Tái Đầu Tư
 * * *
 | |
@@ -47,6 +57,7 @@
 | Bước 5. Tính toán mất thời gian hơn tự động. Cửa sổ cho cú đóng. Bóng ra ngoài. *Self 1 đã gây lỗi nó cố ngăn.* |
 | Cách chữa 5.0+. Dừng chu trình tái đầu tư ở Bước 1. Self 1 nên *không phát hiện* điểm stakes cao khác với điểm nào khác. Đây là Mushin. |
 * * *
+
 # Chương 3 — Kình — Sự Sẵn Sàng Có Tổ Chức Chi Tiết
 * * *
 | |
@@ -64,6 +75,7 @@
 | 4. Cơ có gắn nhưng không gồng? (Có thể bắn theo mọi hướng không cần khởi động.) |
 | 5. Tôi có thể hít thở sâu dễ dàng? (Nếu có, không căng quá ở đâu.) |
 * * *
+
 # Chương 4 — Mushin — Vô Tâm Chi Tiết
 * * *
 | |
@@ -74,6 +86,7 @@
 | Ngưỡng cho Mushin. Mushin bắt đầu khi Self 1 buông *cách* cơ thể làm nhiệm vụ và chỉ tập trung vào *cái gì* cần xảy ra. *Cách* = việc Self 2. *Cái gì* = việc Self 1. |
 | Cái gì phá Mushin. Áp lực, tự nghi ngờ, cố sửa có ý thức, lo âu. *Tất cả là Self 1 cố lấy lại quyền kiểm soát.* Cách chữa: *cò Mushin* báo hiệu Self 1 lùi lại. |
 * * *
+
 # Chương 5 — 5 Cò Mushin Được Thử
 * * *
 | |
@@ -99,6 +112,7 @@
 | Cái tạo ra. *Khóa thị giác* vòng qua Self 1 đang nói chuyện huấn luyện. Cơ thể có mục tiêu; nó di chuyển về mục tiêu. |
 | Tốt nhất cho. Người chơi có Self 1 thường cố đưa hướng dẫn cho cơ thể. |
 * * *
+
 # Chương 6 — Tìm Cò Mushin Cá Nhân
 * * *
 | |
@@ -115,6 +129,7 @@
 | Lựa chọn. Cò có tổng cao nhất là cò Mushin của anh. *Dùng nó tối thiểu 90 ngày tới.* Cơ thể cần thời gian myelin hóa đường cò → flow → thực hiện. |
 | Lựa chọn "kết hợp". Một số người 5.0+ dùng *hai* cò — một cho giao bóng (đếm nhảy) và một cho trả (câu nhắc từ). Điều này được phép. Trạng thái Mushin giống nhau; chỉ lối vào khác. |
 * * *
+
 # Chương 7 — Tích Hợp Kình + Tự HLV + Myelin
 * * *
 | |
@@ -127,8 +142,10 @@
 | Tập hàng ngày: rep hình thành myelin → cơ thể nhận trạng thái Kình → Self 2 lấy cú → Self 1 xem video → thiết kế bài ngày mai. |
 | Thi đấu: đường myelin sẵn sàng → cò Mushin bắn → trạng thái Kình xuất hiện → Self 2 lấy cú → Self 1 xem tỉ số và chỉ điều chỉnh chiến lược. |
 * * *
+
 # Chương 8 — Thẻ Mushin Tổng Của Bạn
 * * *
+
 ### 📋 Deep-Dive #6 Master Card — Printable / Thẻ Tổng Deep-Dive #6
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE MUSHIN MASTER CARD — YOUR PERSONAL TRIGGER ║
@@ -249,6 +266,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -261,3 +279,6 @@ Sources / Nguồn:
 - Kahneman (2011) — System 1 / System 2 — Thinking, Fast and Slow
 - Advanced Tennis Kilướiic-Chain Manual.md (conditioning section — flow state management)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

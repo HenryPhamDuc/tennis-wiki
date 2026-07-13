@@ -1,8 +1,15 @@
-Done. Deep Dive on the Continental Grip saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Continental Grip\Continental Grip — The 9-Shot Universal Key.md`** (~55 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on the Continental Grip saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Continental Grip\Continental Grip — The 9-Shot Universal Key.md`** (~55 KB, EN-VI bilingua
+l, 5 chapters)
 
 ### The big idea: "The Continental is the 50+ universal key"
 
-The Continental is **NOT one grip** — it's a **UNIVERSAL KEY** that unlocks 9 tennis shots with one grip. The 50+ player who has the Continental in their hand has 9 options, not 1. The 3.5 player with 4 different grips has 4 keys and fumbles between them. **The 50+ player with the Continental has 1 key that opens 9 doors.**
+The Continental is **NOT one grip** — it's a **UNIVERSAL KEY** that unlocks 9 tennis shots with one grip. The 50+ player who has the Continental in their hand has 9 options, not 1.
+The 3.5 player with 4 different grips has 4 keys and fumbles between them. **The 50+ player with the Continental has 1 key that opens 9 doors.**
 
 ### The 9 shots in one grip
 
@@ -36,14 +43,21 @@ The Continental is **NOT one grip** — it's a **UNIVERSAL KEY** that unlocks 9 
 
 ### Key 3.5-level choices I made
 
-- **Made the 9-shot unlock the framing.** The Continental unlocks 9 specific tennis shots with one grip. The 3.5 player who knows this has 9 options for 9 situations. **The 50+ player with the Continental has 1 key that opens 9 doors.**
-- **Made the 70% rule central.** The Continental is the right grip for **70% of shots in a typical match.** The 30% is the forehand groundstroke (Semi-Western) and the forehand return. The Continental is the default. Other grips are the exceptions.
-- **Made the "1 step clockwise from the logo" the simple definition.** The Continental is one step clockwise from bevel 1 (the logo). **If you can find the logo, you can find the Continental in 1 second.**
-- **Made the 3-phase pressure the 50+ energy-saver.** 2-3/10 setup (baby bird) → 3-4/10 swing (slingshot stone) → 7-9/10 contact (wrist lock). **The 50+ player with the 3-phase pressure plays 3 sets without grip fatigue.** The 50+ player with constant 7/10 pressure tires by the 5th game.
-- **Translated the 4 contact points into a 4-part framework:** heel pad = anchor, base knuckle = pointer, thumb = stabilizer, index = trigger. **A 50+ player who has all 4 correct has the Continental locked in.**
-- **Made the "V at 11 o'clock" the simplest visual cue.** Imagine a clock face on the top of the handle. 12 o'clock is straight up (Eastern). 11 o'clock is the Continental. **The V is the steering wheel of the grip.**
+- **Made the 9-shot unlock the framing.** The Continental unlocks 9 specific tennis shots with one grip. The 3.5 player who knows this has 9 options for 9 situations.
+**The 50+ player with the Continental has 1 key that opens 9 doors.**
+- **Made the 70% rule central.** The Continental is the right grip for **70% of shots in a typical match.** The 30% is the forehand groundstroke (Semi-Western) and the forehand return.
+The Continental is the default. Other grips are the exceptions.
+- **Made the "1 step clockwise from the logo" the simple definition.** The Continental is one step clockwise from bevel 1 (the logo).
+**If you can find the logo, you can find the Continental in 1 second.**
+- **Made the 3-phase pressure the 50+ energy-saver.** 2-3/10 setup (baby bird) → 3-4/10 swing (slingshot stone) → 7-9/10 contact (wrist lock).
+**The 50+ player with the 3-phase pressure plays 3 sets without grip fatigue.** The 50+ player with constant 7/10 pressure tires by the 5th game.
+- **Translated the 4 contact points into a 4-part framework:** heel pad = anchor, base knuckle = pointer, thumb = stabilizer, index = trigger.
+**A 50+ player who has all 4 correct has the Continental locked in.**
+- **Made the "V at 11 o'clock" the simplest visual cue.** Imagine a clock face on the top of the handle. 12 o'clock is straight up (Eastern). 11 o'clock is the Continental.
+**The V is the steering wheel of the grip.**
 - **Phrased the 4-joint protection:** the Continental protects the wrist, elbow, shoulder, and (via the slice approach) the knee. **The 50+ player with the Continental has 4 protected joints.**
-- **Phrased the longevity framing:** *"The Continental is the 50+ longevity grip. It unlocks 9 shots, protects 4 joints, uses the 3-phase pressure that saves the forearm. The 50+ player who has the Continental in their hand plays 20+ years. The 50+ player who doesn't switches 4 times per point."*
+- **Phrased the longevity framing:** *"The Continental is the 50+ longevity grip. It unlocks 9 shots, protects 4 joints, uses the 3-phase pressure that saves the forearm.
+The 50+ player who has the Continental in their hand plays 20+ years. The 50+ player who doesn't switches 4 times per point."*
 
 ### How this connects to the existing series
 
@@ -61,17 +75,21 @@ The Continental is **NOT one grip** — it's a **UNIVERSAL KEY** that unlocks 9 
 
 ### The most important sentence from this deep dive
 
-> *"The Continental is not a grip. The Continental is a UNIVERSAL KEY. One grip unlocks 9 shots, protects 4 joints, uses 3 pressure phases. At 50+, the player with the Continental plays 20 years. The player without the Continental switches 4 times per point."*
+> *"The Continental is not a grip. The Continental is a UNIVERSAL KEY. One grip unlocks 9 shots, protects 4 joints, uses 3 pressure phases. At 50+, the player with the Continental plays 20 years.
+The player without the Continental switches 4 times per point."*
 
-A 3.5 player who has the Continental in their hand has 9 options for 9 situations. A 3.5 player who doesn't has 1 option for 9 situations — and switches 4 times per point. **The Continental is the 50+ universal key.**
+A 3.5 player who has the Continental in their hand has 9 options for 9 situations. A 3.5 player who doesn't has 1 option for 9 situations — and switches 4 times per point.
+**The Continental is the 50+ universal key.**
 
 ### The master cue
 
-> *"Continental không phải một grip. Continental là chìa khóa vạn năng. Một grip mở 9 cú, bảo vệ 4 khớp, dùng 3 pha áp lực. Ở tuổi 50+, người chơi có Continental sống 20 năm. Người chơi không có Continental đổi grip 4 lần mỗi điểm."*
+> *"Continental không phải một grip. Continental là chìa khóa vạn năng. Một grip mở 9 cú, bảo vệ 4 khớp, dùng 3 pha áp lực. Ở tuổi 50+, người chơi có Continental sống 20 năm.
+Người chơi không có Continental đổi grip 4 lần mỗi điểm."*
 
 ### The 50+ Continental principle
 
-> *"The Continental is the 50+ longevity grip. It unlocks 9 shots, protects 4 joints (wrist, elbow, shoulder, knee), uses the 3-phase pressure that saves the forearm. The body that has the Continental plays 20+ years. The body that switches 4 times per point plays 10."*
+> *"The Continental is the 50+ longevity grip. It unlocks 9 shots, protects 4 joints (wrist, elbow, shoulder, knee), uses the 3-phase pressure that saves the forearm.
+The body that has the Continental plays 20+ years. The body that switches 4 times per point plays 10."*
 
 ### File summary
 
@@ -92,4 +110,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "chìa khóa vạn năng" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả. Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động và anh sẽ có 9 tùy chọn trong tay.
+Hy vọng tuần này anh sẽ thêm "chìa khóa vạn năng" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả.
+Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động và anh sẽ có 9 tùy chọn trong tay.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

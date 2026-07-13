@@ -1,7 +1,14 @@
+---
+title: Novak Djokovic vs Daniil Medvedev: Tactical Masterclass
+lang: en
+---
+
 # Novak Djokovic vs Daniil Medvedev: Tactical Masterclass
 
 ## Overview
-The rivalry between Novak Djokovic and Daniil Medvedev represents one of the most fascinating tactical battles in modern tennis. Their matches showcase contrasting philosophies: Djokovic's all-court mastery and mental fortitude versus Medvedev's flat-hitting, tactical precision, and unconventional style. This rivalry has produced some of the most strategically intriguing matches of the 2020s.
+The rivalry between Novak Djokovic and Daniil Medvedev represents one of the most fascinating tactical battles in modern tennis.
+Their matches showcase contrasting philosophies: Djokovic's all-court mastery and mental fortitude versus Medvedev's flat-hitting, tactical precision, and unconventional style.
+This rivalry has produced some of the most strategically intriguing matches of the 2020s.
 
 ## Head-to-Head Record
 - **Overall**: Djokovic leads 8-5 (as of July 2026)
@@ -254,8 +261,13 @@ The rivalry between Novak Djokovic and Daniil Medvedev represents one of the mos
 - Their rivalry pushes him to continually refine his already unique game
 
 ## Conclusion
-The Djokovic-Medvedev rivalry represents a fascinating clash of tennis philosophies: the ultimate all-court defender and return specialist versus the unconventional, flat-hitting tactician. Their matches are not just physical contests but intricate battles of strategy, adaptation, and mental fortitude. As both players continue to evolve, their encounters promise to remain highlights of the tennis calendar, offering fans and players alike invaluable lessons in the sport's endless complexity.
+The Djokovic-Medvedev rivalry represents a fascinating clash of tennis philosophies: the ultimate all-court defender and return specialist versus the unconventional, flat-hitting tactician.
+Their matches are not just physical contests but intricate battles of strategy, adaptation, and mental fortitude.
+As both players continue to evolve, their encounters promise to remain highlights of the tennis calendar, offering fans and players alike invaluable lessons in the sport's endless complexity.
 
 *Part of the Tennis Legends Research Project - Rivalry Analysis Series*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

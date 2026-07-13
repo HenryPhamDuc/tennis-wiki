@@ -1,3 +1,8 @@
+---
+title: 🧠 Cơ Bản Nâng Cao - Nguyên Tắc Quần Vợt Cạnh Tranh
+lang: vi
+---
+
 # 🧠 Cơ Bản Nâng Cao - Nguyên Tắc Quần Vợt Cạnh Tranh
 
 Chào mừng bạn đến với phần Cơ Bản Nâng Cao, nơi những kỹ thuật nền tảng vững chắc gặp tư duy chiến thuật. Đây là nơi bạn chuyển từ người chơi giải trí thành đối thủ cạnh tranh.
@@ -44,3 +49,6 @@ Chào mừng bạn đến với phần Cơ Bản Nâng Cao, nơi những kỹ th
 ---
 
 **Sẵn sàng nâng tầm trò chơi của bạn?** Bắt đầu với [Advanced Manual](Advanced%20Manual/) hoặc khám phá một chủ đề cụ thể ở trên.
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

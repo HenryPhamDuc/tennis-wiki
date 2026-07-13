@@ -1,4 +1,10 @@
+---
+title: 🎾 The Compléte Tennis Manual — Master Tham khảo v2
+lang: en
+---
+
 # 🎾 The Compléte Tennis Manual — Master Tham khảo v2
+
 ### Bản dịch cho người chơi 3.5 ở tuổi 50+*
 From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives
 > What's new in v2 *(compared to v1, 11 parts)*
@@ -9,7 +15,8 @@ From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Div
 > - Doubles is now a 4-deep-dive family (Tactics + Serves + Patterns + Slice Family Doubles)
 > - Grip is now a 4-deep-dive family (Foundations + Continental + Eastern Semi-Western + Grip Change Map + Grip Pressure)
 > - Same format rules : single-pipe EN-VI tables, master-huấn luyện viên Giọng nói, 50+ reality check, web-only (no PDF per directive)
-> - v1 file (`Compléte Tennis Manual — Master Tham khảo.md`) is prephát bóngd as historical Tham khảo — the v1 series parameters, Giọng nói, and Part 8 mental section are all prephát bóngd here for archival continuity
+> - v1 file (`Compléte Tennis Manual — Master Tham khảo.md`) is prephát bóngd as historical Tham khảo — the v1 series parameters, Giọng nói, and Part 8 mental section are all prephát bóngd here for ar
+chival continuity
 ---
 > Giả định (unchanged from v1)
 > - Mức độ kỹ năng: 3.5 giải trí (tương đương USTA / NTRP)
@@ -18,6 +25,7 @@ VI bilingual, side-by-side throughout
 > - Giọng nói: huấn luyện viên trưởng thân thiện, lênh đênh về độ khó, focused on what you can actually copy this month
 > - Ý Tưởng Chính: tennis is a whip sport, not a hammer sport — and you are playing a 20-year ván
 ---
+
 ## Cách dùng manual này
 | |
 | --- |
@@ -25,6 +33,7 @@ VI bilingual, side-by-side throughout
 | Đọc manual trước (1.5 giờ). Chọn một phần để tập trung 2 tuần. Tập các bài. Rồi chuyển phần tiếp. |
 | In bảng cheat sheet 2 trang ở cuối (Phần 14). Gấp lại. Bỏ vào túi vợt. Dùng trên sân. |
 ---
+
 ## Mục lục
 - Part 1 — Foundations & Grip *(cách cầm vợt is now a 4-deep-dive family)*
 - Part 2 — Footwork & Positioning
@@ -42,13 +51,16 @@ VI bilingual, side-by-side throughout
 - Part 14 — 📄 Master Cheat Sheet (2-page printable, EN + VI)
 ---
 <a name="part-1"></a>
+
 # Part 1 — Foundations & Grip
+
 # Phần 1 — Nền tảng & Cách cầm vợt
 | |
 | --- |
 | Mọi thứ anh làm trên sân tennis đều dựa trên ba thứ: cách cầm vợt, tư thế, và nhận thức. |
 | Ở tuổi 50+, thứ ba quan trọng nhất. Mắt anh sẽ chậm đi. Cầm vợt và tư thế — những thứ này anh tập ở tuổi nào cũng được. |
 | Trong v2, cách cầm vợt là gia đình 4 deep dives — on-ramp, lựa chọn bevel, và dial bạn điều khiển mỗi cú. |
+
 ## Bản đồ Gia đình Grip
 | Deep Dive | What it covers | Đọc sâu |
 |---|---|---|
@@ -57,6 +69,7 @@ VI bilingual, side-by-side throughout
 | Eastern Semi-Western Grip (`Deep Dives/Eastern Semi-Western Grip/`) | The 30% Cú Thuận Tay cách cầm vợt family: Eastern → Semi-Western → Western, how to choose at 50+ | 50 KB |
 | Grip Change Map (`Deep Dives/Grip Change Map/`) | The compléte sequence guide — when to change cách cầm vợt between shots (Phát Bóng → return → cú đánh nền → Vôlei → cắt) | 42 KB |
 | Grip Pressure (`Deep Dives/Grip Pressure/`) — *see Part 12* | The dial you control every shot: 0–10 scale, two-zone rule, stroke pressure map | 38 KB, 5 chapters |
+
 ## Bốn cách cầm vợt cần biết
 | Grip | When to use | Khi nào dùng |
 |---|---|---|
@@ -64,15 +77,19 @@ VI bilingual, side-by-side throughout
 | Eastern | Cú Thuận Tay (beginner-friendly) | Cú Thuận Tay (dễ cho người mới) |
 | Semi-Western | Cú Thuận Tay (modern xoáy trên) | Cú Thuận Tay (xoáy trên hiện đại) |
 | Two-handed | Cú Trái Tay (most giải trí players) | Cú Trái Tay (hầu hết người nghiệp dư) |
+
 ### Nhấc búa (Continental)
 | |
 | --- |
 | Đưa vợt ra. Đặt tay phẳng lên dây. Trượt xuống cán không xoay tay. Đốt gốc ngón trỏ rơi vào cạnh số 2. Nhấc lên như cầm búa. |
 | Chữ "V" giữa ngón cái và ngón trỏ nằm trên cạnh trên của cán. |
 Tại sao Continental quan trọng cho Vôlei và Phát Bóng
-> The Continental is the only cách cầm vợt that léts the vợt fás open or close without rotating the wrist — which is what protects the elbow. Eastern and Semi-Western force a wrist snap to close the fás. The wrist snap is what causes tennis elbow.
+> The Continental is the only cách cầm vợt that léts the vợt fás open or close without rotating the wrist — which is what protects the elbow.
+Eastern and Semi-Western force a wrist snap to close the fás. The wrist snap is what causes tennis elbow.
 >
-> *Continental là cách cầm vợt duy nhất cho phép mặt vợt mở hoặc đóng không xoay cổ tay — cái này bảo vệ khuỷu. Eastern và Semi-Western bắt buộc bẻ cổ tay để đóng mặt. Bẻ cổ tay là nguyên nhân tennis elbow.*
+> *Continental là cách cầm vợt duy nhất cho phép mặt vợt mở hoặc đóng không xoay cổ tay — cái này bảo vệ khuỷu. Eastern và Semi-Western bắt buộc bẻ cổ tay để đóng mặt.
+Bẻ cổ tay là nguyên nhân tennis elbow.*
+
 ## Thang cách cầm vợt (Bản nhanh — Đầy đủ ở Phần 12)
 | Level | Feel | Use for |
 |---|---|---|
@@ -83,9 +100,11 @@ Tại sao Continental quan trọng cho Vôlei và Phát Bóng
 | 8 | Clenched | Phát Bóng trophy, cú cao |
 | 10 | White knuckles | Never on a tennis court |
 Kiểm tra cách cầm vợt
-> Hold the vợt as if you were going to Vôlei. Ask your non-hitting hand: "Could I pull the vợt out of your hand easily?" If yes → too loose. "Could I pull it out at all?" If no → too tight. The sweet spot is 2-3 for vôleis, 4-5 for cú đánh nềns, 6-7 for Phát Bóng.
+> Hold the vợt as if you were going to Vôlei. Ask your non-hitting hand: "Could I pull the vợt out of your hand easily?" If yes → too loose. "Could I pull it out at all?" If no → too tight.
+The sweet spot is 2-3 for vôleis, 4-5 for cú đánh nềns, 6-7 for Phát Bóng.
 >
 > *Cầm vợt như sắp Vôlei. Hỏi tay kia: "Có rút vợt ra dễ không?" Nếu dễ → lỏng quá. "Có rút ra được không?" Nếu không → chặt quá. Điểm ngọt là 2-3 cho Vôlei, 4-5 cho cú đánh nền, 6-7 cho Phát Bóng.*
+
 ## Lược đồ cơ thể
 | |
 | --- |
@@ -93,9 +112,11 @@ Kiểm tra cách cầm vợt
 | Ở tuổi 50+, đây là sức mạnh của anh. Thị lực chậm theo tuổi. Lược đồ cơ thể thì không. Tập cảm giác "vợt như ngón tay", và anh phản ứng nhanh hơn người trẻ chỉ "nhìn" bóng. |
 | Mẹo dừng 2 giây: sau mỗi cú tốt, dừng 2 giây. Để ý tay đã làm gì. Để ý điểm tiếp xúc. Để ý góc vợt. Cái này xây lược đồ cơ thể nhanh hơn 1000 lần lặp vô thức. |
 Đọc sâu hơn
-> See the Racket Embodiment deep dive (`Deep Dives/Cú Thuận Tay/Cú Thuận Tay — Racket Embodiment.md`) for the full 4-layer proprioception system, including the 3 levels (Foundation → Body Schema → Perception-Action) and the 4-week thực hành plan.
+> See the Racket Embodiment deep dive (`Deep Dives/Cú Thuận Tay/Cú Thuận Tay — Racket Embodiment.md`) for the full 4-layer proprioception system, including the 3 levels (Foundation → Body Schema → Per
+ception-Action) and the 4-week thực hành plan.
 >
 > *Xem deep dive Racket Embodiment để có hệ thống proprioception 4 lớp đầy đủ, bao gồm 3 cấp độ và kế hoạch tập 4 tuần.*
+
 ## Căng cơ là kẻ thù
 | |
 | --- |
@@ -105,12 +126,15 @@ Kiểm tra cách cầm vợt
 | Đầy đủ về dial áp lực — xem Phần 12. |
 ---
 <a name="part-2"></a>
+
 # Part 2 — Footwork & Positioning
+
 # Phần 2 — Bộ chân & Vị trí
 > "Tennis is 80% di chuyển." This is a cliché. It's also true. The shots that go in are the shots where your feet got you to the bóng in time with your body in position.
 >
 > *"Tennis là 80% bộ chân." Đây là sáo rỗng. Cũng đúng. Cú vào lưới là cú mà chân đưa anh tới bóng đúng lúc với cơ thể đúng vị trí.*
 At 50+, di chuyển is also the first thing to break down and the easiest thing to train without injury. The knees are safer than the shoulders.
+
 ## Ba tư thế chân
 | Stance | When | When at 50+ |
 |---|---|---|
@@ -118,9 +142,12 @@ At 50+, di chuyển is also the first thing to break down and the easiest thing 
 | Neutral / Square tư thế (feet square to lưới) | Short bóngs, cú tiến lên lướis, return of Phát Bóng | Use for high-percentage setups |
 | Closed tư thế (front foot toward lưới, big cross-step) | Approach shots with time, cắt, vôleis | Use sparingly at 50+ — higher back load |
 Quy tắc 50+: open tư thế là bạn
-> Closed tư thế loads the back (the front hip rotates hard). Open tư thế loads the legs (the back leg pushes, the front leg bridges). At 50+, the legs are stronger than the back. Use open tư thế 70% of the time. Save closed tư thế for when you have time and the bóng is short.
+> Closed tư thế loads the back (the front hip rotates hard). Open tư thế loads the legs (the back leg pushes, the front leg bridges). At 50+, the legs are stronger than the back.
+Use open tư thế 70% of the time. Save closed tư thế for when you have time and the bóng is short.
 >
-> *Closed tư thế tải lưng (hông trước xoay mạnh). Open tư thế tải chân (chân sau đẩy, chân trước cầu). Ở tuổi 50+, chân mạnh hơn lưng. Dùng open tư thế 70% thời gian. Giữ closed tư thế cho khi có thời gian và bóng ngắn. *
+> *Closed tư thế tải lưng (hông trước xoay mạnh). Open tư thế tải chân (chân sau đẩy, chân trước cầu). Ở tuổi 50+, chân mạnh hơn lưng. Dùng open tư thế 70% thời gian.
+Giữ closed tư thế cho khi có thời gian và bóng ngắn. *
+
 ### Nguyên lý "Cầu"
 | |
 | --- |
@@ -133,7 +160,9 @@ Kiểm tra cầu gương
 > 4. Hold 5 seconds. Check: is the front leg still soft? Are the quads tight but not the knees?
 > 5. Do 10 reps. The "tension not overload" feel is the goal.
 >
-> *1. Đứng trước gương ở tư thế open tư thế Cú Thuận Tay.* *2. Chân trước thẳng nhưng gối mềm (không khóa).* *3. Chân sau gập ~120°, gối trên mũi chân.* *4. Giữ 5 giây. Kiểm tra: chân trước còn mềm không? Cơ đùi căng nhưng gối không? * *5. 10 lần. Cảm giác "căng không quá tải" là mục tiêu.*
+> *1. Đứng trước gương ở tư thế open tư thế Cú Thuận Tay.* *2. Chân trước thẳng nhưng gối mềm (không khóa).* *3. Chân sau gập ~120°, gối trên mũi chân.* *4. Giữ 5 giây.
+Kiểm tra: chân trước còn mềm không? Cơ đùi căng nhưng gối không? * *5. 10 lần. Cảm giác "căng không quá tải" là mục tiêu.*
+
 ## Bước tách
 | |
 | --- |
@@ -148,7 +177,9 @@ Tập split-step một mình
 > 4. Goal: 30 reps in 60 seconds, smooth rhythm.
 > 5. Then have a partner feed bóngs — you split-step before each feed.
 >
-> *1. Đứng cuối sân ở thế sẵn sàng.* *2. Tung bóng lên và bắt. Rồi nhảy khi tay bắt đầu thả bóng.* *3. Bắt bóng. Nhảy. Bắt. Nhảy.* *4. Mục tiêu: 30 lần trong 60 giây, nhịp mượt.* *5. Rồi nhờ bạn feed bóng — anh split-step trước mỗi feed.*
+> *1. Đứng cuối sân ở thế sẵn sàng.* *2. Tung bóng lên và bắt. Rồi nhảy khi tay bắt đầu thả bóng.* *3. Bắt bóng. Nhảy. Bắt. Nhảy.* *4. Mục tiêu: 30 lần trong 60 giây, nhịp mượt.* *5.
+Rồi nhờ bạn feed bóng — anh split-step trước mỗi feed.*
+
 ## Vị trí sân
 | Position | When | Why |
 |---|---|---|
@@ -161,17 +192,25 @@ Tập split-step một mình
 >
 > *Hầu hết điểm thắng từ đường cuối sân với cú sâu, nặng. Lên lưới chỉ khi có bóng ngắn để kết liễu, hoặc sau Phát Bóng (doubles).*
 Đọc sâu hơn
-> The full Footwork deep dive (`Deep Dives/Footwork/Footwork — The Art of Smart Movement.md`, 40 KB, 5 chapters) covers Thường Tùng ("always loose, always ready"), the staggered ready tư thế, the 300ms split-step trigger, the 4 moves (lateral hop, drop step, cross-over, recovery), and the 50+ reality check.
+> The full Footwork deep dive (`Deep Dives/Footwork/Footwork — The Art of Smart Movement.md`, 40 KB, 5 chapters) covers Thường Tùng ("always loose, always ready"), the staggered ready tư thế, the 300m
+s split-step trigger, the 4 moves (lateral hop, drop step, cross-over, recovery), and the 50+ reality check.
 >
-> *Deep dive Footwork đầy đủ (40 KB, 5 chương) bao quát Thường Tùng ("luôn lỏng, luôn sẵn sàng"), thế chuẩn bị chân so le, trigger split-step 300ms, 4 bước (lateral hop, drop step, cross-over, recovery), và kiểm tra 50+.*
-For the 3-tư thế system with side-bend vs straight-body analysis, see 2 types of engine to generate power (`My notes/2 types of engine to generate power.md`). For the Vôlei di chuyển framework (Hư-Thực, 70/30 weight, split-step → V-step), see Vôlei deep dive (`Deep Dives/Vôlei/`).
+> *Deep dive Footwork đầy đủ (40 KB, 5 chương) bao quát Thường Tùng ("luôn lỏng, luôn sẵn sàng"), thế chuẩn bị chân so le, trigger split-step 300ms, 4 bước (lateral hop, drop step, cross-over, recover
+y), và kiểm tra 50+.*
+For the 3-tư thế system with side-bend vs straight-body analysis, see 2 types of engine to generate power (`My notes/2 types of engine to generate power.md`).
+For the Vôlei di chuyển framework (Hư-Thực, 70/30 weight, split-step → V-step), see Vôlei deep dive (`Deep Dives/Vôlei/`).
 ---
 <a name="part-3"></a>
+
 # Part 3 — Groundstrokes (Cú Thuận Tay & Cú Trái Tay)
+
 # Phần 3 — Groundstrokes (Cú Thuận Tay & Cú Trái Tay)
-> The cú đánh nềns are the heart of giải trí tennis. You hit them on ~80% of all điểms. The 4 deep dives in your Cú Thuận Tay folder cover the Cú Thuận Tay in detail; Cú Trái Tay folder covers both 2HB and 1HB. This part is the map.
+> The cú đánh nềns are the heart of giải trí tennis. You hit them on ~80% of all điểms.
+The 4 deep dives in your Cú Thuận Tay folder cover the Cú Thuận Tay in detail; Cú Trái Tay folder covers both 2HB and 1HB. This part is the map.
 >
-> *Groundstroke là trái tim của tennis nghiệp dư. Anh đánh chúng ~80% số điểm. 4 deep dives trong thư mục Cú Thuận Tay bao quát Cú Thuận Tay chi tiết; thư mục Cú Trái Tay bao quát cả 2HB và 1HB. Phần này là bản đồ.*
+> *Groundstroke là trái tim của tennis nghiệp dư. Anh đánh chúng ~80% số điểm. 4 deep dives trong thư mục Cú Thuận Tay bao quát Cú Thuận Tay chi tiết; thư mục Cú Trái Tay bao quát cả 2HB và 1HB.
+Phần này là bản đồ.*
+
 ## Hệ thống Cú Thuận Tay (4 lớp)
 | Layer | Deep Dive | What it covers | Đọc sâu |
 |---|---|---|---|
@@ -179,6 +218,7 @@ For the 3-tư thế system with side-bend vs straight-body analysis, see 2 types
 | L2 — The Setup | Unit Turn & Racket Head Position | Hop → turn, vợt head UP not back, left hand on throat | `Deep Dives/Cú Thuận Tay/Unit Turn and Racket Head Position.md` |
 | L3 — The Axis | Khóa-Vai / Thực-Hư Axis | Rotational core, kilướiic chain, one side locks, one flies | `Deep Dives/Cú Thuận Tay/Khoa Vai Thuc Hu Axis.md` |
 | L4 — The Feel | Racket Embodiment | Proprioception, 2-second pause, see-move | `Deep Dives/Cú Thuận Tay/Cú Thuận Tay — Racket Embodiment.md` |
+
 ### 4 tín hiệu Cú Thuận Tay (tra cứu nhanh)
 | # | Cue | Tín hiệu |
 |---|---|---|
@@ -187,14 +227,17 @@ For the 3-tư thế system with side-bend vs straight-body analysis, see 2 types
 | 3 | "One side locks, one side flies" (Thực-Hư) | "Một bên khóa, một bên bay" |
 | 4 | "2-second pause after every good shot" | "Dừng 2 giây sau mỗi cú tốt" |
 Đọc 4 cái theo thứ tự
-> #3 (axis) → #2 (turn) → #1 (swing) → #4 (feel). The axis is the foundation, the turn loads it, the swing is what happens when it all works, and the feel ties it together. Each deep dive is ~30 KB, ~25 min read.
+> #3 (axis) → #2 (turn) → #1 (swing) → #4 (feel). The axis is the foundation, the turn loads it, the swing is what happens when it all works, and the feel ties it together.
+Each deep dive is ~30 KB, ~25 min read.
 >
 > *#3 (trục) → #2 (xoay) → #1 (vung) → #4 (cảm). Trục là nền, xoay nạp, vung là sản phẩm, cảm buộc tất cả lại. Mỗi deep dive ~30 KB, đọc ~25 phút.*
+
 ## Cú Trái Tay (tổng quan nhanh)
 > Most giải trí players use a two-handed Cú Trái Tay. It's stable, powerful, and 50+-friendly (less shoulder stress than the one-handed version).
 >
 > *Hầu hết người chơi nghiệp dư dùng Cú Trái Tay hai tay. Nó ổn định, mạnh, và thân thiện với 50+ (ít căng vai hơn bản một tay).*
 Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent timing, di chuyển, and shoulder mobility. At 50+, Cú Trái Tay Hai Tay is the rational choice.
+
 ### Tín hiệu Cú Trái Tay hai tay
 | # | Cue | Tín hiệu |
 |---|---|---|
@@ -203,6 +246,7 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 | 3 | "Contact in front, full reach" — same as Cú Thuận Tay. | "Contact phía trước, tầm với tối đa" — giống Cú Thuận Tay. |
 | 4 | "Wrist stays locked, elbow leads" — no wrist snap on Cú Trái Tay. | "Cổ tay khóa, khuỷu dẫn" — không bẻ cổ tay ở Cú Trái Tay. |
 | 5 | "High finish over the dominant shoulder" — vợt ends up over your right shoulder (for right-handers). | "Kết thúc cao qua vai thuận" — vợt kết thúc qua vai phải (với người thuận phải). |
+
 ### Cú Trái Tay ở tuổi 50+
 | Concern | English | Tiếng Việt |
 |---|---|---|
@@ -216,6 +260,7 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 > - `Slice - Low Ball Variation.md`, `Slice - Return Variation.md` — cắt micro-variations
 >
 > The 2HB framework uses the same kilướiic chain as the Cú Thuận Tay (L1-L4), so the 4 Cú Thuận Tay deep dives apply — just mirror the direction.
+
 ## Cú cắt (Bản nhanh — Gia đình đầy đủ ở Phần 10)
 > The cắt is the most under-rated shot in giải trí tennis. It stays low, buys you time, disrupts rhythm, and is gentle on the body. Every 50+ player should have a reliable cắt.
 >
@@ -230,12 +275,15 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 > For the full Slice Family (7 variations + Approach + Doubles playbook), see Part 10.
 ---
 <a name="part-4"></a>
+
 # Part 4 — The Phát Bóng
+
 # Phần 4 — Giao bóng
 > The Phát Bóng is the only stroke you control. No opponent, no pressure, no surprise. You have unlimited first phát bóngs. Use them to thực hành, to learn, to grow.
 >
 > *Phát Bóng là cú duy nhất anh kiểm soát. Không đối thủ, không áp lực, không bất ngờ. Anh có vô hạn Phát Bóng 1. Dùng chúng để tập, học, lớn lên.*
 Ý Tưởng Chính: a gravity Phát Bóng, not a muscle Phát Bóng. Legs load, body fires, vợt whips.
+
 ## 5 tín hiệu
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -244,6 +292,7 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 | 3 | "Heavy weight pulling the arm" (lét the vợt drop) | "Trọng lượng nặng kéo tay" (để vợt rơi) |
 | 4 | "Toss higher than feels right" | "Tung cao hơn cảm giác" |
 | 5 | "Brush, don't hit" (5ms contact) | "Quét, không đập" (contact 5 phần nghìn giây) |
+
 ## 5 cảnh báo
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -252,6 +301,7 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 | 3 | Don't open the chest too early (wait for "One" to finish) | Đừng mở ngực sớm quá (đợi "Một" xong) |
 | 4 | Don't stop the swing after contact (follow-through saves the shoulder) | Đừng dừng vung sau contact (follow-through cứu vai) |
 | 5 | Don't skip the toss thực hành (50% of consistency is the toss) | Đừng bỏ tập tung (50% ổn định là tung) |
+
 ## 4 bài tập
 | # | Drill | Bài tập | Freq |
 |---|---|---|---|
@@ -260,17 +310,21 @@ Cú Trái Tay Một Tay is beautiful but high-maintenance. It requires excellent
 | 3 | Toss-Only Practice | Tập chỉ tung bóng | 20 bóngs, 3×/week |
 | 4 | The 50% Phát Bóng | Phát Bóng 50% lực | 20 phát bóngs, 2×/week |
 Đọc sâu hơn
-> The full Phát Bóng deep dive (`Deep Dives/Phát Bóng/Phát Bóng — The Gravity & Rotation Phát Bóng.md`, 47 KB, 6 chapters) covers cách cầm vợt biomechanics, pronation analysis, the kilướiic chain, the 1-2 count, the toss thực hành, and the 50+ reality check. Read it for the territory.
+> The full Phát Bóng deep dive (`Deep Dives/Phát Bóng/Phát Bóng — The Gravity & Rotation Phát Bóng.md`, 47 KB, 6 chapters) covers cách cầm vợt biomechanics, pronation analysis, the kilướiic chain, the
+ 1-2 count, the toss thực hành, and the 50+ reality check. Read it for the territory.
 >
 > *Deep dive Phát Bóng đầy đủ (47 KB, 6 chương) bao quát biomechanics cách cầm vợt, phân tích pronation, chuỗi động lực, đếm 1-2, tập tung, và kiểm tra 50+.*
 ---
 <a name="part-5"></a>
+
 # Part 5 — Net Game & Volleys
+
 # Phần 5 — Trò chơi lưới & Volleys
 > The Vôlei is not a mini cú đánh nền. It's a redirection . The bóng comes to you, you set the fás, you lét the bóng push through. Lã Kình in taichi — the redirecting force.
 >
 > *Vôlei không phải cú cú đánh nền thu nhỏ. Nó là chuyển hướng . Bóng bay tới, anh đặt mặt vợt, để bóng đẩy qua. Lã Kình trong thái cực quyền — lực chuyển hướng.*
 At 50+, the Vôlei is your friend . It shortens điểms, it uses your opponent's pás, and it requires only a small swing.
+
 ## 5 tín hiệu Vôlei
 | # | Cue | Tín hiệu |
 |---|---|---|
@@ -279,6 +333,7 @@ At 50+, the Vôlei is your friend . It shortens điểms, it uses your opponent'
 | 3 | "Step in, not back" | "Bước tới, không bước lùi" |
 | 4 | "Soft hands, dull thud" | "Tay mềm, tiếng bịch" |
 | 5 | "Continental cách cầm vợt" — always | "Grip Continental" — luôn luôn |
+
 ## 5 biến thể Vôlei
 | Ball Position | Shot | Tình huống |
 |---|---|---|
@@ -287,6 +342,7 @@ At 50+, the Vôlei is your friend . It shortens điểms, it uses your opponent'
 | Below lưới, reachable | Slice Vôlei (drop the knees, cắt deep) | Bóng dưới lưới, với tới được |
 | At your feet | Half-Vôlei (deep knee bend, scoop) | Bóng chân |
 | High, opponent at lưới | Lob Vôlei (open fás, non-dominant hand tracks, aim deep) | Bóng cao, đối thủ ở lưới |
+
 ## 5 cảnh báo Vôlei
 | # | Warning | Cảnh báo |
 |---|---|---|
@@ -296,17 +352,21 @@ At 50+, the Vôlei is your friend . It shortens điểms, it uses your opponent'
 | 4 | Don't "chop down" on a low bóng (pop-up) | Đừng chặt xuống bóng thấp (bóng bật lên) |
 | 5 | Don't stand still at the lưới (split-step between shots) | Đừng đứng yên ở lưới (split-step giữa các cú) |
 Đọc sâu hơn
-> The full Vôlei deep dive (`Deep Dives/Vôlei/Vôlei — The Art of Redirection.md`, 49 KB, 5 chapters) covers the L-shape/U-shape framework, ulnar deviation vs supination, the Hư-Thực axis, the 5 variations decision tree, and the 50+ reality check (Predator Stance, bridge leg, no leaning back).
+> The full Vôlei deep dive (`Deep Dives/Vôlei/Vôlei — The Art of Redirection.md`, 49 KB, 5 chapters) covers the L-shape/U-shape framework, ulnar deviation vs supination, the Hư-Thực axis, the 5 variat
+ions decision tree, and the 50+ reality check (Predator Stance, bridge leg, no leaning back).
 >
 > *Deep dive Vôlei đầy đủ (49 KB, 5 chương) bao quát framework hình L/U, ulnar deviation vs supination, trục Hư-Thực, cây quyết định 5 biến thể, và kiểm tra 50+.*
 ---
 <a name="part-6"></a>
+
 # Part 6 — Return of Phát Bóng
+
 # Phần 6 — Trả giao bóng
 > The return is the second most important shot in tennis. It is also the most under-thực hànhd. Most giải trí players "react" to the Phát Bóng. The 3.5 player reads the Phát Bóng.
 >
 > *Trả giao bóng là cú quan trọng thứ hai trong tennis. Nó cũng là cú bị tập ít nhất. Hầu hết người nghiệp dư "phản ứng" với Phát Bóng. Người 3.5 đọc Phát Bóng.*
 At 50+, the return is also the most joint-stressing moment in the tranh bóng. You are often off-balance, stretched, and reacting to pás. Survive first, attack later.
+
 ## Tư thế trả Phát Bóng
 | Stance | When | Why |
 |---|---|---|
@@ -317,6 +377,7 @@ At 50+, the return is also the most joint-stressing moment in the tranh bóng. Y
 > Second phát bóngs are slower — you have time to set. First phát bóngs are fast — you need to attack forward to take time away.
 >
 > *Phát Bóng 2 chậm hơn — anh có thời gian chuẩn bị. Phát Bóng 1 nhanh — anh cần tấn công tới để lấy thời gian.*
+
 ## 5 tín hiệu trả Phát Bóng
 | # | Cue | Tín hiệu |
 |---|---|---|
@@ -325,12 +386,14 @@ At 50+, the return is also the most joint-stressing moment in the tranh bóng. Y
 | 3 | "Shorten your swing" — 70% of normal length | "Rút ngắn cú vung" — 70% chiều dài bình thường |
 | 4 | "Block on first phát bóngs, cú đẩy on second phát bóngs" | "Chặn Phát Bóng 1, đánh Phát Bóng 2" |
 | 5 | "Aim chéo sân, deep" | "Nhắm chéo sân, sâu" |
+
 ## 3 mẫu trả Phát Bóng
 | Pattern | When | Why |
 |---|---|---|
 | Block return deep chéo sân | Big first Phát Bóng, defensive position | Gets the bóng in play, buys time, denies angles |
 | Slice return low to feet | Aggressive phát bóngr, fast Phát Bóng | Disrupts phát bóngr's rhythm, makes them hit up |
 | Lob return | Big phát bóngr at lưới, doubles return | Buys time, takes lưới player out of the điểm |
+
 ## Trả Phát Bóng ở tuổi 50+
 | Concern | English | Tiếng Việt |
 |---|---|---|
@@ -338,17 +401,21 @@ At 50+, the return is also the most joint-stressing moment in the tranh bóng. Y
 | Lower back | Reaching for wide returns loads the back. Use the bridge leg to absorb. | Vươn tới trả bóng rộng tải lưng. Dùng chân cầu để hấp thụ. |
 | Eyes | At 50+, the eyes need 2-3 extra milliseconds to track the bóng. Start the read earlier — watch the toss, not the body. | Ở tuổi 50+, mắt cần 2-3 phần nghìn giây thêm để theo bóng. Bắt đầu đọc sớm hơn — nhìn tung, không phải thân. |
 Đọc sâu hơn
-> v2 adds the doubles-return sub-pattern . The full Return of Phát Bóng deep dive (`Deep Dives/Return of Phát Bóng/`) covers Reading → Block → Drive → Chip. The Doubles Patterns deep dive (`Deep Dives/Doubles Patterns/`) adds the 4 doubles-return patterns (chéo sân cú đẩy, middle lob, behind-the-returner, down-the-line).
+> v2 adds the doubles-return sub-pattern . The full Return of Phát Bóng deep dive (`Deep Dives/Return of Phát Bóng/`) covers Reading → Block → Drive → Chip.
+The Doubles Patterns deep dive (`Deep Dives/Doubles Patterns/`) adds the 4 doubles-return patterns (chéo sân cú đẩy, middle lob, behind-the-returner, down-the-line).
 >
 > See also `My notes/Footwork analysis.md` for the tư thế system, and `My notes/Swing technique.md` for the 3-engine framework (rotational, linear, hybrid).
 ---
 <a name="part-7"></a>
+
 # Part 7 — Point Patterns & Singles Strategy
+
 # Phần 7 — Mẫu điểm & Chiến thuật đơn
 > Strategy is what separates the 3.5 player from the 3.0 player. You don't need to hit harder. You need to think smarter.
 >
 > *Chiến thuật là thứ tách người 3.5 khỏi người 3.0. Anh không cần đánh mạnh hơn. Anh cần nghĩ thông minh hơn. *
 The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve complétely. But the 3.5 level is where you start.
+
 ## 5 quy tắc tennis 3.5
 | # | Rule | Quy tắc |
 |---|---|---|
@@ -357,6 +424,7 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | 3 | "High percentage beats highlight reel" — the 3.5 player who gets 7/10 bóngs in wins more than the one who hits 3/10 winners. | "Tỷ lệ cao đánh bại highlight" — người 3.5 đưa 7/10 bóng vào thắng nhiều hơn người đánh 3/10 winner. |
 | 4 | "Attack the short bóng, survive the deep bóng" — short bóng = approach. Deep bóng = neutral. | "Tấn công bóng ngắn, sống sót với bóng sâu" — bóng ngắn = lên lưới. Bóng sâu = trung tính. |
 | 5 | "Change direction after Độ sâu" — make them run, then change. Don't change for the sake of changing. | "Đổi chiều sau khi sâu" — bắt họ chạy, rồi đổi. Đừng đổi chỉ để đổi. |
+
 ## Bản đồ 4 góc sân
 ```
 ┌─────────────────────────────────┐
@@ -374,7 +442,9 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | --- |
 | Khi giao bóng: trong doubles, nhắm vạch T — Phát Bóng thắng phổ biến nhất. Khi phân vân, giao rộng về phía Cú Trái Tay — hầu hết người nghiệp dư có Cú Trái Tay yếu hơn. |
 | Khi trả Phát Bóng: trong singles, trả chéo 90% thời gian. Trong doubles, trả xuôi giữa để gây bối rối cả hai đối thủ. |
+
 ## 3 mẫu điểm
+
 ### Mẫu người giao
 ```
 1. Phát Bóng wide to Cú Trái Tay → 2. Approach to lưới → 3. Vôlei chéo sân
@@ -382,6 +452,7 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | Tiếng Việt |
 | --- |
 | Phát Bóng tốt nhất: cắt rộng về Cú Trái Tay (kéo đối thủ ra khỏi sân). Approach tốt nhất: theo sau Phát Bóng. Vôlei tốt nhất: chéo (xa partner trong doubles). |
+
 ### Mẫu người trả
 ```
 1. Return deep chéo sân → 2. Move to center → 3. Hit deep again
@@ -389,6 +460,7 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | Tiếng Việt |
 | --- |
 | Trả tốt nhất: sâu chéo (chặn góc, mua thời gian). Vị trí tốt nhất: giữa đường cuối sân (che cả hai bên). Cú tiếp tốt nhất: sâu lần nữa, rồi tìm bóng ngắn. |
+
 ### Mẫu người mài
 ```
 1. Deep chéo sân → 2. Deep chéo sân → 3. Move them → 4. Change direction
@@ -396,6 +468,7 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | Tiếng Việt |
 | --- |
 | Tốt cho: người 3.5 nghiệp dư không có vũ khí lớn. Xây điểm bằng chiều sâu và kiên nhẫn. Đối thủ sẽ cuối cùng cho anh bóng ngắn. Rồi tấn công. |
+
 ## Lợi thế chiến thuật 50+
 > *"All-court + đầu óc chiến thuật"* — từ ghi chú của anh về cách đánh bại người trẻ hơn
 | Principle | English | Tiếng Việt |
@@ -407,12 +480,15 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 | Net ván | At 50+, the lưới is your friend . Doubles especially. You don't have to hit through people — you just have to put the bóng away. | Ở tuổi 50+, lưới là bạn . Đặc biệt doubles. Anh không cần đánh xuyên — anh chỉ cần kết liễu. |
 ---
 <a name="part-8"></a>
+
 # Part 8 — Doubles Tactics
+
 # Phần 8 — Chiến thuật đôi
 > Doubles is a different sport. You have a partner. The court is wider in your head but tighter in reality. Communication is your #1 weapon.
 >
 > *Đôi là môn khác. Anh có đồi đội. Sân rộng hơn trong đầu nhưng hẹp hơn ngoài đời. Giao tiếp là vũ khí số 1. *
 At 50+, doubles is the smart choice for longevity — shorter điểms, less court to cover, more time to react.
+
 ## Gia đình Doubles
 | Deep Dive | What it covers | Đọc sâu |
 |---|---|---|
@@ -420,12 +496,14 @@ At 50+, doubles is the smart choice for longevity — shorter điểms, less cou
 | Doubles Serves | The 4 Phát Bóng patterns: Wide, T, Body, Phát Bóng + Vôlei | `Deep Dives/Doubles Serves/` (~62 KB) |
 | Doubles Patterns | The 4 return patterns (chéo sân, middle, behind, down-the-line) | `Deep Dives/Doubles Patterns/` (~67 KB) |
 | Slice Family Doubles | The 8-shot doubles playbook: when cắt wins at the lưới | `Deep Dives/Slice Family Doubles/` (~56 KB) |
+
 ## 3 đội hình
 | Formation | When | How |
 |---|---|---|
 | Both Up (Australian) | Serving team, looking to poach | Server at đường cuối sân, partner at lưới |
 | One Up, One Back (I-formation) | Returning team, one lưới one back | Server+vôleier vs returner+đường cuối sân |
 | Both Back | Defensive, when in trouble | Both at đường cuối sân, reset |
+
 ## 5 tín hiệu đôi
 | # | Cue | Tín hiệu |
 |---|---|---|
@@ -434,7 +512,9 @@ At 50+, doubles is the smart choice for longevity — shorter điểms, less cou
 | 3 | "Phát Bóng to the T or the body" — wide phát bóngs leave your partner alone | "Giao về T hoặc thân" — Phát Bóng rộng bỏ partner một mình |
 | 4 | "Poach on a high bóng" — cross over and intercept | "Cắt bóng trên bóng cao" — vượt qua chặn |
 | 5 | "Lob over the lưới player" — when in doubt, lob | "Lob qua người lưới" — khi phân vân, lob |
+
 ## 3 mẫu đôi
+
 ### Mẫu cắt bóng (giao + lưới)
 ```
 Server → Netter poaches on the high return → Vôlei down the middle
@@ -442,6 +522,7 @@ Server → Netter poaches on the high return → Vôlei down the middle
 | Tiếng Việt |
 | --- |
 | Người lưới đọc cú trả. Nếu lửng (vòng, cao), cắt. Vôlei vào chỗ trống. |
+
 ### Mẫu chữ I (trả + cuối sân)
 ```
 Returner returns → Baseline partner covers the đường biên ngang → Netter poaches
@@ -449,6 +530,7 @@ Returner returns → Baseline partner covers the đường biên ngang → Nette
 | Tiếng Việt |
 | --- |
 | Người trả đánh sâu, lên lưới. Partner cuối sân che lob. Người cắt thắng điểm. |
+
 ### Mẫu lob và hồi phục
 ```
 In trouble → Lob over both opponents → Recover to center → Reset
@@ -456,6 +538,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Tiếng Việt |
 | --- |
 | Khi cả hai đối thủ ở lưới, lob cao và sâu. Mua thời gian. Reset. |
+
 ## Đôi ở tuổi 50+
 | Principle | English | Tiếng Việt |
 |---|---|---|
@@ -465,16 +548,20 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Longevity | Doubles extends your tennis career. It's the most 50+-friendly format. | Đôi kéo dài sự nghiệp tennis. Nó là định dạng thân thiện 50+ nhất. |
 ---
 <a name="part-9"></a>
+
 # Part 9 — 🆕 Lob & Overhead (The Vertical Game)
+
 # Phần 9 — 🆕 Lob & Smash (Trò chơi Thẳng đứng)
 > 🆕 NEW in v2 — The vertical ván was missing from v1. Lob and cú cao are the two shots that decide whether you survive the lưới or die at it.
 >
 > *Trò chơi thẳng đứng bị thiếu trong v1. Lob và smash là hai cú quyết định anh sống sót ở lưới hay chết ở đó.*
+
 ## Tại sao Trò chơi Thẳng đứng quan trọng
 | |
 | --- |
 | Mỗi điểm tennis được quyết định ở chiều thứ ba — không khí. Lob mua thời gian; smash đóng thời gian. Cùng nhau chúng là trò chơi thẳng đứng quyết định doubles, tiebreak, và cú kết liễu bóng ngắn. |
 | Ở tuổi 50+, cả hai cú bảo vệ khớp khi làm đúng. Lob phòng thủ cao reset điểm không tải lưng. Smash kiểm soát (không phải slam tối đa) kết liễu không rủi ro rotator cuff. |
+
 ## Lob: 4 loại
 | Type | When | Trajectory | Pressure | Loại | Khi nào | Đường bay | Áp lực |
 |---|---|---|---|---|---|---|---|
@@ -482,6 +569,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Offensive xoáy trên lob | Short bóng, opponent at lưới, you have time | Medium height, heavy spin, lands deep | 4/10 → 8/10 | Tấn công xoáy trên | Bóng ngắn, đối thủ ở lưới, có thời gian | Trung bình, xoáy nặng, rơi sâu | 4 → 8 |
 | Slice lob | Approaching the lưới, opponent deep | Low-medium arc, xoáy dưới pulls down | 3/10 → 7/10 | Slice | Lên lưới, đối thủ cuối sân | Thấp-trung bình, xoáy dưới kéo xuống | 3 → 7 |
 | Topspin lob (passing) | At lưới, opponent approaches | Disguised as cú chặn, lifts over | 3/10 → 7/10 | Topspin (qua người) | Ở lưới, đối thủ lên | Giả cú chặn, nâng lên cao | 3 → 7 |
+
 ## Smash: Sane Smash vs Max Slam
 | Field | Sane Smash (50+ delỗi) | Max Slam (for the brave) |
 |---|---|---|
@@ -499,6 +587,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Áp lực | 3/10 → 9/10 | 5/10 → 10/10 |
 | Rủi ro khuỷu | Thấp (không bẻ cổ tay) | Cao (bẻ cổ tay bóng sát) |
 | 50+ verdict | Mặc định — dùng cái này | Chỉ tham khảo |
+
 ## Kiểm tra 50+
 | Concern | English | Tiếng Việt |
 |---|---|---|
@@ -506,16 +595,21 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Lower back | Defensive lobs are your friend. Reset the điểm instead of forcing a winning shot. | Lob phòng thủ là bạn. Reset điểm thay vì ép cú thắng. |
 | Eyes | Tracking high bóngs takes longer at 50+. Use the soft eyes technique from the di chuyển deep dive — wide peripheral vision first, then lock on. | Theo bóng cao mất thời gian hơn ở 50+. Dùng kỹ thuật mắt mềm từ di chuyển — thị giác ngoại vi rộng trước, rồi khóa vào. |
 Đọc sâu hơn
-> The full Lob and Overhead deep dive (`Deep Dives/Lob and Overhead/Lob and Overhead — The Vertical Game.md`, 67 KB) covers the 4 lob types with pressure maps, the Sane Smash protocol, the 50+ lob-and-recover decision tree, and the 50+ reality check.
+> The full Lob and Overhead deep dive (`Deep Dives/Lob and Overhead/Lob and Overhead — The Vertical Game.md`, 67 KB) covers the 4 lob types with pressure maps, the Sane Smash protocol, the 50+ lob-and
+-recover decision tree, and the 50+ reality check.
 >
 > *Deep dive Lob and Overhead đầy đủ (67 KB) bao quát 4 loại lob với bản đồ áp lực, giao thức Sane Smash, cây quyết định lob-and-recover 50+, và kiểm tra 50+.*
 ---
 <a name="part-10"></a>
+
 # Part 10 — 🆕 Slice Family (The 7-Shot Swiss Army Knife)
+
 # Phần 10 — 🆕 Gia đình Slice (Con dao Thụy Sĩ 7 lưỡi)
-> 🆕 NEW in v2 — The cắt is no longer "one shot in Part 3". It's now a 7-shot family with its own deep-dive library. The cắt is the 50+ player's best friend : gentle on the body, buys time, disrupts rhythm.
+> 🆕 NEW in v2 — The cắt is no longer "one shot in Part 3". It's now a 7-shot family with its own deep-dive library.
+The cắt is the 50+ player's best friend : gentle on the body, buys time, disrupts rhythm.
 >
 > *Slice không còn là "một cú trong Phần 3". Bây giờ nó là gia đình 7 cú với thư viện deep-dive riêng. Slice là bạn tốt nhất của người chơi 50+ : nhẹ cơ thể, mua thời gian, phá nhịp.*
+
 ## Bản đồ Gia đình Slice
 | Deep Dive | What it covers | Đọc sâu |
 |---|---|---|
@@ -523,6 +617,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Slice Approach | The senior-friendly way to the lưới — frying pan, hop approach | `Deep Dives/Slice Approach/` (~58 KB) |
 | Slice Family Doubles | The 8-shot doubles playbook | `Deep Dives/Slice Family Doubles/` (~56 KB) |
 | Cú Trái Tay Slice (in Cú Trái Tay folder) | Slice Cú Trái Tay system + low bóng + return variations | `Deep Dives/Cú Trái Tay/Slice - Low Ball Variation.md`, `Slice - Return Variation.md` |
+
 ## 7 biến thể Slice
 | # | Variation | When | Pressure | Grip | Biến thể | Khi nào | Áp lực | Grip |
 |---|---|---|---|---|---|---|---|---|
@@ -533,22 +628,27 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | 5 | Vôlei cắt | At lưới, bóng at body, redirect | 2 → 8 (fingers only) | Continental | Vôlei | Ở lưới, bóng thân, chuyển hướng | 2 → 8 (chỉ ngón) | Continental |
 | 6 | Lob cắt | Opponent at lưới, you need height | 3 → 7 | Continental | Lob | Đối thủ ở lưới, cần cao | 3 → 7 | Continental |
 | 7 | Dropshot cắt | Opponent deep, want them at lưới | 1 → 6 (touch) | Continental | Dropshot | Đối thủ sâu, muốn họ lên lưới | 1 → 6 (touch) | Continental |
+
 ## Câu nhắc tổng Slice
 "Mở cửa, bước qua."
 >
 > High takeback. Open fás. Drop the vợt head. Soft hands, firm contact. The cắt is subtraction, not addition . Less is more.
 Đọc sâu hơn
-> The full Slice Variations deep dive (`Deep Dives/Slice Variations/Slice Variations — The 7-Shot Swiss Army Knife.md`, 59 KB) covers the 7 variations with decision trees, the cách cầm vợt-pressure matrix, the cắt-approach di chuyển, and the doubles-cắt playbook.
+> The full Slice Variations deep dive (`Deep Dives/Slice Variations/Slice Variations — The 7-Shot Swiss Army Knife.md`, 59 KB) covers the 7 variations with decision trees, the cách cầm vợt-pressure ma
+trix, the cắt-approach di chuyển, and the doubles-cắt playbook.
 >
 > *Deep dive Slice Variations đầy đủ (59 KB) bao quát 7 biến thể với cây quyết định, ma trận cách cầm vợt-áp lực, bộ chân cắt-approach, và playbook cắt-doubles.*
 ---
 <a name="part-11"></a>
+
 # Part 11 — Injury Prevention & Conditioning
+
 # Phần 11 — Phòng chấn thương & Thể lực
 > You are playing a 20-year sport. Protect the engine. Every choice you make — cách cầm vợt, swing, shoes, warmup, recovery — is either investing in 20 more years or borrowing from your knees.
 >
 > *Anh đang chơi môn 20 năm. Bảo vệ cỗ máy. Mỗi lựa chọn — cách cầm vợt, cú vung, giày, khởi động, phục hồi — hoặc đầu tư 20 năm nữa, hoặc vay từ đầu gối.*
 At 50+, injury prevention is not optional . It's the difference between playing at 60 and watching from a chair.
+
 ## 5 chấn thương 50+ phổ biến nhất
 | # | Injury | Cause | Prevention |
 |---|---|---|---|
@@ -557,6 +657,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 3 | Lower back pain | Closed-tư thế overuse, deep back arch on Phát Bóng, big X-factor at 50+ | Open tư thế 70%, bend knees more, moderate X-factor (30-45°) |
 | 4 | Knee pain (patellar tendinitis) | Hard court, deep knee bend with locked knee, sudden direction changes | Cushioned shoes, soft knee bend, gradual direction changes |
 | 5 | Calf/Achilles strain | Cold-weather play, no warmup, sudden push-off | 5-min warmup, calf raises, hydration, layers in cold |
+
 ## Khởi động 10 phút trước trận
 | Min | Activity | Hoạt động |
 |---|---|---|
@@ -569,6 +670,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 > Your body needs to wake up. Muscles need blood. Joints need synovial fluid. Spend 10 minutes at 50% before going to 80% . The first 10 minutes of the trận are thực hành , not the trận.
 >
 > *Cơ thể anh cần thức dậy. Cơ cần máu. Khớp cần dịch khớp. Bỏ 10 phút ở 50% trước khi lên 80%. 10 phút đầu trận là tập , không phải trận.*
+
 ## Kế hoạch thể lực 7 điểm cho 50+
 | # | Exercise | Frequency | Why |
 |---|---|---|---|
@@ -579,6 +681,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 5 | Wall sits | 3×30 sec, 3×/week | Quad endurance, knee stability |
 | 6 | Resitư thế band rows | 3×12, 2×/week | Shoulder, posture, back |
 | 7 | Forearm/wrist curls (light) | 3×15, 2×/week | Tennis elbow prevention |
+
 ## Phục hồi (sau trận)
 | Step | Action | Hành động |
 |---|---|---|
@@ -588,6 +691,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 4 | Protein within 30 min (20-30g) | Protein trong 30 phút (20-30g) |
 | 5 | Ice if any joint aches (15 min, not directly on skin) | Chườm đá nếu khớp đau (15 phút, không trực tiếp lên da) |
 | 6 | Sleep 7-8 hours | Ngủ 7-8 giờ |
+
 ## 5 quy tắc tennis 50+
 | # | Rule | Quy tắc |
 |---|---|---|
@@ -597,22 +701,28 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 4 | "The pain rule" — sharp pain = stop. Dull ache = play through. | "Quy tắc đau" — đau nhói = dừng. Đau âm ỉ = chơi tiếp. |
 | 5 | "The patience rule" — at 50+, gains take 2-3× longer than at 25. That's normal. | "Quy tắc kiên nhẫn" — ở tuổi 50+, tiến bộ mất 2-3× lâu hơn ở 25. Bình thường. |
 Đọc sâu hơn
-> See `Tennis as Embodied Cognition.md` and `Tennis is an embodiment cognitive sport.md` for the full embodied framework applied to injury prevention. The "tension not overload" principle from your di chuyển analysis applies to all of conditioning at 50+.
+> See `Tennis as Embodied Cognition.md` and `Tennis is an embodiment cognitive sport.md` for the full embodied framework applied to injury prevention.
+The "tension not overload" principle from your di chuyển analysis applies to all of conditioning at 50+.
 >
 > *Xem các file embodied cognition cho framework đầy đủ áp dụng cho phòng chấn thương. Nguyên lý "căng không quá tải" từ phân tích bộ chân áp dụng cho toàn bộ thể lực 50+.*
 ---
 <a name="part-12"></a>
+
 # Part 12 — 🆕 Grip Pressure (The Dial You Control Every Shot)
+
 # Phần 12 — 🆕 Áp lực Cầm vợt (Chiếc Núm Vặn Bạn Kiểm soát Mỗi Cú)
-> 🆕 NEW in v2 — Grip pressure was a single line in v1 Part 1 (`3/10 during swing; 9/10 at impact`). It's now a full Part, because the pressure dial is the single most under-trained tennis variable — and it's the one a 50+ player controls every single điểm.
+> 🆕 NEW in v2 — Grip pressure was a single line in v1 Part 1 (`3/10 during swing; 9/10 at impact`).
+It's now a full Part, because the pressure dial is the single most under-trained tennis variable — and it's the one a 50+ player controls every single điểm.
 >
 > *Áp lực cầm vợt chỉ là một dòng trong v1 Phần 1. Bây giờ nó là một Phần đầy đủ, vì chiếc núm áp lực là biến số tennis bị tập ít nhất — và là biến số người chơi 50+ kiểm soát mỗi điểm.*
+
 ## Ý tưởng cốt lõi
 | |
 | --- |
 | Áp lực là chiếc núm vặn, không phải công tắc. Bạn chỉnh nó mỗi cú, thường *hai lần* mỗi cú (thấp lúc vung, cao lúc chạm). Tay *chụp* đà vợt, không đẩy vợt. |
 | Quy tắc 50+: cứu khớp, không phải cứu điểm. Cầm hơi lỏng gần như không bao giờ thua; cầm hơi chặt gần như luôn lấy đi năm sau của bạn. |
 | Ẩn dụ: "Cầm con chim, bắt quả bóng." |
+
 ## Thang 0-10 (Bản nhanh)
 | Level | Name | What the hand feels | Tên tiếng Việt | Tay cảm thấy |
 |---|---|---|---|---|
@@ -625,11 +735,13 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 8 | Squeezing | Forearm flexed | Siết | Cẳng tay co |
 | 9 | Clutch | Hand white on knuckles | Kẹp cứng | Tay trắng khớp |
 | 10 | Death cách cầm vợt | Whole forearm cramped, shoulder hike | Cầm chết | Cả cẳng tay co, vai nhô lên |
+
 ## Quy tắc Hai Vùng
 | Zone | When | Pressure | Vùng | Khi nào | Áp lực |
 |---|---|---|---|---|---|
 | 🔵 Calm Zone (1–4) | Walk, setup, đưa vợt ra sau, follow-through, recovery | 1/10 → 4/10 | 🔵 Vùng Bình Yên (1–4) | Đi, setup, đưa vợt, kết thúc, về vị trí | 1/10 → 4/10 |
 | 🔴 Strike Zone (6–9) | The 100 ms around impact only | spike to 6/10 → 9/10 | 🔴 Vùng Đập (6–9) | 100 ms quanh điểm chạm bóng | tăng vọt 6/10 → 9/10 |
+
 ## Bản đồ Áp lực (Tra cứu nhanh)
 | Stroke | Swing | Impact | Note | Cú | Vung | Chạm | Ghi chú |
 |---|---|---|---|---|---|---|---|
@@ -649,6 +761,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | Overhead (Sane Smash) | 3 | 9 | Catch the vợt | Smash | 3 | 9 | Chụp vợt |
 | Lob — defensive | 3 | 7 | Calm under pressure | Lob — phòng thủ | 3 | 7 | Bình yên dưới áp lực |
 | Lob — offensive | 4 | 8 | Topspin lob | Lob — tấn công | 4 | 8 | Lob xoáy trên |
+
 ## Chẩn đoán Âm thanh (Phản hồi Miễn phí)
 | Sound | Means | Likely pressure | Âm thanh | Nghĩa | Áp lực |
 |---|---|---|---|---|---|
@@ -658,6 +771,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | "cốc" | Fighting the pás | 4 → 8 (too early, too tight) | "cốc" | Chống đà | 4 → 8 (sớm quá, chặt quá) |
 | "phập" | Clean xoáy dưới | 3 → 9, fingers only | "phập" | Xoáy dưới sạch | 3 → 9, chỉ ngón |
 | "két" | Frame shank | 9 → 10 (death cách cầm vợt) | "két" | Trúng khung | 9 → 10 (cầm chết) |
+
 ## Quy Tắc 50+ Để Bền
 | # | Rule | Quy tắc |
 |---|---|---|
@@ -667,16 +781,22 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 4 | Ice the forearm for 10 minutes after every trận if you're over 50. Not because you got hurt — because you used the tool. | Chườm đá cẳng tay 10 phút sau mỗi trận nếu trên 50. Không phải vì đau — vì đã dùng công cụ. |
 | 5 | If you feel a "tight string" sensation at the elbow — drop pressure 1 notch on every shot for the next 10 điểms. | Nếu cảm thấy *dây căng* ở khuỷu tay — hạ áp lực 1 nấc mỗi cú 10 điểm kế. |
 Đọc sâu hơn
-> The full Grip Pressure deep dive (`Deep Dives/Grip Pressure/Grip Pressure — The Dial You Control Every Shot.md`, 38 KB, 5 chapters) covers the philosophy, the 0-10 scale with calibration bài tậps, the stroke pressure map, the 5 pressure lỗis, the sound-diagnosis table, the 5 bài tậps, and the master cue card.
+> The full Grip Pressure deep dive (`Deep Dives/Grip Pressure/Grip Pressure — The Dial You Control Every Shot.md`, 38 KB, 5 chapters) covers the philosophy, the 0-10 scale with calibration bài tậps, t
+he stroke pressure map, the 5 pressure lỗis, the sound-diagnosis table, the 5 bài tậps, and the master cue card.
 >
 > *Deep dive Grip Pressure đầy đủ (38 KB, 5 chương) bao quát triết lý, thang 0-10 với bài hiệu chuẩn, bản đồ áp lực theo cú, 5 lỗi áp lực, bảng chẩn đoán âm thanh, 5 bài tập, và thẻ câu nhắc tổng.*
 ---
 <a name="part-13"></a>
+
 # Part 13 — 🆕 Mental Game (The Match Inside Your Head)
+
 # Phần 13 — 🆕 Trò chơi Tâm lý (Trận đấu Trong Đầu Anh)
-> 🆕 ELEVATED in v2 — In v1 this was Part 8 (1 page, 5 cues, pressure điểms, body-mind loop, 50+ edge). In v2 it's a full Part 13 with the 5-phase trận map , the 4-step pre-điểm ritual , the 5 pressure điểms , and the 4-action loss recovery .
+> 🆕 ELEVATED in v2 — In v1 this was Part 8 (1 page, 5 cues, pressure điểms, body-mind loop, 50+ edge).
+In v2 it's a full Part 13 with the 5-phase trận map , the 4-step pre-điểm ritual , the 5 pressure điểms , and the 4-action loss recovery .
 >
-> *Trong v1 đây là Phần 8 (1 trang, 5 tín hiệu, điểm áp lực, vòng cơ thể-tâm trí, lợi thế 50+). Trong v2 nó là Phần 13 đầy đủ với bản đồ trận đấu 5 pha , nghi thức 4 bước trước điểm , 5 điểm áp lực , và phục hồi 4 hành động sau khi thua .*
+> *Trong v1 đây là Phần 8 (1 trang, 5 tín hiệu, điểm áp lực, vòng cơ thể-tâm trí, lợi thế 50+).
+Trong v2 nó là Phần 13 đầy đủ với bản đồ trận đấu 5 pha , nghi thức 4 bước trước điểm , 5 điểm áp lực , và phục hồi 4 hành động sau khi thua .*
+
 ## Bản đồ 5 Pha Trận đấu
 | # | Phase | Duration | Optimal mental state | Pha | Thời lượng | Tâm trạng tối ưu |
 |---|---|---|---|---|---|---|
@@ -685,7 +805,9 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 3 | DURING POINT | 5-30 sec | Automatic, see-move | Trong điểm | 5-30 giây | Tự động, thấy-di chuyển |
 | 4 | BETWEEN POINTS | 15-25 sec | Reset, the 4-step ritual | Giữa các điểm | 15-25 giây | Reset, nghi thức 4 bước |
 | 5 | CHANGEOVER | 90 sec | Recover, hydrate, re-strategize | Đổi sân | 90 giây | Hồi phục, uống nước, chiến thuật lại |
-> Most 3.5 players only know 2 of the 5 phases (tranh bóng and changeover). They skip warmup rituals, skip between-điểm rituals, and have no protocol for the pressure điểms. The result: 80% of the mental ván is invisible to them.
+> Most 3.5 players only know 2 of the 5 phases (tranh bóng and changeover). They skip warmup rituals, skip between-điểm rituals, and have no protocol for the pressure điểms.
+The result: 80% of the mental ván is invisible to them.
+
 ## Nghi thức 4 Bước Trước Điểm
 | # | Step | Time | What it does | Bước | Thời gian | Tác dụng |
 |---|---|---|---|---|---|---|
@@ -694,6 +816,7 @@ At 50+, injury prevention is not optional . It's the difference between playing 
 | 3 | BODY | 1 body check | Drop shoulders, lengthen spine, unclench jaw | Cơ thể | 1 lần kiểm tra | Thả vai, kéo cột sống, mở hàm |
 | 4 | BUILD | 1 phrase | "See the shot. Commit. GO." | Xây | 1 câu | "Thấy cú. Cam kết. ĐI." |
 Total: 2 seconds. This is the daily thực hành of mental fitness.
+
 ## 5 Điểm Áp lực + 5 Giao thức
 | Pressure Point | The Protocol | Giao thức |
 |---|---|---|
@@ -702,6 +825,7 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 | Double-lỗi on break điểm | Breathe. Bounce. Phát Bóng slow to Cú Trái Tay. Forget the last Phát Bóng. | Thở. Nảy. Giao chậm về Cú Trái Tay. Quên cú vừa rồi. |
 | 0-40 trap | "Three điểms. One at a time. First one first." | "Ba điểm. Một lần. Điểm đầu trước." |
 | Almost held trap (up 5-2, can't close) | "Three điểms. One at a time. First one first." | "Ba điểm. Một lần. Điểm đầu trước." |
+
 ## Phục hồi 4 Hành động Sau Khi Thua (90 giây)
 | # | Action | Time | What it does | Taichi | Hành động | Tác dụng | Thái cực |
 |---|---|---|---|---|---|---|---|
@@ -710,9 +834,12 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 | 3 | DOCUMENT | 30 sec | Note what just happened (1 line in your head) | Tỉnh (clarity) | Ghi | Ghi chuyện vừa xảy ra (1 dòng trong đầu) | Tỉnh (sáng suốt) |
 | 4 | DRINK | 35 sec | Hydrate, look at the sky, breathe | Quy (return) | Uống | Uống nước, nhìn trời, thở | Quy (trở về) |
 > The 90 seconds after a lost ván determine the next 3-4 váns. The 4 actions are a factory reset for the whole ván, not just the next điểm.
+
 ## Vòng Cơ thể-Tâm trí
-> You don't win tennis in your head. You win it in your BODY. The fastest way to fix your mental ván is to fix your body. Drop your shoulders. Unclench your jaw. Shake out your hands. Lengthen your spine. The mind follows.
+> You don't win tennis in your head. You win it in your BODY. The fastest way to fix your mental ván is to fix your body. Drop your shoulders. Unclench your jaw. Shake out your hands.
+Lengthen your spine. The mind follows.
 > *Anh không thắng trận tennis trong đầu. Anh thắng trong CƠ THỂ. Cách nhanh nhất để sửa tâm lý là sửa cơ thể. Thả vai. Mở hàm. Lắc tay. Kéo cột sống. Tâm theo sau.
+
 ## Lợi thế Tâm lý 50+ (Siêu năng lực)
 | Principle | English | Tiếng Việt |
 |---|---|---|
@@ -720,18 +847,24 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 | Patience | Younger players get frustrated faster. You can outlast them. The trận is long. Be the patient one. | Người trẻ nản nhanh hơn. Anh có thể bền hơn họ. Trận đấu dài. Hãy là người kiên nhẫn. |
 | Acceptance | At 50+, your body has limits. Accept them. Build your ván around what you can do, not what you can't. | Ở tuổi 50+, cơ thể có giới hạn. Chấp nhận chúng. Xây trò chơi quanh những gì anh làm được, không phải những gì anh không thể. |
 | Joy | You are playing tennis in your 50s. That's a privilege. Most people your age can't. Play with joy, not just to win. | Anh đang chơi tennis ở tuổi 50. Đó là đặc ân. Hầu hết người cùng tuổi không làm được. Chơi vui, không chỉ để thắng. |
-> The 50+ player has a mental lợi thế most younger players don't: perspective. The 30-year-old's whole identity is on the line. The 50-year-old knows the trận is a trận. The 50+ mental edge is the only tennis lợi thế that GROWS with age.
+> The 50+ player has a mental lợi thế most younger players don't: perspective. The 30-year-old's whole identity is on the line. The 50-year-old knows the trận is a trận.
+The 50+ mental edge is the only tennis lợi thế that GROWS with age.
 Đọc sâu hơn
-> The full Mental Game deep dive (`Deep Dives/Mental Game/Mental Game — The Match Inside Your Head.md`, 69 KB, 5 chapters) covers the 5-phase trận map, the 4-step ritual with timing diagrams, the 5 pressure điểms with full protocols, the 4-action loss recovery, the taichi principle table, the 50+ mental edge, and the printable cheat sheet.
+> The full Mental Game deep dive (`Deep Dives/Mental Game/Mental Game — The Match Inside Your Head.md`, 69 KB, 5 chapters) covers the 5-phase trận map, the 4-step ritual with timing diagrams, the 5 pr
+essure điểms with full protocols, the 4-action loss recovery, the taichi principle table, the 50+ mental edge, and the printable cheat sheet.
 >
-> *Deep dive Mental Game đầy đủ (69 KB, 5 chương) bao quát bản đồ 5 pha, nghi thức 4 bước với sơ đồ thời gian, 5 điểm áp lực với giao thức đầy đủ, phục hồi 4 hành động, bảng nguyên lý thái cực, lợi thế 50+, và cheat sheet in được.*
+> *Deep dive Mental Game đầy đủ (69 KB, 5 chương) bao quát bản đồ 5 pha, nghi thức 4 bước với sơ đồ thời gian, 5 điểm áp lực với giao thức đầy đủ, phục hồi 4 hành động, bảng nguyên lý thái cực, lợi th
+ế 50+, và cheat sheet in được.*
 ---
 <a name="cheat-sheet"></a>
+
 # Part 14 — 📄 Master Cheat Sheet (2-Page Printable)
+
 # Phần 14 — 📄 Bảng tóm tắt (in 2 trang)
 > Print these 2 pages. Fold them. Put them in your vợt bag.
 > In 2 trang này. Gấp lại. Bỏ vào túi vợt.
 ---
+
 ## 🎾 PAGE 1 of 2 — PARTS 1-7
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -787,6 +920,7 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 ---
+
 ## 🎾 PAGE 2 of 2 — PARTS 8-14
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -848,6 +982,7 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 ---
+
 ## Các file trong thư mục này
 | File | What it is |
 |---|---|
@@ -856,11 +991,14 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 | `Compléte Tennis Manual — Master Tham khảo v2.html` | Styled web rendering of v2 — open in browser, print Part 14 as the 2-page cheat sheet |
 | `_build_html.py` | Regenerates the HTML from the MD source (run `python _build_html.py`) |
 | `ReadMe.md` | Folder overview, v1 → v2 delta, 14-week rotation |
-> ⚠️ No PDF version — by user directive, this manual is web-first only. The HTML version prints cleanly from any browser (`Ctrl+P` / `Cmd+P` → enable "Background graphics" for the colour bands on Part 14). Do not add a PDF stage back to the build script.
+> ⚠️ No PDF version — by user directive, this manual is web-first only.
+The HTML version prints cleanly from any browser (`Ctrl+P` / `Cmd+P` → enable "Background graphics" for the colour bands on Part 14). Do not add a PDF stage back to the build script.
 >
 > *Không có phiên bản PDF — theo chỉ dẫn của anh, manual này chỉ phát hành dạng web. Phiên bản HTML in ra rõ từ bất kỳ trình duyệt nào. Đừng thêm giai đoạn PDF vào script build.*
 ---
+
 ## Tài liệu tham khảo
+
 ### Deep Dives (in `Deep Dives/`) — v2 integrates all 22
 | # | Topic | Deep Dive | v2 Part |
 |---|---|---|---|
@@ -893,6 +1031,7 @@ Total: 2 seconds. This is the daily thực hành of mental fitness.
 | — | Pocket card | `Deep Dives/1-Page Pocket Card/1-Page Match Pocket Card — The Compléte Grip System.md` (~34 KB) | (Tham khảo) |
 Total: 22 numbered deep dives + 4 foundational/Tham khảo files = ~1,300 KB of bilingual huấn luyện viêning content in the library, all integrated in v2.
 ---
+
 ## 🎾 The Most Important Lines from v2
 > Part 1: *"Tense muscle = slow muscle."*
 > Part 3: *"A whip, not a hammer. A body schema, not a form. A feel, not a shape."*
@@ -906,5 +1045,9 @@ Total: 22 numbered deep dives + 4 foundational/Tham khảo files = ~1,300 KB of 
 > Part 14 (master): *"Tennis is a whip sport, not a hammer sport. And you are playing a 20-year ván."*
 ---
 *🎾 Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của anh. Bắt đầu từ gốc, mọi thứ tự đến.*
-*🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 deep dives are the territory. Read the map first, then explore each region at your own pás. Start at the root, and everything follows.*
+*🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 deep dives are the territory. Read the map first, then explore each region at your own pás.
+Start at the root, and everything follows.*
 HẾT v2
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

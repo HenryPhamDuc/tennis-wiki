@@ -1,6 +1,12 @@
+---
+title: Cánh Tay, Cổ Tay & Bàn Tay
+lang: en
+---
+
 # Cánh Tay, Cổ Tay & Bàn Tay
 *The 27 Bones of Your Hand, the Ulnar Nerve Trap, and Why Your Grip Pressure Matters*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Không bao gồm: vai (DD2), thần kinh cột sống cổ nuôi cánh tay (DD4), cơ học đánh (Cú Thuận Tay/Cú Trái Tay deep dives). |
 | Thời gian đọc: 35–45 phút. |
 ---
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -22,23 +29,27 @@
 | 8 | Tendon Gliding — Daily Maintenance for Tennis Hands | Trượt Gân — Bảo Dưỡng Hàng Ngày Cho Tay Tennis |
 ---
 * * *
+
 ## Chương 1 — Humerus, Radius, Ulna (3 Xương Cánh Tay)
 | |
 | --- |
 | Cánh tay là 3 xương nối bởi 3 khớp. Cánh tay trên = humerus (một xương). Cẳng tay = radius (bên ngón cái) và ulna (bên ngón út). Các khớp là vai, khuỷu, và cổ tay. |
 | Khuỷu là khớp bản lề. Chỉ hai chuyển động — gập và duỗi. Nó không thể xoay. Xoay bạn cảm thấy ở khuỷu thực ra là RADIUS xoay quanh ULNA trong cẳng tay (gọi là pronation/supination). |
+
 ### 3 Xương — Nơi Chúng Gặp Nhau
 | Bone | Location | Where It Meets Others | Tennis Role |
 |---|---|---|---|
 | Humerus | Upper arm, single long bone | Shoulder (with scapula), elbow (with radius + ulna) | Carries the elbow flexors (biceps, brachialis) and extensor (triceps). |
 | Radius | Forearm, THUMB side | Elbow (with humerus), wrist (with scaphoid + lunate) | Rotates around ulna for pronation/supination. Cú Thuận Tay supination is critical. |
 | Ulna | Forearm, PINKY side | Elbow (with humerus via olecranon), wrist (with triquetrum) | The "fixed" bone of the forearm. The olecranon forms the elbow tip. The ulnar nerve runs behind it. |
+
 ### 3 Khớp — Nơi Chúng Di Chuyển
 | Joint | Type | Movement Range | Tennis Translation |
 |---|---|---|---|
 | Elbow | Hinge | 0° (extended) to ~145° (flexed) | Most strokes need 90–110°. Biceps curl = full flexion. Locked-out triceps = 0°. |
 | Radioulnar (proximal + distal) | Pivot | ~150° pronation-supination | Cú Thuận Tay supination (palm up at contact) requires ~80–90° supination. Cú Trái Tay cắt uses ~30° pronation. |
 | Wrist | Ellipsoid (modified bóng-and-socket) | Flexion ~80°, extension ~70°, radial deviation ~20°, ulnar deviation ~30° | The "fine adjustment" joint. The 70/30 rhythm of Cú Thuận Tay is wrist-cú đẩyn. |
+
 ### Cơ Cẳng Tay — Hơn 20 Cơ, 4 Chức Năng
 | Function | Primary Muscles | Tennis Role |
 |---|---|---|
@@ -53,11 +64,13 @@
 *Source: Roetert & Kovacs, Tennis Anatomy, Ch.3 pages 75–79.*
 ---
 * * *
+
 ## Chương 2 — Cubital Tunnel (Cái Bẫy Số 1)
 | |
 | --- |
 | Cubital tunnel là rãnh phía sau lồi cầu trong của humerus (cục "xương cười" ở mặt trong khuỷu). Thần kinh trụ đi qua nó, được giữ bởi dây chằng gọi là dây chằng Osborne. Khi khuỷu gập, hầm HẸP LẠI 55%. Áp lực trong hầm tăng vọt. |
 | Đây là vị trí chèn ép thần kinh phổ biến nhất ở khuỷu. Triệu chứng: tê ngón áp út + ngón út, yếu cách cầm vợt, cảm giác "ngủ" khi cầm điện thoại. Ở người chơi tennis, Cú Trái Tay một tay là nguyên nhân số 1 — khuỷu gập quá 90° hàng trăm cú. |
+
 ### Con Số Cubital Tunnel
 | Number | What It Means | Tennis Implication |
 |---|---|---|
@@ -65,6 +78,7 @@
 | +50% | Increase in intraneural pressure at 90° flexion | The nerve is litetranh bóng being squeezed. Over hundreds of strokes → ischemia → nerve damage. |
 | 7× | Repetition multiplier for Cú Trái Tay (vs other strokes) | 50 cú thuận tays vs 50 cú trái tays: Cú Trái Tay compresses the nerve 7× more cumulatively. |
 | 2 compression sites | Cubital tunnel AND Guyon's canal (wrist) | Ulnar nerve has TWO compression sites on the path to the pinky. Either can fail. |
+
 ### Hiện Tượng Chèn Ép Kép
 | |
 | --- |
@@ -74,12 +88,14 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part I. Tennis Anatomy Ch.10 (Common Injuries) corroborates with cubital tunnel syndrome details.*
 ---
 * * *
+
 ## Chương 3 — Đường Đi Thần Kinh Trụ (Từ Cổ Đến Ngón Út)
 | |
 | --- |
 | Thần kinh trụ bắt đầu từ rễ thần kinh C8-T1 ở cổ dưới của bạn, đi xuống cánh tay, đi SAU lồi cầu trong ở khuỷu (cubital tunnel), rồi tiếp tục qua Guyon's canal ở cổ tay, và kết thúc ở ngón áp út và ngón út. Nó là thần kinh dài nhất không được bảo vệ trong cánh tay. |
 | Nhiệm vụ: điều khiển flexor carpi ulnaris (cơ gập cổ tay bên ngón út), flexor digitorum profundus đến ngón áp út + ngón út, cơ nội tại bàn tay (interossei, lumbricals, hypothenar), và cảm giác cho ngón áp út + ngón út + nửa ulnar của lòng bàn tay. |
 | Khi nó hỏng: biến dạng "bàn tay vuốt" (ngón áp út + ngón út không gập được ở MCP), teo vùng hypothenar, yếu cách cầm vợt (vì FDP đến 2 ngón cuối bị liệt). Người chơi tennis không cầm được vợt. |
+
 ### Đường Đi Thần Kinh Trụ — 5 Trạm
 | Stop | Location | What Happens | Tennis Translation |
 |---|---|---|---|
@@ -88,6 +104,7 @@
 | 3 | Cubital tunnel (behind medial epicondyle at elbow) | The #1 trap. Tunnel narrows 55% at 90° flexion | One-handed Cú Trái Tay with elbow bent. |
 | 4 | Forearm (between FCU muscle heads) | Less common compression | Repetitive cách cầm vợtping. |
 | 5 | Guyon's canal (at wrist, between pisiform and hamate) | The #2 trap. Carpal-bone-defined tunnel | Grip pressure when wrist is ulnar-deviated. |
+
 ### 5 Dấu Hiệu Cảnh Báo (Khi Nào Đi Khám)
 | Warning Sign | What It Means | Action |
 |---|---|---|
@@ -99,11 +116,13 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part I, paragraphs 4-12. Tennis Anatomy Ch.10 corroborates.*
 ---
 * * *
+
 ## Chương 4 — DỪNG KÉO GIÃN (Giải Pháp Trượt Thần Kinh)
 | |
 | --- |
 | Lời khuyên phổ biến nhất cho "tennis elbow" SAI: giãn cẳng tay, giãn cổ tay, giãn khuỷu. Nhưng thần kinh trụ không muốn bị KÉO GIÃN. Kéo giãn tăng strain nội tại thần kinh >15%. Cái này giảm lưu lượng máu bên trong thần kinh (thiếu máu vi mạch). |
 | Cách sửa là TRƯỢT THẦN KINH — còn gọi là nerve flossing. Thần kinh trượt qua lại giữa các điểm cuối. Bạn gập cổ tay trong khi duỗi khuỷu, rồi duỗi cổ tay trong khi gập khuỷu. Cái này tạo chuyển động ở thần kinh KHÔNG kéo giãn nó. |
+
 ### Kỹ Thuật Trượt Thần Kinh — Từng Bước
 | Step | Position | Hold | Why |
 |---|---|---|---|
@@ -111,11 +130,13 @@
 | 2. Slide | Slowly: elbow flexes (bend), wrist extends (bent up), shoulder elevated (up) | 2 sec | Nerve slides "up" toward the head. |
 | 3. Return | Slowly: elbow extends, wrist flexes, shoulder depressed | 2 sec | Nerve slides "down" toward the fingers. |
 | 4. Repeat | 10 slow reps, 3× per day | Before and after play | Restores nerve mobility, reduces intraneural pressure. |
+
 ### Quy Tắc "Trần Đau" — Dưới 3/10
 | |
 | --- |
 | Trượt thần kinh phải ĐAU DƯỚI 3/10 trên thang 0–10. Nếu bạn cảm thấy tê, giật điện, hoặc đau >3/10, DỪNG. Bạn đang chèn ép hoặc kéo giãn quá thần kinh. Mục tiêu là chuyển động nhẹ nhàng, không phải kéo giãn mạnh. |
 | Phác đồ cho 50+: 10 lần chậm vào buổi sáng (trước khi ngày làm cứng thần kinh), 10 lần giữa ngày (trung hòa tư thế bàn làm việc), 10 lần sau tennis (xóa viêm). Tổng: 30 lần/ngày, 3 phút. |
+
 ### 4 Sai Lầm Phổ Biến Với Trượt Thần Kinh
 | # | Mistake | Why It's Wrong | Fix |
 |---|---|---|---|
@@ -126,21 +147,25 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part I, paragraph 10-14. Tennis Anatomy Ch.10 corroborates.*
 ---
 * * *
+
 ## Chương 5 — 27 Xương Bàn Tay (Cỗ Máy 3 Vùng)
 | |
 | --- |
 | Bàn tay người có 27 xương, 27 khớp, 34 cơ (nội tại + ngoại lai), hơn 100 dây chằng, và 3 thần kinh chính (giữa, trụ, quay). Nó là cấu trúc cơ học phức tạp nhất cơ thể. Bàn tay chia 3 vùng: xương cổ tay (carpals), xương bàn tay (metacarpals), xương ngón tay (phalanges). |
+
 ### 3 Vùng Bàn Tay
 | Zone | # Bones | Names | Tennis Role |
 |---|---|---|---|
 | Carpals (wrist) | 8 | Scaphoid, lunate, triquetrum, pisiform (proximal row); trapezium, trapezoid, capitate, hamate (distal row) | The wrist platform. Must absorb vợt vibration without damage. The "carpal boss" is a common tennis injury at the index CMC. |
 | Metacarpals (palm) | 5 | Metacarpals I–V (thumb to pinky) | Form the palm. The 2nd and 3rd metacarpals are FIXED (immobile) — they form the rigid platform of the hand. |
 | Phalanges (fingers + thumb) | 14 | 2 in thumb (proximal + distal), 3 in each finger (proximal + middle + distal) | The cách cầm vợtpers. Each finger has 3 joints (MCP, PIP, DIP) except thumb (2 joints: MCP, IP). |
+
 ### 8 Xương Cổ Tay Xếp 2 Hàng — Bản Đồ
 | Row | Bones (lateral → medial) | Function |
 |---|---|---|
 | Proximal (closer to forearm) | Scaphoid, Lunate, Triquetrum, Pisiform | Articulate with radius. Form the wrist joint proper. Most wrist fractures happen here. |
 | Distal (closer to fingers) | Trapezium, Trapezoid, Capitate, Hamate | Articulate with metacarpals. The hook of hamate + pisiform form Guyon's canal (ulnar nerve). |
+
 ### Ngón Cái — 50% Chức Năng Bàn Tay
 | |
 | --- |
@@ -150,11 +175,13 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part II paragraphs 16-26. Tennis Anatomy Ch.3 (Arms and Wrists) and Ch.10 corroborate.*
 ---
 * * *
+
 ## Chương 6 — Ống Cổ Tay (Nơi 9 Gân + 1 Thần Kinh Sống)
 | |
 | --- |
 | Ống cổ tay là đường hầm hẹp ở mặt LÒNG BÀN TAY của cổ tay. Nó được giới hạn bởi xương cổ tay (sàn và tường) và flexor retinaculum (dây chằng ngang cổ tay) làm mái. Bên trong: 9 gân gập + thần kinh giữa. Tổng tiết diện: khoảng 2 cm². |
 | Thần kinh giữa kiểm soát cảm giác ở ngón cái, ngón trỏ, ngón giữa, và nửa phía quay của ngón áp út. Nó cũng kiểm soát cơ thenar (đệm thịt ở gốc ngón cái). |
+
 ### Cái Gì Bên Trong Ống Cổ Tay
 | # | Structure | Function |
 |---|---|---|
@@ -162,12 +189,14 @@
 | 5–8 | Flexor digitorum profundus (4 tendons) | Flex DIP joints of fingers 2–5 |
 | 9 | Flexor pollicis longus (1 tendon) | Flex thumb IP joint |
 | 10 | Median nerve | Sensation to thumb/index/middle/radial ring + thenar motor |
+
 ### Hội Chứng Ống Cổ Tay — Cái Kích Hoạt
 | |
 | --- |
 | Bất kỳ cái gì TĂNG áp lực bên trong hầm 2 cm² đều gây triệu chứng. 9 gân sưng viêm → chiếm nhiều chỗ hơn → thần kinh giữa bị ép → tê ngón cái/trỏ/giữa. |
 | Tác nhân tennis: (a) cách cầm vợt vợt chặt kéo dài, (b) gập cổ tay quá mức khi Vôlei thấp, (c) duỗi cổ tay quá mức khi giao bóng, (d) thời tiết lạnh (co mạch giảm không gian hầm). |
 | Cách sửa: áp lực cách cầm vợt 3/10 (xem Ch.7). Cổ tay trung tính khi Vôlei và giao bóng. Khởi động trước khi chơi trời lạnh. Bài tập trượt gân (Ch.8). |
+
 ### Test Phalen — Tự Kiểm Tra
 | |
 | --- |
@@ -176,11 +205,13 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part II paragraphs 18-24.*
 ---
 * * *
+
 ## Chương 7 — Áp Lực Grip (Quy Tắc 3/10 Đến 7/10)
 | |
 | --- |
 | Quy tắc 3/10 đến 7/10 là kỹ thuật tay quan trọng nhất tennis. Grip ở 3/10 khi chờ bóng (thả lỏng, vừa đủ giữ vợt khỏi rơi). Grip ở 7/10 lúc tiếp xúc (chắc, nhưng không siết trắng tay). Thả về 3/10 trong follow-through. |
 | Sai lầm nghiệp dư: cách cầm vợt ở 8–9/10 TOÀN BỘ điểm — từ tư thế sẵn sàng đến follow-through. Đây là nguyên nhân chính của (a) tennis elbow, (b) hội chứng ống cổ tay, (c) hội chứng cubital tunnel, (d) mỏi cẳng tay. Grip phải là BỘ THAY ĐỔI TỐC ĐỘ, không phải lực không đổi. |
+
 ### Con Số Áp Lực — Chúng Có Nghĩa Gì
 | Pressure | Sensation | What You're Doing | Risk |
 |---|---|---|---|
@@ -189,6 +220,7 @@
 | 5/10 | Hold a full coffee cup | Mid-range. OK during slow bóngs. | Cumulative fatigue if held long. |
 | 7/10 | Squeeze someone's hand firmly | The "contact" pressure. Maximum useful. | OK if brief. |
 | 8–10/10 | Crush a can / wring a towel | Over-cách cầm vợt. The amateur delỗi. | Tennis elbow, carpal tunnel, cubital tunnel. |
+
 ### Câu Nhắc Thời Điểm — Khi Nào Grip
 | Phase | Pressure | Why |
 |---|---|---|
@@ -200,6 +232,7 @@
 | At contact | 7/10 | Maximum pressure. Brief. |
 | 0.2 sec after contact | 5/10 | Release. |
 | Follow-through | 3/10 | Back to relaxed. Ready for next bóng. |
+
 ### Thực Tế Grip Cho 50+ — Gân Cần Hồi Phục
 | |
 | --- |
@@ -208,11 +241,13 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part III paragraphs 28-32.*
 ---
 * * *
+
 ## Chương 8 — Trượt Gân (Bảo Dưỡng Hàng Ngày Cho Tay Tennis)
 | |
 | --- |
 | Bài tập trượt gân di chuyển mỗi gân qua toàn bộ tầm vận động. Mục tiêu là (a) ngăn dính giữa gân và bao gân, (b) duy trì dòng dịch khớp, (c) phát hiện sớm dấu hiệu viêm. Chúng mất 2 phút. Chúng là bảo dưỡng hàng ngày TỐT NHẤT cho tay tennis. |
 | 5 vị trí trượt gân: thẳng → nắm móc → nắm đầy → tablétop → thẳng. Mỗi vị trí tác động các gân khác nhau. Toàn bộ chu trình mất 5 giây mỗi tay. |
+
 ### 5 Vị Trí Trượt Gân
 | Position | Hand Shape | Tendons Stressed | Hold |
 |---|---|---|---|
@@ -221,6 +256,7 @@
 | 3. Full fist | All joints flexed | FDS + FDP together | 1 sec |
 | 4. Tablétop | MCP flexed 90°, PIP + DIP straight | FDS at maximum glide, lumbricals active | 1 sec |
 | 5. Straight (return) | Same as #1 | Synovial fluid redistribution | 1 sec |
+
 ### Trình Tự Trượt Riêng Cho Tennis — Khi Nào Dùng
 | When | Sequence | Purpose |
 |---|---|---|
@@ -229,6 +265,7 @@
 | During trận (changeover) | 5 reps each hand | Reduce cumulative tendon load |
 | After play | 10 reps each hand, slow | Distribute synovial fluid, reduce adhesion |
 | If any pain >3/10 | STOP. Ice 10 min. Glide gently after ice. | Don't glide into inflammation |
+
 ### 3 Dấu Hiệu Bạn Cần Hơn Là Trượt Gân
 | Sign | What It Means | Action |
 |---|---|---|
@@ -238,6 +275,7 @@
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part III paragraph 32. Tennis Anatomy Ch.10 corroborates the tendon gliding protocol.*
 ---
 * * *
+
 ## 📋 DD3 CARD — Printable / THẺ IN ĐƯỢC DD3
 ╔═══════════════════════════════════════════════════════════╗
 ║ DD3 CARD — ARMS, WRISTS & HANDS ║
@@ -332,35 +370,47 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 ---
+
 ## 🖼️ ILLUSTRATIONS / HÌNH MINH HỌA
 *Images from `Anatomy_Lab/images/DD3_arms_wrists_hands/` (20 total — 10 from user's Anatomy_Tay_Than_Kinh_Full.docx, 10 from Tennis Anatomy PDF Ch.3).*
+
 ### Hình 1 — Đường Đi Thần Kinh Trụ
 *Shows the ulnar nerve as a yellow glowing line from neck → behind medial epicondyle → through Guyon's canal → ring + pinky.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img01.png` (Hình 1, Anatomy_Tay_Than_Kinh_Full.docx)
+
 ### Hình 2 — Cận Cảnh Cubital Tunnel
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img02.png` (Hình 2)
+
 ### Hình 3 — Cảnh Báo DỪNG KÉO GIÃN
 *The critical message: stop passive stretching. Do nerve flossing instead.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img03.png` (Hình 3)
+
 ### Hình 4 — Viêm Quanh Khuỷu
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img04.png` (Hình 4)
+
 ### Hình 5 — Tư Thế Trượt Thần Kinh
 *Shows the alternating wrist + elbow motion: extend elbow + flex wrist ↔ flex elbow + extend wrist.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img05.png` (Hình 5)
+
 ### Hình 6 — Cơ Duỗi Mu Tay
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img06.png` (Hình 6)
+
 ### Hình 7 — Khung Xương Tay Mở
 *Shows all 27 bones of the hand: 8 carpals, 5 metacarpals, 14 phalanges.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img07.png` (Hình 7)
+
 ### Hình 8 — Mặt Cắt Ống Cổ Tay
 *Shows the 9 flexor tendons + median nerve packed into the 2 cm² tunnel.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img08.png` (Hình 8)
+
 ### Hình 9 — Nắm Đấm — Khối Cơ Thenar
 *Shows the thumb opposition mechanism. The thenar eminence = 50% of hand function.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img09.png` (Hình 9)
+
 ### Hình 10 — Gân Duỗi Riêng Ngón Trỏ
 *The index finger has INDEPENDENT extensor control — important for delicate vợt fás adjustment.*
 `images/DD3_arms_wrists_hands/Anatomy_Tay_Than_Kinh_Full__img10.png` (Hình 10)
+
 ### Hình 11–20 — Biceps, Triceps, Cơ Cẳng Tay
 | Figure | Description | Image |
 |---|---|---|
@@ -376,6 +426,7 @@
 | 20 | Wrist Curl — forearm flexor work | `DD3_arms_wrists_hands_10.png` (Fig.3.9) |
 *All image filenames verified to exist in `Anatomy_Lab/images/DD3_arms_wrists_hands/`.*
 ---
+
 ## 🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO
 | Topic in DD3 | See Also |
 |---|---|
@@ -386,6 +437,7 @@
 | Triceps in Phát Bóng | DD2 Shoulders — triceps long head crosses the shoulder, deceleration |
 | Forearm muscles in pronation/supination | DD1 Player in Motion — vợt fás control at contact |
 ---
+
 ## 📚 SOURCES / NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -395,3 +447,6 @@
 ---
 Hết DD3 — Cánh Tay, Cổ Tay & Bàn Tay*
 Tiếp: DD4 — Thân & Cột Sống (L4-L5, Cơ Hình Lê, Lưng 3 Lớp, Hip Hinge)*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

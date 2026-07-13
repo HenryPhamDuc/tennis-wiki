@@ -1,15 +1,24 @@
+---
+title: Anatomy Lab — A Compléte Manual of Human Anatomy for Tennis Players
+lang: en
+---
+
 # Anatomy Lab — A Compléte Manual of Human Anatomy for Tennis Players
+
 ## *Anatomy Lab — Cẩm Nang Giải Phẫu Học Toàn Diện Cho Người Chơi Tennis*
 *8 deep-dives covering the entire body in relation to tennis strokes*
 ---
+
 ## DỰ ÁN NÀY LÀ GÌ?
-Anatomy Lab is a comprehensive anatomy manual for tennis players, built from your Vietnamese source materials in `Documents/Human anatomy/` plus the Tham khảo textbook *Tennis Anatomy* by Roetert & Kovacs (2011). It is a sibling library to your existing `Deep Dives/` (stroke mechanics), `Advanced/`, and `Elite/` folders — a focused sub-library on body anatomy and biomechanics .
+Anatomy Lab is a comprehensive anatomy manual for tennis players, built from your Vietnamese source materials in `Documents/Human anatomy/` plus the Tham khảo textbook *Tennis Anatomy* by Roetert & Ko
+vacs (2011). It is a sibling library to your existing `Deep Dives/` (stroke mechanics), `Advanced/`, and `Elite/` folders — a focused sub-library on body anatomy and biomechanics .
 | |
 | --- |
 | Phạm vi: 8 deep-dive độc lập (DD1–DD8), 181 hình minh họa, ~340 KB nội dung, 58 chương, song ngữ EN-VI xuyên suốt. |
 | Đường đi đọc: DD1 (nền tảng) → DD2–DD7 (vùng cơ thể) → DD8 (hệ kiểm soát). Mỗi DD cũng đọc độc lập được. |
 | Đối tượng: người chơi phong trào 3.5, 50+ tuổi, muốn hiểu CƠ THỂ sau mỗi cú đánh. |
 ---
+
 ## 8 DEEP DIVE
 | # | Deep Dive | Topic | Size | Chapters | Key Insight |
 |---|---|---|---|---|---|
@@ -23,6 +32,7 @@ Anatomy Lab is a comprehensive anatomy manual for tennis players, built from you
 | DD8 | The Control System | Vestibular, vision, proprioception, 50+ sensory triad | 42 KB / 534 lines | 7 | Use it or lose it. Keep playing tennis — that's the vestibular adaptation. |
 Total: 338 KB / 3,938 lines / 58 chapters / 8 printable cards (× 2 for cutting/laminating) / 181 illustrations
 ---
+
 ## HÌNH MINH HỌA
 *All illustrations are organized into 8 topic-specific subfolders within `images/`. They come from 2 sources:*
 | Source | Type | Count | What |
@@ -42,6 +52,7 @@ Total: 181 images organized into 8 DD folders in `Anatomy_Lab/images/DD1_player_
 | `DD8_control_system/` | 96 (20 used, 96 available) | User DOCX (48) + Tennis Anatomy (48) |
 *Note: More images are available than referenced in each DD. The unreferenced ones are rephát bóngd for future expansion.*
 ---
+
 ## ĐƯỜNG ĐI ĐỌC KHUYẾN NGHỊ
 | Order | DD | Why Read in This Order |
 |---|---|---|
@@ -57,6 +68,7 @@ Alternate path (if you have a specific problem):
 - Falls / balance issues → DD8 → DD7 → DD6 (proprioception)
 - Knee pain on stairs → DD6 → DD5 (glute med for knee position) → DD4
 ---
+
 ## CÁI MỚI TRONG DỰ ÁN NÀY
 | Concept | Where It Lives | Source | Why It Matters |
 |---|---|---|---|
@@ -86,6 +98,7 @@ Alternate path (if you have a specific problem):
 | 50+ sensory triad (20–30% decline in each of vision, vestibular, proprioception) | DD8 Ch.6 | Tennis Anatomy Ch.9 + vestibular literature | Use it or lose it. Keep playing tennis. |
 | Reaction time cascade (25yo = 400ms, 50yo = 500ms, 65yo = 600ms) | DD8 Ch.5, Ch.6 | Reaction time research | The 50+ player can't return a 100 mph Phát Bóng, but can return 70–80 mph |
 ---
+
 ## CÁI KHÔNG CÓ TRONG DỰ ÁN NÀY (cố ý)
 - No stroke mechanics (no "swing low to high" or "step 1, step 2, step 3") — that's your existing [Cú Thuận Tay / Cú Trái Tay / Phát Bóng / Vôlei] deep dives in `Deep Dives/`.
 - No mental ván (no confidence, focus, pressure, choking) — that's a separate concern.
@@ -95,6 +108,7 @@ Alternate path (if you have a specific problem):
 - No trận strategy (no percentage tennis, no playing-the-percentages) — separate concern.
 *This project is ANATOMY ONLY. It is the BODY behind every stroke. The stroke mechanics, mental ván, tactics, and equipment are in your existing library.*
 ---
+
 ## CÁCH DÙNG CẨM NANG NÀY
 | Step | Action |
 |---|---|
@@ -104,6 +118,7 @@ Alternate path (if you have a specific problem):
 | 4 | Re-read after 3 months. Your body will have changed. You'll notice things you missed the first time. |
 | 5 | Use as a Tham khảo. When something hurts, look up which DD covers it. Read the relevant chapter. Apply the diagnostic. |
 ---
+
 ## CHI TIẾT KỸ THUẬT
 | Aspect | Status |
 |---|---|
@@ -114,6 +129,7 @@ Alternate path (if you have a specific problem):
 | Pipe style | Single leading pipe throughout (0 double-pipe, 0 triple-pipe violations) |
 | File naming | `DD{number}_{Topic}.md` — sortable, predictable |
 ---
+
 ## NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -121,6 +137,7 @@ Alternate path (if you have a specific problem):
 | `Tennis Knowledge/7.Tennis Books in pdf/Tennis Anatomy ( PDFDrive ).pdf` (Roetert & Kovacs, 2011, 294 pages) | Tham khảo textbook | Ch.1 Player in Motion (kilướiic chain percentages), Ch.2 Shoulders (4-joint complex, SITS, 1,074–2,300°/sec), Ch.3 Arms and Wrists (forearm muscles, exercises), Ch.7 Legs (hip ROM, gluteal muscles, squat), Ch.9 Movement Drills (5-phase visual cycle), Ch.10 Common Tennis Injuries (impingement, patellar tendonitis, meniscus) |
 | Tennis anatomy Vietnamese notes (viettennis.lưới) | Source DOCX | Specific angles (LOADED vs CONTACT), biomechanics explanations, injury prevention protocols |
 ---
+
 ## TIẾP THEO LÀ GÌ?
 | Option | Description | Effort |
 |---|---|---|
@@ -132,6 +149,7 @@ Alternate path (if you have a specific problem):
 | One bài tập per day, drawn from all 8 DDs |
 *Ask the user which option (if any) they want next.*
 ---
+
 ## TÓM TẮT XÁC MINH
 | Metric | Target | Actual | Status |
 |---|---|---|---|
@@ -148,3 +166,6 @@ Alternate path (if you have a specific problem):
 *End of ReadMe. The Anatomy Lab is compléte and verified.*
 *Hết ReadMe. Anatomy Lab hoàn thành và đã xác minh.*
 *Last updated: 2026-06-19. Built in 1 session from 7 DOCX sources + 1 PDF Tham khảo. 181 illustrations, 338 KB, 58 chapters, 8 standalone deep-dives.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

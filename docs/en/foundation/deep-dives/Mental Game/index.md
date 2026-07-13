@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 I spent years struggling with mental game until I discovered a few key principles. Here, I break down what actually works, based on my own trial and error.
 
 ## Navigation
@@ -9,3 +14,7 @@ I spent years struggling with mental game until I discovered a few key principle
 - [Mental Game — The Match Inside Your Head](Mental Game — The Match Inside Your Head.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,8 +1,15 @@
+---
+title: Readme
+lang: en
+---
+
+
 
 
 ### The big idea: "The return dictates the point"
 
-In singles, the return is a survival shot. **In doubles, the return is a setup shot.** The returner has to deal with TWO threats at once — the server's next shot AND the poacher's interception. The 3.5 player who treats the doubles return like a singles return (cross-court, hard, attacking) loses the point 80% of the time.
+In singles, the return is a survival shot. **In doubles, the return is a setup shot.** The returner has to deal with TWO threats at once — the server's next shot AND the poacher's interception.
+The 3.5 player who treats the doubles return like a singles return (cross-court, hard, attacking) loses the point 80% of the time.
 
 The answer: **4 return patterns**, one for each situation:
 
@@ -35,14 +42,22 @@ The answer: **4 return patterns**, one for each situation:
 
 ### Key 3.5-level choices I made
 
-- **Led with the Return + Lob as the 50+ default (80% of first serves).** Most 3.5 players try to "attack" the first serve and fail. A high, deep lob over the net player neutralizes the entire serving team's first-strike advantage. The lob doesn't need to be a winner — it just needs to clear the net player AND land deep.
-- **Made the Return + 1 the "smart" option for second serves.** When the partner is at the net and ready to poach, the returner's job is to "hand off" a hittable ball — not to win the point themselves. The middle return is the geometric sweet spot.
+- **Led with the Return + Lob as the 50+ default (80% of first serves).** Most 3.5 players try to "attack" the first serve and fail.
+A high, deep lob over the net player neutralizes the entire serving team's first-strike advantage. The lob doesn't need to be a winner — it just needs to clear the net player AND land deep.
+- **Made the Return + 1 the "smart" option for second serves.** When the partner is at the net and ready to poach, the returner's job is to "hand off" a hittable ball — not to win the point themselves
+. The middle return is the geometric sweet spot.
 - **Made the Return + Approach a "next step" pattern, not a default.** The 70% sprint to the net loads the knees, the back, and the heart. At 50+, this is once or twice per set, not every point.
-- **Made the Return + 2 "for the brave" at 50+.** The hard drive puts load on the shoulder, the baseline rally that follows is singles-like. At 50+, this works 25% of the time. Save it for the genuinely weak second serves.
-- **Translated the "down the middle" rule into a "geometric sweet spot" model.** The middle of the service box is the centroid of the triangle formed by the server, the poacher, and the returner. A ball hit to the centroid is equidistant — the closest player (the poacher) gets it first. This made the math intuitive.
-- **Used the "hittable ball" principle for the Return + 1.** The returner doesn't have to hit a winner — they have to hit a ball that the poacher can put away. A low return (1-2 ft over net) at knee-to-waist height is the easiest for the poacher. A high return (3+ ft over net) at chest height is the hardest.
-- **Added the "body says no" rule for the Return + Approach.** If the body says "no sprint today," use Return + Lob instead. The lob is always available. The approach is optional. **Choose based on the body's signal, not the ego.**
-- **Phrased the longevity framing:** *"The Return + Lob is the 50+ doubles insurance policy. A 50+ player who lobs 80% of first serves and uses Return + 1 on second serves is playing the smartest doubles possible. The body that doesn't load the shoulder on every return is the body that plays for 20 more years."*
+- **Made the Return + 2 "for the brave" at 50+.** The hard drive puts load on the shoulder, the baseline rally that follows is singles-like. At 50+, this works 25% of the time.
+Save it for the genuinely weak second serves.
+- **Translated the "down the middle" rule into a "geometric sweet spot" model.** The middle of the service box is the centroid of the triangle formed by the server, the poacher, and the returner.
+A ball hit to the centroid is equidistant — the closest player (the poacher) gets it first. This made the math intuitive.
+- **Used the "hittable ball" principle for the Return + 1.** The returner doesn't have to hit a winner — they have to hit a ball that the poacher can put away.
+A low return (1-2 ft over net) at knee-to-waist height is the easiest for the poacher. A high return (3+ ft over net) at chest height is the hardest.
+- **Added the "body says no" rule for the Return + Approach.** If the body says "no sprint today," use Return + Lob instead. The lob is always available. The approach is optional.
+**Choose based on the body's signal, not the ego.**
+- **Phrased the longevity framing:** *"The Return + Lob is the 50+ doubles insurance policy.
+A 50+ player who lobs 80% of first serves and uses Return + 1 on second serves is playing the smartest doubles possible.
+The body that doesn't load the shoulder on every return is the body that plays for 20 more years."*
 
 ### How this connects to the existing series
 
@@ -59,9 +74,11 @@ The answer: **4 return patterns**, one for each situation:
 
 ### The most important sentence from this deep dive
 
-> *"In doubles, the return is not a survival shot. The return is a setup shot. And the 4 return patterns are 4 different setups for 4 different situations. At 50+, the default answer — 80% of first serves, 50% of second serves — is Return + Lob. That's not defensive. That's strategic. That's longevity."*
+> *"In doubles, the return is not a survival shot. The return is a setup shot. And the 4 return patterns are 4 different setups for 4 different situations.
+At 50+, the default answer — 80% of first serves, 50% of second serves — is Return + Lob. That's not defensive. That's strategic. That's longevity."*
 
-A 3.5 player who picks the right pattern for the situation will win 60% of return games. A 3.5 player who always uses the same pattern (cross-court, hard) will win 30%. The pattern is the 30% difference.
+A 3.5 player who picks the right pattern for the situation will win 60% of return games. A 3.5 player who always uses the same pattern (cross-court, hard) will win 30%.
+The pattern is the 30% difference.
 
 ### The master cue
 
@@ -86,4 +103,13 @@ A 3.5 player who picks the right pattern for the situation will win 60% of retur
 
 ---
 
- Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+ Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default.
+Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

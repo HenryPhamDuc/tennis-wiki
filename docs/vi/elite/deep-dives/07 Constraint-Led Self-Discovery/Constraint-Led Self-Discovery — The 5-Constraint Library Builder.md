@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #7 — Constraint-Led Self-Discovery — The 5-Constraint Library Builder
+lang: en
+---
+
 # Deep-Dive #7 — Constraint-Led Self-Discovery — The 5-Constraint Library Builder
+
 # Deep-Dive #7 — Khám Phá Có Ràng Buộc — Bộ Xây Thư Viện 5 Ràng Buộc
 *Letting Your Body Solve Problems It Already Knows How to Solve — A 25-minute deep-dive for the 5.0+ player.*
 *Để Cơ Thể Giải Quyết Vấn Đề Nó Đã Biết Cách Giải — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai cảm thấy cơ thể có thể làm nhiều hơn hướng dẫn có ý thức cho phép. Bất cứ ai đã thử theo cú HLV và cảm thấy gì đó *lệch* nhưng không diễn đạt được. Bất cứ ai muốn *ngừng bảo cơ thể làm gì* và *bắt đầu cho cơ thể vấn đề để giải.* |
 | Thời gian đọc. ~25 phút. Phác đồ xây thư viện: 14-30 ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | Common CLA Mistakes | Lỗi CLA Phổ Biến |
 | 8 | Your CLA Library Card | Thẻ Thư Viện CLA Của Bạn |
 * * *
+
 # Chương 1 — Mô Hình Newell Trong Tennis Chi Tiết
 * * *
 | |
@@ -33,6 +42,7 @@
 | Ràng buộc. "Đánh Cú Thuận Tay qua dây 15cm trên lưới." *Không hướng dẫn.* Cơ thể giải tất cả góc khớp, chuyển trọng, và timing một mình. |
 | Sự thật sâu. Độ chính xác của mô hình hướng dẫn là *ảo tưởng.* Cơ thể không thể thực hiện chính xác 5 góc khớp đồng thời dưới áp lực trận. Sự không chính xác của mô hình ràng buộc là *thật* — cơ thể dùng ràng buộc làm *mục tiêu,* không phải *kịch bản,* và tìm đường riêng. Cơ thể là *người giải,* không phải *người đánh máy.* |
 * * *
+
 # Chương 2 — 5 Loại Ràng Buộc
 * * *
 | |
@@ -72,6 +82,7 @@
 | • "Bài theo điểm" → cơ thể học thi đấu dưới hậu quả. |
 | • "Bài theo thời gian" → cơ thể học quản lý năng lượng. |
 * * *
+
 # Chương 3 — Phác Đồ Xây Thư Viện (14 ngày)
 * * *
 | |
@@ -100,6 +111,7 @@
 | |
 | Sau 14 ngày, đánh giá. Xác định 3-5 tổ hợp nào tạo kết quả *tự nhiên nhất.* Đây là *tổ hợp go-to* — cơ thể anh đã giải chúng. |
 * * *
+
 # Chương 4 — Quy Tắc Cá Nhân Hóa
 * * *
 | |
@@ -111,6 +123,7 @@
 | Quy tắc 5 — Kết hợp CLA với tập hình thành myelin. Tập có ràng buộc khám phá lời giải. *Rồi* myelin hóa nó (Deep-Dive #3). Đừng myelin hóa lời giải *đầu tiên* cơ thể đề xuất — có thể không phải tốt nhất. Thử 3-5 buổi trước. |
 | Quy tắc 6 — Dùng CLA cho vấn đề, không cho cú đã thiết lập. Cú Thuận Tay anh (đã khám phá trong Deep-Dive #4) không cần CLA mỗi ngày. Dùng CLA cho *thử thách mới:* Cú Trái Tay cắt anh không giải được, bỏ nhỏ cảm thấy lệch, trả giao bóng hai. |
 * * *
+
 # Chương 5 — Khám Phá Cú Thuận Tay Có Ràng Buộc
 * * *
 | |
@@ -123,6 +136,7 @@
 | Ràng buộc 4 — Thiết bị (vợt). Chọn căng dây anh thực sự dùng (không phải cái anh nên dùng). |
 | Kiểm tra 4 ràng buộc. Với 4 ràng buộc này giữ cố định, đánh 50 Cú Thuận Tay. Ghi cơ thể làm gì. Lặp với biến-thiên-đơn-ràng-buộc (vd. căng dây khác). *Biến thiên phơi bày cái gì thiết yếu vs. cái gì tình cờ.* |
 * * *
+
 # Chương 6 — Bảng Thiết Kế Ràng Buộc
 * * *
 | |
@@ -137,6 +151,7 @@
 | Bước 7. Tôi sẽ chấm thành công thế nào? (vd. "cảm giác tự nhiên," "kết quả đến mục tiêu") _________________ |
 | Bước 8. Sau bài: Cơ thể tôi tìm lời giải không? _______________ |
 * * *
+
 # Chương 7 — Lỗi CLA Phổ Biến
 * * *
 | |
@@ -147,8 +162,10 @@
 | Lỗi 4 — Đổi ràng buộc trước khi cơ thể giải xong. 5 rep ràng buộc mới và "cái này không hiệu quả." *Cơ thể chưa có thời gian.* Cho nó 20-30 rep trước khi quyết. |
 | Lỗi 5 — CLA không myelin hóa tiếp theo. CLA khám phá lời giải. Myelin hóa khóa chúng vào. *Nếu anh không myelin hóa, khám phá phai trong 2-3 tuần.* |
 * * *
+
 # Chương 8 — Thẻ Thư Viện CLA Của Bạn
 * * *
+
 ### 📋 Deep-Dive #7 Master Card — Printable / Thẻ Tổng Deep-Dive #7
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE CLA LIBRARY CARD — YOUR CONSTRAINT-DESIGN SYSTEM ║
@@ -223,6 +240,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -234,3 +252,6 @@ Sources / Nguồn:
 - Advanced Tennis Kilướiic-Chain Manual.md (constraint-led rehabilitation & return-to-play frameworks, transfer-of-luyện tập principle)
 - Davids, Button & Benlướit (2008) — Dynamics of Skill Acquisition — the constraint-led approach in sport
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

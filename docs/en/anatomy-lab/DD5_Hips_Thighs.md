@@ -1,3 +1,9 @@
+---
+title: DD5 — Hips & Thighs
+lang: en
+---
+
+
 # DD5 — Hips & Thighs
 
 *Gluteus Maximus, the 6 Deep Rotators, and Why Wider Stance Saves Your 50+ Knees*
@@ -5,13 +11,6 @@
 ---
 
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
-
-| 🇺🇸  |
-| --- |
-| The hip is the **largest joint in the body**. The gluteus maximus is the **largest muscle**. The 6 deep external rotators control the femoral head in the socket. Tennis requires the hip to rotate 40–50° per stroke — the hip must be both MOBILE (to rotate) and STABLE (to protect the lumbar). |
-| **What it covers:** the 3 gluteal muscles (max, med, min), the 6 deep external rotators (piriformis, obturator internus/externus, gemellus sup/inf, quadratus femoris), the femoral-acetabular joint, the wider-stance transformation, and the hip CARs (Controlled Articular Rotations) drill. |
-| **What it does NOT cover:** the knee (DD6), the ankle/foot (DD7), or sciatica (DD4 — already covered). |
-| **Reading time:** 30–40 minutes. |
 
 ---
 
@@ -33,12 +32,6 @@
 
 ## Chapter 1 — The Hip Joint (Ball-and-Socket, Femoroacetabular)
 
-| 🇺🇸  |
-| --- |
-| **The hip is a ball-and-socket joint** — the head of the femur (ball) sits in the acetabulum of the pelvis (socket). Unlike the shoulder, the hip is built for STABILITY. The socket is deeper, the ligaments are tighter, the surrounding muscles are larger. |
-| **The price of stability is range of motion.** The hip can flex 120°, extend 30°, abduct 45°, adduct 30°, internally rotate 45°, and externally rotate 45°. This is LESS than the shoulder (which has ~180° flexion and ~90° rotation in any direction). |
-| **Tennis needs:** the modern open-stance forehand needs 40–50° hip rotation. If the hip can't rotate that much, the body finds rotation elsewhere — the lumbar spine. The lumbar disc pays. |
-
 ### The Hip Range of Motion Numbers
 
 | Movement | Normal ROM | Tennis Needs | 50+ Decline | Tennis Impact |
@@ -52,12 +45,6 @@
 
 ### The Femoroacetabular Impingement (FAI) Reality
 
-| 🇺🇸  |
-| --- |
-| **FAI happens when extra bone grows along one or both surfaces of the hip joint.** The ball and socket don't fit perfectly. They rub against each other during movement. Over time, the cartilage tears. |
-| **The 50+ reality:** by age 50, ~30% of people have some FAI changes visible on X-ray. Most are asymptomatic. The 50+ tennis player may feel a sharp groin pinch when lunging for a low forehand. That's FAI. |
-| **The fix:** avoid end-range hip flexion under load. The hip hinge (DD4) keeps you OUT of the FAI zone. The wider stance (this DD) keeps the hip in mid-range. |
-
 *Source: Tennis Anatomy Ch.7 (Legs), pages 181–185. Reference for ROM: AAOS (American Academy of Orthopaedic Surgeons) standards.*
 
 ---
@@ -65,12 +52,6 @@
 * * *
 
 ## Chapter 2 — Gluteus Maximus (The Largest Muscle in Your Body)
-
-| 🇺🇸  |
-| --- |
-| **Gluteus maximus is the LARGEST muscle in the human body** — up to 30 kg of potential force in a trained adult. It originates on the posterior ilium, sacrum, and coccyx. It inserts on the gluteal tuberosity of the femur AND the iliotibial tract (IT band). |
-| **The gluteus maximus has TWO parts:** the SUPERFICIAL part (65% of the mass) is for powerful extension — climbing, jumping, sprinting. The DEEP part (35% of the mass) is for fine control of the hip. Most people only train the superficial. The deep part is what the 50+ player needs. |
-| **The 50+ decline:** by age 50, the gluteus maximus has typically lost 10–15% of its cross-sectional area. By 70, it's 25–30%. The result: a) reduced power, b) the hip becomes "lazy" — the body finds extension from the lumbar (back pain) or the hamstrings (hamstring strain). |
 
 ### Gluteus Maximus — The 3 Gluteal Muscles
 
@@ -82,12 +63,6 @@
 
 ### The Glute Med "Pelvis Drop" Test — A Self-Check
 
-| 🇺🇸  |
-| --- |
-| **Stand on one leg. Have a friend watch your pelvis from behind.** The free-side hip should stay level or slightly UP (because the stance-side glute med is working). If the free-side hip DROPS, your glute med is weak. |
-| **The fix:** the clamshell exercise. Side-lying, knees bent 45°, feet together. Open the top knee like a clamshell. 2×15 each side, daily. After 4 weeks, retest the pelvis drop. |
-| **The 50+ tennis rule:** if your glute med is weak, you will lean your torso to the side during every side shuffle. The lean compresses the L4-L5 disc laterally. Over time, scoliosis-like compensation. |
-
 *Source: Anatomy_Tennis_Full_.docx, Part I (Wider stance → glutes), Part II (Deep rotators). Tennis Anatomy Ch.7 (Legs) corroborates.*
 
 ---
@@ -95,12 +70,6 @@
 * * *
 
 ## Chapter 3 — The 6 Deep External Rotators (Centering the Femoral Head)
-
-| 🇺🇸  |
-| --- |
-| **The 6 deep external rotators are the unsung heroes of hip stability.** From superficial to deep: piriformis, gemellus superior, obturator internus, gemellus inferior, obturator externus, quadratus femoris. They are small. They sit deep. Their main job is NOT to produce movement. It is to CENTER the femoral head in the acetabulum. |
-| **The key insight from the user's source:** "Chức năng chính là định tâm khớp, không phải tạo lực. Khi thiếu kích hoạt, chỏm xương đùi di lệch nhẹ về phía trước, kích thích thụ thể nociceptive trong bao khớp." (The main function is joint centering, not force production. When activation is lacking, the femoral head shifts slightly forward, stimulating nociceptive receptors in the joint capsule.) |
-| **The translation:** the brain interprets the slight forward shift of the femoral head as PAIN. It doesn't know the cause. It just knows the hip feels "stiff." The brain then tenses the SURFACE muscles (TFL, rectus femoris) to "protect" the joint. This is the "restricted outflow" pattern — the deep stabilizers are silent, the surface muscles are overworked. |
 
 ### The 6 Deep External Rotators
 
@@ -115,12 +84,6 @@
 
 ### The Restricted Outflow Pattern — How It Feels
 
-| 🇺🇸  |
-| --- |
-| **The "stiff hip" of a 50+ player is almost NEVER a flexibility problem.** It is a CONTROL problem. The deep rotators are silent. The capsule feels tight because the femoral head is in the wrong position. |
-| **The fix is NOT aggressive stretching.** Aggressive stretching of a "tight hip capsule" in this state actually destabilizes the joint further. The fix is RE-ACTIVATION: controlled hip rotations (CARs) that wake up the deep rotators. |
-| **The result:** after 2–3 weeks of CARs, internal rotation increases 12–18° WITHOUT static stretching. The capsule feels "more open" — not because it's been stretched, but because the femoral head is now centered. The brain re-allocates tension. |
-
 *Source: Anatomy_Tennis_Full_.docx, Part II (Deep rotators, restricted outflow). Tennis Anatomy Ch.7 corroborates.*
 
 ---
@@ -128,12 +91,6 @@
 * * *
 
 ## Chapter 4 — The Wider Stance Transformation (Quads to Glutes)
-
-| 🇺🇸  |
-| --- |
-| **Opening the stance WIDER than the shoulders does 3 things simultaneously:** (1) externally rotates the femur, (2) stretches the gluteus maximus + medius + TFL, (3) brings the ADDUCTORS (inner thigh) into play. |
-| **The adductors' new role:** they create a CENTRIPETAL force — pulling the femoral head INTO the acetabulum. The glute medius no longer has to work alone. The wider stance DISTRIBUTES the hip centering load across 3 muscle groups. The result: a more stable, more powerful, less painful hip. |
-| **The user's source explains the moment of lifting:** "Mở chân rộng hơn vai làm xương đùi xoay ngoài, kéo căng gluteus maximus, gluteus medius và tensor fasciae latae. Cùng lúc, adductor longus, brevis và magnus được kích hoạt..." (Opening the feet wider than the shoulders externally rotates the femur, stretching glute max, glute med and TFL. Simultaneously, the adductor longus, brevis, and magnus are activated.) |
 
 ### The Wider Stance — The 3 Muscle Groups
 
@@ -156,13 +113,6 @@
 
 ### The Net Effect — What Changes
 
-| 🇺🇸  |
-| --- |
-| **The "moment of lifting" transfers load from the quadriceps to the gluteus maximus.** |
-| **Quadriceps** (front of thigh): small cross-section in 50+ player, prone to tendonitis, cannot generate 30 kg of force safely. |
-| **Gluteus maximus** (back of hip): largest muscle, prime mover, designed for 30 kg of force. |
-| **The result:** lower pressure on the patellar tendon (knee), lower pressure on the L4-L5 disc (back), higher force production. This is the "wide stance" magic. |
-
 *Source: Anatomy_Tennis_Full_.docx, Part I (Wider stance transformation).*
 
 ---
@@ -170,15 +120,6 @@
 * * *
 
 ## Chapter 5 — Hip Stiffness (The Restricted Outflow Problem)
-
-| 🇺🇸  |
-| --- |
-| **The most common "hip problem" in a 50+ tennis player is NOT arthritis, NOT a labral tear, NOT a tight IT band.** It is restricted outflow. The deep rotators are silent. The capsule feels tight. The brain allocates tension to the surface muscles. The hip FEELS stiff, but the actual joint ROM is fine. |
-| **The 4 telltale signs of restricted outflow (NOT arthritis):** |
-| 1. Stiffness is WORSE in the morning, IMPROVES with movement |
-| 2. Stiffness is ASYMMETRIC (one hip worse than the other) |
-| 3. No actual pain AT REST |
-| 4. Movement patterns show "lazy" hip — body finds alternative rotation |
 
 ### The Restricted Outflow Fix — 3 Layers
 
@@ -190,11 +131,6 @@
 
 ### The 50+ Hip Truth — Don't Stretch, Activate
 
-| 🇺🇸  |
-| --- |
-| **Friend, the worst thing you can do for a "stiff 50+ hip" is static stretching.** It destabilizes the joint further. The capsule doesn't need length — the femoral head needs to be CENTERED. The fix is activation, not stretching. |
-| **The test:** lie on your back. Bend one knee to chest. The other leg stays flat. If the bent knee can reach the chest with the OPPOSITE leg staying flat, your hip flexors are fine. The "stiffness" is in the CENTRATORS, not the flexors. |
-
 *Source: Anatomy_Tennis_Full_.docx, Part II (Restricted outflow).*
 
 ---
@@ -202,11 +138,6 @@
 * * *
 
 ## Chapter 6 — Hip CARs (The Daily 2-Minute Mobility Drill)
-
-| 🇺🇸  |
-| --- |
-| **CARs = Controlled Articular Rotations.** A CAR is a slow, deliberate rotation of a joint through its FULL range of motion, with TENSION applied at the end range to "teach" the nervous system that the new range is safe. |
-| **Why CARs work for the hip:** the hip's stiffness is often a CONTROL problem. The capsule has range, but the brain doesn't trust it. CARs take the joint to the end range, hold tension there for 2–3 seconds, and return. The brain learns: this is safe. The brain releases its protective tension. Range increases. |
 
 ### The Hip CAR Protocol — Step by Step
 
@@ -246,10 +177,6 @@
 
 ## Chapter 7 — The Thigh Compartment (Quads, Hamstrings, Adductors)
 
-| 🇺🇸  |
-| --- |
-| **The thigh has 3 compartments separated by fascia.** The ANTERIOR compartment (front) holds the quadriceps. The POSTERIOR compartment (back) holds the hamstrings. The MEDIAL compartment (inner) holds the adductors. Each has a different role. Tennis needs all 3 to work in coordination. |
-
 ### The 3 Thigh Compartments
 
 | Compartment | Main Muscles | Primary Action | Tennis Role | Injury Risk if Imbalanced |
@@ -286,11 +213,6 @@
 | **Pectineus** | Pubis | Pectineal line of femur | Hip flexion + adduction. |
 
 ### The Tennis Thigh Truth — All 3 Compartments Must Coordinate
-
-| 🇺🇸  |
-| --- |
-| **A forehand in wider stance requires:** quads (push off), glute max (hip extension), adductors (centering), hamstrings (deceleration). If one is weak or tight, the others compensate. Compensation = injury. |
-| **The fix:** balance training. Don't just do quad exercises (squats, leg press). Do hip-dominant exercises (hip hinge, single-leg deadlift). Do adductor work (side lunge, Copenhagen plank). Do hamstring eccentric work (Nordic curl, Romanian deadlift). |
 
 *Source: Tennis Anatomy Ch.7 (Legs), pages 181–195.*
 
@@ -492,3 +414,10 @@
 *End of DD5 — Hips & Thighs
 
 *Next: DD6 — Knees (Patella, Meniscus, ACL, the 50–80° Loading Rule)
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

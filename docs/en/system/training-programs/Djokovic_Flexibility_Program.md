@@ -1,7 +1,13 @@
+---
+title: Djokovic Flexibility & Adaptability Program
+lang: en
+---
+
 # Djokovic Flexibility & Adaptability Program
 
 ## Overview
-This training program is designed to develop the flexibility, elasticity, and adaptive capabilities that define Novak Djokovic's legendary durability and ability to perform at the highest level across all surfaces and conditions. The program focuses on elastic strength, dynamic flexibility, joint mobility, and the mental flexibility to adapt tactics mid-match.
+This training program is designed to develop the flexibility, elasticity, and adaptive capabilities that define Novak Djokovic's legendary durability and ability to perform at the highest level across
+ all surfaces and conditions. The program focuses on elastic strength, dynamic flexibility, joint mobility, and the mental flexibility to adapt tactics mid-match.
 
 ## Program Overview
 - **Duration**: 12 weeks (can be adjusted based on athlete level)
@@ -19,6 +25,7 @@ Djokovic's physical and mental game is built on:
 5. **Recovery & Regeneration**: Systematic approach to recovery between sessions and matches
 
 ## Phase 1: Foundation & Mobility Assessment (Weeks 1-3)
+
 ### Goals: Establish baseline flexibility, develop daily routine, introduce elastic strength concepts
 
 #### Daily Flexibility Routine (Non-Negotiable - 20 minutes daily)
@@ -89,6 +96,7 @@ Djokovic's physical and mental game is built on:
 - Sunday: Flexibility AM/PM + Active Recovery (walk, swim, yoga)
 
 ## Phase 2: Flexibility & Elasticity Development (Weeks 4-6)
+
 ### Goals: Increase range of motion, develop elastic strength in tennis-specific movements, begin mental flexibility training
 
 #### Enhanced Daily Flexibility (25-30 minutes daily)
@@ -169,6 +177,7 @@ Djokovic's physical and mental game is built on:
 - Sunday: Flexibility AM/PM + Active Recovery + Extended Meditation (20 min)
 
 ## Phase 3: Integration & Match Simulation (Weeks 7-9)
+
 ### Goals: Integrate flexibility and elasticity into match play, develop consistency under fatigue, refine mental adaptability
 
 #### Maintenance Flexibility (20-25 minutes daily)
@@ -233,6 +242,7 @@ Djokovic's physical and mental game is built on:
 - Sunday: Flexibility AM/PM + Active Recovery + Extended Mental Work (30 min)
 
 ## Phase 4: Peak & Competition Preparation (Weeks 10-12)
+
 ### Goals: Peak flexibility and elasticity, maintain mental sharpness, prepare for competition
 
 #### Peak Flexibility Maintenance (15-20 minutes daily)
@@ -251,6 +261,7 @@ Djokovic's physical and mental game is built on:
   - Medicine ball throws (focus on explosiveness): 2x10 each type
   - Lateral bounds with quick feet: 2x12 each side
   
+
 #### Competition-Specific Mental Flexibility (Daily, 15-20 minutes)
 - **Pre-Match Routines** (5 minutes)
   - Visualization of match start and early game plans
@@ -282,6 +293,7 @@ Djokovic's physical and mental game is built on:
 - Sunday: Flexibility AM/PM + Recovery Focus (light yoga, swimming, walk) + Mental Visualization
 
 ## Competition & Recovery Strategies
+
 ### During Tournaments
 - **Daily Maintenance**
   - Morning flexibility routine non-negotiable
@@ -315,6 +327,7 @@ Djokovic's physical and mental game is built on:
   - Omega-3 fatty acids for joint inflammation management
 
 ## Evaluation and Progress Tracking
+
 ### Weekly Metrics to Track
 1. **Morning Flexibility Score** (1-10): Subjective rating of overall looseness upon waking
 2. **Evening Recovery Score** (1-10): Subjective rating of how well body recovered from day's activities
@@ -345,6 +358,7 @@ Djokovic's physical and mental game is built on:
    - Ability to execute varied game plans in practice matches
 
 ## Adaptation for Different Levels
+
 ### Beginner Focus (NTRP 2.5-3.5)
 - **Flexibility Focus**: Basic range of motion development, consistency over intensity
 - **Elasticity Focus**: Low-intensity, focus on proper landing mechanics
@@ -396,3 +410,6 @@ Djokovic's physical and mental game is built on:
 - **Coaching Aids**: USPTA/PTR sports science materials, ATP/WTA player development resources
 - **Technology**: Motion capture systems, force plates, flexibility measurement tools if available
 - **Expert Consultation**: Consider working with a yoga instructor specializing in athletes, a sports massage therapist, and a mental performance coach
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

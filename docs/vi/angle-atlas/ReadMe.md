@@ -1,12 +1,22 @@
+---
+title: Tuyen_Tap — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5
+lang: en
+---
+
 # Tuyen_Tap — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5
+
 # Tuyển Tập — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5
 *Built from viettennis.lưới "Tuyen Tap KyThuat Tennis" + `Anatomy_Lab/` (181 illustrations) + the 20-chapter body perception handbook*
 *Xây từ viettennis.lưới "Tuyển Tập Kỹ Thuật Tennis" + `Anatomy_Lab/` (181 hình minh họa) + cẩm nang nhận thức cơ thể 20 chương*
 ---
+
 ## What This Project Is / Dự Án Này Là Gì
-This is a 7-part, EN-VI bilingual deep-dive project that treats tennis through the lens of a control system — hardware (joints/muscles/bones), springs (tendons), controller (brain), and sensors (the 5 feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.
-Đây là dự án 7 phần, EN-VI song ngữ xem tennis qua lăng kính của hệ điều khiển — phần cứng (khớp/cơ/xương), lò xo (gân), bộ điều khiển (não), và cảm biến (5 kênh phản hồi). Nó bổ sung cho các thư viện `Deep Dives/` (kỹ thuật cú đánh) và `Anatomy_Lab/` (giải phẫu cơ thể) hiện có.
+This is a 7-part, EN-VI bilingual deep-dive project that treats tennis through the lens of a control system — hardware (joints/muscles/bones), springs (tendons), controller (brain), and sensors (the 5
+ feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.
+Đây là dự án 7 phần, EN-VI song ngữ xem tennis qua lăng kính của hệ điều khiển — phần cứng (khớp/cơ/xương), lò xo (gân), bộ điều khiển (não), và cảm biến (5 kênh phản hồi).
+Nó bổ sung cho các thư viện `Deep Dives/` (kỹ thuật cú đánh) và `Anatomy_Lab/` (giải phẫu cơ thể) hiện có.
 ---
+
 ## The Control System Framework / Khung Hệ Điều Khiển
 This project uses an engineering framing — tennis = a feedback control loop:
 | Layer / Lớp | Lives In / Ở Đâu | Concept / Khái Niệm |
@@ -17,6 +27,7 @@ This project uses an engineering framing — tennis = a feedback control loop:
 | Aging adaptation / Thích ứng lão hóa | DD6 | 7 declines × rehab protocols |
 | Body awareness / Nhận thức cơ thể | DD7 Ch.10 | 5-phase body perception cycle, internal/external focus |
 ---
+
 ## The 7 Deep Dives / 7 Chuyên Đề
 | File | Topic | Size | New in v2 / Mới ở v2 |
 |---|---|---|---|
@@ -30,6 +41,7 @@ This project uses an engineering framing — tennis = a feedback control loop:
 | ReadMe | This document | ~12 KB | Updated |
 Total project size: ~460 KB / 68 chapters / 60+ embedded illustrations
 ---
+
 ## How the 7 DDs Connect / 7 DD Kết Nối Thế Nào
 ```
 SV (Set Value: what you want)
@@ -67,6 +79,7 @@ Updated SV for next stroke
 - DD6 = how aging adapts the loop
 - DD7 = how sensors feed back to close the loop
 ---
+
 ## Key Concepts That Are NEW (not in your existing deep dives)
 | Concept | Where It Lives | Source |
 |---|---|---|
@@ -93,16 +106,10 @@ Updated SV for next stroke
 | Wulf research: internal focus → faster motor learning | DD7 Ch.10 | Wulf 2007, 2013 |
 | Errors are sensor failures, not stroke-mechanic failures | DD7 Ch.9 + Final Word | 20-chapter handbook Ch.17 |
 ---
+
 ## Format Compliance / Tuân Thủ Định Dạng
-- ✅ EN-VI side-by-side tables throughout (single-pipe `|` style)
-- ✅ Master huấn luyện viên Giọng nói — direct, second-person, conversational
-- ✅ Vietnamese is natural (uses roi, lò xo, đòn bẩy, tay cầm vợt, etc. — consistent with your existing library)
-- ✅ Printable cheat sheet card at end of every DD (╔══╗ ASCII box with One Big Idea / Key Cues / Top Mistake / Drill / Master Cue, bilingual)
-- ✅ 50+ aware throughout (Surrey BC context, age-specific cues)
-- ✅ NO stroke mechanics, NO mental ván (deliberate constraint)
-- ✅ Numbers, not vague advice (every chapter has specific angles, %, time durations, energy values)
-- ✅ 60+ illustrations embedded inline referencing `Anatomy_Lab/images/` — Markdown image syntax ``
 ---
+
 ## Reading Path Suggestions / Gợi Ý Đường Đọc
 For a quick win (1 weekend):
 - DD7 Ch.1, Ch.8, Ch.9 — the control-engineering view of tennis
@@ -117,6 +124,7 @@ For building the daily routine (1 hour total over a week):
 - DD7 Ch.11 (the 5 sensor bài tậps — 5 min each)
 - Combined: ~40 min/day for full body perception program
 ---
+
 ## Sources / Nguồn
 Primary sources:
 - `viettennis.lưới` — Tuyen Tap KyThuat Tennis by Tuan_tuan (~152-page DOCX with biomechanics essays)
@@ -137,6 +145,7 @@ Supporting research cited in each DD:
 - Faulkner, Frontera (muscle aging)
 - ACSM (exercise prescription for older adults)
 ---
+
 ## What's Next? / Tiếp Theo?
 Possible follow-ups:
 1. A "Integration" DD (DD8) — "The Whole Body Cú Thuận Tay" that brings all 7 DDs together for a single stroke
@@ -151,3 +160,6 @@ Let me know if any of these would help. For now, the 7 deep dives are compléte,
 *"Don't ask what to do. Ask what angle to create. Then ask: how well am I sensing what I'm doing?"*
 *"Đừng hỏi phải làm gì. Hỏi phải tạo góc nào. Rồi hỏi: tôi đang cảm nhận việc mình làm tốt cỡ nào?"*
 — DD1 closing cue × DD7 framing
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

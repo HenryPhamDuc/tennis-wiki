@@ -1,4 +1,10 @@
-Done. Deep Dive on Backhand saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Backhand\Backhand — The Mirror, The Whip & The Slice.md`** (53 KB, 549 lines, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on Backhand saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Backhand\Backhand — The Mirror, The Whip & The Slice.md`** (53 KB, 549 lines, EN-VI bilingual, 5 chapte
+rs)
 
 ### What this deep dive does differently
 
@@ -56,3 +62,7 @@ Unlike the 4 forehand deep dives (which were organized by L1-L4 layers), this on
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
 
 Hy vọng cú backhand của anh tuần này sẽ bắt đầu cảm thấy *giống* forehand — chỉ đảo chiều.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

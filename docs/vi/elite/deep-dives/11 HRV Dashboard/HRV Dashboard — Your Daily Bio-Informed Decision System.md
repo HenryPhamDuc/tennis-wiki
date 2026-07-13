@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #11 — HRV Dashboard — Your Daily Bio-Informed Decision System
+lang: en
+---
+
 # Deep-Dive #11 — HRV Dashboard — Your Daily Bio-Informed Decision System
+
 # Deep-Dive #11 — Bảng Điều Khiển HRV — Hệ Thống Quyết Định Hàng Ngày Dựa Trên Sinh Học
 *The Green/Yellow/Red Day Protocol — A 25-minute deep-dive for the 5.0+ player.*
 *Phác Đồ Ngày Xanh/Vàng/Đỏ — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai có hiệu suất tennis biến đổi ngày qua ngày và không biết tại sao. Bất cứ ai được bảo "nghe cơ thể" nhưng không biết cách. Bất cứ ai muốn mang chính xác khoa học đến *khi nào* đẩy và *khi nào* nghỉ. |
 | Thời gian đọc. ~25 phút. Thiết lập đường cơ sở HRV: tối thiểu 30 ngày. Thực hành hàng ngày: vô thời hạn. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | Common HRV Mistakes | Lỗi HRV Phổ Biến |
 | 8 | Your HRV Dashboard Card | Thẻ Bảng Điều Khiển HRV Của Bạn |
 * * *
+
 # Chương 1 — HRV Thực Sự Đo Gì (Chi Tiết)
 * * *
 | |
@@ -37,6 +46,7 @@
 | RMSSD. Đo lường phổ biến nhất. Phản ánh hoạt động phó giao cảm. *Cao hơn = hồi phục tốt hơn.* |
 | HF-HRV. Đo miền tần số. Cùng hướng RMSSD nhưng cụ thể hơn cho trương phó giao cảm. *Dùng trong nghiên cứu; ít phổ biến trong app tiêu dùng.* |
 * * *
+
 # Chương 2 — Cách Đo HRV Rẻ (3 Lựa Chọn)
 * * *
 | |
@@ -53,6 +63,7 @@
 | Khuyến nghị. |
 | Bắt đầu với Lựa chọn 1. Miễn phí, nhanh, đủ chính xác. Nâng cấp lên Lựa chọn 2 nếu muốn dữ liệu cấp nghiên cứu. Nâng cấp lên Lựa chọn 3 chỉ nếu ngân sách cho phép. *Hệ HRV tốt nhất là cái anh thực sự sẽ dùng hàng ngày.* |
 * * *
+
 # Chương 3 — Phác Đồ Đường Cơ Sở 30 Ngày
 * * *
 | |
@@ -75,6 +86,7 @@
 | Mùa hè → đường cơ sở thường cao hơn (nhiều hoạt động, nhiều nắng). |
 | Điều chỉnh đường cơ sở mỗi mùa. Đọc "thấp" mùa đông có thể là xanh cho anh tháng Một và đỏ tháng Bảy. |
 * * *
+
 # Chương 4 — Cây Quyết Định Xanh/Vàng/Đỏ
 * * *
 | |
@@ -105,6 +117,7 @@
 | Tái khung "đỏ là dữ liệu." |
 | Ngày đỏ không phải "yếu" hoặc "thất bại." *Nó là tín hiệu trung thực của cơ thể rằng nó cần hồi phục.* Tôn trọng ngày đỏ *ngăn* chấn thương và bệnh. *Ngày đỏ là một phần của hệ thống, không phải ngoại lệ.* |
 * * *
+
 # Chương 5 — Nghiên Cứu Tình Huống Người 5.0+
 * * *
 | |
@@ -124,6 +137,7 @@
 | Mẫu xuyên các trường hợp. |
 | HRV không chỉ về "nghỉ vs. làm." Nó về *thời điểm* tập cho trạng thái hồi phục cơ thể. *Người 5.0+ dùng HRV đưa ra quyết định tốt hơn 20-30% về khi nào đẩy vs. khi nào nghỉ.* |
 * * *
+
 # Chương 6 — Tích Hợp với Tập, Áp Lực, Giấc Ngủ
 * * *
 | |
@@ -137,6 +151,7 @@
 | HRV + thi đấu. |
 | HRV trước trận nói trạng thái khởi đầu. *HRV trước trận 10% dưới đường cơ sở = trận cấp vàng, không phải cấp xanh.* Điều chỉnh kỳ vọng, không nỗ lực. |
 * * *
+
 # Chương 7 — Lỗi HRV Phổ Biến
 * * *
 | |
@@ -147,8 +162,10 @@
 | Lỗi 4 — Coi đỏ là thất bại. "Tôi có ngày đỏ, hệ thống tôi hỏng." *Ngày đỏ là một phần hệ thống.* Hệ thống là hệ thống. |
 | Lỗi 5 — Ghi đè HRV bằng ý chí. "HRV tôi nói vàng nhưng tôi muốn đẩy hôm nay." *Ý chí vs. sinh lý. Sinh lý thắng cuối cùng. Đẩy anyway = rủi ro chấn thương.* |
 * * *
+
 # Chương 8 — Thẻ Bảng Điều Khiển HRV Của Bạn
 * * *
+
 ### 📋 Deep-Dive #11 Master Card — Printable / Thẻ Tổng Deep-Dive #11
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE HRV DASHBOARD CARD — YOUR DAILY BIO-INFORMED SYSTEM ║
@@ -237,6 +254,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -249,3 +267,6 @@ Sources / Nguồn:
 - Advanced Tennis Kilướiic-Chain Manual.md (Conditioning & Recovery — HRV integration with luyện tập load, sleep quality scores, CNS fatigue markers)
 - Plews et al. (2013) — Evaluating the athléte's heart — HRV-based luyện tập adaptation in elite athlétes
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,8 +1,16 @@
+---
+title: 🎾  Tennis Knowledge Base
+lang: en
+---
+
+
 # 🎾  Tennis Knowledge Base
 
 ## 📖 Introduction
 
-I wrote this manual for myself first. When I started, I had been playing tennis for years but still didn't understand why my forehand kept flying long, why my elbow hurt at 45, why professional players looked so effortless. I read many books, watched countless videos, attended a coaching course in Canada, and asked many tennis players better than me. Most of what I write here is a synthesis of those learnings.
+I wrote this manual for myself first. When I started, I had been playing tennis for years but still didn't understand why my forehand kept flying long, why my elbow hurt at 45, why professional player
+s looked so effortless. I read many books, watched countless videos, attended a coaching course in Canada, and asked many tennis players better than me.
+Most of what I write here is a synthesis of those learnings.
 
 **The main point I want to share before you read further: tennis is not a hammer sport — it's a whip sport. And you're playing a 20-year sport.**
 
@@ -35,3 +43,10 @@ Welcome to the  version of the Tennis Knowledge Base.
 - [🏠 Main Home Page](../../index.md)
 
 *© 2026 Henry Phạm Đức · Tennis Future Lab*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

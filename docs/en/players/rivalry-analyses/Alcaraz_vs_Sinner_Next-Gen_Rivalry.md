@@ -1,7 +1,13 @@
+---
+title: Carlos Alcaraz vs Jannik Sinner: Next-Gen Rivalry
+lang: en
+---
+
 # Carlos Alcaraz vs Jannik Sinner: Next-Gen Rivalry
 
 ## Overview
-The rivalry between Carlos Alcaraz and Jannik Sinner represents the next generation of tennis excellence, featuring two of the most talented and exciting young players on the ATP Tour. Their matches showcase contrasting styles, incredible athleticism, and the future direction of men's tennis.
+The rivalry between Carlos Alcaraz and Jannik Sinner represents the next generation of tennis excellence, featuring two of the most talented and exciting young players on the ATP Tour.
+Their matches showcase contrasting styles, incredible athleticism, and the future direction of men's tennis.
 
 ## Head-to-Head Record
 - **Overall**: Alcaraz leads 4-3 (as of July 2026)
@@ -184,8 +190,14 @@ The rivalry between Carlos Alcaraz and Jannik Sinner represents the next generat
 - Losses are seen as stepping stones rather than defeats, indicating strong mentality
 
 ## Conclusion
-The Alcaraz-Sinner rivalry is still in its relative infancy but has already produced some of the most exciting tennis of the mid-2020s. Their contrasting styles—Alcaraz's explosive athleticism and variety versus Sinner's laser-like precision and consistency—create fascinating tactical battles that push both players to evolve. As they continue to mature physically and mentally, their matches promise to be highlights of the tennis calendar for years to come, potentially defining an era in men's tennis much like the rivalries that came before them.
+The Alcaraz-Sinner rivalry is still in its relative infancy but has already produced some of the most exciting tennis of the mid-2020s.
+Their contrasting styles—Alcaraz's explosive athleticism and variety versus Sinner's laser-like precision and consistency—create fascinating tactical battles that push both players to evolve.
+As they continue to mature physically and mentally, their matches promise to be highlights of the tennis calendar for years to come, potentially defining an era in men's tennis much like the rivalries
+ that came before them.
 
 *Part of the Tennis Legends Research Project - Rivalry Analysis Series*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

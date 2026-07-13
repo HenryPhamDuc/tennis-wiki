@@ -1,3 +1,9 @@
+---
+title: Index
+lang: en
+---
+
+
 When I first started working on my 07 constraint led self discovery, I realized how much I had misunderstood. This section shares the insights and drills that transformed my approach.
 
 ## Navigation
@@ -8,3 +14,11 @@ When I first started working on my 07 constraint led self discovery, I realized 
 ## Pages in this folder
 - [Constraint Led Self Discovery — The 5 Constraint Library Builder](Constraint-Led Self-Discovery — The 5-Constraint Library Builder.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

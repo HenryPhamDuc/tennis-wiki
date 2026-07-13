@@ -1,8 +1,15 @@
-Done. 1-Page Match Pocket Card saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\1-Page Match Pocket Card — The Complete Grip System.md`** (~34 KB, EN-VI bilingual, 1 page + 2 expanded versions)
+---
+title: Readme
+lang: en
+---
+
+Done. 1-Page Match Pocket Card saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\1-Page Match Pocket Card — The Complete Grip System.md`** (~34 KB, EN-VI bilingu
+al, 1 page + 2 expanded versions)
 
 ### The big idea: "The complete grip system in 1 page"
 
-The Pocket Card is a **printable, foldable, bag-pocket reference** that consolidates the entire grip system from 4 deep dives (Continental, Eastern/Semi-Western, Grip Change Map, Foundations) into a single 1-page card. **The 50+ player who prints this card and carries it to every match has the system at hand, not in their head.**
+The Pocket Card is a **printable, foldable, bag-pocket reference** that consolidates the entire grip system from 4 deep dives (Continental, Eastern/Semi-Western, Grip Change Map, Foundations) into a s
+ingle 1-page card. **The 50+ player who prints this card and carries it to every match has the system at hand, not in their head.**
 
 ### What's on the card
 
@@ -66,13 +73,15 @@ The Pocket Card is a **printable, foldable, bag-pocket reference** that consolid
 
 ### The most important sentence from this card
 
-> *"Continental is home base. Semi-Western is the forehand. 5-second reset. Baby bird → Slingshot stone → Wrist lock. At 50+, the player with this card plays 20 years. The player without fumbles 7 minutes per match."*
+> *"Continental is home base. Semi-Western is the forehand. 5-second reset. Baby bird → Slingshot stone → Wrist lock. At 50+, the player with this card plays 20 years.
+The player without fumbles 7 minutes per match."*
 
 A 50+ player with the card has the system at hand. A 50+ player without the card has the system in their head — and forgets under pressure. **The card is the difference.**
 
 ### The master cue
 
-> *"Continental là sân nhà. Semi-Western là forehand. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. Ở tuổi 50+, người chơi dùng thẻ này chơi 20 năm. Người chơi không có thẻ lóng ngóng 7 phút mỗi trận."*
+> *"Continental là sân nhà. Semi-Western là forehand. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. Ở tuổi 50+, người chơi dùng thẻ này chơi 20 năm.
+Người chơi không có thẻ lóng ngóng 7 phút mỗi trận."*
 
 ### File summary
 
@@ -93,4 +102,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."
+Hy vọng tuần này anh sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây.
+Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

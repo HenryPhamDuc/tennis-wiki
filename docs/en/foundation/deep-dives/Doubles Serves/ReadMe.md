@@ -1,8 +1,15 @@
-Done. Deep Dive on the 4 Doubles Serve Patterns saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Serves\Doubles Serves — The 4 Serve Patterns.md`** (~62 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on the 4 Doubles Serve Patterns saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Serves\Doubles Serves — The 4 Serve Patterns.md`** (~62 KB, EN-VI bilingua
+l, 5 chapters)
 
 ### The big idea: "The serve is a setup, not a weapon"
 
-In singles, the serve is a weapon. **In doubles, the serve is almost never a weapon — it's a setup.** The 3.5 player who tries to "blast" the serve in doubles loses more points than they win. The smart doubles serve is **sliced, placed, and coordinated with the poacher.**
+In singles, the serve is a weapon. **In doubles, the serve is almost never a weapon — it's a setup.** The 3.5 player who tries to "blast" the serve in doubles loses more points than they win.
+The smart doubles serve is **sliced, placed, and coordinated with the poacher.**
 
 The 4 serve patterns map to 4 different doubles situations:
 
@@ -35,15 +42,20 @@ The 4 serve patterns map to 4 different doubles situations:
 
 ### Key 3.5-level choices I made
 
-- **Made the Serve Wide the 3.5 default (60% of first serves).** Slice to the backhand corner pulls the returner wide, the poach covers the middle, the geometry favors the team. **At 50+, the slice is the joint-friendly default.**
+- **Made the Serve Wide the 3.5 default (60% of first serves).** Slice to the backhand corner pulls the returner wide, the poach covers the middle, the geometry favors the team.
+**At 50+, the slice is the joint-friendly default.**
 - **Made the Serve T the "smart" option (30% of first serves).** Down the middle forces the return UP, the poach hits DOWN, the poacher's dream. The slice T is the 50+ smart default.
 - **Made the Serve Body the "underused weapon" (10% of first serves).** The body serve is devastating at 3.5 but technically harder (tight margin). Lead with Wide and T first, add Body once automatic.
 - **Made the Serve + Volley "for the brave" (once or twice per set).** The 70% sprint to the net loads the knees and the heart. **At 50+, this is a special-occasion pattern, not a default.**
-- **Translated the 4 serve patterns into a frequency rule:** 60% Wide, 30% T, 10% Body, +Volley rarely. **The 80/20 slice default** is layered on top — 80% of those 4 patterns are slice, 20% are flat or kick.
-- **Added the "toss is the steering wheel" cue.** Toss direction controls serve direction. Toss right → slice wide. Toss center → flat T. Toss left → kick or slice T. **A 3.5 player who can't control the toss direction can't control the serve direction.**
+- **Translated the 4 serve patterns into a frequency rule:** 60% Wide, 30% T, 10% Body, +Volley rarely.
+**The 80/20 slice default** is layered on top — 80% of those 4 patterns are slice, 20% are flat or kick.
+- **Added the "toss is the steering wheel" cue.** Toss direction controls serve direction. Toss right → slice wide. Toss center → flat T. Toss left → kick or slice T.
+**A 3.5 player who can't control the toss direction can't control the serve direction.**
 - **Added the "hand signal before serve" coordination.** The 50+ player with hearing loss can't hear "Poach!" — but a fist behind the back is silent, visible, and 50+ reliable.
 - **Tied the 4 serve patterns to the existing 4 return patterns** (Doubles Patterns deep dive). Together they form a complete doubles playbook: 4 serves + 4 returns = 16 starting positions.
-- **Phrased the longevity framing:** *"The slice serve is the 50+ doubles insurance policy. A 50+ player who serves 80% slice, 20% flat/kick, with placement and poacher coordination will win 50% of their service games. The body that doesn't load the rotator cuff on every serve is the body that plays for 20 more years."*
+- **Phrased the longevity framing:** *"The slice serve is the 50+ doubles insurance policy.
+A 50+ player who serves 80% slice, 20% flat/kick, with placement and poacher coordination will win 50% of their service games.
+The body that doesn't load the rotator cuff on every serve is the body that plays for 20 more years."*
 
 ### How this connects to the existing series
 
@@ -93,4 +105,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "4 mẫu serve" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+Hy vọng tuần này anh sẽ thêm "4 mẫu serve" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi.
+Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,3 +1,8 @@
+---
+title: Iga Swiatek
+lang: en
+---
+
 # Iga Swiatek
 
 ## Overview
@@ -61,7 +66,8 @@
 - **Off-Season**: Focus on building strength and power, particularly in the core and legs to support her powerful groundstrokes.
 - **Pre-Season**: Increased on-court work, focusing on serve development, return of serve, and point construction.
 - **In-Season**: Maintenance work, recovery focus, and opponent-specific preparation.
-- **Specific Drills**: Extensive forehand and backhand drills focusing on power and consistency, serve variation exercises, movement work focusing on lateral quickness and recovery, and mental toughness exercises.
+- **Specific Drills**: Extensive forehand and backhand drills focusing on power and consistency, serve variation exercises, movement work focusing on lateral quickness and recovery, and mental toughne
+ss exercises.
 
 ## Resources for Further Study
 - **Match to Watch**: 2020 French Open Final vs. Sofia Kenin (showcasing her breakthrough Slam victory)
@@ -73,3 +79,6 @@
 *Part of the Tennis Legends Research Project*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

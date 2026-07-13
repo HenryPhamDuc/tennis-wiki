@@ -1,7 +1,14 @@
+---
+title: Serena Williams vs Iga Swiatek: Women's Power Baseline Evolution
+lang: en
+---
+
 # Serena Williams vs Iga Swiatek: Women's Power Baseline Evolution
 
 ## Overview
-The rivalry between Serena Williams and Iga Swiatek represents a fascinating evolution in women's tennis power baseline play. While their careers overlapped only briefly at the end of Serena's legendary career and the beginning of Iga's rise, their contrasting styles and eras showcase how power tennis has evolved from the 2000s to the 2020s. Serena's devastating serve-and-forehand dominance versus Iga's tactical variety, movement, and mental toughness highlight the changing demands of modern women's tennis.
+The rivalry between Serena Williams and Iga Swiatek represents a fascinating evolution in women's tennis power baseline play.
+While their careers overlapped only briefly at the end of Serena's legendary career and the beginning of Iga's rise, their contrasting styles and eras showcase how power tennis has evolved from the 20
+00s to the 2020s. Serena's devastating serve-and-forehand dominance versus Iga's tactical variety, movement, and mental toughness highlight the changing demands of modern women's tennis.
 
 ## Head-to-Head Record
 - **Overall**: Serena leads 2-0 (as of her retirement in 2022)
@@ -120,10 +127,17 @@ The rivalry between Serena Williams and Iga Swiatek represents a fascinating evo
 - Losing to Serena early in their rivalry was part of her learning process; winning matches against other top players shows her maturation
 
 ## Conclusion
-While the Serena Williams-Iga Swiatek rivalry was brief due to the timing of their careers, it represents a important milestone in the evolution of women's tennis. Serena's era of overwhelming power paved the way for players like Iga who have taken that power and added layers of variety, movement, and mental toughness. Their matches showcased not just a battle between two incredible competitors, but a passing of the torch from one generation of excellence to the next—each defining what it means to be dominant in their respective eras.
+While the Serena Williams-Iga Swiatek rivalry was brief due to the timing of their careers, it represents a important milestone in the evolution of women's tennis.
+Serena's era of overwhelming power paved the way for players like Iga who have taken that power and added layers of variety, movement, and mental toughness.
+Their matches showcased not just a battle between two incredible competitors, but a passing of the torch from one generation of excellence to the next—each defining what it means to be dominant in the
+ir respective eras.
 
-As women's tennis continues to evolve, the legacy of both players will endure: Serena as the transformer who brought unprecedented power and athleticism to the women's game, and Iga as the evolution who showed that power works best when combined with completeness, consistency, and mental strength.
+As women's tennis continues to evolve, the legacy of both players will endure: Serena as the transformer who brought unprecedented power and athleticism to the women's game, and Iga as the evolution w
+ho showed that power works best when combined with completeness, consistency, and mental strength.
 
 *Part of the Tennis Legends Research Project - Rivalry Analysis Series*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

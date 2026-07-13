@@ -1,3 +1,9 @@
+---
+title: Anatomy Lab — A Complete Manual of Human Anatomy for Tennis Players
+lang: en
+---
+
+
 # Anatomy Lab — A Complete Manual of Human Anatomy for Tennis Players
 
 ## *Anatomy Lab — Cẩm Nang Giải Phẫu Học Toàn Diện Cho Người Chơi Tennis*
@@ -8,13 +14,8 @@
 
 ## 📋 WHAT IS THIS PROJECT?
 
-**Anatomy Lab** is a comprehensive anatomy manual for tennis players, built from your Vietnamese source materials in `Documents/Human anatomy/` plus the reference textbook *Tennis Anatomy* by Roetert & Kovacs (2011). It is a **sibling library** to your existing `Deep Dives/` (stroke mechanics), `Advanced/`, and `Elite/` folders — a focused sub-library on **body anatomy and biomechanics**.
-
-| 🇺🇸  |
-| --- |
-| **Total scope:** 8 standalone deep-dives (DD1–DD8), 181 illustrations, ~340 KB of content, 58 chapters, bilingual EN-VI throughout. |
-| **Reading path:** DD1 (foundation) → DD2–DD7 (body regions) → DD8 (control system). Each DD is also standalone-readable. |
-| **Audience:** a 3.5 recreational player, 50+ years old, who wants to understand the BODY behind every stroke. |
+**Anatomy Lab** is a comprehensive anatomy manual for tennis players, built from your Vietnamese source materials in `Documents/Human anatomy/` plus the reference textbook *Tennis Anatomy* by Roetert 
+& Kovacs (2011). It is a **sibling library** to your existing `Deep Dives/` (stroke mechanics), `Advanced/`, and `Elite/` folders — a focused sub-library on **body anatomy and biomechanics**.
 
 ---
 
@@ -196,3 +197,10 @@
 *Hết ReadMe. Anatomy Lab hoàn thành và đã xác minh.*
 
 *Last updated: 2026-06-19. Built in 1 session from 7 DOCX sources + 1 PDF reference. 181 illustrations, 338 KB, 58 chapters, 8 standalone deep-dives.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

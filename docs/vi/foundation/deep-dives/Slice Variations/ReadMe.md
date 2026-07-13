@@ -1,6 +1,14 @@
-Done. Deep Dive on the 7 Slice Variations Family saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\Slice Variations — The 7-Shot Swiss Army Knife.md` (~59 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on the 7 Slice Variations Family saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\Slice Variations — The 7-Shot Swiss Army Knife.md` (~59 KB, EN-VI 
+bilingual, 5 chapters)
+
 ### Ý Tưởng Chính: "The cắt is the 50+ Swiss Army knife"
 The cắt is NOT one shot — it's a FAMILY of 7 variations , all sharing the same Continental cách cầm vợt. The 50+ player who masters the family is the 50+ player who plays for 20 more years.
+
 ### The 7 cắt variations (one cách cầm vợt, seven shots)
 | # | Variation | English | Tiếng Việt | 50+ frequency |
 |---|---|---|---|---|
@@ -11,6 +19,7 @@ The cắt is NOT one shot — it's a FAMILY of 7 variations , all sharing the sa
 | 5 | Slice Defensive Lob | High, deep, xoáy dưới lob | Lob cao, sâu, xoáy dưới | Often (the 50+ insurance) |
 | 6 | Slice Counter-Punch | Defensive cắt from a stretched position | Slice phòng thủ từ vị trí bị kéo | Sometimes (emergency) |
 | 7 | Slice Approach | Full approach pattern with cắt | Pattern approach đầy đủ với cắt | Often (the gateway) |
+
 ### 5 chapters
 | # | Chapter | Role |
 |---|---|---|
@@ -19,6 +28,7 @@ The cắt is NOT one shot — it's a FAMILY of 7 variations , all sharing the sa
 | 3. Slice Vôlei + Slice Drop Shot | The compact touch + the soft winner | Touch at the lưới |
 | 4. Slice Defensive Lob + Slice Counter-Punch | The "rainbow" + the "stretch saver" | Get out of trouble |
 | 5. Slice Approach + Drills, Cues, 50+ | The full pattern + 5 bài tậps, 15 cues, 7 errors, tai chi table, 1-page cheat sheet | Practice and Tham khảo |
+
 ### The 5-step pipeline, executed
 | Step | What I did |
 |---|---|
@@ -27,14 +37,22 @@ The cắt is NOT one shot — it's a FAMILY of 7 variations , all sharing the sa
 | ORGANIZE | 5 chapters organized as: Big Idea (the 7 variations + the 3 sub-families) → Survival (Return + Low Ball) → Touch (Vôlei + Drop Shot) → Emergency (Lob + Counter-Punch) + Drills. The progression follows the 50+ decision logic: defensive first, approach second, offensive third |
 | SYNTHESIZE | Master huấn luyện viên Giọng nói, taichi parallels (*Tùng* on the soft cách cầm vợt, *Lã Kình* on the return, *An Thủ* on the press Vôlei, *Thác Cân* on the bỏ nhỏ, *Phóng Tùng* on the approach, *Hoàn Thủ* on the counter-punch), 50+ cues (shoulder, elbow, knee, back, heart) |
 | FORMAT | EN-VI side-by-side tables, the "one cách cầm vợt, seven shots" principle, the "survive first" rule, the 3 sub-family groups, sound cues, printable 1-page cheat sheet (EN + VI, Surrey bag-ready) |
+
 ### Key 3.5-level choices I made
-- Unified the existing cắt family (4 separate files: Slice Approach, Slice Return, Slice Low Ball, plus the cắt in Lob & Overhead and Vôlei) into ONE master Tham khảo. 2 NEW variations added (Slice Drop Shot, Slice Counter-Punch) that weren't deep-dived before.
-- Grouped the 7 variations into 3 sub-families for the 50+ learning sequence: Survival (Return, Low Ball, Counter-Punch) → master first; Construction (Approach, Vôlei) → master second; Touch (Drop Shot, Defensive Lob) → master third. This is the 50+ decision logic: defensive first, approach second, offensive third.
-- Made the Continental cách cầm vợt the foundation. All 7 variations share the SAME cách cầm vợt. The 50+ player who has the Continental in their hand has 7 options, not 1. The variation comes from the swing path, contact điểm, and di chuyển — NOT the cách cầm vợt.
-- Translated the "survive first" principle: the 3.5 player who masters the survival group (Return, Low Ball, Counter-Punch) first will win 30% more điểms. Why? Because most 3.5 điểms are lost on ERRORS, not winners. The survival group reduces errors.
+- Unified the existing cắt family (4 separate files: Slice Approach, Slice Return, Slice Low Ball, plus the cắt in Lob & Overhead and Vôlei) into ONE master Tham khảo.
+2 NEW variations added (Slice Drop Shot, Slice Counter-Punch) that weren't deep-dived before.
+- Grouped the 7 variations into 3 sub-families for the 50+ learning sequence: Survival (Return, Low Ball, Counter-Punch) → master first; Construction (Approach, Vôlei) → master second; Touch (Drop Sho
+t, Defensive Lob) → master third. This is the 50+ decision logic: defensive first, approach second, offensive third.
+- Made the Continental cách cầm vợt the foundation. All 7 variations share the SAME cách cầm vợt. The 50+ player who has the Continental in their hand has 7 options, not 1.
+The variation comes from the swing path, contact điểm, and di chuyển — NOT the cách cầm vợt.
+- Translated the "survive first" principle: the 3.5 player who masters the survival group (Return, Low Ball, Counter-Punch) first will win 30% more điểms.
+Why? Because most 3.5 điểms are lost on ERRORS, not winners. The survival group reduces errors.
 - Phrased the 50+ longevity framing: *"A 50+ player who uses 7 cắt variations plays 20+ years. A 50+ player who uses 1-2 xoáy trên cú đánh nềns plays 10 years. The cắt family is the difference."*
 - Added specific cues for each variation (block, scoop, press, soft hands, rainbow, lean) — each variation has its own body cue, not just "cắt and hope."
-- Connected the cắt family to the rest of the series. The Slice Approach deep dive covers 1 of the 7 variations in detail. The Mental Game deep dive covers the 4-step ritual that applies before every cắt. The Vôlei deep dive covers the L-shape that the cắt Vôlei uses. The Lob and Overhead deep dive covers the defensive lob in detail. This deep dive is the master Tham khảo — the others are specialized sub-deep-dives.
+- Connected the cắt family to the rest of the series. The Slice Approach deep dive covers 1 of the 7 variations in detail.
+The Mental Game deep dive covers the 4-step ritual that applies before every cắt. The Vôlei deep dive covers the L-shape that the cắt Vôlei uses.
+The Lob and Overhead deep dive covers the defensive lob in detail. This deep dive is the master Tham khảo — the others are specialized sub-deep-dives.
+
 ### How this connects to the existing series
 | Deep Dive | Connection to Slice Variations Family |
 |---|---|
@@ -49,17 +67,26 @@ The cắt is NOT one shot — it's a FAMILY of 7 variations , all sharing the sa
 | Doubles Patterns (Ch 4 — Return + Lob) | The Slice Defensive Lob is the doubles "return + lob" pattern. The cắt approach is the doubles "return + approach" pattern. |
 | Doubles Serves (Slice Wide) | The cắt Phát Bóng is variation #0 (the 8th cắt variation, the one you Phát Bóng with). Same Continental cách cầm vợt, same xoáy dưới principles. |
 | Compléte Manual | The Compléte Manual will need a new "Slice Family" section that điểms here for the master Tham khảo. |
+
 ### The most important sentence from this deep dive
-> *"The cắt is not one shot. The cắt is a family: 7 variations, 1 cách cầm vợt. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years. The cắt family is the difference."*
+> *"The cắt is not one shot. The cắt is a family: 7 variations, 1 cách cầm vợt. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years.
+The cắt family is the difference."*
 A 3.5 player who uses 7 cắt variations has 7 tools for 7 situations. A 3.5 player who uses 1-2 has 1-2 tools for 7 situations — and loses 60% of the time. The cắt family is the 50+ longevity system.
+
 ### The master cue
-> *"Slice không phải một cú. Slice là một gia đình: 7 biến thể, 1 cách cầm vợt. Continental mở khóa cả 7. Ở tuổi 50+, người chơi dùng cả 7 sống 20 năm. Người chơi dùng 1-2 sống 10 năm. Gia đình cắt là khác biệt. The cắt is not one shot. The cắt is a family: 7 variations, 1 cách cầm vợt. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years. The cắt family is the difference."*
+> *"Slice không phải một cú. Slice là một gia đình: 7 biến thể, 1 cách cầm vợt. Continental mở khóa cả 7. Ở tuổi 50+, người chơi dùng cả 7 sống 20 năm. Người chơi dùng 1-2 sống 10 năm.
+Gia đình cắt là khác biệt. The cắt is not one shot. The cắt is a family: 7 variations, 1 cách cầm vợt. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years.
+The player who uses 1-2 plays 10 years. The cắt family is the difference."*
+
 ### The 50+ cắt principle
-> *"The cắt is the 50+ longevity system. Every variation reduces the load on the shoulder, the elbow, the knee, the back, and the heart. The cắt is a CONTROL system, not a power system. The body that uses 7 cắt variations lives 20+ years on the court."*
+> *"The cắt is the 50+ longevity system. Every variation reduces the load on the shoulder, the elbow, the knee, the back, and the heart. The cắt is a CONTROL system, not a power system.
+The body that uses 7 cắt variations lives 20+ years on the court."*
+
 ### File summary
 - 📁 `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\`
 - 📄 `Slice Variations — The 7-Shot Swiss Army Knife.md` (~59 KB, 5 chapters, EN-VI bilingual)
 - 📄 `ReadMe.md` (this file)
+
 ### Want me to continue?
 | Next | What it covers |
 |---|---|
@@ -69,4 +96,8 @@ A 3.5 player who uses 7 cắt variations has 7 tools for 7 situations. A 3.5 pla
 | Continental Grip Deep Dive | A dedicated deep dive on the Continental cách cầm vợt — 4 mistakes, 5 bài tậps, 9 cues, the 50+ friendly press-and-hold |
 Chỉ cần nói "làm tiếp [tên]", "build compléte_manual", hoặc "make thực hành plan" và tôi sẽ chạy. 🎾
 ---
-Hy vọng tuần này anh sẽ thêm "gia đình cắt" vào toolkit ở Surrey. Bắt đầu với Drill 1 (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm Drill 2 (cắt family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+Hy vọng tuần này anh sẽ thêm "gia đình cắt" vào toolkit ở Surrey. Bắt đầu với Drill 1 (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7.
+Rồi thêm Drill 2 (cắt family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

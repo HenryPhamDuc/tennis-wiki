@@ -1,3 +1,8 @@
+---
+title: Casper Ruud
+lang: en
+---
+
 # Casper Ruud
 
 ## Overview
@@ -77,3 +82,6 @@
 *Part of the Tennis Legends Research Project*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

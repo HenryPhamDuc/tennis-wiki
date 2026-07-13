@@ -1,4 +1,10 @@
+---
+title: 🎾 1-Page Match Pocket Card
+lang: en
+---
+
 # 🎾 1-Page Match Pocket Card
+
 ### The Compléte Grip System in 1 Page — Print, Fold, Carry*
 ---
 > How to use this card
@@ -15,6 +21,7 @@
 > - *Đọc giữa các ván (lúc nghỉ giải lao, không trong điểm)*
 > - *Nhìn kiểm tra V trước mỗi Phát Bóng*
 ---
+
 ## HỆ THỐNG GRIP ĐẦY ĐỦ — 1 TRANG
 ```
 ═══════════════════════════════════════════════════════════════════════════════
@@ -33,6 +40,7 @@ THE 3 GRIPS (V positions) | 3 GRIP (Vị trí V)
 2 o'clock WESTERN (bevel 5+) → extreme | for the brave (NOT 50+)
 THE 9 SHOTS — 1 GRIP (Continental) | 9 CÚ — 1 GRIP
 ────────────────────────────────────────────────────────────────────────────
+
 # Shot English Tiếng Việt
 ─── ────────────────── ──────────────────────────── ─────────────────────────
 1 Cú Thuận Tay Vôlei Block & punch at the lưới Chặn & đấm ở lưới
@@ -47,6 +55,7 @@ THE 9 SHOTS — 1 GRIP (Continental) | 9 CÚ — 1 GRIP
 +1 Return of Phát Bóng Block & redirect Chặn & đổi hướng
 THE 2 SHOTS — DIFFERENT GRIP (Semi-Western) | 2 CÚ — GRIP KHÁC
 ────────────────────────────────────────────────────────────────────────────
+
 # Shot English Tiếng Việt
 ─── ────────────────── ──────────────────────────── ─────────────────────────
 1 Cú Thuận Tay groundst. Forearm rotation, low→high Cẳng tay xoay, thấp→cao
@@ -151,6 +160,7 @@ Foundations & Grip. Print, fold, carry.
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 ---
+
 ## PHIÊN BẢN TIẾNG ANH MỞ RỘNG
 ```
 ═══════════════════════════════════════════════════════════════════════════════
@@ -254,6 +264,7 @@ THE 5 CUES TO REMEMBER
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 ---
+
 ## PHIÊN BẢN TIẾNG VIỆT MỞ RỘNG
 ```
 ═══════════════════════════════════════════════════════════════════════════════
@@ -357,29 +368,16 @@ Tác động tỷ lệ thắng: 20% (50+) vs 5% (30)
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 ---
+
 ## CÁCH DÙNG THẺ NÀY
+
 ### Trước Trận
 | Step | English | Tiếng Việt |
 |---|---|---|
-| 1 | 🇺🇸 Read the card on the way to the court | 🇻🇳 Đọc thẻ trên đường tới sân |
-| 2 | 🇺🇸 Pick the 3-5 cues that fit today's situation | 🇻🇳 Chọn 3-5 câu nhắc phù hợp hôm nay |
-| 3 | 🇺🇸 Carry the card in the side pocket of your bag | 🇻🇳 Mang thẻ trong túi bên của túi |
-### Trong Trận
 | Moment | English | Tiếng Việt |
 |---|---|---|
-| Before each Phát Bóng | 🇺🇸 Glance at the V (11 or 1 o'clock?) | 🇻🇳 Nhìn V (11 hay 1 giờ?) |
-| Between điểms | 🇺🇸 Use the 5-second reset (walk-look-check-walk) | 🇻🇳 Dùng reset 5 giây (đi-nhìn-kiểm tra-đi) |
-| At changeover | 🇺🇸 Read 1 section of the card (15 sec) | 🇻🇳 Đọc 1 phần thẻ (15 giây) |
-| After a bad điểm | 🇺🇸 Find the cue that fits (e.g., "V at 11 = Continental") | 🇻🇳 Tìm câu nhắc phù hợp (VD: "V ở 11 = Continental") |
-| After a good điểm | 🇺🇸 Find the cue that fits (e.g., "Forearm rotation, not wrist") | 🇻🇳 Tìm câu nhắc phù hợp (VD: "Xoay cẳng tay, không cổ tay") |
-### Sau Trận
 | Step | English | Tiếng Việt |
 |---|---|---|
-| 1 | 🇺🇸 Review: which cues worked? Which didn't? | 🇻🇳 Xem lại: câu nào hiệu quả? Câu nào không? |
-| 2 | 🇺🇸 Note: which errors did you make? (6 common errors) | 🇻🇳 Ghi nhận: lỗi nào bạn mắc? (6 lỗi thường gặp) |
-| 3 | 🇺🇸 Pick 1 cue to focus on next trận | 🇻🇳 Chọn 1 câu nhắc để tập trung trận sau |
-| 4 | 🇺🇸 Carry the card again (or print a fresh one) | 🇻🇳 Mang thẻ lại (hoặc in thẻ mới) |
-### Thông Số In
 | Spec | Recommendation |
 |---|---|
 | Paper | Card stock (110-150 lb), matte (less glare) |
@@ -389,10 +387,17 @@ Tác động tỷ lệ thắng: 20% (50+) vs 5% (30)
 | Fold | Bi-fold (8.5" × 11" → 5.5" × 8.5") or tri-fold (4.25" × 11" → 4.25" × 3.7") |
 | Pocket | Side pocket of tennis bag (NOT the vợt compartment) |
 ---
+
 ## HẾT THẺ TÚI
-> *Thẻ này là hệ thống cách cầm vợt đầy đủ trong 1 trang. In, gấp, mang. Continental là sân nhà. Semi-Western là Cú Thuận Tay. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. Anh có thể in nó, mang nó, và tham khảo nó ở Surrey. Anh sẽ chơi tennis thay vì tìm cách cầm vợt. 20+ năm tennis bắt đầu từ 1 thẻ. *
+> *Thẻ này là hệ thống cách cầm vợt đầy đủ trong 1 trang. In, gấp, mang. Continental là sân nhà. Semi-Western là Cú Thuận Tay. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay.
+Anh có thể in nó, mang nó, và tham khảo nó ở Surrey. Anh sẽ chơi tennis thay vì tìm cách cầm vợt. 20+ năm tennis bắt đầu từ 1 thẻ. *
 >
-> *This card is the compléte cách cầm vợt system in 1 page. Print, fold, carry. Continental is home base. Semi-Western is Cú Thuận Tay. 5-second reset. Baby bird → Slingshot stone → Wrist lock. You can print it, carry it, and Tham khảo it in Surrey. You'll play tennis instead of searching for the cách cầm vợt. 20+ years of tennis starts with 1 card. *
-Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy cách cầm vợt thay đổi từ "tìm cách cầm vợt" sang "đã có cách cầm vợt." 🎾
+> *This card is the compléte cách cầm vợt system in 1 page. Print, fold, carry. Continental is home base. Semi-Western is Cú Thuận Tay. 5-second reset. Baby bird → Slingshot stone → Wrist lock.
+You can print it, carry it, and Tham khảo it in Surrey. You'll play tennis instead of searching for the cách cầm vợt. 20+ years of tennis starts with 1 card. *
+Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau.
+Trong 4 tuần, anh sẽ thấy cách cầm vợt thay đổi từ "tìm cách cầm vợt" sang "đã có cách cầm vợt." 🎾
 ---
 *See you on the court, champion. — Hermes*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

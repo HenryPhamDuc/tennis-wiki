@@ -1,4 +1,10 @@
+---
+title: 🎾 The Complete Tennis Manual
+lang: en
+---
+
 # 🎾 The Complete Tennis Manual
+
 ### *A Master-Coach Reference for the 3.5 Player at 50+
 
 **From Zero Compromise to Longevity, in 10 Parts**
@@ -15,12 +21,6 @@
 ---
 
 ## 📖 How to Use This Manual
-
-| 🇺🇸  |
-| --- |
-| This is a **map**. The 6 topic deep dives in your `Deep Dives/` folder are the **territory**. Each part below summarizes the key ideas, then points you to the deep dive that goes deeper. |
-| **Read the manual first** (1 hour). Pick **one** part to focus on for 2 weeks. Practice the drills. Then move to the next. |
-| **Print the cheat sheet at the end** (Part 11). Fold it. Put it in your racquet bag. Use it on court. |
 
 ---
 
@@ -41,13 +41,10 @@
 ---
 
 <a name="part-1"></a>
-# Part 1 — Foundations & Grip
-# Phần 1 — Nền tảng & Cách cầm vợt
 
-| 🇺🇸  |
-| --- |
-| Everything you do on a tennis court rests on three things: your grip, your stance, and your awareness. |
-| At 50+, the third one matters most. Your eyes will slow down. Your grip and stance — these you can train at any age. |
+# Part 1 — Foundations & Grip
+
+# Phần 1 — Nền tảng & Cách cầm vợt
 
 ## 1.1 — The Four Grips You Need
 
@@ -60,15 +57,12 @@
 
 ### 🎯 The Hammer Pickup (Continental)
 
-| 🇺🇸  |
-| --- |
-| Hold the racket out. Lay your hand flat on the strings. **Slide down to the grip without rotating your hand.** The base knuckle of your index finger lands on bevel #2. Pick it up like a hammer. |
-| The "V" between thumb and index finger sits on the top edge of the grip. |
-
 > 💡 **Why Continental matters for volleys and serve
-> The Continental is the only grip that lets the racket face open or close **without rotating the wrist** — which is what protects the elbow. Eastern and Semi-Western force a wrist snap to close the face. The wrist snap is what causes tennis elbow.
+> The Continental is the only grip that lets the racket face open or close **without rotating the wrist** — which is what protects the elbow.
+Eastern and Semi-Western force a wrist snap to close the face. The wrist snap is what causes tennis elbow.
 >
-> *Continental là grip duy nhất cho phép mặt vợt mở hoặc đóng **không xoay cổ tay** — cái này bảo vệ khuỷu. Eastern và Semi-Western bắt buộc bẻ cổ tay để đóng mặt. Bẻ cổ tay là nguyên nhân tennis elbow.*
+> *Continental là grip duy nhất cho phép mặt vợt mở hoặc đóng **không xoay cổ tay** — cái này bảo vệ khuỷu. Eastern và Semi-Western bắt buộc bẻ cổ tay để đóng mặt.
+Bẻ cổ tay là nguyên nhân tennis elbow.*
 
 ## 1.2 — Grip Tension Scale
 
@@ -82,41 +76,29 @@
 | **10** | White knuckles | Never on a tennis court |
 
 > 🛠️ **Drill — The Grip Check
-> Hold the racket as if you were going to volley. Ask your non-hitting hand: "Could I pull the racket out of your hand easily?" If yes → too loose. "Could I pull it out at all?" If no → too tight. The sweet spot is **2-3** for volleys, **4-5** for groundstrokes, **6-7** for serve.
+> Hold the racket as if you were going to volley. Ask your non-hitting hand: "Could I pull the racket out of your hand easily?" If yes → too loose. "Could I pull it out at all?" If no → too tight.
+The sweet spot is **2-3** for volleys, **4-5** for groundstrokes, **6-7** for serve.
 >
-> *Cầm vợt như sắp volley. Hỏi tay kia: "Có rút vợt ra dễ không?" Nếu dễ → lỏng quá. "Có rút ra được không?" Nếu không → chặt quá. Điểm ngọt là **2-3** cho volley, **4-5** cho groundstroke, **6-7** cho serve.*
+> *Cầm vợt như sắp volley. Hỏi tay kia: "Có rút vợt ra dễ không?" Nếu dễ → lỏng quá. "Có rút ra được không?" Nếu không → chặt quá.
+Điểm ngọt là **2-3** cho volley, **4-5** cho groundstroke, **6-7** cho serve.*
 
 ## 1.3 — The Body Schema
 
-| 🇺🇸  |
-| --- |
-| When you practice holding and swinging a racket, your brain updates its internal "body schema" to treat the racket **as a literal extension of your arm**. This is **embodied cognition** — your body is thinking. |
-| At 50+, this is your **superpower**. Vision slows with age. Body schema doesn't. Train the racket-as-finger feel, and you react faster than younger players who only "see" the ball. |
-| **The 2-second pause trick:** after every good shot, pause for 2 seconds. Notice what your hand did. Notice where the contact was. Notice the racket's angle. This builds body schema faster than 1000 unconscious reps. |
-
 > 🧠 **Read deeper
-> See the **Racket Embodiment** deep dive (`Deep Dives/Forehand/Racket Embodiment.md`) for the full 4-layer proprioception system, including the 3 levels (Foundation → Body Schema → Perception-Action) and the 4-week practice plan.
+> See the **Racket Embodiment** deep dive (`Deep Dives/Forehand/Racket Embodiment.md`) for the full 4-layer proprioception system, including the 3 levels (Foundation → Body Schema → Perception-Action)
+ and the 4-week practice plan.
 >
 > *Xem deep dive **Racket Embodiment** để có hệ thống proprioception 4 lớp đầy đủ, bao gồm 3 cấp độ và kế hoạch tập 4 tuần.*
 
 ## 1.4 — Tension Is the Enemy
 
-| 🇺🇸  |
-| --- |
-| This is the single most important principle in the entire manual. **Tense muscle = slow muscle.** A tense arm cannot rotate fast around its axis. A tense shoulder cannot fire the kinetic chain. A tense grip cannot feel the ball. |
-| The order: **relax → load → fire.** You relax to load (the racket drops, the body coils). You fire to release (the legs push, the chest opens). The fire is brief. The relaxation is most of the motion. |
-| This is also a 50+ principle: the older you get, the more your body tenses up by default (a survival reflex). Conscious relaxation is your training. |
-
 ---
 
 <a name="part-2"></a>
-# Part 2 — Footwork & Positioning
-# Phần 2 — Bộ chân & Vị trí
 
-| 🇺🇸  |
-| --- |
-| "Tennis is 80% footwork." This is a cliché. It's also true. The shots that go in are the shots where your feet got you to the ball in time with your body in position. |
-| At 50+, footwork is also the **first thing to break down** and the **easiest thing to train** without injury. The knees are safer than the shoulders. |
+# Part 2 — Footwork & Positioning
+
+# Phần 2 — Bộ chân & Vị trí
 
 ## 2.1 — The Three Stances
 
@@ -127,16 +109,13 @@
 | **Closed stance** (front foot toward net, big cross-step) | Approach shots with time, slice, volleys | **Use sparingly** at 50+ — higher back load |
 
 > 💡 **The 50+ rule: open stance is your friend
-> Closed stance loads the back (the front hip rotates hard). Open stance loads the legs (the back leg pushes, the front leg bridges). At 50+, the legs are stronger than the back. **Use open stance 70% of the time. Save closed stance for when you have time and the ball is short.**
+> Closed stance loads the back (the front hip rotates hard). Open stance loads the legs (the back leg pushes, the front leg bridges). At 50+, the legs are stronger than the back.
+**Use open stance 70% of the time. Save closed stance for when you have time and the ball is short.**
 >
-> *Closed stance tải lưng (hông trước xoay mạnh). Open stance tải chân (chân sau đẩy, chân trước cầu). Ở tuổi 50+, chân mạnh hơn lưng. **Dùng open stance 70% thời gian. Giữ closed stance cho khi có thời gian và bóng ngắn.***
+> *Closed stance tải lưng (hông trước xoay mạnh). Open stance tải chân (chân sau đẩy, chân trước cầu). Ở tuổi 50+, chân mạnh hơn lưng. **Dùng open stance 70% thời gian.
+Giữ closed stance cho khi có thời gian và bóng ngắn.***
 
 ### 🎯 The "Bridge" Principle
-
-| 🇺🇸  |
-| --- |
-| Your front leg (the leg on the side of the shot) acts as a **bridge** — straight but not locked, soft but engaged. It receives the push from the back leg and transfers it to the ground. |
-| The back leg is the **engine** — bent deep, loaded like a spring, pushes off the ground. |
 
 > 🛠️ **Drill — The Bridge Mirror Check
 > 1. Stand in front of a mirror in open stance forehand position.
@@ -152,13 +131,6 @@
 > *5. 10 lần. Cảm giác "căng không quá tải" là mục tiêu.*
 
 ## 2.2 — The Split-Step
-
-| 🇺🇸  |
-| --- |
-| The split-step is the most under-trained movement in recreational tennis. It's a small hop (just 2-5 cm off the ground) as your opponent makes contact with the ball. |
-| **The hop loads the legs** — the calf and quad muscles get pre-stretched. When you land, you can push off in any direction in 0.1 seconds. |
-| **The timing** is everything: hop when the opponent **starts the forward swing**, not when they hit. By the time they hit, your feet are already loaded. |
-| **The mistake:** hopping too high (becomes a jump, kills recovery), or hopping too late (you start moving after the ball is in flight). |
 
 > 🛠️ **Drill — The Solo Split-Step
 > 1. Stand at the baseline in ready position.
@@ -188,21 +160,22 @@
 > *Hầu hết điểm thắng từ baseline với cú sâu, nặng. Lên lưới **chỉ** khi có bóng ngắn để kết liễu, hoặc sau serve (doubles).*
 
 > 🧠 **Read deeper
-> The full **Footwork deep dive** (`Deep Dives/Footwork/Footwork — The Art of Smart Movement.md`, 40 KB, 5 chapters) covers Thường Tùng ("always loose, always ready"), the staggered ready stance, the 300ms split-step trigger, the 4 moves (lateral hop, drop step, cross-over, recovery), and the 50+ reality check.
+> The full **Footwork deep dive** (`Deep Dives/Footwork/Footwork — The Art of Smart Movement.md`, 40 KB, 5 chapters) covers Thường Tùng ("always loose, always ready"), the staggered ready stance, the 
+300ms split-step trigger, the 4 moves (lateral hop, drop step, cross-over, recovery), and the 50+ reality check.
 >
-> *Deep dive **Footwork** đầy đủ (40 KB, 5 chương) bao quát Thường Tùng ("luôn lỏng, luôn sẵn sàng"), thế chuẩn bị chân so le, trigger split-step 300ms, 4 bước (lateral hop, drop step, cross-over, recovery), và kiểm tra 50+.*
+> *Deep dive **Footwork** đầy đủ (40 KB, 5 chương) bao quát Thường Tùng ("luôn lỏng, luôn sẵn sàng"), thế chuẩn bị chân so le, trigger split-step 300ms, 4 bước (lateral hop, drop step, cross-over, rec
+overy), và kiểm tra 50+.*
 >
-> For the 3-stance system with side-bend vs straight-body analysis, see **2 types of engine to generate power** (`My notes/2 types of engine to generate power.md`). For the volley footwork framework (Hư-Thực, 70/30 weight, split-step → V-step), see **Volley** deep dive (`Deep Dives/Volley/`).
+> For the 3-stance system with side-bend vs straight-body analysis, see **2 types of engine to generate power** (`My notes/2 types of engine to generate power.md`).
+For the volley footwork framework (Hư-Thực, 70/30 weight, split-step → V-step), see **Volley** deep dive (`Deep Dives/Volley/`).
 
 ---
 
 <a name="part-3"></a>
-# Part 3 — Groundstrokes (Forehand & Backhand)
-# Phần 3 — Groundstrokes (Forehand & Backhand)
 
-| 🇺🇸  |
-| --- |
-| The groundstrokes are the heart of recreational tennis. You hit them on ~80% of all points. The 4 deep dives in your Forehand folder cover the forehand in detail. This part is the map. |
+# Part 3 — Groundstrokes (Forehand & Backhand)
+
+# Phần 3 — Groundstrokes (Forehand & Backhand)
 
 ## 3.1 — The Forehand System (4 Layers)
 
@@ -223,16 +196,12 @@
 | 4 | **"2-second pause after every good shot"** | **"Dừng 2 giây sau mỗi cú tốt"** |
 
 > 🧠 **Read the 4 in this order
-> **#3 (axis) → #2 (turn) → #1 (swing) → #4 (feel).** The axis is the foundation, the turn loads it, the swing is what happens when it all works, and the feel ties it together. Each deep dive is ~30 KB, ~25 min read.
+> **#3 (axis) → #2 (turn) → #1 (swing) → #4 (feel).** The axis is the foundation, the turn loads it, the swing is what happens when it all works, and the feel ties it together.
+Each deep dive is ~30 KB, ~25 min read.
 >
 > ***#3 (trục) → #2 (xoay) → #1 (vung) → #4 (cảm).** Trục là nền, xoay nạp, vung là sản phẩm, cảm buộc tất cả lại. Mỗi deep dive ~30 KB, đọc ~25 phút.*
 
 ## 3.2 — The Backhand (Quick Overview)
-
-| 🇺🇸  |
-| --- |
-| Most recreational players use a two-handed backhand. It's stable, powerful, and 50+-friendly (less shoulder stress than the one-handed version). |
-| The one-handed backhand is beautiful but high-maintenance. It requires excellent timing, footwork, and shoulder mobility. **At 50+, the two-handed backhand is the rational choice.** |
 
 ### 🎯 Two-Handed Backhand Cues
 
@@ -253,17 +222,13 @@
 | **Wrist** | The backhand has **less wrist snap** than the forehand, but more **radial deviation** (wrist bends toward thumb). Train it gently. | Backhand có **ít bẻ cổ tay** hơn forehand, nhưng nhiều **lệch quay** hơn (cổ tay gập về ngón cái). Tập nhẹ nhàng. |
 
 > 🧠 **Read deeper
-> See **`Elite one-handed backhand.md`** and **`One handed backhand.md`** in your Tennis Knowledge folder for the one-handed breakdown (for reference). The two-handed framework uses the same kinetic chain as the forehand (L1-L4), so the 4 forehand deep dives apply — just mirror the direction.
+> See **`Elite one-handed backhand.md`** and **`One handed backhand.md`** in your Tennis Knowledge folder for the one-handed breakdown (for reference).
+The two-handed framework uses the same kinetic chain as the forehand (L1-L4), so the 4 forehand deep dives apply — just mirror the direction.
 >
-> *Xem `Elite one-handed backhand.md` và `One handed backhand.md` để tham khảo backhand một tay. Framework backhand hai tay dùng cùng chuỗi động lực forehand (L1-L4), nên 4 deep dives forehand áp dụng được — chỉ đảo chiều.*
+> *Xem `Elite one-handed backhand.md` và `One handed backhand.md` để tham khảo backhand một tay.
+Framework backhand hai tay dùng cùng chuỗi động lực forehand (L1-L4), nên 4 deep dives forehand áp dụng được — chỉ đảo chiều.*
 
 ## 3.3 — The Slice (Both Sides)
-
-| 🇺🇸  |
-| --- |
-| The slice is the most under-rated shot in recreational tennis. It stays low, buys you time, disrupts rhythm, and is gentle on the body. **Every 50+ player should have a reliable slice.** |
-| **Forehand slice** (with Continental grip) is great for approach shots, low balls, and disrupting topspin rallies. |
-| **Backhand slice** (with Continental grip) is the workhorse of the recreational game. Use it on defense, on low balls, on approach shots, and on returns of big serves. |
 
 ### 🎯 Slice Cue: "Open the door, walk through"
 
@@ -277,13 +242,10 @@
 ---
 
 <a name="part-4"></a>
-# Part 4 — The Serve
-# Phần 4 — Giao bóng
 
-| 🇺🇸  |
-| --- |
-| The serve is the only stroke you control. No opponent, no pressure, no surprise. You have unlimited first serves. Use them to practice, to learn, to grow. |
-| The big idea: **a gravity serve, not a muscle serve.** Legs load, body fires, racket whips. |
+# Part 4 — The Serve
+
+# Phần 4 — Giao bóng
 
 ## 4.1 — The 5 Cues
 
@@ -315,20 +277,18 @@
 | 4 | **The 50% Serve** | **Serve 50% lực** | 20 serves, 2×/week |
 
 > 🧠 **Read deeper
-> The full **Serve deep dive** (`Deep Dives/Serve/Serve — The Gravity & Rotation Serve.md`, 47 KB, 6 chapters) covers grip biomechanics, pronation analysis, the kinetic chain, the 1-2 count, the toss practice, and the 50+ reality check. Read it for the territory.
+> The full **Serve deep dive** (`Deep Dives/Serve/Serve — The Gravity & Rotation Serve.md`, 47 KB, 6 chapters) covers grip biomechanics, pronation analysis, the kinetic chain, the 1-2 count, the toss 
+practice, and the 50+ reality check. Read it for the territory.
 >
 > *Deep dive **Serve** đầy đủ (47 KB, 6 chương) bao quát biomechanics grip, phân tích pronation, chuỗi động lực, đếm 1-2, tập tung, và kiểm tra 50+.*
 
 ---
 
 <a name="part-5"></a>
-# Part 5 — Net Game & Volleys
-# Phần 5 — Trò chơi lưới & Volley
 
-| 🇺🇸  |
-| --- |
-| The volley is not a mini groundstroke. It's a **redirection**. The ball comes to you, you set the face, you let the ball push through. **Lã Kình** in taichi — the redirecting force. |
-| At 50+, the volley is **your friend**. It shortens points, it uses your opponent's pace, and it requires only a small swing. |
+# Part 5 — Net Game & Volleys
+
+# Phần 5 — Trò chơi lưới & Volley
 
 ## 5.1 — The 5 Volley Cues
 
@@ -361,20 +321,18 @@
 | 5 | Don't stand still at the net (split-step between shots) | Đừng đứng yên ở lưới (split-step giữa các cú) |
 
 > 🧠 **Read deeper
-> The full **Volley deep dive** (`Deep Dives/Volley/Volley — The Art of Redirection.md`, 49 KB, 5 chapters) covers the L-shape/U-shape framework, ulnar deviation vs supination, the Hư-Thực axis, the 5 variations decision tree, and the 50+ reality check (Predator Stance, bridge leg, no leaning back).
+> The full **Volley deep dive** (`Deep Dives/Volley/Volley — The Art of Redirection.md`, 49 KB, 5 chapters) covers the L-shape/U-shape framework, ulnar deviation vs supination, the Hư-Thực axis, the 5
+ variations decision tree, and the 50+ reality check (Predator Stance, bridge leg, no leaning back).
 >
 > *Deep dive **Volley** đầy đủ (49 KB, 5 chương) bao quát framework hình L/U, ulnar deviation vs supination, trục Hư-Thực, cây quyết định 5 biến thể, và kiểm tra 50+.*
 
 ---
 
 <a name="part-6"></a>
-# Part 6 — Return of Serve
-# Phần 6 — Trả giao bóng
 
-| 🇺🇸  |
-| --- |
-| The return is the second most important shot in tennis. It is also the most under-practiced. Most recreational players "react" to the serve. The 3.5 player **reads** the serve. |
-| At 50+, the return is also the most **joint-stressing** moment in the rally. You are often off-balance, stretched, and reacting to pace. **Survive first, attack later.** |
+# Part 6 — Return of Serve
+
+# Phần 6 — Trả giao bóng
 
 ## 6.1 — The Return Stance
 
@@ -423,13 +381,10 @@
 ---
 
 <a name="part-7"></a>
-# Part 7 — Point Patterns & Strategy
-# Phần 7 — Mẫu điểm & Chiến thuật
 
-| 🇺🇸  |
-| --- |
-| Strategy is what separates the 3.5 player from the 3.0 player. **You don't need to hit harder. You need to think smarter.** |
-| The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve completely. But the 3.5 level is where you start. |
+# Part 7 — Point Patterns & Strategy
+
+# Phần 7 — Mẫu điểm & Chiến thuật
 
 ## 7.1 — The 5 Rules of 3.5 Tennis
 
@@ -508,13 +463,10 @@
 ---
 
 <a name="part-8"></a>
-# Part 8 — Mental Game
-# Phần 8 — Trò chơi tâm lý
 
-| 🇺🇸  |
-| --- |
-| Tennis is 80% mental at the 3.5 level. The 20% technical gap between players is small. The mental gap is huge. |
-| The 50+ player has a **mental advantage** most younger players don't: **perspective**. You've had losses. You've had wins. You know one bad point doesn't lose the match. |
+# Part 8 — Mental Game
+
+# Phần 8 — Trò chơi tâm lý
 
 ## 8.1 — The 5 Mental Cues
 
@@ -538,12 +490,6 @@
 
 ## 8.3 — The Body-Mind Loop (Embodied Cognition)
 
-| 🇺🇸  |
-| --- |
-| Your body is not a vehicle for your brain. **Your body is part of your brain.** This is embodied cognition. |
-| When you panic, your shoulders tense, your grip tightens, your feet stop. When you relax, your shoulders drop, your grip softens, your feet move. |
-| The fastest way to fix your mental game is to fix your body. **Drop your shoulders. Unclench your jaw. Shake out your hands. The mind follows.** |
-
 ## 8.4 — The Inner Game (Tim Gallwey)
 
 | Principle |  | Tiếng Việt |
@@ -562,20 +508,18 @@
 | **Joy** | You are playing tennis in your 50s. That's a privilege. Most people your age can't. **Play with joy, not just to win.** | Anh đang chơi tennis ở tuổi 50. Đó là đặc ân. Hầu hết người cùng tuổi không làm được. **Chơi vui, không chỉ để thắng.** |
 
 > 🧠 **Read deeper
-> See **`Tennis as Embodied Cognition.md`** and **`Complete Embodied Tennis Training Methodology.md`** in your My notes folder for the full embodied-cognition framework (Perception → Action → Adaptation → Skill).
+> See **`Tennis as Embodied Cognition.md`** and **`Complete Embodied Tennis Training Methodology.md`** in your My notes folder for the full embodied-cognition framework (Perception → Action → Adaptati
+on → Skill).
 >
 > *Xem `Tennis as Embodied Cognition.md` và `Complete Embodied Tennis Training Methodology.md` cho framework embodied đầy đủ.*
 
 ---
 
 <a name="part-9"></a>
-# Part 9 — Doubles Tactics
-# Phần 9 — Chiến thuật đôi
 
-| 🇺🇸  |
-| --- |
-| Doubles is a different sport. You have a partner. The court is wider in your head but tighter in reality. **Communication is your #1 weapon.** |
-| At 50+, doubles is the **smart choice** for longevity — shorter points, less court to cover, more time to react. |
+# Part 9 — Doubles Tactics
+
+# Phần 9 — Chiến thuật đôi
 
 ## 9.1 — The 3 Formations
 
@@ -639,13 +583,10 @@ In trouble → Lob over both opponents → Recover to center → Reset
 ---
 
 <a name="part-10"></a>
-# Part 10 — Injury Prevention & Conditioning
-# Phần 10 — Phòng chấn thương & Thể lực
 
-| 🇺🇸  |
-| --- |
-| **You are playing a 20-year sport. Protect the engine.** Every choice you make — grip, swing, shoes, warmup, recovery — is either investing in 20 more years or borrowing from your knees. |
-| At 50+, injury prevention is **not optional**. It's the difference between playing at 60 and watching from a chair. |
+# Part 10 — Injury Prevention & Conditioning
+
+# Phần 10 — Phòng chấn thương & Thể lực
 
 ## 10.1 — The 5 Most Common 50+ Injuries
 
@@ -706,14 +647,17 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | 5 | **"The patience rule"** — at 50+, gains take 2-3× longer than at 25. That's normal. | **"Quy tắc kiên nhẫn"** — ở tuổi 50+, tiến bộ mất 2-3× lâu hơn ở 25. Bình thường. |
 
 > 🧠 **Read deeper
-> See **`Tennis as Embodied Cognition.md`** and **`Tennis is an embodiment cognitive sport.md`** for the full embodied framework applied to injury prevention. The "tension not overload" principle from your footwork analysis applies to all of conditioning at 50+.
+> See **`Tennis as Embodied Cognition.md`** and **`Tennis is an embodiment cognitive sport.md`** for the full embodied framework applied to injury prevention.
+The "tension not overload" principle from your footwork analysis applies to all of conditioning at 50+.
 >
 > *Xem các file embodied cognition cho framework đầy đủ áp dụng cho phòng chấn thương. Nguyên lý "căng không quá tải" từ phân tích bộ chân áp dụng cho toàn bộ thể lực 50+.*
 
 ---
 
 <a name="cheat-sheet"></a>
+
 # Part 11 — 📄 Master Cheat Sheet (Printable)
+
 # Phần 11 — 📄 Bảng tóm tắt (in được)
 
 > **Print this page. Fold it. Put it in your racquet bag.**
@@ -878,7 +822,8 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | `_build_html.py` | Regenerates the HTML from the MD source (run `python _build_html.py`) |
 | `ReadMe.md` | Folder overview, architecture, 10-week rotation |
 
-> ⚠️ **No PDF version** — by user directive, this manual is web-first only. The HTML version prints cleanly from any browser (`Ctrl+P` / `Cmd+P` → enable "Background graphics" for the colour bands on Part 11). Do not add a PDF stage back to the build script.
+> ⚠️ **No PDF version** — by user directive, this manual is web-first only.
+The HTML version prints cleanly from any browser (`Ctrl+P` / `Cmd+P` → enable "Background graphics" for the colour bands on Part 11). Do not add a PDF stage back to the build script.
 >
 > *Không có phiên bản PDF — theo chỉ dẫn của anh, manual này chỉ phát hành dạng web. Phiên bản HTML in ra rõ từ bất kỳ trình duyệt nào. Đừng thêm giai đoạn PDF vào script build.*
 
@@ -909,12 +854,6 @@ In trouble → Lob over both opponents → Recover to center → Reset
 - `Tennis is an embodiment cognitive sport.md` — body-mind loop
 
 ### Series parameters carried forward (per skill memory)
-- ✅ 3.5-level recreational cues
-- ✅ EN-VI side-by-side bilingual tables
-- ✅ Master-coach voice ("anh," "tôi," "em")
-- ✅ 50+ longevity adjustments (elbow, back, knee, shoulder)
-- ✅ Tai chi principles (Thực-Hư, Lã Kình, "heavy weight")
-- ✅ 1-page printable cheat sheet (tape in the bag)
 
 ---
 
@@ -939,3 +878,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 *🎾 Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. Bắt đầu từ gốc, mọi thứ tự đến.*
 
 *🎾 Wishing you 20 more years of joyful tennis in Surrey. Start at the root, and everything follows.*
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

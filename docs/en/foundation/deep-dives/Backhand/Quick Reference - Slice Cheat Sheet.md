@@ -1,15 +1,13 @@
+---
+title: 🎾 Quick Reference: Slice Variation Cheat Sheet
+lang: en
+---
+
 # 🎾 Quick Reference: Slice Variation Cheat Sheet
+
 ### *The 50+ Tennis Bag Companion
 
 ---
-
-| 🇺🇸 **Slice Fundamentals** |
-| --- |
-| **Grip:** Continental (V on bevel #2). |
-| **Face:** Open "like a hood" (30-45°). |
-| **Path:** High to low (or flat to forward). |
-| **Sound:** "Fwoosh" (clean underspin). |
-| **Tension:** 3-4/10 (Soft hand, firm contact). |
 
 ---
 
@@ -39,3 +37,7 @@
 ---
 *Printable format for your tennis bag.*
 *Dạng in được cho túi vợt của anh.*
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

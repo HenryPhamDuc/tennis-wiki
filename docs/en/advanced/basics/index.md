@@ -1,3 +1,9 @@
+---
+title: 🧠 Advanced Basics - Competitive Tennis Fundamentals
+lang: en
+---
+
+
 # 🧠 Advanced Basics - Competitive Tennis Fundamentals
 
 Welcome to the Advanced Basics section, where solid fundamentals meet strategic thinking. This is where you transform from a recreational player to a competitive competitor.
@@ -45,3 +51,10 @@ Welcome to the Advanced Basics section, where solid fundamentals meet strategic 
 ---
 
 **Ready to elevate your game?** Start with the [Advanced Manual](Advanced%20Manual/) or explore a specific topic above.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

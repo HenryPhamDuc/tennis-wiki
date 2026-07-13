@@ -1,3 +1,9 @@
+---
+title: 📘 The Advanced Tennis Mastery Manual
+lang: en
+---
+
+
 # 📘 The Advanced Tennis Mastery Manual
 
 ## Neurology & Anatomy for 3.5→4.5 Players
@@ -43,6 +49,15 @@ This comprehensive manual bridges the gap between recreational and competitive t
 ---
 
 **Ready to transform your game?** Click the link above to begin the complete manual.
+
 ## Pages in this folder
 - [The Advanced Tennis Mastery Manual — Neurology & Anatomy For 3.5→4.5](The Advanced Tennis Mastery Manual — Neurology & Anatomy for 3.5→4.5.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

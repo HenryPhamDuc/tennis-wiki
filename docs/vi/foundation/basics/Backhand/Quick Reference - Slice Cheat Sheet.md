@@ -1,14 +1,13 @@
+---
+title: 🎾 Quick Tham khảo: Slice Variation Cheat Sheet
+lang: en
+---
+
 # 🎾 Quick Tham khảo: Slice Variation Cheat Sheet
+
 ### Bản Tóm Tắt Slice cho Túi Vợt*
 ---
-| 🇻🇳 Nguyên lý Slice |
-| --- |
-| Grip: Continental (chữ V trên cạnh #2). |
-| Mặt vợt: Mở như mui xe (30-45°). |
-| Đường vợt: Cao-xuống-thấp (hoặc phẳng-tới-trước). |
-| Âm thanh: "Phập" (xoáy dưới sạch). |
-| Độ căng: 3-4/10 (Tay mềm, chạm chắc). |
----
+
 ## Các biến thể theo tình huống
 | Situation | Action | Key Cue | Tín hiệu |
 |---|---|---|---|
@@ -17,6 +16,7 @@
 | Approach | Slice Low, Advance | Cut deep, split-step, move! | Cắt sâu, split-step, tiến lên! |
 | Defense | Get it Deep! | Buy time, don't aim for lines! | Mua thời gian, đừng nhắm sát biên! |
 ---
+
 ## Checklist an toàn 50+
 1. Protect the Back (Bảo vệ lưng): Always bend knees for low bóngs, never bend your back.
 2. Protect the Shoulder (Bảo vệ vai): If shoulder feels tight, use 2HB for power and cắt for everything else.
@@ -28,3 +28,6 @@
 ---
 *Printable format for your tennis bag.*
 *Dạng in được cho túi vợt của bạn.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

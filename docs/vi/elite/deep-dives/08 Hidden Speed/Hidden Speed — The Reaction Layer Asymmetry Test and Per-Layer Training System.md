@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System
+lang: en
+---
+
 # Deep-Dive #8 — Hidden Speed — The 3 Reaction Layers and Your Per-Layer Training System
+
 # Deep-Dive #8 — Tốc Độ Ẩn — Kiểm Tra Bất Đối Xứng 3 Lớp Phản Ứng và Hệ Thống Tập Theo Lớp
 *The Speed Most Players Never Train — A 25-minute deep-dive for the 5.0+ player.*
 *Tốc Độ Hầu Hết Người Chơi Không Bao Giờ Tập — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai cảm thấy "nhanh lúc tập, chậm lúc đấu." Bất cứ ai có đối thủ dường như "thấy bóng sớm" hoặc "có nhiều thời gian hơn." Bất cứ ai có số đo phản ứng (từ app) dường như không nhất quán với kết quả trận. |
 | Thời gian đọc. ~25 phút. Kiểm tra theo lớp: 1-2 giờ. Tập theo lớp: 30-60 ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | The Asymmetry Chart | Biểu Đồ Bất Đối Xứng |
 | 8 | Your Hidden Speed Card | Thẻ Tốc Độ Ẩn Của Bạn |
 * * *
+
 # Chương 1 — 3 Lớp Phản Ứng (Chi Tiết)
 * * *
 | |
@@ -40,6 +49,7 @@
 | Cái gì ảnh hưởng Lớp 3. Loại sợi cơ (% sợi nhanh), mật độ myelin (6.000% từ Deep-Dive #3), trạng thái khởi động, mệt mỏi CNS, độ chính xác cửa sổ tiếp xúc. |
 | Tổng = 150-350ms. Hầu hết 5.0+: 250-300ms tổng. Nhanh nhất: 180-220ms. 4.5 chậm nhất: 350-450ms. *Khoảng cách 200ms giữa nhanh và chậm phần lớn ở Lớp 2 (quyết định) và Lớp 3 (myelin).* |
 * * *
+
 # Chương 2 — Phác Đồ Kiểm Tra Bất Đối Xứng
 * * *
 | |
@@ -60,6 +70,7 @@
 | Biểu đồ bất đối xứng. |
 | Vẽ ba kết quả kiểm tra trên tam giác. Cạnh dài nhất = lớp nút cổ chai của anh. *Tập cái đó.* |
 * * *
+
 # Chương 3 — Tập Lớp 1 (Kích Thích)
 * * *
 | |
@@ -75,6 +86,7 @@
 | Gõ ngón tay chậm trong khi xem vật di chuyển (kim đồng hồ, bóng lắc). Mắt theo dõi trong khi tay di chuyển. *Tập xử lý song song.* |
 | Thời gian tập Lớp 1: 25 phút/ngày, tối thiểu 30 ngày. Cải thiện kỳ vọng: 20-40ms. |
 * * *
+
 # Chương 4 — Tập Lớp 2 (Vỏ Não)
 * * *
 | |
@@ -90,6 +102,7 @@
 | Bạn gọi hướng cú ngẫu nhiên. Anh phải quyết và thực hiện trong 1.5 giây. *Cái này kết hợp Lớp 2 + Lớp 3 dưới áp lực nhẹ.* |
 | Thời gian tập Lớp 2: 40 phút/ngày, 30-60 ngày. Cải thiện kỳ vọng: 30-60ms. |
 * * *
+
 # Chương 5 — Tập Lớp 3 (Vận Động)
 * * *
 | |
@@ -105,6 +118,7 @@
 | Bạn cho bóng ngẫu nhiên. Anh phản ứng VÀ thực hiện. Áp lực thời gian tập Lớp 2 + Lớp 3 cùng nhau. *Ghi thời gian quyết-định-đến-tiếp-xúc bằng video 240fps. Mục tiêu <300ms tổng.* |
 | Thời gian tập Lớp 3: 60 phút/ngày, 60-90 ngày. Cải thiện kỳ vọng: 30-80ms. |
 * * *
+
 # Chương 6 — Tích Hợp với Myelin & Quyết Định
 * * *
 | |
@@ -118,6 +132,7 @@
 | Nguyên tắc "tập bất đối xứng." Nếu kiểm tra bất đối xứng cho thấy Lớp 2 là nút cổ chai (vd. 220ms), dành 70% thời gian tập cho Lớp 2, 30% cho hai lớp kia. *Đừng phân phối đều; giải quyết nút cổ chai CỦA ANH trước.* |
 | Kiểm tra lại hàng tuần. Chạy lại kiểm tra bất đối xứng mỗi 2 tuần. Khi một lớp cải thiện, nút cổ chai có thể chuyển. *Hiệu chỉnh lại.* |
 * * *
+
 # Chương 7 — Biểu Đồ Bất Đối Xứng
 * * *
 | |
@@ -130,8 +145,10 @@
 | Nút cổ chai thống trị Lớp 3. Đường L3 dài hơn nhiều (vd. L1=100ms, L2=120ms, L3=200ms). *Người lớn tuổi hoặc chấn thương.* Tập myelin + sợi nhanh. |
 | Nút cổ chai thống trị Lớp 1. Đường L1 dài hơn nhiều (vd. L1=200ms, L2=130ms, L3=110ms). *Thường vấn đề thị giác hoặc mệt.* Tập mắt + kiểm tra sức khỏe mắt. |
 * * *
+
 # Chương 8 — Thẻ Tốc Độ Ẩn Của Bạn
 * * *
+
 ### 📋 Deep-Dive #8 Master Card — Printable / Thẻ Tổng Deep-Dive #8
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY ║
@@ -202,6 +219,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -213,3 +231,6 @@ Sources / Nguồn:
 - Advanced Tennis Kilướiic-Chain Manual.md (Reaction-Time Pyramid, per-stage luyện tập protocols)
 - Futuristic Tennis Manual by Olama.md (Neuro athlétic, NKF reaction-time coefficient, Δt_synch)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

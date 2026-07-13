@@ -1,8 +1,15 @@
-Done. Deep Dive on Slice Approach saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Approach\Slice Approach — The Senior-Friendly Way to the Net.md`** (~58 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on Slice Approach saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Approach\Slice Approach — The Senior-Friendly Way to the Net.md`** (~58 KB, EN-VI bilingua
+l, 5 chapters)
 
 ### The big idea: "The approach is a 4-STEP PATTERN, not a single shot"
 
-The slice approach is the most under-practiced pattern in 3.5 tennis. Most players hit a "good shot" and wonder why they can't capitalize. This deep dive reframes the approach as a **complete pattern** — 4 steps that must be done in sequence:
+The slice approach is the most under-practiced pattern in 3.5 tennis. Most players hit a "good shot" and wonder why they can't capitalize.
+This deep dive reframes the approach as a **complete pattern** — 4 steps that must be done in sequence:
 
 1. **DECIDE** (4 questions) → 2. **SLICE** → 3. **TRANSITION** → 4. **VOLLEY**
 
@@ -30,11 +37,16 @@ Skip any step and the pattern breaks. The decision is the step 3.5 players skip 
 
 ### Key 3.5-level choices I made
 
-- **Led with the backhand slice approach (default), not the forehand slice approach.** The Continental grip is already in your hand from the volley series. No grip change. Cross-court geometry is friendlier. The forehand slice is a "next step" option.
-- **Made the 4 Decision Questions the gatekeeper.** Most 3.5 players approach on the wrong ball (deep) or against a set opponent. The 4 questions (ball short? opponent off-balance? deep slice possible? open court visible?) eliminate 70% of bad approaches.
-- **Split transition footwork into its own chapter.** The transition is where most approaches die. Players hit a great slice and then stop at the baseline. The "rebound" model (side-shuffle → sprint → split-step) is the missing piece.
-- **Used the "frying pan" cue for the slice approach** — face open like a car hood, ball is a pancake, racket is the pan. This translated the high-to-low swing into a body image (pan flipping a pancake), not a swing mechanic.
-- **Connected the volley finish back to the Volley deep dive.** Nothing new to learn — same L-shape, same 6-inch punch, same Continental grip. The slice approach only changes WHEN you arrive and WHERE you aim.
+- **Led with the backhand slice approach (default), not the forehand slice approach.** The Continental grip is already in your hand from the volley series. No grip change.
+Cross-court geometry is friendlier. The forehand slice is a "next step" option.
+- **Made the 4 Decision Questions the gatekeeper.** Most 3.5 players approach on the wrong ball (deep) or against a set opponent.
+The 4 questions (ball short? opponent off-balance? deep slice possible? open court visible?) eliminate 70% of bad approaches.
+- **Split transition footwork into its own chapter.** The transition is where most approaches die. Players hit a great slice and then stop at the baseline.
+The "rebound" model (side-shuffle → sprint → split-step) is the missing piece.
+- **Used the "frying pan" cue for the slice approach** — face open like a car hood, ball is a pancake, racket is the pan.
+This translated the high-to-low swing into a body image (pan flipping a pancake), not a swing mechanic.
+- **Connected the volley finish back to the Volley deep dive.** Nothing new to learn — same L-shape, same 6-inch punch, same Continental grip.
+The slice approach only changes WHEN you arrive and WHERE you aim.
 - **Used the "seesaw" model for volley aim.** The open court is the side OPPOSITE to where you approached. If you can see the geometry, you can see the volley target.
 - **Made the 70% sprint explicit.** At 50+, full sprint loads the knees, the back, and the heart. A 70% sprint that arrives 0.3 seconds later is the joint-friendly choice.
 - **Ended with a printable 1-page cheat sheet** in both languages, with the 4 Decision Questions, the 5 Transition steps, and the "Phrased Master Cue" at the bottom.
@@ -61,7 +73,9 @@ A 3.5 player who follows the 4 steps will win 60% of their approaches. A 3.5 pla
 
 ### The master cue
 
-> *"The slice approach is how 50+ players play tennis for 20 more years. Not because the slice approach is easy — but because it lets you keep approaching without wrecking your shoulder, your back, or your heart. That's why the slice approach is not a 'tactical choice' — it's a 'longevity choice.'"*
+> *"The slice approach is how 50+ players play tennis for 20 more years.
+Not because the slice approach is easy — but because it lets you keep approaching without wrecking your shoulder, your back, or your heart.
+That's why the slice approach is not a 'tactical choice' — it's a 'longevity choice.'"*
 
 ### File summary
 
@@ -82,4 +96,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, anh sẽ tự tin approach 1-2 lần mỗi set.
+Hy vọng tuần này anh sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach.
+Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, anh sẽ tự tin approach 1-2 lần mỗi set.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

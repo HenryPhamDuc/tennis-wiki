@@ -1,8 +1,15 @@
+---
+title: Neurological Foundation — Brain, Proprioception, Vision & Reaction Anatomy
+lang: en
+---
+
 # Neurological Foundation — Brain, Proprioception, Vision & Reaction Anatomy
+
 # Nền Tảng Thần Kinh — Não, Cảm Giác Sâu, Thị Giác & Giải Phẫu Phản Xạ
 *Deep Dive #3 — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5*
 *Chuyên Đề Số 3 — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5*
 ---
+
 ## Document Map / Bản Đồ Tài Liệu
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Tài liệu này KHÔNG phải là — Không nói "sức mạnh tinh thần". Không khuyên "tự tin". Không tập trung hay tâm thế. Đó là lớp tâm lý và chúng sống trong chuyên đề hiện có (Tâm Lý, Quản Lý Áp Lực). Chương này là thần kinh thuần — giải phẫu thần kinh, vùng não, và hệ cảm giác. |
 | Tại sao điều này quan trọng ở 3.5 → 4.5 — Hầu hết người chơi phong trào chỉ tập CƠ. Họ chạy, nâng, tập chân. Nhưng nút thắt cho hầu hết người 3.5 là thời gian phản xạ và độ chính xác quyết định , cả hai đều là giới hạn THẦN KINH, không phải cơ. Tập não và cú đánh tốt hơn miễn phí. |
 ---
+
 ## Table of Contents / Mục Lục
 | # | Chapter | Chương |
 |---|---|---|
@@ -24,7 +32,9 @@
 | 📋 | Neurological Cheat Sheet | Bảng Tóm Tắt Thần Kinh |
 ---
 * * *
+
 # Chapter 1 — The Reaction Chain — From Eye to Ball
+
 # Chương 1 — Chuỗi Phản Xạ — Từ Mắt Tới Bóng
 | |
 | --- |
@@ -40,7 +50,9 @@
 | Nút thắt người 3.5 — Bước 4 mất ~0.30s cho người 3.5, ~0.10s cho pro. Khác biệt 0.20s đó là lý do chính người 3.5 cảm thấy "luôn trễ". Không phải chân. Là quyết định. |
 | *Câu nhắc tổng:* "Tập quyết định. Chân ổn rồi." |
 * * *
+
 # Chapter 2 — The Eye — How Vision Drives the Stroke
+
 # Chương 2 — Mắt — Cách Thị Giác Dẫn Cú Đánh
 | |
 | --- |
@@ -61,7 +73,9 @@
 | Với người 50+ — Thị giác bắt đầu giảm khoảng 40–45 tuổi (lão thị — mất khả năng tập trung gần). Bóng tennis đi nhanh và nhỏ. Dùng bóng vàng trên sân tối (tương phản cao nhất). Cân nhắc kính vàng để tăng tương phản. |
 | *Câu nhắc tổng:* "Thấy bóng tới. Khóa. Ở khóa qua tiếp xúc. Nhìn lên SAU." |
 * * *
+
 # Chapter 3 — Proprioception — The Hidden 6th Sense
+
 # Chương 3 — Cảm Giác Sâu — Giác Quan Thứ 6 Ẩn
 | |
 | --- |
@@ -84,7 +98,9 @@
 | Tại sao người 50+ cần tập cảm giác sâu thêm — Cảm giác sâu giảm ~10%–15% mỗi thập kỷ sau 50 tuổi. Đây là một trong những lý do chính người lớn tuổi mất thăng bằng và ngã nhiều hơn trong đời sống hàng ngày, không chỉ tennis. Hãy tập nó. |
 | *Câu nhắc tổng:* "Nhắm mắt. Tin khớp bạn. Chúng biết." |
 * * *
+
 # Chapter 4 — The Brain Regions Behind a Tennis Stroke
+
 # Chương 4 — Vùng Não Sau Một Cú Tennis
 | |
 | --- |
@@ -100,7 +116,9 @@
 | Quy tắc 10.000 lần — Cache hạch nền mất ~3.000–10.000 lần lặp cùng động tác. Với 100 Cú Thuận Tay/ngày, đó là 30–100 ngày. Đó là bao lâu để ngừng "nghĩ" về Cú Thuận Tay và chỉ ĐÁNH nó. |
 | *Câu nhắc tổng:* "Tập lái tự động. Đánh 100 Cú Thuận Tay mỗi ngày trong 100 ngày. Ngừng nghĩ." |
 * * *
+
 # Chapter 5 — Reaction Time, Decision Time, Movement Time
+
 # Chương 5 — Thời Gian Phản Xạ, Quyết Định, Vận Động
 | |
 | --- |
@@ -117,7 +135,9 @@
 | Khác biệt 0.20s giữa 3.5 và 4.5 — 0.20s đó đến chủ yếu từ Thời Gian Quyết Định. Người chơi 3.5 làm 100 bài quyết định ngẫu nhiên/ngày trong 6 tháng sẽ đóng 70% khoảng cách đó. |
 | *Câu nhắc tổng:* "Quyết định là nút thắt. Tập não, không tập chân." |
 * * *
+
 # Chapter 6 — The Three Reaction Layers
+
 # Chương 6 — Ba Lớp Phản Xạ
 | |
 | --- |
@@ -135,7 +155,9 @@
 | Tại sao điều này quan trọng cho 50+ — Phản xạ Lớp 1 chậm ~10%–15% mỗi thập kỷ sau 50 tuổi. Phản xạ giãn ở Achilles thường bị trì hoãn , đó là lý do người lớn tuổi phản ứng chậm hơn ở đường cuối sân. Tập split-step nổ — đó là phản xạ QUAN TRỌNG NHẤT cần giữ sắc. |
 | *Câu nhắc tổng:* "Tập split-step như phản xạ (Lớp 1), không như quyết định (Lớp 3). 5000 lần để làm vĩnh viễn." |
 * * *
+
 # Chapter 7 — The Vestibular System — Balance & Equilibrium
+
 # Chương 7 — Hệ Tiền Đình — Thăng Bằng & Cân Bằng
 | |
 | --- |
@@ -149,7 +171,9 @@
 | Tập tiền đình cho 50+ — Bài tập hàng ngày đơn giản (đứng một chân mắt nhắm 30 giây × 3 lần, xoay đầu chậm × 10 mỗi hướng) có thể DUY TRÌ chức năng tiền đình. Không bao giờ quá muộn để bắt đầu. |
 | *Câu nhắc tổng:* "Giữ đầu yên. Mắt bạn cần nền ổn định để khóa bóng." |
 * * *
+
 # Chapter 8 — Neuroplasticity — Why 50+ Brains Still Learn
+
 # Chương 8 — Dẻo Dai Thần Kinh — Tại Sao Não 50+ Vẫn Học
 | |
 | --- |
@@ -165,12 +189,16 @@
 | Take-home lớn — Não 50+ của bạn vẫn có thể học kỹ năng tennis. Nó chỉ cần: (1) nhiều lần lặp hơn mỗi kỹ năng, (2) nhiều giấc ngủ hơn để củng cố, (3) nhiều phục hồi hơn giữa các buổi. 3 Rs của dẻo dai thần kinh 50+. |
 | *Câu nhắc tổng:* "Não già, mẹo mới. Chậm nhưng có thể. 5000 lần làm nó thật." |
 * * *
+
 # Chapter 9 — Anatomy_Lab Integration — The Three-Layer Control System
+
 # Chương 9 — Tích Hợp Anatomy_Lab — Hệ Kiểm Soát Ba Lớp
 | |
 | --- |
 | Chương này xếp lớp con số hệ kiểm soát cụ thể từ thư viện `Anatomy_Lab/` (tiền đình, thị giác, cảm giác sâu, thác phản xạ) lên khung vùng não của chuyên đề này. |
+
 ## 9.1 — The Vestibular System (The 3rd Layer of the Kilướiic Chain)
+
 ## 9.1 — Hệ Tiền Đình (Lớp Thứ 3 Của Chuỗi Động Học)
 | |
 | --- |
@@ -179,7 +207,9 @@
 | Hình 1 — 3 ống bán nguyệt (trước, sau, ngang) phát hiện xoay đầu. 2 cơ quan otolith phát hiện gia tốc tuyến tính và nghiêng đầu. |
 | ![Otoconia trong hệ tiền đình](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img09.png) |
 | Hình 2 — Otoconia: tinh thể canxi cacbonat tí hon trong các cơ quan otolith. Chúng di chuyển theo trọng lực và nói cho não biết hướng nào là LÊN. |
+
 ## 9.2 — The 5-Phase Visual Cycle (Quiet Eye)
+
 ## 9.2 — Chu Kỳ Thị Giác 5 Pha (Mắt Im Lặng)
 | |
 | --- |
@@ -194,7 +224,9 @@
 | ![Quiet eye focus](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img15.png) | ![Tiêu điểm mắt im lặng](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img15.png) |
 | ![Visual tracking sequence](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img18.png) | ![Trình tự theo dõi thị giác](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img18.png) |
 | Figures 3 & 4 / Hình 3 & 4 — The quiet eye in action (left), and the full 5-phase tracking sequence (right). | Hình 3 & 4 — Mắt im lặng trong hành động (trái), và trình tự theo dõi 5 pha đầy đủ (phải). |
+
 ## 9.3 — The Reaction Time Cascade (Anatomy_Lab DD8 Numbers)
+
 ## 9.3 — Thác Phản Xạ (Số Anatomy_Lab DD8)
 | |
 | --- |
@@ -208,7 +240,9 @@
 | ![Reaction time cascade](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img20.png) | ![Thác phản xạ](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img20.png) |
 | ![Visual reaction at contact](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img25.png) | ![Phản xạ thị giác lúc tiếp xúc](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img25.png) |
 | Figures 5 & 6 / Hình 5 & 6 — Reaction time cascade visualized (left), and visual reaction at the moment of contact (right). | Hình 5 & 6 — Thác phản xạ được hình dung (trái), và phản xạ thị giác lúc tiếp xúc (phải). |
+
 ## 9.4 — The 50+ Sensory Triad (Anatomy_Lab DD8 Critical Insight)
+
 ## 9.4 — Bộ Ba Giác Quan 50+ (Insight Then Chốt Anatomy_Lab DD8)
 | |
 | --- |
@@ -221,7 +255,9 @@
 | ![Sensory triad decline](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img28.png) | ![Suy giảm bộ ba giác quan](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img28.png) |
 | ![Compensating sensory loss](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img32.png) | ![Bù suy giảm giác quan](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img32.png) |
 | Figures 7 & 8 / Hình 7 & 8 — The 50+ sensory triad visualized (left), and strategies to compensate (right). | Hình 7 & 8 — Bộ ba giác quan 50+ được hình dung (trái), và chiến lược bù (phải). |
+
 ## 9.5 — The Foot as a 30 ms Reflex Sensor (Connecting to DD2)
+
 ## 9.5 — Bàn Chân Như Cảm Biến Phản Xạ 30 ms (Kết Nối Với DD2)
 | |
 | --- |
@@ -229,7 +265,9 @@
 | ![Cảm giác sâu bàn chân - 7000 dây thần kinh](images/DD7_ankles_feet/DD7_ankles_feet_05.jpg) |
 | Hình 9 — Đầu dây thần kinh dày đặc ở lòng bàn chân. 7.000+ cảm biến ở mỗi bàn chân. |
 | Vòng điều khiển giải thích — Mắt thấy bóng → não quyết định (vỏ não, ~200 ms) → nhưng TRƯỚC đó, bàn chân ĐÃ bắt đầu phản xạ split-step (30 ms). Cơ thể bắt đầu di chuyển TRƯỚC khi ý thức quyết định. Đây là lý do "dự đoán" cảm thấy như phản xạ — nó phần nào LÀ phản xạ. |
+
 ## 9.6 — Updated Brain-Region Map (Anatomy_Lab Sharpened)
+
 ## 9.6 — Bản Đồ Vùng Não Cập Nhật (Anatomy_Lab Tinh Chỉnh)
 | Brain Region / Vùng Não | Function / Chức Năng | Tennis Connection / Kết Nối Tennis |
 |---|---|---|
@@ -244,6 +282,7 @@
 | ![Neural pathway](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img40.png) | ![Đường thần kinh](images/DD8_control_system/Anatomy_He_Tien_Dinh_Full__img40.png) |
 | Figures 10 & 11 / Hình 10 & 11 — Brain region integration (left), and the vestibular neural pathway (right). | Hình 10 & 11 — Tích hợp vùng não (trái), và đường thần kinh tiền đình (phải). |
 * * *
+
 ## 📋 Chapter Card — Printable / Thẻ In Được
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -292,6 +331,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 * * *
+
 ## 🎯 Final Word / Lời Cuối
 | |
 | --- |
@@ -311,3 +351,6 @@ Sources / Nguồn :
 - Squire et al. (2013) — Fundamental Neuroscience
 *End of Deep Dive #3 — Neurological Foundation*
 *Hết Chuyên Đề Số 3 — Nền Tảng Thần Kinh*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

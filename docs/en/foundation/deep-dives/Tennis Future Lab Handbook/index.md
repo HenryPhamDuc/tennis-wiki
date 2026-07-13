@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 When I first started working on my tennis future lab handbook, I realized how much I had misunderstood. This section shares the insights and drills that transformed my approach.
 
 ## Navigation
@@ -9,3 +14,7 @@ When I first started working on my tennis future lab handbook, I realized how mu
 - [Readme](ReadMe.md)
 - [Tennis Future Lab Master Handbook — Video Enhanced](Tennis Future Lab Master Handbook — Video Enhanced.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

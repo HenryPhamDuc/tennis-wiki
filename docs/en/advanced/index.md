@@ -1,3 +1,9 @@
+---
+title: 🧠 Advanced - Strategic Tennis Mastery
+lang: en
+---
+
+
 # 🧠 Advanced - Strategic Tennis Mastery
 
 Welcome to the Advanced section, where you transform solid fundamentals into winning strategies. This is where good players become great.
@@ -42,3 +48,10 @@ Start with [Basics](basics/) to refine your advanced fundamentals, or explore [D
 
 **Previous Section**: [Foundation](../foundation/) - Building core skills  
 **Next Section**: [Elite](../elite/) - Championship-level performance
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

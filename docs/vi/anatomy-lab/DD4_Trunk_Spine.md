@@ -1,6 +1,12 @@
+---
+title: Thân & Cột Sống
+lang: en
+---
+
 # Thân & Cột Sống
 *L4-L5, Piriformis, the 40 Muscles of the Back in 3 Layers, and Why the Hip Hinge Saves Your Spine*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Không bao gồm: vai (DD2), tay (DD3), hông chi tiết (DD5). |
 | Thời gian đọc: 35–45 phút. |
 ---
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -21,11 +28,13 @@
 | 7 | The Strain vs Spasm Distinction — Why Treatment Differs | Phân Biệt Strain vs Spasm — Vì Sao Điều Trị Khác Nhau |
 ---
 * * *
+
 ## Chương 1 — Cột Sống Thắt Lưng (5 Đốt, 2 Đĩa Quan Trọng)
 | |
 | --- |
 | Cột sống thắt lưng là 5 đốt (L1–L5) nằm trên xương cùng (S1–S5, dính liền). Giữa mỗi cặp đốt sống là một đĩa đệm — bộ giảm xóc chứa gel. Các đĩa ở L4-L5 và L5-S1 chịu tải nhiều nhất trong mọi chuyển động xoay hoặc gập về phía trước. |
 | Cấu trúc đĩa: đĩa có trung tâm gel mềm (nhân tủy) và vòng ngoài cứng (vòng xơ). Khi bạn gập về phía trước với lưng TRÒN, gel đẩy ra sau. Nếu vòng xơ rách, gel có thể thoát vị → chèn ép thần kinh → sciatica. |
+
 ### 5 Đốt Thắt Lưng — Vai Trò
 | Vertebra | Role | Special |
 |---|---|---|
@@ -34,11 +43,13 @@
 | L3 | Mid lumbar | Less commonly injured. Cross-section area: ~14 cm² (largest in lumbar) |
 | L4 | Lower lumbar — INJURY MAGNET | Pivots with L5. Bears maximum compression + shear. 80% of lumbar disc herniations happen here. |
 | L5 | Lowest mobile vertebra | The MOST sheared vertebra in the spine. Bears 1,500–2,000 N compression during forward bend with 50 kg load. |
+
 ### 2 Đĩa Quan Trọng Nhất
 | Disc | Loads in Tennis | Failure Mode |
 |---|---|---|
 | L4-L5 | Forward bend + rotation (Cú Thuận Tay, Phát Bóng toss) | Posterolateral disc herniation → L5 nerve root compression → pain down lateral leg + top of foot |
 | L5-S1 | Forward bend + axial load (pickup, low vôleis) | Posterocentral disc herniation → S1 nerve root compression → pain down back of leg + outside of foot |
+
 ### Sự Thật Tư Thế Thắt Lưng — 3 Tư Thế, 3 Tải
 | Position | Disc Load | Risk | Tennis Translation |
 |---|---|---|---|
@@ -50,17 +61,14 @@
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.1, Ch.4; Giai_Phau_Tennis_Toan_Dien.docx Ch.4 (sciatic nerve). Tham khảo disc-load numbers from Nachemson's classic 1981 study, cited in Tennis Anatomy Ch.6.*
 ---
 * * *
+
 ## Chương 2 — 3 Lớp Cơ Lưng (Hơn 40 Cơ, 3 Việc)
-| 🇻🇳 Tiệt Việt |
-| --- |
-| Lưng có hơn 40 cơ xếp 3 lớp. Mỗi lớp có việc riêng. Lớp nông tạo lực. Lớp giữa ổn định lồng ngực để thở. Lớp sâu ổn định cột sống từng đốt. |
-| Sự thật lưng quan trọng nhất cho 50+: multifidus (lớp sâu) mất 10% diện tích mặt cắt trong vòng 24 GIỜ sau một đợt đau lưng cấp. Não bạn thực sự "quên" cách kích hoạt nó. Cách sửa là tái kích hoạt cụ thể, KHÔNG PHẢI tập chung chung. |
-### 3 Lớp Cơ Lưng
 | Layer | Key Muscles | Job | Tennis Role |
 |---|---|---|---|
 | Superficial (the "power" layer) | Trapezius (upper, middle, lower), latissimus dorsi, rhomboids | Produce gross movement of shoulder girdle + arms | Lat produces 40% of vợt head speed on Phát Bóng. Traps stabilize scapula. |
 | Intermediate (the "respiration" layer) | Serratus posterior superior + inferior, erector spinae (longissimus, iliocostalis) | Stabilize rib cage during forced breathing | Maintain thoracic mobility during long rallies. |
 | Deep (the "segmental" layer) | Multifidus, rotatores, interspinales, intertransversarii | Stabilize each spinal segment individually | The "core" of the spine. Locks L4-L5 before any force transfer. |
+
 ### Multifidus — Cơ Lưng Quan Trọng Nhất Bạn Không Bao Giờ Nghĩ Đến
 | |
 | --- |
@@ -70,11 +78,13 @@
 *Source: Giai_Phau_Tennis_Toan_Dien.docx Ch.3 (40+ muscles, 3 layers), Ch.4 (multifidus 10% loss in 24h). Tennis Anatomy Ch.5 (Back) and Ch.6 (Core) corroborate.*
 ---
 * * *
+
 ## Chương 3 — Hip Hinge vs Gập Cột Sống (Vì Sao Hip Hinge Cứu Lưng Bạn)
 | |
 | --- |
 | Có HAI cách gập về phía trước để nhặt cái gì đó dưới đất: (1) gập CỘT SỐNG — bạn tròn lưng và vươn, (2) HIP HINGE — bạn giữ lưng thẳng và đẩy mông ra sau. Hip hinge tải chuỗi sau (glutes, gân kheo). Gập cột sống tải đĩa L4-L5. |
 | Bằng chứng video: trong 1.000 lần gập nhặt bóng, nghiệp dư dùng gập cột sống 100% thời gian. Pro dùng hip hinge 95% thời gian. Qua 5 năm, đĩa L4-L5 của nghiệp dư đã chịu gấp 5 lần tải của pro. |
+
 ### 2 Cách Gập — Song Song
 | Element | Spine Hinge (amateur) | Hip Hinge (pro) |
 |---|---|---|
@@ -84,12 +94,14 @@
 | Hamstring stretch | Minimal | Maximum |
 | Risk | Disc herniation, chronic LBP | Low |
 | Energy cost | Same | Same |
+
 ### Câu Nhắc Hip Hinge — 3 Bước
 | Step | Cue | Why |
 |---|---|---|
 | 1 | "Feet shoulder-width, soft knees" | Stable base. |
 | 2 | "Push your butt back like you're closing a drawer with your hips" | Hip joint flexion, NOT spine flexion |
 | 3 | "Keep your chest up, like a proud dog" | Spine stays neutral. Chest angle = 45° from vertical at the bottom. |
+
 ### Áp Dụng Tennis — 4 Lần Bạn Cần Hip Hinge
 | Moment | Common Mistake | Hip Hinge Fix |
 |---|---|---|
@@ -100,18 +112,21 @@
 *Source: Giai_Phau_Tennis_Toan_Dien.docx Ch.1 (Hip Hinge, Repeated Forward Bending). Tham khảo: Tennis Anatomy Ch.5, Ch.6.*
 ---
 * * *
+
 ## Chương 4 — Cái Bẫy Piriformis (Vì Sao 80% "Hội Chứng Piriformis" Là Sai)
 | |
 | --- |
 | Piriformis nguyên ủy ở mặt trước xương cùng, đi qua lỗ ngồi lớn, và bám vào mấu chuyển lớn xương đùi. Ở khoảng 17% dân số, thần kinh tọa đi XUYÊN QUA piriformis. Ở 83% còn lại, nó đi DƯỚI. |
 | "Hội chứng piriformis" là chẩn đoán phổ biến. Nhân viên massage thích nó. Interlưới thích nó. Nhưng file nguồn của bạn nói thẳng: "Điểm nén thực sự nằm ở L5-S1, không phải ở mông." |
 | Câu chuyện thật: nguyên nhân phổ biến nhất của đau mông + mặt sau chân ở người chơi tennis 50+ là thoát vị đĩa L5-S1 chèn ép rễ thần kinh S1. Piriformis bị CĂNG là phản ứng THỨ CẤP với kích ứng thần kinh. Trị piriformis bỏ sót nguyên nhân. |
+
 ### 3 Nguyên Nhân "Đau Mông" Ở Người 50+ Tennis
 | Cause | Mechanism | Diagnostic Clue | Fix |
 |---|---|---|---|
 | L5-S1 disc herniation (MOST COMMON) | Disc gel pushes backward, compresses S1 nerve root | Pain worse with sitting + forward bend, relief with standing + extension. Positive straight-leg raise. | MRI to confirm. PT. 80% resolve without surgery. |
 | Piriformis syndrome (OVERBALANCED) | Piriformis tightens, compresses sciatic nerve | Pain worse with sitting on a hard surfás. FAIR test positive (flexion, adduction, internal rotation reproduces pain). | Stretching + hip external rotator strengthening. |
 | Sacroiliac (SI) joint dysfunction | SI joint becomes hypomobile or hypermobile | Pain right at the PSIS (posterior superior iliac spine). Positive Patrick's test. | Mobilization + SI belt. |
+
 ### Test Nâng Chân Thẳng — Tự Kiểm Tra
 | |
 | --- |
@@ -121,11 +136,13 @@
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.2 (Piriformis — the real compression is L5-S1, not buttock).*
 ---
 * * *
+
 ## Chương 5 — Sciatica Là Thần Kinh, Không Phải Cơ (Chẩn Đoán)
 | |
 | --- |
 | Thần kinh tọa là thần kinh DÀI NHẤT cơ thể — từ L4-S3 trong cột sống, qua mông, xuống mặt sau đùi, phân nhánh ở đầu gối thành thần kinh chày và thần kinh mác chung, kết thúc ở bàn chân. |
 | Sciatica KHÔNG phải vấn đề cơ. Nó là kích ứng thần kinh tọa hoặc các rễ của nó. Đau lan dọc đường đi thần kinh. Trị cơ (massage, kéo giãn) trị triệu chứng, không phải nguyên nhân. Trị nguyên nhân cần biết THẦN KINH bị kích ứng Ở ĐÂU. |
+
 ### 4 Vị Trí Sciatica — Mỗi Cái Cần Cách Sửa Khác
 | Location | Pain Pattern | Cause | Fix |
 |---|---|---|---|
@@ -133,6 +150,7 @@
 | Piriformis compression | Buttock + back of thigh (no back pain) | Tight piriformis compressing the nerve | Stretching + hip external rotator strengthening. |
 | Hamstring syndrome | Mid-thigh, often after hamstring tear | Scar tissue from old hamstring tear entrapping nerve | Surgical release if conservative fails. |
 | Tight hamstring (NOT sciatica) | Back of thigh, no nerve symptoms, no buttock pain | True muscle tightness | Static stretching + foam roll. |
+
 ### "Chèn Ép Kép" Trong Tennis
 | |
 | --- |
@@ -144,11 +162,13 @@
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.2 (Piriformis) and Ch.6 (Sai lầm điều trị sciatica); Giai_Phau_Tennis_Toan_Dien.docx Ch.4 (Double crush, sciatica).*
 ---
 * * *
+
 ## Chương 6 — Giải Nén Bằng Đi Bộ (Cách Sửa 5 Phút Mỗi Ngày)
 | |
 | --- |
 | Cách chữa chèn ép L4-L5 mạn tính KHÔNG PHẢI nghỉ, KHÔNG PHẢI kéo giãn, KHÔNG PHẢI nằm. Đó là ĐI BỘ. Đi bộ chậm, bước ngắn, thẳng lưng. Sinh cơ học của đi bộ bước ngắn giải nén đĩa L4-L5 ~30% đồng thời kích hoạt gluteus medius và transversus abdominis. |
 | Vì sao bước ngắn hiệu quả: bước ngắn giữ chậu ngang hơn. Gluteus medius ở chân trụ co để giữ chậu lên. Transversus abdominis co đồng thời để ổn định thắt lưng. Đĩa đệm trải qua hành động "vắt sữa" — dịch chuyển vào ra, nuôi đĩa. |
+
 ### Phác Đồ Giải Nén Bằng Đi Bộ
 | Element | Specification | Why |
 |---|---|---|
@@ -158,6 +178,7 @@
 | Posture | Upright, slight chin tuck, shoulders back | Spine stays in neutral |
 | Surfás | Flat, even (track, sidewalk, grass) | Uneven surfáss = compensatory movement |
 | When | After tennis, after sitting, between sets | Decompress the loaded disc |
+
 ### 4 Pha Đi Bộ
 | Phase | What Happens | Body Effect |
 |---|---|---|
@@ -165,6 +186,7 @@
 | 2. Midtư thế | Foot flat, leg fully loaded | Glute medius contracts. Pelvis stays level. Disc decompresses. |
 | 3. Push-off | Heel lifts, weight on toes | Calf + achilles + plantar fascia load. |
 | 4. Swing | Other leg swings forward | Hip flexor (iliopsoas) contracts. L4-L5 rotation minimal. |
+
 ### Thời Điểm Đi Bộ Cho Tennis
 | When | Duration | Why |
 |---|---|---|
@@ -176,11 +198,13 @@
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.4 (Đi bộ giải nén: cơ chế sinh lý); Giai_Phau_Tennis_Toan_Dien.docx Ch.5 (Giải phóng thần kinh bằng đi bộ).*
 ---
 * * *
+
 ## Chương 7 — Phân Biệt Strain vs Spasm (Vì Sao Điều Trị Khác Nhau)
 | |
 | --- |
 | "Lưng tôi trẹo" là một trong những than phiền tennis phổ biến nhất. Nó có thể có nghĩa là hai thứ hoàn toàn khác nhau. STRAIN là tổn thương cấu trúc sợi cơ (rách vi thể actin-myosin). SPASM là co cơ quá mức thần kinh. Chúng cần điều trị khác nhau. |
 | Sai lầm: hầu hết mọi người trị cả hai giống nhau — nóng, nghỉ, kéo giãn nhẹ. Với strain, kéo giãn nhẹ tốt. Với SPASM, kéo giãn thường làm nặng hơn. Spasm là co quá mức thần kinh. Kéo giãn nó cung cấp INPUT có thể TĂNG co cơ. |
+
 ### 3 Khác Biệt Giữa Strain và Spasm
 | Element | Strain | Spasm |
 |---|---|---|
@@ -190,6 +214,7 @@
 | Healing time | 2–6 weeks (depends on severity) | Resolves when the underlying cause resolves |
 | Best treatment | Rest + ice first 72h, then heat + gentle stretch + load progression | Address the underlying cause (disc, nerve, stress). Heat. Gentle movement. AVOID aggressive stretching. |
 | Bad treatment | Aggressive stretching → re-tear | Aggressive stretching → INCREASED contraction |
+
 ### Test Strain vs Spasm Cho Tennis
 | Question | Strain Answer | Spasm Answer |
 |---|---|---|
@@ -199,6 +224,7 @@
 | Does STRETCHING help? | YES (gentle) | NO (often worse) |
 | Is there RADIATING pain down the leg? | Rare | Common (nerve root) |
 | What's the TONE of the muscle? | Slightly tight | ROCK HARD (cannot palpate deeper) |
+
 ### Cách Sửa — Khác Nhau
 | Condition | Day 1–3 | Day 4–14 | Beyond 14 days |
 |---|---|---|---|
@@ -207,6 +233,7 @@
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.5 (Giãn cơ và co thắt: hai thực thể khác biệt).*
 ---
 * * *
+
 ## 📋 DD4 CARD — Printable / THẺ IN ĐƯỢC DD4
 ╔═══════════════════════════════════════════════════════════╗
 ║ DD4 CARD — TRUNK & SPINE ║
@@ -305,22 +332,30 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 ---
+
 ## 🖼️ ILLUSTRATIONS / HÌNH MINH HỌA
 *40 images available in `Anatomy_Lab/images/DD4_trunk_spine/` (20 from Giai_Phau_Anatomy_Tennis.docx + 20 from Tennis Anatomy PDF Ch.4, Ch.5, Ch.6).*
+
 ### Hình 1 — Bản Đồ Giải Phẫu
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img01.png` (Hình 1.1)
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img02.png` (Hình 1.2)
+
 ### Hình 2 — Quan Hệ Piriformis và Thần Kinh Tọa
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img03.png` (Hình 2.1)
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img04.png` (Hình 2.2)
+
 ### Hình 3 — Chuỗi Sụp Vòm → Valgus → Quá Tải Gối
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img05.png` through `img09.png` (Hình 3.1–3.5)
+
 ### Hình 4 — Các Pha Giải Nén Bằng Đi Bộ
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img10.png` through `img14.png` (Hình 4.1–4.5)
+
 ### Hình 5 — Strain vs Spasm (Điểm Trigger)
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img15.png` through `img19.png` (Hình 5.1–5.5)
+
 ### Hình 6 — Sai Lầm Trị Sciatica
 `images/DD4_trunk_spine/Giai_Phau_Anatomy_Tennis__img20.png` (Hình 6.1)
+
 ### Hình 7–20
 | Figure | Description | Image |
 |---|---|---|
@@ -336,6 +371,7 @@
 | 16–20 | Sciatic nerve path + nerve root maps | `DD4_trunk_spine_10.png`–`14.png` |
 *All image filenames verified to exist in `Anatomy_Lab/images/DD4_trunk_spine/`.*
 ---
+
 ## 🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO
 | Topic in DD4 | See Also |
 |---|---|
@@ -347,6 +383,7 @@
 | Thoracic rotation | DD2 Shoulders — scapular control, scapulohumeral rhythm |
 | Multifidus atrophy | DD8 Control System — proprioception decline, motor recruitment |
 ---
+
 ## 📚 SOURCES / NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -356,3 +393,6 @@
 ---
 Hết DD4 — Thân & Cột Sống*
 Tiếp: DD5 — Hông & Đùi (Gluteus Maximus, Cơ Xoay Sâu, Stance Rộng)*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

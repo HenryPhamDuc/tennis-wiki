@@ -1,4 +1,10 @@
+---
+title: 🎾 Phân Tích Chi Tiết — The Low Ball Slice
+lang: vi
+---
+
 # 🎾 Phân Tích Chi Tiết — The Low Ball Slice
+
 ### Handling Low Balls at 50+*
 ---
 > Giả định
@@ -7,12 +13,14 @@
 VI bilingual
 > - Focus: Low-bóng defensive cắt (The "Bóng Thấp")
 ---
+
 # Chương 1 — Ý tưởng cốt lõi: Bóng thấp là cái bẫy
 | |
 | --- |
 | Bóng rơi thấp hơn lưới là "sát thủ" #1 với người 3.5. Đa số cố vẩy xoáy trên, dẫn đến hụt bóng hoặc cắm lưới. Slice bóng thấp là "lối thoát khẩn cấp" của anh. |
 | Ở tuổi 50+, đừng đấu với bóng thấp. Nếu bóng dưới gối, hông anh không thể sinh lực nâng lên an toàn cho xoáy trên. Dùng cắt để "múc" bóng và giữ bóng đi tiếp. |
 ---
+
 # Chương 2 — Kỹ thuật: "Múc và Trượt"
 | |
 | --- |
@@ -20,6 +28,7 @@ VI bilingual
 | 2. Cú "Múc": Thay vì vung "cao-xuống-thấp" (sẽ cắm vợt xuống đất), hãy dùng đường vợt "phẳng-tới-trước" . Đầu vợt đi dưới bóng như một cái xẻng. |
 | 3. Cú "Trượt": Khi contact, hãy tưởng tượng "trượt" mặt vợt dưới bóng. Giữ mặt vợt hơi mở (mui xe) để tạo xoáy dưới cần thiết cho sự ổn định. |
 ---
+
 # Chương 3 — Bài tập 50+: "Rally Tường Bóng Thấp"
 | |
 | --- |
@@ -28,6 +37,7 @@ VI bilingual
 | Mục tiêu: 10 quả cắt "sạch" liên tiếp trúng phần dưới tường. |
 | Tại sao bài này hợp 50+: tường không bao giờ hỏng, không di chuyển, và phản hồi tức thì. Anh thấy và nghe bóng có trúng 1/4 dưới tường không. Quan trọng nhất: không phải cúi xuống dưới bóng đang bay trong khi một người 25 tuổi đập trả. |
 ---
+
 # Tóm tắt: Slice bóng thấp (In được)
 ```
 ═══════════════════════════════════════════════════════════════
@@ -52,3 +62,6 @@ VI bilingual
 - Don't lunge hard. Use a controlled step and bridge leg.
 - Đừng bước lunge mạnh. Dùng bước kiểm soát và chân trụ vững.
 ```
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

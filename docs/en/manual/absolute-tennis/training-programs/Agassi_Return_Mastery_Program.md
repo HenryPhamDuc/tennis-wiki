@@ -1,7 +1,14 @@
+---
+title: Agassi Return Mastery Program
+lang: en
+---
+
 # Agassi Return Mastery Program
 
 ## Overview
-This training program is designed to develop a return of serve modeled after Andre Agassi, widely regarded as having one of the greatest return games in tennis history. The program focuses on developing exceptional reaction time, anticipation, positioning, and the ability to turn defense into offense—hallmarks of Agassi's return that helped him break down some of the greatest servers of all time.
+This training program is designed to develop a return of serve modeled after Andre Agassi, widely regarded as having one of the greatest return games in tennis history.
+The program focuses on developing exceptional reaction time, anticipation, positioning, and the ability to turn defense into offense—hallmarks of Agassi's return that helped him break down some of the
+ greatest servers of all time.
 
 ## Program Overview
 - **Duration**: 10 weeks (can be adjusted based on athlete level)
@@ -11,6 +18,7 @@ This training program is designed to develop a return of serve modeled after And
 - **Prerequisites**: Proper grip (continental or eastern forehand grip for forehand return, continental or two-handed backhand grip for backhand return), basic split step and footwork fundamentals
 
 ## Phase 1: Foundation Weeks (Weeks 1-2)
+
 ### Goals: Develop proper stance, split timing, and basic direction control
 
 #### Technical Work
@@ -59,6 +67,7 @@ This training program is designed to develop a return of serve modeled after And
 - Sunday: Match Play Simulation (60 min) - focus on returning only
 
 ## Phase 2: Reaction and Anticipation Development (Weeks 3-4)
+
 ### Goals: Improve serve recognition, reduce reaction time, develop proactive positioning
 
 #### Technical Work
@@ -111,6 +120,7 @@ This training program is designed to develop a return of serve modeled after And
 - Sunday: Match Play Simulation (60 min) - focus on aggressive second serve returns
 
 ## Phase 3: Pressure and Tactical Integration (Weeks 5-6)
+
 ### Goals: Perform under match pressure, develop return strategies based on server tendencies
 
 #### Technical Work
@@ -164,6 +174,7 @@ This training program is designed to develop a return of serve modeled after And
 - Sunday: Practice Match (90 min) - focus on implementing return game plan
 
 ## Phase 4: Match Play Integration and Maintenance (Weeks 7-10)
+
 ### Goals: Integrate return game into overall match strategy, maintain and refine skills
 
 #### Technical Work
@@ -226,6 +237,7 @@ This training program is designed to develop a return of serve modeled after And
 | Sunday | Light Session + Recovery | 60 min |
 
 ## Key Drills Library
+
 ### Split Step and Reaction
 1. **Shadow Split to Serve**: Practice split step timing to shadow serve motion
 2. **Toss Call**: Partner serves, you call out toss location before contact
@@ -251,6 +263,7 @@ This training program is designed to develop a return of serve modeled after And
 4. **Score Situation Returns**: Practice returning at specific scores (30-40, ad-in, etc.)
 
 ## Physical Conditioning Guidelines
+
 ### Agility and Reaction Focus
 - **Frequency**: 3-4 times per week
 - **Intensity**: High effort, short duration (10-20 seconds per bout)
@@ -269,6 +282,7 @@ This training program is designed to develop a return of serve modeled after And
 - **Example**: 30 seconds high intensity/90 seconds active recovery x 8-10
 
 ## Evaluation and Progress Tracking
+
 ### Weekly Metrics to Track
 1. **Return Percentage**: % of serves returned in play (overall, first serve, second serve)
 2. **Aggressive Return Percentage**: % of returns that are offensive (approach shot, winner, forced error)
@@ -287,6 +301,7 @@ This training program is designed to develop a return of serve modeled after And
 4. **Subjective Rating**: Rate your confidence returning serve (1-10 scale)
 
 ## Adaptation for Different Levels
+
 ### Beginner Focus (NTRP 2.5-3.5)
 - **Weeks 1-2**: Extended focus on split step and basic positioning
 - **Weeks 3-4**: Slower pace serves, emphasis on making contact
@@ -340,3 +355,6 @@ This training program is designed to develop a return of serve modeled after And
 *Program developed based on analysis of Andre Agassi's return technique, training methodologies, and match performance data.*
 *Adapt volume, intensity, and focus based on individual athlete needs, age, and competitive level.*
 *Consult with qualified tennis coach and fitness professional before beginning any intensive training program.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

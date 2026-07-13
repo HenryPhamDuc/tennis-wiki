@@ -1,6 +1,12 @@
+---
+title: Cổ Chân & Bàn Chân
+lang: en
+---
+
 # Cổ Chân & Bàn Chân
 *26 Bones, 33 Joints, the Windlass Mechanism, and Why Your Footwear Matters More Than Your Racket*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Không bao gồm: gối (DD6), khớp cổ chân chi tiết với chấn thương dây chằng (Tennis Anatomy Ch.10), hay chọn giày chạy (ngoài ghi chú tennis). |
 | Thời gian đọc: 35–45 phút. |
 ---
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -22,22 +29,26 @@
 | 8 | The Tennis Shoe Trap — 10 mm Heel Lift, 15 mm Toe Box | Cái Bẫy Giày Tennis — Nâng Gót 10 mm, Thu Hẹp Mũi 15 mm |
 ---
 * * *
+
 ## Chương 1 — 26 Xương Ở 3 Vùng
 | |
 | --- |
 | Bàn chân người có 26 xương, tổ chức ở 3 vùng chức năng: cổ chân (vùng mắt cá), giữa bàn (vòm), ngón và bàn chân trước. Cùng nhau chúng tạo thành 33 khớp. Bàn chân KHÔNG PHẢI nền cứng. Nó là cấu trúc THÍCH NGHI thay đổi hình dạng mỗi bước. |
+
 ### 3 Vùng Bàn Chân
 | Zone | # Bones | Names | Function | Tennis Translation |
 |---|---|---|---|---|
 | Hindfoot | 7 | Talus, calcaneus (heel), navicular, cuboid + 3 cuneiforms (medial, intermediate, lateral) | Shock absorption (heel strike), talus pivot for inversion/eversion | The "spring" — heel strikes first on landing, then the talus pivots |
 | Midfoot | 5 (navicular, cuboid, 3 cuneiforms) | Forms the ARCH — the bridge of the foot | Stores and releases elastic energy during gait | The "spring" itself. Calcaneus → metatarsals via plantar fascia. |
 | Forefoot | 14 | 5 metatarsals + 14 phalanges (2 in big toe, 3 in each other toe) | Push-off during gait. The big toe is the LAST bone to leave the ground. | The "lever" — the great toe is critical for push-off. |
+
 ### 33 Khớp — Vì Sao Di Động Quan Trọng
 | Joint Type | # in Foot | Role |
 |---|---|---|
 | Hindfoot | 4 (subtalar, talocalcaneal, calcaneocuboid, talonavicular) | Inversion/eversion, plantar/dorsiflexion |
 | Midfoot | ~9 (cuneonavicular, intercuneiform, cuneocuboid) | Arch support, fine adaptation |
 | Forefoot | ~20 (tarsometatarsal, metatarsophalangeal, interphalangeal) | Push-off, cách cầm vợtping |
+
 ### Cổ Chân — Điểm Xoay
 | Bone | Anatomy | Tennis Role |
 |---|---|---|
@@ -48,16 +59,19 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.1-2 (Hệ xương và khớp). Tennis Anatomy Ch.7.*
 ---
 * * *
+
 ## Chương 2 — 19 Cơ (Nội Sinh vs Ngoại Sinh)
 | |
 | --- |
 | Bàn chân có HAI bộ cơ: cơ NỘI SINH (11 cơ nhỏ nằm hoàn toàn trong bàn chân) và cơ NGOẠI SINH (8 cơ nguyên ủy ở cẳng chân và bám vào bàn chân). Chúng có việc khác nhau. |
 | Nguồn của bạn phân biệt: "Cơ chày trước, cơ mác dài, cơ tam đầu cẳng chân bám vào bàn chân từ xa. Chúng tạo lực lớn nhưng phản ứng chậm." |
+
 ### 19 Cơ Bàn Chân — Nội Sinh vs Ngoại Sinh
 | Type | # | Examples | Primary Role | Tennis Translation |
 |---|---|---|---|---|
 | Intrinsic | 11 | Abductor hallucis, flexor digitorum brevis, quadratus plantae, lumbricals (4), interossei (4 — but only 3 in foot), adductor hallucis | Foot shape, fine control, proprioception | Adjust foot to surfás. Hold arch during push-off. |
 | Extrinsic | 8 | Tibialis anterior, tibialis posterior, peroneus longus, peroneus brevis, peroneus tertius, extensor digitorum longus, extensor hallucis longus, flexor digitorum longus | Force production, gross movement | Push-off, lateral stability, ankle positioning |
+
 ### Cơ Nội Sinh — Những Anh Hùng Bị Lãng Quên
 | |
 | --- |
@@ -67,12 +81,14 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.3-4.*
 ---
 * * *
+
 ## Chương 3 — Cân Gan Chân và Cơ Chế Windlass
 | |
 | --- |
 | Cân gan chân là dải mô liên kết dày chạy từ xương gót đến đế các ngón chân. Nó giống như CÁP chạy dưới bàn chân. Khi ngón cái duỗi (trong khi đẩy), cáp căng. Cái này làm căng vòm. Đây là cơ chế WINDLASS — bàn chân trở thành đòn bẩy cứng cho đẩy. |
 | Windlass là lý do bạn có thể CHẠY NHANH. Không có nó, bàn chân sẽ sụp khi đẩy. Có nó, bàn chân trở thành đòn bẩy cứng — đẩy hiệu quả hơn 2–3 lần. |
 | Windlass cho tennis: mỗi split-step, mỗi đẩy, mỗi hồi vị rộng — windlass kích hoạt. Bàn chân có windlass kém (vòm sụp, hạn chế duỗi ngón) mất 20–30% sức đẩy. Gối bù → viêm gân bánh chè. Hông bù → căng adductor. |
+
 ### Cơ Chế Windlass — Từng Bước
 | Step | Position | What Happens |
 |---|---|---|
@@ -81,12 +97,14 @@
 | 3. Heel off | Heel lifts, weight shifts to forefoot | Plantar fascia starts to tension. |
 | 4. Big toe extension | Big toe dorsiflexes (extension) 60–90° as body moves over it | WINDSLASS ACTIVATES. Cable tightens. Arch rises. Foot becomes rigid. |
 | 5. Push-off | Foot is rigid lever. Toe-off. | Maximum push-off power. |
+
 ### 3 Sự Thất Bại Của Windlass
 | # | Failure | What Happens | Tennis Result |
 |---|---|---|---|
 | 1 | Hallux rigidus (big toe arthritis) | Big toe can't extend 60°. Windlass doesn't engage. | Loss of push-off power. Knee compensation. |
 | 2 | Plantar fasciitis | Plantar fascia inflamed. Cable is "too tight" already. | Pain with first step in morning. Micro-tears in fascia. |
 | 3 | Posterior tibial tendon dysfunction | The muscle supporting the arch is weak. Arch collapses during midtư thế. | "Adult-acquired flat foot." Windlass can't engage. |
+
 ### Thực Tế Windlass 50+ — Vì Sao Sức Đẩy Giảm
 | |
 | --- |
@@ -96,23 +114,27 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.5 (Cân gan chân và cơ chế windlass).*
 ---
 * * *
+
 ## Chương 4 — Các Vòm (Dọc và Ngang)
 | |
 | --- |
 | Bàn chân có HAI vòm làm việc cùng nhau: VÒM DỌC TRONG (mặt trong bàn chân, từ gót đến ngón cái) và VÒM NGANG (ngang bàn chân, giữa các metatarsal). Cùng nhau chúng tạo lò xo và thanh chống. |
 | Vòm dọc trong: vòm nổi tiếng hơn. Nó hấp thụ sốc khi gót chạm và bật lại khi đẩy. Được hỗ trợ bởi cân gan chân, gân chày sau, dây chằng spring, và cơ nội sinh. |
 | Vòm ngang: anh hùng thầm lặng. Nó chạy ngang bàn chân ở mức các đế cuneiform và metatarsal. Nó ngăn bàn chân xòe ra khi đẩy. Trong tennis, CHÂN NGOÀI dùng vòm ngang làm THANH CHỐNG — bàn chân nghiêng 30–45°, và vòm ngang chuyển lực ngang thành nén dọc. |
+
 ### 2 Vòm — Vai Trò Khác Nhau
 | Arch | Shape | Function | Tennis Role |
 |---|---|---|---|
 | Medial longitudinal | Curves from calcaneus to 1st metatarsal head (big toe) | Shock absorption (heel strike), elastic recoil (push-off) | "Spring" — stores and releases energy |
 | Transverse | Curves across the cuneiforms + metatarsal bases | Prevents splay, provides lateral rigidity | "Strut" — converts horizontal force into vertical compression in wider tư thế |
+
 ### Chuỗi Sụp Vòm (Pronation → Valgus → Gối)
 | |
 | --- |
 | Khi vòm dọc trong sụp (pronation quá mức): bàn chân lăn vào trong. Chày xoay trong. Gối vào valgus. Hông rơi. |
 | Phản ứng dây chuyền động học: chân → chày → gối → hông → thắt lưng. Mỗi mắt xích xoay vào trong. Chuỗi kết thúc ở L4-L5 (DD4). |
 | Cái bẫy tennis: người chơi có vòm sụp cảm thấy "chậm hơn." Họ không chậm ở chân. Họ mất lực trong chuỗi. Vòm hấp thụ lực phải đi đến bóng. |
+
 ### Bài "Short Foot" — Kích Hoạt Vòm
 | Step | Action | Why |
 |---|---|---|
@@ -123,12 +145,14 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.6.*
 ---
 * * *
+
 ## Chương 5 — 7.000 Đầu Mút Thần Kinh (Phản Xạ 30 ms)
 | |
 | --- |
 | Lòng bàn chân có hơn 7.000 đầu mút thần kinh. Chúng là tuyến thông tin đầu tiên của cơ thể về thế giới. Chúng phát hiện áp lực, rung, nhiệt độ, đau. Chúng gửi tín hiệu LÊN tủy sống trong 30 mili giây — NHANH HƠN ý thức (~80 ms). |
 | Phản xạ 30 ms: khi bàn chân trượt trên sân ướt, đầu mút thần kinh bắn. Tín hiệu đến tủy sống trong 30 ms. Tủy sống gửi HIỆU CHỈNH ngược lại cơ trong 30 ms khác. Tổng phản ứng: 60 ms. Bạn đã tự giữ mình TRƯỚC KHI ý thức biết bạn trượt. |
 | Suy giảm 50+: đến 65 tuổi, số đầu mút thần kinh ở lòng bàn chân giảm ~30%. Proprioception suy giảm. Phản xạ 30 ms trở thành 50 ms. Thời gian hồi phục từ trượt tăng. Nguy cơ ngã tăng. |
+
 ### Bản Đồ Phân Bố Áp Lực
 | Pressure Zone | Pro Player | 3.5 Club Player | Why It Matters |
 |---|---|---|---|
@@ -137,6 +161,7 @@
 | Other toes + forefoot | 35% | 40–45% | Spread evenly. |
 | Midfoot | 10% | 25–35% | The 3.5 player has FLAT midfoot contact (arch collapse). |
 | Heel | 5% | 15–20% | Heel too loaded = no push-off. |
+
 ### Test Phản Xạ Chân Tennis — Tự Kiểm Tra
 | |
 | --- |
@@ -147,6 +172,7 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.7-8 (7,000 nerve endings, 30 ms reflex, pressure distribution).*
 ---
 * * *
+
 ## Chương 6 — Chân Cầu Ngoài (Vị Trí Bàn Chân 30–45°)
 | |
 | --- |
@@ -154,12 +180,14 @@
 | Vì sao 30–45°? góc này dùng VÒM NGANG làm THANH CHỐNG. Lực ngang từ cú đánh phân giải thành nén dọc. Lực đi lên qua xương sên, chày, gối, và vào xương đùi — tất cả trong đường gần thẳng. |
 | Nếu bàn chân thẳng (0°): toàn bộ lực ngang trở thành valgus ở gối → tải sụn chêm trong → ma sát IT band. Gối đau. Bàn chân ngoài sụp. |
 | Nếu bàn chân nghiêng >60° (quá xoay): bàn chân mất chức năng thanh chống. Vòm ngang sụp. Lực trở thành cắt trên gối. |
+
 ### Vị Trí Bàn Chân Chân Ngoài — 3 Vùng
 | Foot Angle | Zone | Force Decomposition | Knee Effect |
 |---|---|---|---|
 | 0° (straight) | Dangerous | All horizontal → valgus | High meniscus + IT band load |
 | 30–45° | OPTIMAL | Horizontal → vertical compression | Low knee load. Maximum force transfer. |
 | >60° | Over-rotated | Loss of strut function | Shear on knee. Arch collapse. |
+
 ### Neo Bàn Chân 3 Điểm — Bàn Chân Tripod
 | |
 | --- |
@@ -168,12 +196,8 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.9-11.*
 ---
 * * *
+
 ## Chương 7 — Câu Nhắc Happy Feet (Tiền Căng Cân Gan Chân)
-| 🇻🇳 Tiệt Việt |
-| --- |
-| "Happy feet" trong tennis nghĩa là bàn chân liên tục di chuyển — không bao giờ phẳng trên đất lâu. Bạn định nghĩa cụ thể hơn: "Giữ gót lơ lửng giúp cân gan chân ở trạng thái tiền căng." |
-| Nguyên lý tiền căng: khi cân gan chân được tiền căng (gót lơ lửng), bàn chân sẵn sàng bật vào hành động. Split-step có thể phóng theo bất kỳ hướng nào ngay lập tức. Không chậm trễ. Không "thời gian nạp." |
-### Tư Thế Happy Feet — Giải Phẫu
 | Element | Position | Muscle State |
 |---|---|---|
 | Heel | Slightly off ground (1–2 cm) | Calf (gastrocnemius + soleus) lightly contracted |
@@ -181,6 +205,7 @@
 | Big toe | Light contact, not cách cầm vợtping | Flexor hallucis longus relaxed |
 | Plantar fascia | PRE-TENSIONED | Ready to spring |
 | Arch | Slightly raised (active) | Intrinsic muscles engaged |
+
 ### Cái Giá Của Bàn Chân Phẳng Trong Tennis
 | |
 | --- |
@@ -190,12 +215,14 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.10 (Liên hệ với happy feet).*
 ---
 * * *
+
 ## Chương 8 — Cái Bẫy Giày Tennis (Nâng Gót 10 mm, Thu Hẹp Mũi 15 mm)
 | |
 | --- |
 | Nguồn của bạn có số liệu SỐC: "Hầu hết giày tennis nâng gót 10 mm, thu hẹp mũi 15 mm so với bàn chân tự nhiên. Hệ quả là ngón cái không duỗi được, windlass giảm hiệu quả, cơ nội sinh teo dần." |
 | Nâng gót 10 mm làm ngắn cơ bắp chân. Qua thời gian, bắp chân thích nghi với chiều dài ngắn hơn. Khi bạn cởi giày, bắp chân "cảm thấy" quá dài. Bạn cảm thấy căng. Bạn kéo giãn bắp chân. Bắp chân NGẮN THÊM. Vòng lặp. |
 | Thu hẹp mũi giày 15 mm ngăn ngón cái duỗi 60–90° khi đẩy. Windlass không kích hoạt. Sức đẩy giảm 20–30%. |
+
 ### Con Số Giày Tennis — Cái Gì Cần Tìm
 | Number | What It Means | What You Want |
 |---|---|---|
@@ -205,12 +232,14 @@
 | Midsole cushioning | How much shock absorption under the heel | Moderate. Too soft = unstable. Too hard = joint impact. |
 | Outsole pattern | The tread pattern on the bottom | Herringbone for hard courts. Modified herringbone for clay. |
 | Upper material | The fabric on top | Breathable mesh. Avoid heavy leather (waterlogging). |
+
 ### 3 Sai Lầm Giày Tennis
 | # | Mistake | Consequence | The Fix |
 |---|---|---|---|
 | 1 | Wearing shoes >6 months old | Midsole cushioning degrades 30–50% | Replás every 4–6 months for regular players |
 | 2 | Wearing the wrong surfás shoe | Wrong tread = slipping or sticking | Hard court shoes on hard court. Clay shoes on clay. |
 | 3 | Tight toe box "for support" | Big toe can't extend. Windlass fails. | Buy shoes with TOE ROOM. Wiggle toes inside. |
+
 ### Phác Đồ Chân Lâu Bền Cho 50+
 | Element | Frequency | Why |
 |---|---|---|
@@ -223,6 +252,7 @@
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.12-14. Tham khảo: minimalist shoe research, foot health literature.*
 ---
 * * *
+
 ## 📋 DD7 CARD — Printable / THẺ IN ĐƯỢC DD7
 ╔═══════════════════════════════════════════════════════════╗
 ║ DD7 CARD — ANKLES & FEET ║
@@ -327,15 +357,19 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 ---
+
 ## 🖼️ ILLUSTRATIONS / HÌNH MINH HỌA
 *38 images available in `Anatomy_Lab/images/DD7_ankles_feet/` (19 from Giai_phau_Ban_chan_Tennis.docx + 19 from Tennis Anatomy PDF).*
+
 ### Hình 1 — Mô Hình 3D Xương Bàn Chân
 `images/DD7_ankles_feet/Giai_phau_Ban_chan_Tennis__img01.jpg`
+
 ### Hình 2–3
 | Figure | Description | Image |
 |---|---|---|
 | 2 | Muscle-tendon structure during heel-lift preparation | `Giai_phau_Ban_chan_Tennis__img02.jpg` |
 | 3 | Same — different angle | `Giai_phau_Ban_chan_Tennis__img03.jpg` |
+
 ### Hình 4–7
 | Figure | Description | Image |
 |---|---|---|
@@ -343,6 +377,7 @@
 | 5 | Same — different view | `Giai_phau_Ban_chan_Tennis__img05.jpg` |
 | 6 | Same — different view | `Giai_phau_Ban_chan_Tennis__img06.jpg` |
 | 7 | Same — different view | `Giai_phau_Ban_chan_Tennis__img07.jpg` |
+
 ### Hình 8–11
 | Figure | Description | Image |
 |---|---|---|
@@ -350,12 +385,14 @@
 | 9 | Same — different angle | `Giai_phau_Ban_chan_Tennis__img09.jpg` |
 | 10 | Same — different angle | `Giai_phau_Ban_chan_Tennis__img10.jpg` |
 | 11 | Same — different angle | `Giai_phau_Ban_chan_Tennis__img11.jpg` |
+
 ### Hình 12–14
 | Figure | Description | Image |
 |---|---|---|
 | 12 | Pressure control when heel is fully lifted | `Giai_phau_Ban_chan_Tennis__img12.jpg` |
 | 13 | Same — different view | `Giai_phau_Ban_chan_Tennis__img13.jpg` |
 | 14 | Same — different view | `Giai_phau_Ban_chan_Tennis__img14.jpg` |
+
 ### Hình 15–19
 | Figure | Description | Image |
 |---|---|---|
@@ -364,6 +401,7 @@
 | 17 | Same — different view | `Giai_phau_Ban_chan_Tennis__img17.jpg` |
 | 18 | Recovery + outside-leg bridge creation | `Giai_phau_Ban_chan_Tennis__img18.jpg` |
 | 19 | Same — different view | `Giai_phau_Ban_chan_Tennis__img19.jpg` |
+
 ### Hình 20–38
 | Figure | Description | Image |
 |---|---|---|
@@ -375,6 +413,7 @@
 | 25–38 | Various foot/ankle exercise demonstrations | `DD7_ankles_feet_06.jpg` through `_19.jpg` |
 *All image filenames verified to exist in `Anatomy_Lab/images/DD7_ankles_feet/`.*
 ---
+
 ## 🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO
 | Topic in DD7 | See Also |
 |---|---|
@@ -386,6 +425,7 @@
 | Happy feet and split-step | DD8 Control System — reaction time, vision |
 | Tennis shoe selection | DD6 Knees — joint preservation, less force on cartilage |
 ---
+
 ## 📚 SOURCES / NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -394,3 +434,6 @@
 ---
 Hết DD7 — Cổ Chân & Bàn Chân*
 Tiếp: DD8 — Hệ Kiểm Soát (Tiền Đình, Proprioception, Thị Giác, Cơ Thể 50+)*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

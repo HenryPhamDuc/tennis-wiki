@@ -1,4 +1,11 @@
+---
+title: Tuyen_Tap — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5
+lang: en
+---
+
+
 # Tuyen_Tap — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5
+
 # Tuyển Tập — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5
 
 *Built from viettennis.net "Tuyen Tap KyThuat Tennis" + `Anatomy_Lab/` (181 illustrations) + the 20-chapter body perception handbook*
@@ -8,9 +15,11 @@
 
 ## What This Project Is / Dự Án Này Là Gì
 
-This is a **7-part, EN-VI bilingual deep-dive project** that treats tennis through the lens of a **control system** — hardware (joints/muscles/bones), springs (tendons), controller (brain), and **sensors** (the 5 feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.
+This is a **7-part, EN-VI bilingual deep-dive project** that treats tennis through the lens of a **control system** — hardware (joints/muscles/bones), springs (tendons), controller (brain), and **sens
+ors** (the 5 feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.
 
-Đây là **dự án 7 phần, EN-VI song ngữ** xem tennis qua lăng kính của **hệ điều khiển** — phần cứng (khớp/cơ/xương), lò xo (gân), bộ điều khiển (não), và **cảm biến** (5 kênh phản hồi). Nó bổ sung cho các thư viện `Deep Dives/` (kỹ thuật cú đánh) và `Anatomy_Lab/` (giải phẫu cơ thể) hiện có.
+Đây là **dự án 7 phần, EN-VI song ngữ** xem tennis qua lăng kính của **hệ điều khiển** — phần cứng (khớp/cơ/xương), lò xo (gân), bộ điều khiển (não), và **cảm biến** (5 kênh phản hồi).
+Nó bổ sung cho các thư viện `Deep Dives/` (kỹ thuật cú đánh) và `Anatomy_Lab/` (giải phẫu cơ thể) hiện có.
 
 ---
 
@@ -117,14 +126,6 @@ This project uses an engineering framing — tennis = a feedback control loop:
 
 ## Format Compliance / Tuân Thủ Định Dạng
 
-- ✅ **EN-VI side-by-side tables** throughout (single-pipe `|` style)
-- ✅ **Master coach voice** — direct, second-person, conversational
-- ✅ **Vietnamese is natural** (uses roi, lò xo, đòn bẩy, tay cầm vợt, etc. — consistent with your existing library)
-- ✅ **Printable cheat sheet card at end of every DD** (╔══╗ ASCII box with One Big Idea / Key Cues / Top Mistake / Drill / Master Cue, bilingual)
-- ✅ **50+ aware throughout** (Surrey BC context, age-specific cues)
-- ✅ **NO stroke mechanics, NO mental game** (deliberate constraint)
-- ✅ **Numbers, not vague advice** (every chapter has specific angles, %, time durations, energy values)
-- ✅ **60+ illustrations embedded inline** referencing `Anatomy_Lab/images/` — Markdown image syntax ``
 
 ---
 
@@ -192,3 +193,10 @@ Let me know if any of these would help. For now, the 7 deep dives are complete, 
 *"Đừng hỏi phải làm gì. Hỏi phải tạo góc nào. Rồi hỏi: tôi đang cảm nhận việc mình làm tốt cỡ nào?"*
 
 — DD1 closing cue × DD7 framing
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

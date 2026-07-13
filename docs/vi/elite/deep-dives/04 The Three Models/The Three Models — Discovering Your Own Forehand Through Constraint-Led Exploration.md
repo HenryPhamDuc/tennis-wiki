@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #4 — The Three Models — Discovering Your Own Cú Thuận Tay Through Constraint-Led Exploration
+lang: en
+---
+
 # Deep-Dive #4 — The Three Models — Discovering Your Own Cú Thuận Tay Through Constraint-Led Exploration
+
 # Deep-Dive #4 — Ba Mẫu — Khám Phá Cú Thuận Tay Riêng Qua Khám Phá Có Ràng Buộc
 *Three Elite Cú Thuận Tay Styles and the Discovery Protocol — A 25-minute deep-dive for the 5.0+ player.*
 *Ba Phong Cách Cú Thuận Tay Đỉnh Cao và Phác Đồ Khám Phá — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai đã thử bắt chước Cú Thuận Tay pro cụ thể và cảm thấy gì đó "lệch." Bất cứ ai được bảo Cú Thuận Tay "sai" mà không được nói Cú Thuận Tay *đúng* của mình là gì. Bất cứ ai muốn *hiểu* không gian sinh cơ học, không chỉ nhận một chỉ dẫn. |
 | Thời gian đọc. ~25 phút. Phác đồ khám phá mẫu đầy đủ: 30-45 ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | Naming Your Model | Đặt Tên Mẫu Của Bạn |
 | 8 | Your Cú Thuận Tay Style Card | Thẻ Phong Cách Cú Thuận Tay Của Bạn |
 * * *
+
 # Chương 1 — Bản Đồ Sinh Cơ Học Cú Thuận Tay
 * * *
 | |
@@ -40,6 +49,7 @@
 | Gọn — tay cong lúc tiếp xúc. Tầm với ít hơn, ít căng thẳng, tốc độ kiểm soát hơn. |
 | Không gian Cú Thuận Tay. Không gian 3D với 8 lời giải góc (2 cực trị × 3 trục). Ba mẫu pro sống ở ba trong các góc này. Cú Thuận Tay anh sẽ sống ở một trong năm góc còn lại — hoặc trên biên giữa hai. |
 * * *
+
 # Chương 2 — Mẫu A — Cái Roi (Nadal-Alcaraz)
 * * *
 | |
@@ -51,6 +61,7 @@
 | Ràng buộc để thử. |
 | Ràng buộc. Dán dây 15cm TRÊN lưới. Đánh Cú Thuận Tay qua dây. *Không hướng dẫn kỹ thuật.* Xem cơ thể. Nếu cơ thể anh dễ dàng quét lên cung cao để qua dây, cơ thể anh *thiên về Mẫu A.* Nếu không, cơ thể anh thiên về chỗ khác. |
 * * *
+
 # Chương 3 — Mẫu B — Sự Duỗi (Federer-Medvedev)
 * * *
 | |
@@ -62,6 +73,7 @@
 | Ràng buộc để thử. |
 | Ràng buộc. Đánh dấu ô 30cm vuông cách đường cuối sân 1m. Đánh Cú Thuận Tay VÀO ô. *Không hướng dẫn kỹ thuật.* Nếu cơ thể dễ tạo bóng phẳng, đánh xuyên, rơi sâu trong ô, cơ thể anh *thiên về Mẫu B.* Nếu không, thiên về chỗ khác. |
 * * *
+
 # Chương 4 — Mẫu C — Khối Gọn (Djokovic-Hurkacz)
 * * *
 | |
@@ -73,6 +85,7 @@
 | Ràng buộc để thử. |
 | Ràng buộc. Đặt 5 cọc ở chỗ ngẫu nhiên trên sân. Đánh Cú Thuận Tay vào mỗi cọc, theo gọi. *Không hướng dẫn kỹ thuật.* Nếu cơ thể dễ chuyển hướng với swing gọn đến mỗi cọc, cơ thể anh *thiên về Mẫu C.* Nếu không, thiên về chỗ khác. |
 * * *
+
 # Chương 5 — Kiểm Tra Phong Cách Qua Ràng Buộc
 * * *
 | |
@@ -89,6 +102,7 @@
 | Cao thứ hai = mẫu phụ. Thường bổ sung cho mẫu chính. (A+B = lai Roi-và-Đánh-xuyên. B+C = lai Đánh-xuyên-và-Kiểm-soát. A+C = lai Roi-và-Kiểm-soát.) |
 | Điểm thấp nhất = tránh mẫu này. Cơ thể anh chống lại nó. |
 * * *
+
 # Chương 6 — Phác Đồ Kết Hợp 14 Ngày
 * * *
 | |
@@ -101,6 +115,7 @@
 | Tiêu chí thành công. Ngày 14, đánh 20 Cú Thuận Tay trong điều kiện ngẫu nhiên. Kết hợp nên cảm thấy *tự nhiên hơn* mỗi mẫu riêng. Nếu có, anh có kết hợp độc đáo. |
 | Khoảnh khắc đặt tên. Nếu kết hợp cảm thấy đúng, đó là mẫu *của anh.* Sang Chương 7. |
 * * *
+
 # Chương 7 — Đặt Tên Mẫu Của Bạn
 * * *
 | |
@@ -114,8 +129,10 @@
 | Kiểm tra đặt tên. Khi đã đặt tên, nói tên mẫu thành tiếng trước trận. Nếu cảm thấy *đúng* và *thật,* đó là tên anh. Nếu cảm thấy mạo danh hoặc mượn, đổi tên. |
 | Mục nhật ký đặt tên. Viết tên mẫu VÀ mô tả 1 đoạn: nó là gì, nó làm gì, nó cảm thấy thế nào, tại sao nó là của anh. Giữ ở trang đầu nhật ký. |
 * * *
+
 # Chương 8 — Thẻ Phong Cách Cú Thuận Tay Của Bạn
 * * *
+
 ### 📋 Deep-Dive #4 Master Card — Printable / Thẻ Tổng Deep-Dive #4
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE Cú Thuận Tay STYLE CARD — YOUR 3-AXIS PROFILE ║
@@ -210,13 +227,18 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
 | Người 5.0+ không hỏi "nên bắt chước pro nào." Người 5.0+ hỏi "ràng buộc nào phơi bày cơ thể tôi, và tôi nên đặt tên gì cho cái cơ thể tôi làm?" Ba mẫu pro không phải mục tiêu. Chúng là *điểm khởi đầu* để khám phá mẫu độc đáo cơ thể anh muốn thể hiện. Cú Thuận Tay anh có tên rồi. Không phải Nadal, không phải Federer, không phải Djokovic. Của anh. |
 ---
 Sources / Nguồn:
-- Tennis Research with Kwen-Ollama.md (Ch 6 — phase-by-phase analysis of 3 pro Cú Thuận Tay models — Nadal/Alcaraz/Djokovic, Ch 6.4 — "Không có một cú Cú Thuận Tay duy nhất đúng cho tất cả mọi người," Ch 12.4 — style combinations)
+- Tennis Research with Kwen-Ollama.md (Ch 6 — phase-by-phase analysis of 3 pro Cú Thuận Tay models — Nadal/Alcaraz/Djokovic, Ch 6.4 — "Không có một cú Cú Thuận Tay duy nhất đúng cho tất cả mọi người,"
+ Ch 12.4 — style combinations)
 - Tennis Research - Neuro athlétics - with Kwen-Ollama.md (Ch 3.10 — Bernstein's 244 degrees of freedom, ecological dynamics, constraint-led approach)
 - Advanced Tennis Kilướiic-Chain Manual.md (Cú Thuận Tay Models: Straight-Arm Federer vs. Double-Bend Alcaraz/Sinner, RPM ranges, open-tư thế delỗi)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

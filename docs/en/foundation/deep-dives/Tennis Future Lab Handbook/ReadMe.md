@@ -1,3 +1,8 @@
+---
+title: ReadMe — Tennis Future Lab Master Handbook (Expanded Deep-Dive Edition v2.1)
+lang: en
+---
+
 # ReadMe — Tennis Future Lab Master Handbook (Expanded Deep-Dive Edition v2.1)
 
 ## What Was Produced
@@ -55,3 +60,6 @@ Total PNG size: ~423 KB. All images are 900-1000px wide, optimized for screen an
 - **Open in Obsidian** — PNG images render inline in both light and dark mode
 - **Export to PDF** from Obsidian for printable version
 - **Publish as website** via `markdown-library-publisher` skill
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

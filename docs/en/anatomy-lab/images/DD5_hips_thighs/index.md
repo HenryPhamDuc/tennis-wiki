@@ -1,6 +1,20 @@
+---
+title: Index
+lang: en
+---
+
+
 Learning about dd5 hips thighs was a turning point for me. I want to share what I’ve learned so you can accelerate your own progress.
 
 ## Navigation
 
 - [Home](../../index.md)
 - [ Site](../en/index.md)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

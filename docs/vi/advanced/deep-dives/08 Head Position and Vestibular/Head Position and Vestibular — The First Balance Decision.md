@@ -1,7 +1,13 @@
+---
+title: Vị Trí Đầu và Hệ Tiền Đình — Quyết Định Thăng Bằng Đầu Tiên
+lang: vi
+---
+
 # Vị Trí Đầu và Hệ Tiền Đình — Quyết Định Thăng Bằng Đầu Tiên
 *Balance luyện tập starts at the skull, not the feet. The head is the sensor that tells your brain whether to bend the knees or lock them.*
 *Tập thăng bằng bắt đầu từ hộp sọ, không phải bàn chân. Đầu là cảm biến bảo não bạn cong gối hay khóa chúng.*
 * * *
+
 ## 🎾 FOREWORD / LỜI MỞ ĐẦU
 | |
 | --- |
@@ -10,6 +16,7 @@
 | Hệ quả thực hành là to lớn: nếu bạn hạ cằm để nhìn bóng, bạn mất đường chân trời khỏi trường nhìn phía trên. Không có đường chân trời, não giảm trọng số thị giác và tăng trọng số cảm thụ bản thể. Kết quả? Não "khóa" gối bạn vì an toàn. Bạn cảm thấy vững, nhưng thực sự bạn không thể điều chỉnh. |
 | Một khi hiểu vòng lặp này, bạn sẽ không bao giờ hạ cằm nữa — không phải vì ai đó nói, mà vì bạn sẽ *cảm thấy* hệ thống đi sai ngay khi bạn làm vậy. |
 * * *
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -19,6 +26,7 @@
 | 4 | Why Forward Head Locks the Knees | Tại Sao Đầu Tới Khóa Gối |
 | 5 | VOR ×1 Training and the 50+ Routine | Tập VOR ×1 và Thói Quen 50+ |
 * * *
+
 ## Chương 1 — Đầu như Bệ Cảm Biến
 | |
 | --- |
@@ -32,6 +40,7 @@
 | |
 | Ghi chú 50+: chức năng tiền đình giảm ~5% mỗi thập kỷ sau 50. Bù bằng tập VOR ×1 hàng ngày (5 phút). Nó có thể phục hồi chức năng. |
 * * *
+
 ## Chương 2 — Hệ Tiền Đình
 | |
 | --- |
@@ -51,6 +60,7 @@
 | |
 | Ghi chú 50+: otoconia có thể tách ra và trôi vào ống (BPPV — chóng mặt tư thế kịch phát lành tính). Gây chóng mặt đột ngột khi cử động đầu. Nghiệm pháp Epley sửa trong 5 phút. Nếu bạn bị chóng mặt tư thế đột ngột, hãy gặp bác sĩ trị liệu tiền đình. |
 * * *
+
 ## Chương 3 — VOR — Mắt Biết Giữ Ngang
 | |
 | --- |
@@ -71,6 +81,7 @@
 | |
 | Ghi chú 50+: gain VOR tự nhiên giảm ~5% mỗi thập kỷ sau 50. Bài tập ×1 là biện pháp đối phó hiệu quả nhất. Kết hợp với đi bộ-nhìn-đường-chân-trời (xem Chương 5). |
 * * *
+
 ## Chương 4 — Tại Sao Đầu Tới Khóa Gối
 | |
 | --- |
@@ -98,6 +109,7 @@
 | |
 | Ghi chú 50+: lý do phổ biến nhất người chơi 50+ cảm thấy "kẹt" trên sân là tư thế đầu-tới. Cách sửa là đi bộ đầu-trung-lập 5 phút mỗi ngày + bài tập ×1. Trong 2 tuần, gối bắt đầu cong lại tự động. |
 * * *
+
 ## Chương 5 — Tập VOR ×1 và Thói Quen 50+
 | |
 | --- |
@@ -123,6 +135,7 @@
 | |
 | Hiểu biết 50+: nguyên nhân phổ biến nhất của "tôi không di chuyển chân đủ nhanh" ở 50+ không phải yếu — mà là đầu-tới khóa gối. Sửa đầu, chân di chuyển. |
 * * *
+
 ### Drills / Bài Tập
 | Drill | What It Does | Cách Làm |
 |---|---|---|
@@ -132,6 +145,7 @@
 | Phone-neck stretch | Reverses chronic forward tilt | Lie on back, head off edge, hold 30s. Restores cervical extension. |
 | Neutral-head tranh bóng | On-court transfer | Play 10 điểms. Before each điểm: chin level, horizon visible, knees soft. |
 * * *
+
 ### 📋 COMMON MISTAKES / LỖI PHỔ BIẾN
 | # | Mistake | Why It's Wrong | Lỗi | Tại Sao Sai |
 |---|---|---|---|---|
@@ -141,10 +155,12 @@
 | 4 | Doing VOR ×1 with eyes leaving the target | If eyes leave target, you're luyện tập visual pursuit, not VOR | Làm VOR ×1 với mắt rời mục tiêu | Nếu mắt rời, bạn tập đuổi thị giác, không phải VOR |
 | 5 | Using phone/computer in bed | Chronic forward tilt for 8 hours = rewired đường cuối sân | Dùng điện thoại/máy tính trên giường | Nghiêng-tới mạn 8 giờ = đường cơ sở tái lập trình |
 * * *
+
 ### 🧠 MASTER CUE / CÂU NHẮC TỔNG
 > Balance starts at the skull. Head neutral. Horizon in view. The knees will follow. Always cue head first, knees second.
 > Thăng bằng bắt đầu từ hộp sọ. Đầu trung lập. Đường chân trời trong tầm nhìn. Gối sẽ theo. Luôn nhắc đầu trước, gối sau.
 * * *
+
 ### 📋 MASTER CHEAT SHEET — PRINTABLE / THẺ IN ĐƯỢC
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║ HEAD POSITION & VESTIBULAR — VỊ TRÍ ĐẦU & HỆ TIỀN ĐÌNH ║
@@ -238,3 +254,6 @@
 ║ "Đầu trung lập. Đường chân trời trong tầm nhìn. Gối sẽ theo." ║
 ║ ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

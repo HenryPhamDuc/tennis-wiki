@@ -1,4 +1,10 @@
+---
+title: 🎾 The Complete Tennis Manual — v2
+lang: en
+---
+
 # 🎾 The Complete Tennis Manual — v2
+
 ### *A Master-Coach Reference for the 3.5 Player at 50+
 
 **Files (web-only — no PDF per user directive):**
@@ -121,9 +127,12 @@ The script requires `markdown` (already installed). It is self-contained — no 
 
 ## Key 3.5-level choices I made in v2
 
-- **Added 3 new Parts instead of overstuffing existing Parts.** Lob & Overhead, Slice Family, and Grip Pressure each got their own Part instead of being absorbed into Part 3 / Part 1. A 50+ player deserves dedicated space for the vertical game, the slice family, and the pressure dial.
-- **Elevated Mental Game from Part 8 to Part 13.** Mental Game was always important; in v1 it was a footnote. In v2 it's a full Part with the 5-phase match map, the 4-step pre-point ritual, the 5 pressure points, and the 4-action loss recovery. **The body leads the mind** deserves a full chapter.
-- **2-page cheat sheet instead of 1.** 14 parts won't fit on one page. Page 1 covers Parts 1-7 (singles + foundation). Page 2 covers Parts 8-14 (doubles + lob + slice + injury + pressure + mental + master cue).
+- **Added 3 new Parts instead of overstuffing existing Parts.** Lob & Overhead, Slice Family, and Grip Pressure each got their own Part instead of being absorbed into Part 3 / Part 1.
+A 50+ player deserves dedicated space for the vertical game, the slice family, and the pressure dial.
+- **Elevated Mental Game from Part 8 to Part 13.** Mental Game was always important; in v1 it was a footnote.
+In v2 it's a full Part with the 5-phase match map, the 4-step pre-point ritual, the 5 pressure points, and the 4-action loss recovery. **The body leads the mind** deserves a full chapter.
+- **2-page cheat sheet instead of 1.** 14 parts won't fit on one page. Page 1 covers Parts 1-7 (singles + foundation).
+Page 2 covers Parts 8-14 (doubles + lob + slice + injury + pressure + mental + master cue).
 - **Stayed at the map level** — ~90 KB, not 200 KB. The 22 deep dives have the detail; the manual has the index.
 - **Skipped frame counts and joint angles** — those belong at 4.5+. The manual is for playing, not for academic study.
 - **Translated biomechanics into body cues** — "gravity serve" not "kinematic chain with peak angular velocity in distal segments."
@@ -139,7 +148,8 @@ The script requires `markdown` (already installed). It is self-contained — no 
 
 > *"Tennis is a whip sport, not a hammer sport. And you are playing a 20-year game."*
 
-Every choice you make — grip, swing, shoes, warmup, recovery, mindset — is either investing in 20 more years on court, or borrowing from your knees. v2 is a 20-year insurance policy with **22 deep dives**, **2 cheat-sheet pages**, and **14 Parts of map-level guidance**.
+Every choice you make — grip, swing, shoes, warmup, recovery, mindset — is either investing in 20 more years on court, or borrowing from your knees.
+v2 is a 20-year insurance policy with **22 deep dives**, **2 cheat-sheet pages**, and **14 Parts of map-level guidance**.
 
 ---
 
@@ -159,4 +169,8 @@ Chỉ cần nói "A", "B", "C", "D", "E", hoặc tên khác và tôi sẽ theo. 
 
 *Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của anh. Bắt đầu từ gốc, mọi thứ tự đến.*
 
-*Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 deep dives are the territory. Read the map first, then explore each region at your own pace. Start at the root, and everything follows.*
+*Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 deep dives are the territory. Read the map first, then explore each region at your own pace.
+Start at the root, and everything follows.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

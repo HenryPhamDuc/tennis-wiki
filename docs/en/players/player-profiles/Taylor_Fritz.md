@@ -1,3 +1,8 @@
+---
+title: Taylor Fritz
+lang: en
+---
+
 # Taylor Fritz
 
 ## Overview
@@ -64,7 +69,8 @@
 - **Off-Season**: Focus on building strength and power, particularly in the core and legs to support his powerful serve and groundstrokes.
 - **Pre-Season**: Increased on-court work, focusing on serve development, return of serve, and point construction.
 - **In-Season**: Maintenance work, recovery focus, and opponent-specific preparation.
-- **Specific Drills**: Extensive serve practice (including second serve variation), forehand and backhand drills focusing on power and consistency, movement work focusing on lateral quickness and recovery, and mental toughness exercises.
+- **Specific Drills**: Extensive serve practice (including second serve variation), forehand and backhand drills focusing on power and consistency, movement work focusing on lateral quickness and reco
+very, and mental toughness exercises.
 
 ## Resources for Further Study
 - **Match to Watch**: 2021 Indian Wells Final vs. Rafael Nadal (showcasing his ability to win a Masters 1000 title)
@@ -76,3 +82,6 @@
 *Part of the Tennis Legends Research Project*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 I spent years struggling with forehand until I discovered a few key principles. Here, I break down what actually works, based on my own trial and error.
 
 ## Navigation
@@ -12,3 +17,7 @@ I spent years struggling with forehand until I discovered a few key principles. 
 - [Readme](ReadMe.md)
 - [Unit Turn And Racket Head Position](Unit Turn and Racket Head Position.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

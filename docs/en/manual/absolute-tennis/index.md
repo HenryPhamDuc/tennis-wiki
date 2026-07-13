@@ -1,18 +1,18 @@
 ---
-title: "ABSOLUTE TENNIS Manual"
-language: en
-vault: Tennis Wiki-English
-category: "manual"
-created: 2026-07-11
+title: ABSOLUTE TENNIS Manual
+lang: en
 ---
+
 
 # ABSOLUTE TENNIS Manual
 
-A book-style compilation of training programs and technical analyses distilled from the world's greatest players. Designed for the **3.5+ player** who wants a single, opinionated, drill-first reference.
+A book-style compilation of training programs and technical analyses distilled from the world's greatest players.
+Designed for the **3.5+ player** who wants a single, opinionated, drill-first reference.
 
 ## What This Manual Is
 
-This manual brings together the practical, on-court work — the multi-week training programs and the technical analyses that show *why* those programs work — in one place. It is the operational counterpart to the **Tennis Knowledge Base** (the encyclopedic reference at `/wiki/`).
+This manual brings together the practical, on-court work — the multi-week training programs and the technical analyses that show *why* those programs work — in one place.
+It is the operational counterpart to the **Tennis Knowledge Base** (the encyclopedic reference at `/wiki/`).
 
 Use it for:
 
@@ -53,3 +53,7 @@ CC BY-SA 4.0 — same as the rest of the wiki. Share, remix, attribute.
 ---
 
 > 🎾 Built and maintained by [Tennis Future Lab](https://henryphamduc.github.io/tennis-wiki/) · © 2026 Henry Phạm Đức
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,16 +1,17 @@
+---
+title: Foundations & Grip: The Interface of Energy (Nền tảng & Cách cầm vợt: Điểm tiếp xúc năng lượng)
+lang: en
+---
+
 # Foundations & Grip: The Interface of Energy (Nền tảng & Cách cầm vợt: Điểm tiếp xúc năng lượng)
 
-This deep dive establishes the fundamental interface between you, your racket, and the ball. At 50+, our priority isn't just power—it's structural integrity. A grip is not just how you hold the handle; it is how you connect your kinetic chain to the ball.
+This deep dive establishes the fundamental interface between you, your racket, and the ball. At 50+, our priority isn't just power—it's structural integrity.
+A grip is not just how you hold the handle; it is how you connect your kinetic chain to the ball.
 
 ## Chapter 1: The Grip Philosophy (Triết lý Cầm vợt)
 
-The grip is your primary "signal" to your brain. If the grip is rigid, your brain detects danger (tightness) and restricts movement to protect the joint. If the grip is adaptive, your nervous system remains fluid, allowing for the "whip" effect.
-
-| 🇺🇸  |
-| --- |
-| A grip is an interface, not a handle. |
-| 3/10 pressure during swing; 9/10 at impact. |
-| Use the bevels to define your shots. |
+The grip is your primary "signal" to your brain. If the grip is rigid, your brain detects danger (tightness) and restricts movement to protect the joint.
+If the grip is adaptive, your nervous system remains fluid, allowing for the "whip" effect.
 
 ### The Three Master Grips (Ba Cách Cầm Vợt Chính)
 
@@ -23,12 +24,6 @@ The grip is your primary "signal" to your brain. If the grip is rigid, your brai
 ## Chapter 2: Structural Integrity (Sự vững chãi của cấu trúc)
 
 The "Tensegrity" of your forearm depends on how your knuckles and heel pad align with the racket's bevels. Misalignment forces your small wrist muscles to compensate, leading to chronic strain.
-
-| 🇺🇸  |
-| --- |
-| Place your heel pad (base of thumb) on the bevel. |
-| Feel the weight in your base knuckles. |
-| Avoid "death grip" to save your elbow. |
 
 ---
 
@@ -56,3 +51,7 @@ The grip dictates where your "ideal" contact point is. If you use a Western grip
 
 *Sound Diagnosis:* "Bộp" (solid contact) vs "Bịch" (lazy block). Use these to calibrate your grip tension.
 *Chẩn đoán âm thanh:* "Bộp" (chạm bóng chắc) vs "Bịch" (block lười). Dùng âm thanh để chỉnh độ căng tay cầm.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

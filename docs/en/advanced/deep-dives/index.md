@@ -1,6 +1,13 @@
+---
+title: 🔬 Deep Dives - Advanced Tennis Science
+lang: en
+---
+
+
 # 🔬 Deep Dives - Advanced Tennis Science
 
-Welcome to the Deep Dives section, where we explore the scientific foundations behind elite tennis performance. These comprehensive guides connect theory to practice, giving you the "why" behind every technique.
+Welcome to the Deep Dives section, where we explore the scientific foundations behind elite tennis performance.
+These comprehensive guides connect theory to practice, giving you the "why" behind every technique.
 
 ## 📚 Current Deep Dives
 
@@ -64,3 +71,10 @@ Welcome to the Deep Dives section, where we explore the scientific foundations b
 ---
 
 **Ready to go deep?** Start with [Embodied Cognition](01%20Embodied%20Cognition/) - the foundation for understanding how your body learns tennis.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

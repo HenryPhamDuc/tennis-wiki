@@ -1,3 +1,8 @@
+---
+title: Carlos Alcaraz
+lang: en
+---
+
 # Carlos Alcaraz
 
 ## Overview
@@ -12,11 +17,13 @@
 - **Career Prize Money**: Over $30 million
 
 ## Playing Style & Strengths
-**Explosive All-Court Game**: Alcaraz possesses one of the most dynamic and versatile games on tour, capable of dominating from baseline exchanges from the baseline, approaching the net with confidence, and defending with exceptional athleticism.
+**Explosive All-Court Game**: Alcaraz possesses one of the most dynamic and versatile games on tour, capable of dominating from baseline exchanges from the baseline, approaching the net with confidenc
+e, and defending with exceptional athleticism.
 
 **Incredible Athleticism**: His speed, agility, and leaping ability allow him to retrieve seemingly impossible shots and convert defense to offense instantly.
 
-**Powerful Groundstrokes**: Both forehand and backhand are weapons, capable of generating immense pace and topspin. His forehand is particularly notable for its whip-like motion and ability to hit winners from difficult positions.
+**Powerful Groundstrokes**: Both forehand and backhand are weapons, capable of generating immense pace and topspin.
+His forehand is particularly notable for its whip-like motion and ability to hit winners from difficult positions.
 
 **Varied Serve**: While not the biggest server, his serve is accurate and he can vary placement and spin effectively to set up points.
 
@@ -73,3 +80,6 @@
 *Part of the Tennis Legends Research Project*  
 *Last Updated: July 8, 2026*  
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,8 +1,16 @@
-Done. Deep Dive on Doubles Tactics saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Tactics\Doubles Tactics — Communication, Formations & The 50+ Longevity Game.md`** (624 lines, ~60 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on Doubles Tactics saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Tactics\Doubles Tactics — Communication, Formations & The 50+ Longevity Game.md`** (624
+ lines, ~60 KB, EN-VI bilingual, 5 chapters)
 
 ### What this deep dive does differently
 
-Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it has 3 formations × 4 patterns × 2 positions × infinite match situations. I followed the "Reading-First" pattern that worked so well for the Return of Serve deep dive: Ch 1 = Big Idea (mindset) → Ch 2 = Communication & Movement (foundation) → Ch 3 = 3 Formations (variations) → Ch 4 = 4 Patterns (game play) → Ch 5 = practice.
+Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it has 3 formations × 4 patterns × 2 positions × infinite match situations.
+I followed the "Reading-First" pattern that worked so well for the Return of Serve deep dive: Ch 1 = Big Idea (mindset) → Ch 2 = Communication & Movement (foundation) → Ch 3 = 3 Formations (variations
+) → Ch 4 = 4 Patterns (game play) → Ch 5 = practice.
 
 | Chapter | What it covers | Role in the 3.5 doubles game |
 |---|---|---|
@@ -24,13 +32,19 @@ Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it
 
 ### Key 3.5-level choices I made
 
-- **Made Ch 2 about Communication & Movement, not just "Formations"** — because most 3.5 doubles teams lose not because of bad formations, but because of bad communication. The chapter leads with the #1 weapon (communication) before the formations.
-- **Added the "I-formation is optional at 3.5" caveat** in Ch 3 — the Complete Manual treats I-formation as one of 3 equal options, but at 3.5 the Australian default is far more practical. Made the I-formation a "next step" rather than a peer formation.
+- **Made Ch 2 about Communication & Movement, not just "Formations"** — because most 3.5 doubles teams lose not because of bad formations, but because of bad communication.
+The chapter leads with the #1 weapon (communication) before the formations.
+- **Added the "I-formation is optional at 3.5" caveat** in Ch 3 — the Complete Manual treats I-formation as one of 3 equal options, but at 3.5 the Australian default is far more practical.
+Made the I-formation a "next step" rather than a peer formation.
 - **Made the "Both Back is OK" cue for 50+ players** — the Complete Manual lists Both Back as a defensive formation, but doesn't explicitly say "this is your permission slip for bad days." Added it.
-- **Translated the "60% middle return" rule** into a concrete number — the Complete Manual says "return down the middle in doubles" but doesn't quantify. 60% felt right for 3.5 (not 100% — you still crosscourt 40% of the time on certain balls).
-- **Added the "crosscourt at 3.5, not down-the-line" warning** — this is the #1 volley mistake 3.5 doubles players make. Pro doubles down-the-line volleys look easy on TV; at 3.5 they usually go into the alley.
-- **Made the lob a full pattern (Pattern 3) instead of a footnote** — the Complete Manual mentions lobbing in the "5 cues" but doesn't dedicate a pattern. At 50+, the lob is one of the most friendly shots; it earned its own pattern chapter.
-- **Added 50+ hearing-loss cues with hand signals** — the Complete Manual mentions hearing but doesn't give specific hand signals. Added the "fist = mine, hand = yours" system, which is the standard 50+ doubles solution.
+- **Translated the "60% middle return" rule** into a concrete number — the Complete Manual says "return down the middle in doubles" but doesn't quantify.
+60% felt right for 3.5 (not 100% — you still crosscourt 40% of the time on certain balls).
+- **Added the "crosscourt at 3.5, not down-the-line" warning** — this is the #1 volley mistake 3.5 doubles players make.
+Pro doubles down-the-line volleys look easy on TV; at 3.5 they usually go into the alley.
+- **Made the lob a full pattern (Pattern 3) instead of a footnote** — the Complete Manual mentions lobbing in the "5 cues" but doesn't dedicate a pattern.
+At 50+, the lob is one of the most friendly shots; it earned its own pattern chapter.
+- **Added 50+ hearing-loss cues with hand signals** — the Complete Manual mentions hearing but doesn't give specific hand signals.
+Added the "fist = mine, hand = yours" system, which is the standard 50+ doubles solution.
 - **Ended with a printable 1-page cheat sheet** in both languages, with the 12 cues, 5 drills, 7 errors, and the 7 "stop and reset" warnings (Surrey bag-ready).
 
 ### How this connects to the existing series
@@ -63,3 +77,7 @@ Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
 
 Hy vọng tuần này anh sẽ gọi "Mine!" to hơn, đứng ở lưới nhiều hơn, và chơi đôi ở Surrey với niềm vui — với tuổi thọ tennis 20 năm nữa đang chờ.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

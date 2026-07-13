@@ -1,8 +1,15 @@
+---
+title: Readme
+lang: en
+---
+
 
 
 ### The big idea: "The slice × doubles = 8 × 2 = 16"
 
-In singles, the slice family is **7 variations for 1 player**. In doubles, the slice family is **8 variations for 2 players** (the 8th is the Slice Wide Serve, the one you serve with). But the math doesn't stop there. **Each slice variation has a doubles angle** — the partner is a third variable. The Slice Return in singles: deep middle. **The Slice Return in doubles: deep middle + setup for the partner's poach + denial of the opponent's angle + positioning cue for the server.** One shot, three jobs.
+In singles, the slice family is **7 variations for 1 player**. In doubles, the slice family is **8 variations for 2 players** (the 8th is the Slice Wide Serve, the one you serve with).
+But the math doesn't stop there. **Each slice variation has a doubles angle** — the partner is a third variable. The Slice Return in singles: deep middle.
+**The Slice Return in doubles: deep middle + setup for the partner's poach + denial of the opponent's angle + positioning cue for the server.** One shot, three jobs.
 
 ### The 8 slice variations in doubles context
 
@@ -40,14 +47,22 @@ In singles, the slice family is **7 variations for 1 player**. In doubles, the s
 ### Key 3.5-level choices I made
 
 - **Made the 8×2=16 the framing.** The slice family × doubles = a 16-shot doubles playbook. Each of the 8 variations has a doubles angle: who hits, partner's role, poach risk, target.
-- **Organized the 8 variations into 3 sub-families:** **Server's Slice** (Wide Serve + Return), **Net Player's Slice** (Approach + Volley), **Change-Up Slice** (Drop Shot + Defensive Lob + Counter-Punch + Low Ball). The 3 sub-families follow the doubles point chronologically.
-- **Made the 4 hand signals the coordination backbone:** **Fist** = "I'm poaching," **Open hand** = "Stay," **Point to alley** = "Cover the alley," **Hand on chest** = "Me." These 4 signals are the silent language of 50+ doubles (hearing loss friendly).
-- **Made the "slice is a setup" the central principle.** In doubles, the slice is almost never the winning shot. The slice sets up the partner's put-away, the poach, or the lob. **The 3.5 player who thinks the slice is the winner loses more points than the 3.5 player who thinks the slice is the setup.**
-- **Added doubles-specific targets for the Slice Return:** the deep middle is a setup for the poach (not just a safe target), the cross-court denies the poach, the feet jam the Serve + Volley. **The return is not a shot — it's a setup for the next shot.**
-- **Added the "Server + Poacher" rule:** the server's slice wide + the poacher's volley = one team play. The server hits the slice, the poacher finishes. **The 50% rule: poach on 50% of the returner's returns** (not 100% — the returner is watching).
-- **Added the "Cover the alley" rule:** when the net player poaches/volleys, the off-player covers the wide shot. **The cross-court pass is the doubles #1 weapon against the poach.** The off-player denies it.
-- **Tied the 8 slice variations to the existing 4 doubles patterns** (4 serves + 4 returns from Doubles Serves + Doubles Return Patterns deep dives). Together: 8 slice variations + 4 serve patterns + 4 return patterns = a 16-shot doubles playbook.
-- **Phrased the longevity framing:** *"The slice is the 50+ doubles system. 8 variations × 2 players = a 16-shot doubles playbook. The 50+ player who uses this playbook plays 20+ years. The 50+ player who plays singles patterns in doubles plays 10."*
+- **Organized the 8 variations into 3 sub-families:** **Server's Slice** (Wide Serve + Return), **Net Player's Slice** (Approach + Volley), **Change-Up Slice** (Drop Shot + Defensive Lob + Counter-Pun
+ch + Low Ball). The 3 sub-families follow the doubles point chronologically.
+- **Made the 4 hand signals the coordination backbone:** **Fist** = "I'm poaching," **Open hand** = "Stay," **Point to alley** = "Cover the alley," **Hand on chest** = "Me." These 4 signals are the si
+lent language of 50+ doubles (hearing loss friendly).
+- **Made the "slice is a setup" the central principle.** In doubles, the slice is almost never the winning shot. The slice sets up the partner's put-away, the poach, or the lob.
+**The 3.5 player who thinks the slice is the winner loses more points than the 3.5 player who thinks the slice is the setup.**
+- **Added doubles-specific targets for the Slice Return:** the deep middle is a setup for the poach (not just a safe target), the cross-court denies the poach, the feet jam the Serve + Volley.
+**The return is not a shot — it's a setup for the next shot.**
+- **Added the "Server + Poacher" rule:** the server's slice wide + the poacher's volley = one team play. The server hits the slice, the poacher finishes.
+**The 50% rule: poach on 50% of the returner's returns** (not 100% — the returner is watching).
+- **Added the "Cover the alley" rule:** when the net player poaches/volleys, the off-player covers the wide shot.
+**The cross-court pass is the doubles #1 weapon against the poach.** The off-player denies it.
+- **Tied the 8 slice variations to the existing 4 doubles patterns** (4 serves + 4 returns from Doubles Serves + Doubles Return Patterns deep dives).
+Together: 8 slice variations + 4 serve patterns + 4 return patterns = a 16-shot doubles playbook.
+- **Phrased the longevity framing:** *"The slice is the 50+ doubles system. 8 variations × 2 players = a 16-shot doubles playbook. The 50+ player who uses this playbook plays 20+ years.
+The 50+ player who plays singles patterns in doubles plays 10."*
 
 ### How this connects to the existing series
 
@@ -66,17 +81,21 @@ In singles, the slice family is **7 variations for 1 player**. In doubles, the s
 
 ### The most important sentence from this deep dive
 
-> *"In doubles, the slice is not a shot. The slice is a TEAM shot. 8 variations × 2 players = a 16-shot doubles playbook. The 50+ player who uses this playbook plays 20+ years. The 50+ player who plays singles patterns in doubles plays 10."*
+> *"In doubles, the slice is not a shot. The slice is a TEAM shot. 8 variations × 2 players = a 16-shot doubles playbook. The 50+ player who uses this playbook plays 20+ years.
+The 50+ player who plays singles patterns in doubles plays 10."*
 
-A 3.5 doubles player who uses 8 slice variations × 2 players has 16 options for 16 situations. A 3.5 doubles player who plays singles patterns has 1-2 options for 16 situations — and loses 70% of the time. **The slice × doubles integration is the 50+ longevity system.**
+A 3.5 doubles player who uses 8 slice variations × 2 players has 16 options for 16 situations.
+A 3.5 doubles player who plays singles patterns has 1-2 options for 16 situations — and loses 70% of the time. **The slice × doubles integration is the 50+ longevity system.**
 
 ### The master cue
 
-> *"Trong đôi, slice không phải một cú. Slice là cú ĐỘI. 8 biến thể × 2 người = playbook 16 cú. Continental là nền tảng. Tín hiệu tay là giao tiếp. Slice là cú. Ở tuổi 50+, người chơi dùng cả 8 sống 20 năm trên sân đôi."*
+> *"Trong đôi, slice không phải một cú. Slice là cú ĐỘI. 8 biến thể × 2 người = playbook 16 cú. Continental là nền tảng. Tín hiệu tay là giao tiếp. Slice là cú.
+Ở tuổi 50+, người chơi dùng cả 8 sống 20 năm trên sân đôi."*
 
 ### The 50+ slice × doubles principle
 
-> *"The slice is the 50+ doubles system. The 8 slice variations × 2 players = a 16-shot doubles playbook. The Continental is the foundation. The hand signal is the communication. The slice is the shot. The body that uses all 8 variations lives 20+ years on the doubles court."*
+> *"The slice is the 50+ doubles system. The 8 slice variations × 2 players = a 16-shot doubles playbook. The Continental is the foundation. The hand signal is the communication.
+The slice is the shot. The body that uses all 8 variations lives 20+ years on the doubles court."*
 
 ### File summary
 
@@ -97,3 +116,7 @@ A 3.5 doubles player who uses 8 slice variations × 2 players has 16 options for
 
 ---
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

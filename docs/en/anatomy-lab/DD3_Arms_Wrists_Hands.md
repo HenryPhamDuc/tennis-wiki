@@ -1,3 +1,9 @@
+---
+title: DD3 — Arms, Wrists & Hands
+lang: en
+---
+
+
 # DD3 — Arms, Wrists & Hands
 
 *The 27 Bones of Your Hand, the Ulnar Nerve Trap, and Why Your Grip Pressure Matters*
@@ -5,13 +11,6 @@
 ---
 
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
-
-| 🇺🇸  |
-| --- |
-| This DD covers the entire arm chain from shoulder to fingertip: humerus, elbow (cubital tunnel — where the ulnar nerve gets trapped), forearm muscles, the 27 bones of the hand, the 8 carpal bones in 2 rows, and the 9 tendons + median nerve of the carpal tunnel. |
-| **Why this matters for a 50+ tennis player:** the elbow and wrist are where most recreational tennis injuries appear — tennis elbow (lateral epicondylitis), cubital tunnel syndrome, carpal tunnel syndrome, De Quervain's tenosynovitis. Most are caused by grip pressure that's too high, too low, or held too long. |
-| **What it does NOT cover:** the shoulder (DD2), the cervical spine nerves that also feed the arm (DD4 Trunk & Spine), or stroke mechanics (Forehand/Backhand deep dives). |
-| **Reading time:** 35–45 minutes. |
 
 ---
 
@@ -33,11 +32,6 @@
 * * *
 
 ## Chapter 1 — The Humerus, Radius, Ulna (Your Arm's 3 Bones)
-
-| 🇺🇸  |
-| --- |
-| **The arm is 3 bones connected by 3 joints.** Upper arm = humerus (single bone). Forearm = radius (thumb side) and ulna (pinky side). The joints are the shoulder, elbow, and wrist. |
-| **The elbow is a hinge joint.** Two movements only — flexion (bending) and extension (straightening). It cannot rotate. The rotation you feel at the elbow is actually the RADIUS rotating around the ULNA in the forearm (called pronation/supination). |
 
 ### The 3 Bones — Where They Meet
 
@@ -76,11 +70,6 @@
 
 ## Chapter 2 — The Cubital Tunnel (The #1 Trap for Tennis Players)
 
-| 🇺🇸  |
-| --- |
-| **The cubital tunnel is a groove behind the medial epicondyle of the humerus (the "funny bone" knob on the inside of your elbow).** The ulnar nerve passes through it, held down by a ligament called Osborne's ligament. When the elbow bends, the tunnel NARROWS by 55%. Pressure inside the tunnel spikes. |
-| **This is the most common nerve compression site in the elbow.** Symptoms: tingling in the ring + pinky fingers, weakness in grip, "falling asleep" feeling when holding the phone. In tennis players, the one-handed backhand is the #1 cause — the elbow bends past 90° for hundreds of strokes. |
-
 ### The Cubital Tunnel Numbers
 
 | Number | What It Means | Tennis Implication |
@@ -92,12 +81,6 @@
 
 ### The Double Crush Phenomenon
 
-| 🇺🇸  |
-| --- |
-| **The ulnar nerve can be compressed at the C8-T1 nerve root (neck), at the cubital tunnel (elbow), AND at Guyon's canal (wrist).** If even one site is mildly compressed, the nerve becomes sensitive. A second compression site — even a small one — produces symptoms out of proportion. |
-| **Tennis truth:** most recreational players with persistent "tennis elbow" actually have DOUBLE crush — neck compression from poor posture (DD4) PLUS cubital tunnel compression from one-handed backhand. Treating only the elbow misses the neck. |
-| **The diagnostic:** a neurologist can map the compression site with EMG/nerve conduction studies. If you have persistent symptoms despite 6 weeks of tennis-elbow treatment, ASK for nerve testing. |
-
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part I. Tennis Anatomy Ch.10 (Common Injuries) corroborates with cubital tunnel syndrome details.*
 
 ---
@@ -105,12 +88,6 @@
 * * *
 
 ## Chapter 3 — The Ulnar Nerve Pathway (From Neck to Pinky)
-
-| 🇺🇸  |
-| --- |
-| **The ulnar nerve starts at C8-T1 nerve roots in your lower neck, travels down the arm, passes BEHIND the medial epicondyle at the elbow (the cubital tunnel), then continues through Guyon's canal at the wrist, and ends in the ring and pinky fingers.** It is the longest unprotected nerve in the arm. |
-| **Its job:** controls the flexor carpi ulnaris (wrist flexor on pinky side), the flexor digitorum profundus to ring + pinky, the intrinsic hand muscles (interossei, lumbricals, hypothenar), and provides sensation to ring + pinky + ulnar half of palm. |
-| **When it fails:** "claw hand" deformity (ring + pinky can't flex at MCP), wasting of the hypothenar eminence, weakness in grip (because FDP to last 2 fingers is paralyzed). Tennis player can't hold the racquet. |
 
 ### The Ulnar Nerve Path — 5 Stops
 
@@ -140,11 +117,6 @@
 
 ## Chapter 4 — STOP STRETCHING (The Nerve Flossing Solution)
 
-| 🇺🇸  |
-| --- |
-| **The most common advice for "tennis elbow" is WRONG:** stretch the forearm, stretch the wrist, stretch the elbow. But the ulnar nerve doesn't want to be STRETCHED. Stretching increases intraneural strain >15%. This reduces blood flow inside the nerve (microvascular ischemia). |
-| **The fix is NERVE FLOSSING** — also called nerve gliding. The nerve slides back and forth between its endpoints. You flex the wrist while extending the elbow, then extend the wrist while flexing the elbow. This creates motion at the nerve WITHOUT stretching it. |
-
 ### The Nerve Flossing Technique — Step by Step
 
 | Step | Position | Hold | Why |
@@ -155,11 +127,6 @@
 | **4. Repeat** | 10 slow reps, 3× per day | Before and after play | Restores nerve mobility, reduces intraneural pressure. |
 
 ### The "Pain Cap" Rule — Keep It Under 3/10
-
-| 🇺🇸  |
-| --- |
-| **Nerve flossing should HURT LESS than 3/10 on a 0–10 scale.** If you feel tingling, electric shocks, or pain >3/10, STOP. You are compressing or over-stretching the nerve. The goal is gentle motion, not aggressive stretching. |
-| **The 50+ protocol:** 10 slow reps in the morning (before the day stiffens the nerve), 10 reps mid-day (counteract the desk posture), 10 reps after tennis (clear inflammation). Total: 30 reps/day, 3 minutes. |
 
 ### The 4 Common Mistakes With Nerve Flossing
 
@@ -178,10 +145,6 @@
 
 ## Chapter 5 — The 27 Bones of the Hand (A 3-Zone Machine)
 
-| 🇺🇸  |
-| --- |
-| **The human hand has 27 bones, 27 joints, 34 muscles (intrinsic + extrinsic), over 100 ligaments, and 3 main nerves (median, ulnar, radial).** It is the most complex mechanical structure in the body. The hand is divided into 3 zones: **carpals** (wrist), **metacarpals** (palm), **phalanges** (fingers + thumb). |
-
 ### The 3 Zones of the Hand
 
 | Zone | # Bones | Names | Tennis Role |
@@ -199,12 +162,6 @@
 
 ### The Thumb — 50% of Hand Function
 
-| 🇺🇸  |
-| --- |
-| **The thumb accounts for 50% of total hand function.** This is because of OPPOSITION — the ability to bring the thumb pad across to meet the pads of the other 4 fingers. No other finger can do this. Loss of opposition = loss of grip, loss of fine motor. |
-| **Tennis implication:** the thumb's role in grip pressure is HUGE. In the Eastern backhand grip, the thumb sits on bevel 7 of the handle. It acts as a counterforce against the fingers. If the thumb is over-gripping (the common 3.5 mistake), the ulnar nerve gets squeezed at Guyon's canal. |
-| **De Quervain's Tenosynovitis:** inflammation of the tendons APL (abductor pollicis longus) and EPB (extensor pollicis brevis). These pass through the 1st compartment of the wrist. Common in tennis players who grip with the thumb. Pain at the thumb base + radial wrist. |
-
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part II paragraphs 16-26. Tennis Anatomy Ch.3 (Arms and Wrists) and Ch.10 corroborate.*
 
 ---
@@ -212,11 +169,6 @@
 * * *
 
 ## Chapter 6 — The Carpal Tunnel (Where 9 Tendons + 1 Nerve Live)
-
-| 🇺🇸  |
-| --- |
-| **The carpal tunnel is a narrow passageway on the PALMAR side of the wrist.** It's bounded by the carpal bones (floor and walls) and the flexor retinaculum (transverse carpal ligament) as the roof. Inside: 9 flexor tendons + the median nerve. Total cross-section: about 2 cm². |
-| **The median nerve** controls sensation in thumb, index, middle, and radial half of ring finger. It also controls the thenar muscles (the "flesh pad" at the base of the thumb). |
 
 ### What's Inside the Carpal Tunnel
 
@@ -229,18 +181,7 @@
 
 ### Carpal Tunnel Syndrome — The Trigger
 
-| 🇺🇸  |
-| --- |
-| **Anything that INCREASES pressure inside the 2 cm² tunnel causes symptoms.** The 9 tendons swell with inflammation → takes up more space → median nerve gets squeezed → tingling in thumb/index/middle. |
-| **Tennis triggers:** (a) sustained tight grip on the racquet, (b) excess wrist flexion during low volleys, (c) excess wrist extension during serves, (d) cold weather (vasoconstriction reduces tunnel space). |
-| **The fix:** grip pressure 3/10 (see Ch.7). Wrist neutral during volley and serve. Warm up before cold-weather play. Tendon gliding exercises (Ch.8). |
-
 ### The Phalen's Test — A Self-Check
-
-| 🇺🇸  |
-| --- |
-| **Press the backs of your hands together with wrists fully flexed (fingertips pointing down). Hold 60 seconds.** If you feel tingling in thumb/index/middle within 60 seconds, the median nerve is being compressed. |
-| **If positive:** nerve gliding 3×/day, grip pressure reduction, ergonomic racquet handle (smaller grip size if pain is severe), medical referral if persistent. |
 
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part II paragraphs 18-24.*
 
@@ -249,11 +190,6 @@
 * * *
 
 ## Chapter 7 — Grip Pressure (The 3/10 to 7/10 Rule)
-
-| 🇺🇸  |
-| --- |
-| **The 3/10 to 7/10 rule is the single most important hand technique in tennis.** Grip at 3/10 while waiting for the ball (relaxed, just enough to keep the racquet from falling). Grip at 7/10 at the moment of contact (firm, but not white-knuckled). Release back to 3/10 in the follow-through. |
-| **The amateur mistake:** grip at 8–9/10 the ENTIRE point — from ready position to follow-through. This is the primary cause of (a) tennis elbow, (b) carpal tunnel, (c) cubital tunnel syndrome, (d) forearm fatigue. The grip should be a SPEED CHANGER, not a constant force. |
 
 ### The Pressure Numbers — What They Mean
 
@@ -280,11 +216,6 @@
 
 ### The 50+ Grip Reality — Tendons Need Recovery
 
-| 🇺🇸  |
-| --- |
-| **The forearm tendons in a 50+ player have less blood supply than at 25.** Tendon healing is blood-supply-dependent. Over-gripping creates micro-tears that heal SLOWER than at 25. The 3/10 baseline matters even more after 50. |
-| **The drill:** the "ball drop" test. Hold a tennis ball in your non-dominant hand at 3/10 pressure. Walk around for 1 minute. If you feel the need to grip harder, you were probably gripping at 6/10 or higher. Reset to 3/10. |
-
 *Source: Anatomy_Tay_Than_Kinh_Full.docx, Part III paragraphs 28-32.*
 
 ---
@@ -292,11 +223,6 @@
 * * *
 
 ## Chapter 8 — Tendon Gliding (Daily Maintenance for Tennis Hands)
-
-| 🇺🇸  |
-| --- |
-| **Tendon gliding exercises move each tendon through its full range of motion.** The goal is to (a) prevent adhesions between tendons and their sheaths, (b) maintain synovial fluid flow, (c) detect early signs of inflammation. They take 2 minutes. They are the BEST daily maintenance for tennis hands. |
-| **The 5 positions of tendon glide:** straight → hook fist → full fist → tabletop → straight. Each position stresses different tendons differently. The full cycle takes 5 seconds per hand. |
 
 ### The 5 Tendon Glide Positions
 
@@ -534,3 +460,10 @@
 *End of DD3 — Arms, Wrists & Hands
 
 *Next: DD4 — Trunk & Spine (L4-L5, Piriformis, 3-Layer Back, Hip Hinge)
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

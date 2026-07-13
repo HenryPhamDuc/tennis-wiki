@@ -1,3 +1,9 @@
+---
+title: DD4 — Trunk & Spine
+lang: en
+---
+
+
 # DD4 — Trunk & Spine
 
 *L4-L5, Piriformis, the 40 Muscles of the Back in 3 Layers, and Why the Hip Hinge Saves Your Spine*
@@ -5,13 +11,6 @@
 ---
 
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
-
-| 🇺🇸  |
-| --- |
-| The trunk is the **bridge between the lower body and the upper body** in the kinetic chain. The spine is the central column. The back has 40+ muscles in 3 layers. The L4-L5 and L5-S1 discs take the most load. The hip hinge is THE movement that protects the spine. |
-| **What it covers:** the lumbar spine (L1–L5, sacrum), the 3 layers of back muscles (superficial, intermediate, deep), the hip hinge vs the spine hinge, why piriformis syndrome is misdiagnosed 80% of the time, sciatica vs muscular pain, and the "walking decompression" protocol. |
-| **What it does NOT cover:** the shoulder (DD2), arms (DD3), or hips in detail (DD5). |
-| **Reading time:** 35–45 minutes. |
 
 ---
 
@@ -32,11 +31,6 @@
 * * *
 
 ## Chapter 1 — The Lumbar Spine (5 Vertebrae, 2 Discs That Matter)
-
-| 🇺🇸  |
-| --- |
-| **The lumbar spine is 5 vertebrae (L1–L5) sitting on the sacrum (S1–S5, fused).** Between each pair of vertebrae is an intervertebral disc — a gel-filled shock absorber. The discs at L4-L5 and L5-S1 take the most load in any rotational or forward-bending motion. |
-| **Disc structure:** the disc has a soft gel center (nucleus pulposus) and a tough outer ring (annulus fibrosus). When you bend forward with a ROUNDED back, the gel pushes backward. If the annulus tears, the gel can herniate → nerve compression → sciatica. |
 
 ### The 5 Lumbar Vertebrae — Roles
 
@@ -73,11 +67,6 @@
 
 ## Chapter 2 — The 3 Layers of the Back (40+ Muscles, 3 Jobs)
 
-| 🇺🇸  |
-| --- |
-| **The back has more than 40 muscles arranged in 3 layers.** Each layer has a distinct job. The superficial layer produces power. The intermediate layer stabilizes the rib cage for breathing. The deep layer stabilizes the spine segment-by-segment. |
-| **The most important back fact for 50+ players:** multifidus (deep layer) loses 10% of its cross-sectional area within 24 HOURS of an acute back pain episode. Your brain literally "forgets" how to activate it. The fix is specific re-activation, NOT general exercise. |
-
 ### The 3 Layers of the Back
 
 | Layer | Key Muscles | Job | Tennis Role |
@@ -88,12 +77,6 @@
 
 ### The Multifidus — The Most Important Back Muscle You Never Think About
 
-| 🇺🇸  |
-| --- |
-| **Multifidus is the deepest back muscle. It runs from the sacrum to the cervical spine, attaching to every vertebra.** It fires BEFORE any other back muscle during ANY arm or leg movement. It is the "pre-activation" muscle. Without it firing first, the spine is unstable. |
-| **The 50+ trap:** multifidus atrophies 10% in 24 hours of acute back pain. The brain "switches off" the muscle to protect the spine. After the pain resolves, the muscle doesn't automatically switch back on. The result: chronic instability → recurrent back pain → more atrophy. |
-| **The re-activation drill:** the "multifidus setting" exercise. Lie on your side, knees bent. Imagine a string pulling your belly button straight back to your spine. Hold 10 seconds, 10 reps, 3×/day. After 2 weeks, the brain re-learns the activation pattern. |
-
 *Source: Giai_Phau_Tennis_Toan_Dien.docx Ch.3 (40+ muscles, 3 layers), Ch.4 (multifidus 10% loss in 24h). Tennis Anatomy Ch.5 (Back) and Ch.6 (Core) corroborate.*
 
 ---
@@ -101,11 +84,6 @@
 * * *
 
 ## Chapter 3 — Hip Hinge vs Spine Hinge (Why the Hinge Saves Your Back)
-
-| 🇺🇸  |
-| --- |
-| **There are TWO ways to bend forward to pick something up off the ground:** (1) the SPINE hinge — you round your back and reach, (2) the HIP hinge — you keep your back straight and push your butt back. The hip hinge loads the posterior chain (glutes, hamstrings). The spine hinge loads the L4-L5 disc. |
-| **The video evidence:** in 1,000 reps of bending to pick up balls, the amateur uses spine hinge 100% of the time. The pro uses hip hinge 95% of the time. Over 5 years, the amateur's L4-L5 disc has received 5× the load of the pro's. |
 
 ### The 2 Hinges — Side by Side
 
@@ -143,12 +121,6 @@
 
 ## Chapter 4 — The Piriformis Trap (Why 80% of "Piriformis Syndrome" Is Wrong)
 
-| 🇺🇸  |
-| --- |
-| **Piriformis originates on the anterior surface of the sacrum, runs through the greater sciatic foramen, and inserts on the greater trochanter of the femur.** In about 17% of the population, the sciatic nerve passes THROUGH the piriformis. In the other 83%, it passes UNDER. |
-| **"Piriformis syndrome" is a popular diagnosis.** Massage therapists love it. The internet loves it. But the user's source DOCX says bluntly: "Điểm nén thực sự nằm ở L5-S1, không phải ở mông" (The real compression point is at L5-S1, not in the buttock). |
-| **The real story:** the most common cause of buttock + posterior leg pain in a 50+ tennis player is L5-S1 disc herniation compressing the S1 nerve root. The piriformis becomes TIGHT as a SECONDARY response to the nerve irritation. Treating the piriformis misses the cause. |
-
 ### The 3 Causes of "Butt Pain" in a 50+ Tennis Player
 
 | Cause | Mechanism | Diagnostic Clue | Fix |
@@ -159,12 +131,6 @@
 
 ### The Straight Leg Raise (SLR) Test — A Self-Check
 
-| 🇺🇸  |
-| --- |
-| **Lie on your back, legs straight. Slowly raise one leg, keeping the knee straight. Stop when you feel a sharp pain down the back of the leg or in the buttock.** Note the angle. |
-| **Interpretation:** pain at 30–70° = nerve root irritation (likely disc). Pain at 70–90° = hamstring tightness (NOT nerve). Pain in the back only = SI joint or lumbar. |
-| **If pain <70°:** STOP. See a doctor. Don't try to stretch through it. You're dealing with a nerve. |
-
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.2 (Piriformis — the real compression is L5-S1, not buttock).*
 
 ---
@@ -172,11 +138,6 @@
 * * *
 
 ## Chapter 5 — Sciatica Is Nerve, Not Muscle (The Diagnostic)
-
-| 🇺🇸  |
-| --- |
-| **The sciatic nerve is the LONGEST nerve in the body** — from L4-S3 in the spine, through the buttock, down the back of the thigh, branching at the knee into tibial and common peroneal nerves, ending in the foot. |
-| **Sciatica is NOT a muscle problem.** It is irritation of the sciatic nerve or its roots. The pain radiates along the nerve path. Treating the muscle (massage, stretching) treats the symptom, not the cause. Treating the cause requires knowing WHERE the nerve is irritated. |
 
 ### The 4 Sciatica Locations — Each Needs a Different Fix
 
@@ -189,14 +150,6 @@
 
 ### The "Double Crush" in Tennis
 
-| 🇺🇸  |
-| --- |
-| **Tennis creates a "double crush" on the sciatic nerve.** |
-| **Crush 1: at the spine.** Repetitive forward bending with rounded back (picking up balls 1,000 times) creates disc compression at L5-S1. The nerve root is mildly irritated. |
-| **Crush 2: at the piriformis.** Open-stance forehand rotates the hip externally. The piriformis shortens with each rotation. The nerve, already irritated, gets compressed at the piriformis. |
-| **The fix:** you must treat BOTH sites. (1) Spine: hip hinge instead of spine hinge. (2) Piriformis: hip external rotator strengthening + hip hinge practice. |
-| **The mistake:** massage the buttock, stretch the piriformis, ignore the spine. The nerve stays irritated. The "sciatica" comes back. |
-
 *Source: Giai_Phau_Anatomy_Tennis.docx Ch.2 (Piriformis) and Ch.6 (Sai lầm điều trị sciatica); Giai_Phau_Tennis_Toan_Dien.docx Ch.4 (Double crush, sciatica).*
 
 ---
@@ -204,11 +157,6 @@
 * * *
 
 ## Chapter 6 — Walking Decompression (The 5-Minute Daily Fix)
-
-| 🇺🇸  |
-| --- |
-| **The cure for chronic L4-L5 compression is NOT rest, NOT stretching, NOT lying down.** It is WALKING. Slow, short-stride, upright walking. The biomechanics of short-stride walking decompress the L4-L5 disc by ~30% while activating gluteus medius and transversus abdominis. |
-| **Why short-stride works:** the shorter stride keeps the pelvis more level. The gluteus medius on the stance leg contracts to hold the pelvis up. The transversus abdominis co-contracts to stabilize the lumbar. The intervertebral disc experiences a "milking" action — fluid moves in and out, nourishing the disc. |
 
 ### The Walking Decompression Protocol
 
@@ -247,11 +195,6 @@
 * * *
 
 ## Chapter 7 — The Strain vs Spasm Distinction (Why Treatment Differs)
-
-| 🇺🇸  |
-| --- |
-| **"My back is out" is one of the most common tennis complaints.** It can mean two completely different things. A STRAIN is structural damage to muscle fibers (actin-myosin micro-tears). A SPASM is a neurological over-contraction. They need different treatment. |
-| **The error:** most people treat both the same — heat, rest, gentle stretching. For a strain, gentle stretching is good. For a SPASM, stretching often makes it worse. The spasm is a neurological over-contraction. Stretching it provides INPUT that may INCREASE the contraction. |
 
 ### The 3 Differences Between Strain and Spasm
 
@@ -467,3 +410,10 @@
 *End of DD4 — Trunk & Spine
 
 *Next: DD5 — Hips & Thighs (Gluteus Maximus, Deep Rotators, Wider Stance)
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

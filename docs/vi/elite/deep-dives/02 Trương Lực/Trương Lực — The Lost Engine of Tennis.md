@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #2 — Trương Lực — The Lost Engine
+lang: vi
+---
+
 # Deep-Dive #2 — Trương Lực — The Lost Engine
+
 # Deep-Dive #2 — Trương Lực — Động Cơ Bị Lãng Quên
 *The 5-Zone Tone Spectrum in Độ sâu — A 25-minute deep-dive for the 5.0+ player.*
 *Phổ 5 Vùng Tone — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai có Cú Thuận Tay "tốt lúc tập, yếu lúc đấu." Bất cứ ai có kết quả trận phụ thuộc nhiều vào cảm giác ngày hôm đó hơn là kỹ thuật. Bất cứ ai được bảo "lỏng cách cầm vợt" hoặc "siết lại" và thấy cả hai câu nhắc đều vô ích ngang nhau. |
 | Thời gian đọc. ~25 phút. Thành thạo vận hành mất 30+ ngày ghi nhật ký vùng hàng ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | The Body-Personal Cue Words | Câu Nhắc Cá Nhân Theo Cơ Thể |
 | 8 | Your Tone Master Card | Thẻ Tone Tổng Của Bạn |
 * * *
+
 # Chương 1 — Tại Sao Tone Vô Hình
 * * *
 | |
@@ -31,6 +40,7 @@
 | Điểm mù lịch sử. Hầu hết sư phạm tennis phát triển trong thời kỳ trước-video. HLV dạy bằng cảm giác — họ xem người chơi và *cảm nhận* người chơi đang làm gì. Thời đại video thay cảm giác bằng đo lường, và tone — chống đo lường — rơi khỏi chương trình. Người chơi 5.0+ đưa tone trở lại. |
 | Tại sao tone quan trọng hơn ở 5.0+. Dưới 5.0, kỹ thuật thống trị kết quả. Hai người 3.0 cùng tone nhưng khác kỹ thuật sẽ có kết quả rất khác — kỹ thuật là nút cổ chai. *Ở 5.0+, kỹ thuật phần lớn đã giải.* Nút cổ chai chuyển từ "anh làm gì" sang "anh làm thế nào" — đó là tone. |
 * * *
+
 # Chương 2 — 5 Vùng Chi Tiết Giải Phẫu
 * * *
 | |
@@ -61,6 +71,7 @@
 | Cảm giác bên trong. Tập trung hung hăng ngắn. Thở giữ. Rồi giải phóng ngay — vai rơi, cách cầm vợt lỏng, thở tiếp. |
 | Nguy của Vùng 5. Vùng gây chấn thương phổ biến nhất. Người chơi "cố hơn" ở Vùng 5 quá lâu. Tennis elbow, chèn vai, viêm gân cổ tay — tất cả là viêm-Vùng-5. |
 * * *
+
 # Chương 3 — Chuỗi Tone Theo Giai Đoạn
 * * *
 | |
@@ -75,6 +86,7 @@
 | Pha 6 — Hồi phục (200-1000ms sau tiếp xúc). Vùng 3 — Sẵn sàng. Cơ thể thiết lập lại cho bóng tiếp. *Nhắc:* "Reset." |
 | Sơ đồ chuỗi đầy đủ. 3 → 4 → 5 → 5 → 2 → 3. *Một cú, bốn vùng, năm chuyển tiếp, sáu câu nhắc.* |
 * * *
+
 # Chương 4 — Bài Tập Dịch Chuyển Vùng
 * * *
 | |
@@ -88,6 +100,7 @@
 | Ngày 15-21 — Có bóng ở tốc độ trận. Thêm bạn cho bóng ở tốc độ trận. Chuỗi nên xảy ra *tự động.* Nếu không, quay lại Ngày 8. |
 | Kiểm tra thành thạo. Ngày 21, quay video anh đánh 10 Cú Thuận Tay. Xem video và hỏi: "Tôi có thấy/cảm nhận dịch chuyển vùng?" Nếu có, chuỗi đã myelin hóa. Nếu không, lặp lại chu kỳ. |
 * * *
+
 # Chương 5 — Hệ Thống Nhật Ký Tone
 * * *
 | |
@@ -102,6 +115,7 @@
 | Mẫu 3: Chất lượng tiếp xúc biến thiên = giải phóng không nhất quán = tâm lý. Giải: xem Deep-Dive #12 (Choking & Hạch Hạnh Nhân). |
 | Mẫu 4: Mọi thứ cao = ngày mọi thứ hiệu quả. *Ghi điều kiện*: thời tiết, giấc ngủ, đối thủ. Đây là chữ ký "ngày tốt." |
 * * *
+
 # Chương 6 — Lỗi & Cách Sửa Theo Vùng
 * * *
 | |
@@ -128,6 +142,7 @@
 | Chẩn đoán tone. Giải Vùng 2 không đầy đủ. Cơ thể không bao giờ về Vùng 3. Chân nặng vì hệ cơ không bao giờ thư giãn hoàn toàn. |
 | Sửa. "Buông, reset." Sau mỗi cú, ép thở ra nhọn và vai-rơi-vật-lý trước khi nạp lại. |
 * * *
+
 # Chương 7 — Câu Nhắc Cá Nhân Theo Cơ Thể
 * * *
 | |
@@ -144,8 +159,10 @@
 | Câu nhắc nạp: "Cuộn," "Lên dây cót," "Chứa," "Nén," "Kéo." |
 | Câu nhắc giải: "Buông," "Ném," "Gửi," "Bắn," "Mở." |
 * * *
+
 # Chương 8 — Thẻ Tone Tổng Của Bạn
 * * *
+
 ### 📋 Deep-Dive #2 Master Card — Printable / Thẻ Tổng Deep-Dive #2
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE TONE MASTER CARD — YOUR 5-ZONE Cú Thuận Tay SEQUENCE ║
@@ -250,6 +267,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -261,3 +279,6 @@ Sources / Nguồn:
 - Advanced Tennis Kilướiic-Chain Manual.md (kilướiic chain tone, GRF-to-vợt tone pipeline)
 - Futuristic Tennis Manual by Olama.md (KIO η formula's dwell-time coefficient λ, Dwell-Control bài tập)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

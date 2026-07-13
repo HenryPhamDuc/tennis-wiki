@@ -1,8 +1,15 @@
+---
+title: 🎾 Cơ Sở Kiến Thức Quần Vợt Tiếng Việt
+lang: vi
+---
+
 # 🎾 Cơ Sở Kiến Thức Quần Vợt Tiếng Việt
 
 ## 📖 Lời Giới Thiệu
 
-Tôi viết cuốn sổ tay này cho chính tôi trước. Khi tôi bắt đầu, tôi đã chơi tennis được nhiều năm nhưng vẫn không hiểu tại sao cú forehand của tôi lại bay dài ra ngoài sân, tại sao khuỷu tay tôi đau lúc 45 tuổi, tại sao các tay vợt chuyên nghiệp lại nhìn có vẻ nhẹ nhàng đến thế. Tôi đã đọc nhiều sách, xem nhiều video, đi học một khóa đào tạo ở Canada, và hỏi rất nhiều bạn chơi tennis giỏi hơn tôi. Phần lớn những gì tôi viết ở đây là tổng hợp lại những điều đó.
+Tôi viết cuốn sổ tay này cho chính tôi trước. Khi tôi bắt đầu, tôi đã chơi tennis được nhiều năm nhưng vẫn không hiểu tại sao cú forehand của tôi lại bay dài ra ngoài sân, tại sao khuỷu tay tôi đau lú
+c 45 tuổi, tại sao các tay vợt chuyên nghiệp lại nhìn có vẻ nhẹ nhàng đến thế. Tôi đã đọc nhiều sách, xem nhiều video, đi học một khóa đào tạo ở Canada, và hỏi rất nhiều bạn chơi tennis giỏi hơn tôi.
+Phần lớn những gì tôi viết ở đây là tổng hợp lại những điều đó.
 
 **Điểm chính mà tôi muốn nói với các bạn trước khi đọc tiếp: tennis không phải là môn đập (hammer sport) — nó là môn dùng roi (whip sport). Và các bạn đang chơi một môn thể thao 20 năm.**
 
@@ -35,3 +42,6 @@ Chào mừng bạn đến với phiên bản tiếng Việt của Cơ Sở Kiế
 - [🏠 Trang Chủ Chính](../../index.md)
 
 *© 2026 Henry Phạm Đức · Tennis Future Lab*
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

@@ -1,3 +1,8 @@
+---
+title: 🎾 Nền Tảng - Kỹ Thuật Quần Vợt Cơ Bản
+lang: vi
+---
+
 # 🎾 Nền Tảng - Kỹ Thuật Quần Vợt Cơ Bản
 
 Chào mừng bạn đến với phần Nền Tảng của Cơ Sở Kiến Thức Quần Vợt. Đây là nơi bạn xây dựng những kỹ năng thiết yếu mà mọi tay vợt thành công đều cần.
@@ -36,3 +41,6 @@ Bắt đầu với [Cơ Bản](basics/) nếu bạn đang xây dựng nền tả
 ---
 
 **Phần Tiếp Theo**: [Nâng Cao](../advanced/) - Nơi kỹ thuật nền tảng gặp chiến thuật và tâm lý thi đấu
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

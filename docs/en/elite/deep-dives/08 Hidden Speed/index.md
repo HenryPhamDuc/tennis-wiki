@@ -1,3 +1,9 @@
+---
+title: Index
+lang: en
+---
+
+
 Learning about 08 hidden speed was a turning point for me. I want to share what I’ve learned so you can accelerate your own progress.
 
 ## Navigation
@@ -8,3 +14,11 @@ Learning about 08 hidden speed was a turning point for me. I want to share what 
 ## Pages in this folder
 - [Hidden Speed — The Reaction Layer Asymmetry Test And Per Layer Training System](Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,3 +1,8 @@
+---
+title: 🎾 Cơ Bản - Kỹ Thuật Quần Vợt Cốt Lõi
+lang: vi
+---
+
 # 🎾 Cơ Bản - Kỹ Thuật Quần Vợt Cốt Lõi
 
 Chào mừng bạn đến với phần Cơ Bản, nơi bạn sẽ thành thạo những kỹ năng cơ bản mà mọi tay vợt cần. Đây là tài liệu hoàn chỉnh để xây dựng một trò chơi đáng tin cậy và hiệu quả.
@@ -48,3 +53,6 @@ Chào mừng bạn đến với phần Cơ Bản, nơi bạn sẽ thành thạo 
 ---
 
 **Sẵn sàng xây dựng nền tảng của bạn?** Bắt đầu với [Cầm Vợt](Foundations%20and%20Grip/) hoặc nhảy vào kỹ năng ưu tiên của bạn ở trên.
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

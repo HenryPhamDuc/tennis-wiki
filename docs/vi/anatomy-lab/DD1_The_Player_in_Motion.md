@@ -1,6 +1,12 @@
+---
+title: Người Chơi Trong Chuyển Động
+lang: en
+---
+
 # Người Chơi Trong Chuyển Động
 *The Angle Atlas — Why geometry of YOUR body determines every stroke quality*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Không bao gồm: cơ học từng cú (Cú Thuận Tay/Cú Trái Tay/Phát Bóng/Vôlei deep dives), tâm lý, công nghệ vợt. |
 | Thời gian đọc: 35–45 phút. |
 ---
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -22,11 +29,13 @@
 | 8 | The Acceleration Truth — Big Muscles First | Chân Lý Tăng Tốc — Cơ Lớn Trước, Cơ Nhỏ Sau |
 ---
 * * *
+
 ## Chương 1 — Hình Học Của Mọi Cú Đánh
 | |
 | --- |
 | Bạn ơi, để tôi nói rõ: góc cơ thể bạn tạo thành lúc tiếp xúc không phải sở thích phong cách. Đó là khoảng cách giữa người chơi 3.5 và người chơi 4.5. Hai người có thể chạy cùng đường vung — một người được nhịp và chiều sâu, người kia đánh vào khung vợt. Hình học là khác biệt duy nhất. |
 | 6 góc quan trọng lúc tiếp xúc (Cú Thuận Tay người thuận tay phải làm chuẩn): gập gối, xoay hông, nghiêng thân, dạng vai, gập khuỷu, ngửa cổ tay. Mỗi cái có "vùng an toàn" và "đỉnh hiệu năng". Ra ngoài vùng an toàn là mất lực. Dưới đỉnh hiệu năng là mất tốc độ. |
+
 ### 6 Góc Quan Trọng Lúc Tiếp Xúc Cú Thuận Tay
 | # | Angle | Safe Range | Performance Peak | Why (Biomechanical Reason) |
 |---|---|---|---|---|
@@ -36,6 +45,7 @@
 | 4 | Shoulder abduction (at CONTACT) / Dạng vai (lúc CHẠM) | 80–110° | 90–100° | This is the scapular plane — 30° forward of pure frontal. It maximizes deltoid leverage AND keeps the subacromial spás open, preventing rotator cuff impingement. Outside this range → either pec-dominant (too closed) or impingement (too open). |
 | 5 | Elbow flexion / Gập khuỷu | 85–107° | 90–100° | At ~90° the triceps tendon wraps the olecranon cleanly — the swing becomes a pendulum, not a fight. Above 107° (too bent) the forearm has to "snap out" → ulnar nerve traction at cubital tunnel. |
 | 6 | Wrist layback (LOADED → CONTACT) / Ngửa cổ tay (NẠP → CHẠM) | LOADED: 90–110° extension → CONTACT: 0–20° extension | 5–15° at contact | CRITICAL TRAP: the LOADED wrist (90°+ extension) and the CONTACT wrist (0–20° extension) are TWO DIFFERENT positions. giải trí players freeze the LOADED position and try to hit through it → the vợt fás is already opened, bóng sails long. The pro whip: lay back 110° → snap to 5° in 0.2s. This is the vợt flip you can hear as "bộp." |
+
 ### Vì Sao Hình Học Này Quan Trọng — Nguyên Lý Domino
 | |
 | --- |
@@ -45,11 +55,13 @@
 *Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx, Anatomy_Chuyen_Dong.docx. Tham khảo: Roetert & Kovacs, Tennis Anatomy, Ch.1.*
 ---
 * * *
+
 ## Chương 2 — Chuỗi Động Học (Lực Truyền Từ Đất Lên Bóng)
 | |
 | --- |
 | Nguyên lý cộng dồn lực: mọi cú tennis là tổng lực từ đất lên. Bóng không biết bạn vung vợt. Bóng biết cơ thể bạn ép qua mặt vợt lúc va chạm là gì. |
 | Chuỗi 6 mắt xích theo thứ tự:Đất → Chân → Cẳng-Chân-Đùi → Hông → Thân → Vai → Tay → Vợt → Bóng. Mỗi mắt xích cộng thêm lực. Tổng lúc bóng là TỔNG các mắt xích, với ĐỊNH GIỜ đúng. Nếu mắt xích nào gãy (vd hông không xoay), chuỗi dừng tại đó và tay phải làm hết — khi đó khuỷu viêm. |
+
 ### Con Số Chuỗi Động Học
 | Link | Force Contribution | Delay from Previous | Why |
 |---|---|---|---|
@@ -60,6 +72,7 @@
 | Elbow extension (triceps) | ~5% | +20–40 ms | Transfers shoulder rotation into vợt linear velocity. |
 | Wrist snap (flexor pronator) | ~5% | +10–20 ms | Final whip. Last 0.2 seconds before contact. |
 | Total | ~100% | ~250 ms chain | The bóng leaves the vợt ~0.25 seconds AFTER the legs first pushed. |
+
 ### Quy Tắc Trình Tự
 | |
 | --- |
@@ -68,22 +81,26 @@
 *Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx. Tham khảo: Roetert & Kovacs, Tennis Anatomy, Ch.1, Ch.7.*
 ---
 * * *
+
 ## Chương 3 — Các Pha Di Chuyển
 | |
 | --- |
 | Một điểm tennis trung bình có 4–5 lần đổi hướng. VĐV chuyên nghiệp có thể làm hơn 500 lần trong một trận. Mỗi lần đổi là chu trình 3 pha: split-step → đẩy → hồi vị. Làm đúng thì bạn lướt. Làm sai thì bạn vấp. |
+
 ### 3 Pha
 | Phase | English Description | Vietnamese | Duration | Key Angle / Cue |
 |---|---|---|---|---|
 | 1. Split-Step | Land on both feet as opponent strikes. Coiled-spring loading. | Đáp cả hai chân khi đối phương đánh. Nạp lò xo. | ~150 ms | Knees 50–70° flexed, weight on bóngs of feet, both feet shoulder-width apart. |
 | 2. Push | Explosive first step in direction of bóng. Ground reaction force. | Bước đầu bùng nổ về hướng bóng. Lực phản đất. | ~200 ms | Push step knee ~65° (Alcaraz measured angle). Trunk lean forward 15–20°. |
 | 3. Recovery | Return to center after shot. Outside leg bridge. | Trở về trung tâm sau cú đánh. Chân ngoài làm cầu. | ~400–600 ms | Cross-over shuffle or backpedal. Outside leg angled 30–45° (see DD7 on foot). |
+
 ### 3 Khung Hình Của Alcaraz — Ví Dụ Thực
 | Frame | Time | Knee Angle | What He's Doing |
 |---|---|---|---|
 | 3a | 0.0 s | ~65° | Push step — hips low, knee loaded. Ground reaction force ready. |
 | 3b | 1.2 s | ~45° | Short landing — toe under hip. Calf stores elastic energy. |
 | 3c | 3.5 s | ~70° | Brake and rotate — trunk opens like a tail for balance. |
+
 ### Chân Ngoài Làm Cầu — Vì Sao Tồn Tại
 | |
 | --- |
@@ -93,11 +110,13 @@
 *Source DOCX: Anatomy_Chuyen_Dong.docx, Giai_phau_Ban_chan_Tennis.docx (Ch.11). Tham khảo: Tennis Anatomy Ch.7 (Legs), Ch.9 (Movement Drills).*
 ---
 * * *
+
 ## Chương 4 — Báo Cheetah vs Alcaraz (Nguyên Lý Lò Xo)
 | |
 | --- |
 | So sánh với báo không phải để bắt chước. Khớp stifle (tương đương gối) của báo gập 135–150° trong pha gathered — điều đó cho phép tần số sải tăng lên 3.5 sải/giây. Ở 18 m/s, 70% trọng lượng cơ thể dồn về chi sau. Cột sống duỗi tối đa. |
 | Bài học cho người: không phải góc cực đại. Là SỰ PHỐI HỢP. Báo không gập 150° rồi dừng. Nó gập 150° VÀ duỗi 150° VÀ duỗi tiếp — ở 3.5 Hz. Nhịp điệu, không phải góc, là bài học. |
+
 ### 7 Quy Tắc Khớp An Toàn
 | Joint | Safe Range for Loading | Why | Dr. Phạm Đức's Note |
 |---|---|---|---|
@@ -108,6 +127,7 @@
 | Foot | Triple-plantar (heel-1st-toe-bóng) | Windlass mechanism engages. Short-foot bài tập first. | "Dán chân trước khi đẩy." |
 | Ankle | 10–15° dorsiflexion | Calf stores elastic energy. | "Không gót chạm đất khi split-step." |
 | Trunk | 15–20° lateral flexion | Obliques + QL store elastic energy. | "Thân nghiêng 20°, không cúi." |
+
 ### The Royal Veterinary College Finding — What Cheetah Teaches Us
 | |
 | --- |
@@ -116,17 +136,20 @@
 *Source DOCX: Anatomy_Chuyen_Dong.docx. Tham khảo: Royal Veterinary College cheetah study cited in source DOCX.*
 ---
 * * *
+
 ## Chương 5 — Lồng Ngực (Lá Chắn Sống)
 | |
 | --- |
 | Lồng ngực không phải thùng. Nó là cấu trúc 12 đôi khớp: 7 đôi "xương sườn thật" gắn trực tiếp vào ức, 3 đôi "xương sườn giả" gắn gián tiếp, 2 đôi "xương sườn cụt." Mỗi xương sườn có tầm vận động riêng — kiểu xoay tay cầm xô nâng và mở rộng lồng ngực. |
 | Hiểu lầm: "lồng ngực = áo giáp cho tim." Đúng một phần. Sự thật sâu hơn: lồng ngực là máy bơm 3D + nền tảng xoay + động cơ hô hấp. Nó tạo lực cho cú đánh nềns VÀ oxy cho tranh bóng. |
+
 ### 3 Chức Năng Của Lồng Ngực
 | Function | Numbers | Tennis Translation |
 |---|---|---|
 | Pump (breathing) | Ribs lift 3–5 mm each breath → lung volume +0.5 L | In a 20-shot tranh bóng, the player who maintains thoracic mobility gets 10–15% more oxygen → 2nd-set fatigue delayed. The player who slouches loses 0.5 L capacity → ván-2 shoulder fatigue. |
 | Rotation platform | 40–50° total trunk rotation available | Modern Cú Thuận Tay requires 40–50° rotation. Thoracic stiffness locks this — the body finds rotation elsewhere (lumbar disc) → back pain. |
 | Force transfer | Latissimus dorsi originates on T7–L5 thoracolumbar fascia | Lats produce ~40% of vợt head speed on Phát Bóng. But lats can only fire effectively if multifidus (deep spine) locks the lumbar first. Without lumbar lock, lat force leaks into the disc. |
+
 ### Cơ Chế "Tay Cầm Xô"
 | |
 | --- |
@@ -135,11 +158,13 @@
 *Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx. Tham khảo: Roetert & Kovacs, Tennis Anatomy, Ch.4 (Chest), Ch.5 (Back).*
 ---
 * * *
+
 ## Chương 6 — Quy Tắc 45° Lúc Tiếp Xúc
 | |
 | --- |
 | Sai lầm lớn nhất của người chơi nghiệp dư: đánh với tay quá gần thân. Tay gập ở khuỷu, cổ tay phải bù, khuỷu xòe ra, bóng rơi lưới hoặc bay dài. |
 | Quy tắc pro: lúc tiếp xúc, tay cách thân ~45°. Điều này đặt vai trong scapular plane (~30° về phía trước so với mặt phẳng trán thuần). Nó tạo chiều dài đòn bẩy ~65 cm (so với ~40 cm khi tay sát thân). |
+
 ### Hình Học Của Tiếp Xúc 45°
 | Element | Tight to Body (amateur) | 45° Away (pro) | Why |
 |---|---|---|---|
@@ -148,6 +173,7 @@
 | Elbow angle at contact | ~70° (forced flexion) | ~100° (natural pendulum) | 100° léts the swing become a pendulum. 70° forces the forearm to "snap out" → ulnar nerve traction. |
 | Wrist layback | Compensating (snapping) | Natural whip (0–20°) | When elbow is at 100°, the wrist can lay back natutranh bóng. When elbow is at 70°, the wrist is already maxed — no whip room. |
 | Risk of injury | High (ulnar, rotator cuff) | Low | Multiple joints doing their job → no single joint overloaded. |
+
 ### Minh Họa Của Djokovic
 | |
 | --- |
@@ -156,11 +182,13 @@
 *Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx. Tham khảo: Tennis Anatomy Ch.2 (Shoulders), observation from professional Cú Thuận Tay biomechanics.*
 ---
 * * *
+
 ## Chương 7 — Bí Mật Backswing Của Pro (Khuỷu Ra Sau & Duỗi Thẳng)
 | |
 | --- |
 | Backswing nghiệp dư: tay gập khuỷu, vợt thẳng ra sau lưng. Kết quả: đòn bẩy ngắn, chuẩn bị trễ, cổ tay phải quật. |
 | Backswing pro: sau unit turn, DẠNG khuỷu (nâng khuỷu ra bên và hơi ra sau) VÀ DUỖI khuỷu (thẳng khuỷu). Kết quả: tay ngang hông phải, đầu vợt chỉ lên vị trí 5:30. |
+
 ### Vì Sao "Khuỷu Ra Sau + Duỗi" Là Bí Mật
 | Element | Effect | Biomechanical Reason |
 |---|---|---|
@@ -168,19 +196,17 @@
 | Extension (straighten elbow) | Stretches the long head of triceps AND the latissimus dorsi (via thoracolumbar fascia) | Both are large force producers. Stretch them in đưa vợt ra sau → they snap back during forward swing. This is the "elastic whip." |
 | 5:30 vợt position (hand low, vợt head up) | Puts the forearm in the scapular plane | The 30° forward-of-frontal-plane orientation reduces subacromial impingement risk AND maximizes the lever length for the forward swing. |
 | Racket flip effortless | The vợt appears to "flip" through contact | This is NOT wrist snap. It is the elastic recoil of the stretched pec major + lat + long-head-triceps. The wrist is RELAXED. The flip happens because the larger muscles are recoiling. |
+
 ### Câu Nhắc "Lò Xo Cuộn"
-| 🇻🇳 Tiệt Việt |
-| --- |
-| Hình dung cung và tên. Dây cung (pec + lat của bạn) kéo ra sau. Mũi tên (tay bạn) ở vị trí kéo căng. Khoảnh khắc bạn buông, dây cung bật về trước và mũi tên bay. Backswing của bạn là kéo. Forward swing của bạn là buông. Racket flip là mũi tên rời cung. |
-| Sai lầm của 3.5: người nghiệp dư kéo cung với dây đã lỏng. Họ kéo mũi tên (cổ tay) nhưng dây cung (pec + lat) chùng. Không tích năng lượng. Không flip. Toàn tay. |
-*Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx.*
 ---
 * * *
+
 ## Chương 8 — Chân Lý Tăng Tốc (Cơ Lớn Trước, Cơ Nhỏ Sau)
 | |
 | --- |
 | Con số không nói dối. Người chơi 50+ phong trào có tiềm năng gluteus maximus ~30 kg lực. Cơ gập cổ tay tổng ~300 g lực. Cơ lớn mạnh gấp 100 lần cơ nhỏ. Nếu Cú Thuận Tay của bạn đến chủ yếu từ cổ tay, bạn đang dùng 0.3 kg lực khi có 30 kg sẵn. |
 | Nguyên lý:đẩy chân → xoay hông → xoay thân → kéo vai → duỗi khuỷu → quất cổ tay. Mỗi mắt xích cộng thêm. Cổ tay là mắt xích CUỐI, đóng góp nhỏ nhất, là cái quất cuối. |
+
 ### Bảng Lực Theo Mắt Xích
 | Link | Muscle | Peak Force Available | Tennis Role |
 |---|---|---|---|
@@ -191,6 +217,7 @@
 | 5 | Deltoid (anterior) | ~300 N | Shoulder flexion + horizontal adduction. |
 | 6 | Triceps brachii | ~500 N | Elbow extension. Transfers shoulder rotation to linear vợt motion. |
 | 7 | Wrist flexors | ~50 N combined | The final whip. Last 5% of vợt head speed. |
+
 ### Thích Nghi Cho 50+
 | |
 | --- |
@@ -200,6 +227,7 @@
 *Source DOCX: Giai_Phau_Tennis_Toan_Dien.docx. Tham khảo: Tennis Anatomy Ch.1, Ch.7 (Legs).*
 ---
 * * *
+
 ## 📋 DD1 CARD — Printable / THẺ IN ĐƯỢC DD1
 ╔═══════════════════════════════════════════════════════════╗
 ║ DD1 CARD — THE PLAYER IN MOTION ║
@@ -290,8 +318,10 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 ---
+
 ## 🖼️ ILLUSTRATIONS / HÌNH MINH HỌA
 *All images sourced from your Anatomy_Lab/images/DD1_player_in_motion/ folder. See trậning filenames referenced inline below. (24 images available in this DD's folder.)*
+
 ### Hình 1 — 6 Góc Khớp Lúc Tiếp Xúc Cú Thuận Tay
 *Source: Tennis Anatomy Ch.1, page 24-26. The classic "kilướiic chain" diagram showing muscle activation during open-tư thế Cú Thuận Tay.*
 | Phase | Muscle Activation | Image Tham khảo |
@@ -300,15 +330,18 @@
 | Forward swing | Gastrocnemius, soleus, quadriceps, gluteals, hip rotators (concentric) | `images/DD1_player_in_motion/DD1_player_in_motion_02.png` |
 | Contact | Anterior deltoid, pectoralis major, subscapularis, wrist extensors | `images/DD1_player_in_motion/DD1_player_in_motion_03.png` |
 | Follow-through | Posterior deltoid, infraspinatus, teres minor, trapezius (eccentric deceleration) | `images/DD1_player_in_motion/DD1_player_in_motion_04.png` |
+
 ### Hình 2 — Khớp Stifle Của Báo
 *Source: Anatomy_Chuyen_Dong.docx, Hình 1. Shows the cheetah stifle flexed to 135–150° in the gathered phase.*
 `images/DD1_player_in_motion/Anatomy_Chuyen_Dong__img01.jpg`
+
 ### Hình 3 — 3 Khung Hình Footwork Của Alcaraz
 | Frame | Caption | Image |
 |---|---|---|
 | 3a (0.0 s) | Push step — hips low, knee ~65° | `images/DD1_player_in_motion/Anatomy_Chuyen_Dong__img03.png` |
 | 3b (1.2 s) | Short landing — toe under hip | `images/DD1_player_in_motion/Anatomy_Chuyen_Dong__img04.png` |
 | 3c (3.5 s) | Brake and rotate — trunk opens | `images/DD1_player_in_motion/Anatomy_Chuyen_Dong__img05.png` |
+
 ### Hình 4 — Lồng Ngực Như Máy Bơm 3D
 *Source: Giai_Phau_Tennis_Toan_Dien.docx, Hình 4-6. Three views of the rib cage: external protection (Hình 4), intercostal muscles (Hình 5), bucket-handle rotation (Hình 6).*
 | Hình | Description | Image |
@@ -316,6 +349,7 @@
 | 4 | Thoracic cage — protective shield around heart and lungs | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img04.png` |
 | 5 | Intercostal muscles — lifting ribs | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img05.png` |
 | 6 | Bucket-handle rotation — ribs lifting outward | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img06.png` |
+
 ### Hình 5 — Chuỗi Cú Thuận Tay Uyển Chuyển
 *Source: Giai_Phau_Tennis_Toan_Dien.docx, Hình 13-15. The pro transition from semi-open tư thế loading to open tư thế contact.*
 | Hình | Description | Image |
@@ -323,18 +357,21 @@
 | 13 | Semi-open tư thế loading — shoulder rotated away from hip | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img13.png` |
 | 14 | Forward weight shift (Nadal example) — weight transfers without stepping | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img14.png` |
 | 15 | Rotation from trunk — force from obliques and thorax | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img15.png` |
+
 ### Hình 6 — Quy Tắc 45° Lúc Tiếp Xúc
 | Hình | Description | Image |
 |---|---|---|
 | 16 | 45° angle — arm far from trunk creates optimal lever | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img16.png` |
 | 17 | BEFORE (amateur) — arm too bent, too close, lost lever | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img17.png` |
 | 18 | Djokovic example — contact in front of body, no wrist snap | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img18.png` |
+
 ### Hình 7 — Bí Mật Backswing Pro
 | Hình | Description | Image |
 |---|---|---|
 | 19 | Abduct elbow back — stretching pec major and anterior deltoid | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img19.png` |
 | 20 | 5:30 position — hand level with hip, vợt head up | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img20.png` |
 | 21 | Racket flip effortless — flip from elastic recoil | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img21.png` |
+
 ### Hình 8 — Tăng Tốc: Chân → Core → Ngực
 | Hình | Description | Image |
 |---|---|---|
@@ -342,6 +379,7 @@
 | 23 | Rotate hips — hip opens first, chest follows | `images/DD1_player_in_motion/Giai_Phau_Tennis_Toan_Dien__img23.png` |
 *All image filenames verified to exist in `Anatomy_Lab/images/DD1_player_in_motion/`.*
 ---
+
 ## 🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO
 | Topic in DD1 | See Also |
 |---|---|
@@ -354,6 +392,7 @@
 | 50+ recruitment decline | DD8 Control System — vestibular, proprioception, vision |
 | Hip hinge | DD4 Trunk & Spine — the spine-stays-neutral principle |
 ---
+
 ## 📚 SOURCES / NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -364,3 +403,6 @@
 ---
 Hết DD1 — Người Chơi Trong Chuyển Động*
 Tiếp: DD2 — Vai (Chóp Xoay, Scapular Plane, Giải Phẫu Giao Bóng)*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

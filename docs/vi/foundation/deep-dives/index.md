@@ -1,6 +1,12 @@
+---
+title: 📖 Chuyên Sâu - Cẩm Nang Quần Vợt Toàn Diện
+lang: vi
+---
+
 # 📖 Chuyên Sâu - Cẩm Nang Quần Vợt Toàn Diện
 
-Chào mừng bạn đến với phần Chuyên Sâu, nơi bạn sẽ tìm thấy những hướng dẫn toàn diện, mở rộng cho mọi kỹ năng quần vợt cơ bản. Đây là những cẩm nang tham khảo hoàn chỉnh của bạn - chi tiết, kỹ lưỡng, và được thiết kế để nghiên cứu sâu.
+Chào mừng bạn đến với phần Chuyên Sâu, nơi bạn sẽ tìm thấy những hướng dẫn toàn diện, mở rộng cho mọi kỹ năng quần vợt cơ bản.
+Đây là những cẩm nang tham khảo hoàn chỉnh của bạn - chi tiết, kỹ lưỡng, và được thiết kế để nghiên cứu sâu.
 
 ## 📚 Cẩm Nang Toàn Diện & Hướng Dẫn Mở Rộng
 
@@ -52,3 +58,6 @@ Chào mừng bạn đến với phần Chuyên Sâu, nơi bạn sẽ tìm thấy
 ---
 
 **Sẵn sàng làm chủ những nguyên tắc cơ bản?** Bắt đầu với [Complete Tennis Manual](Complete%20Manual/) hoặc đi sâu vào kỹ năng ưu tiên của bạn ở trên.
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

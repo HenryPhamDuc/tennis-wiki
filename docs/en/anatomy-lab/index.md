@@ -1,3 +1,9 @@
+---
+title: 🔬 Anatomy Lab - The Player in Motion
+lang: en
+---
+
+
 # 🔬 Anatomy Lab - The Player in Motion
 
 Welcome to the Anatomy Lab, where we explore the human body as a integrated movement system. Each deep dive examines a specific region through the lens of tennis-specific biomechanics.
@@ -39,6 +45,7 @@ Welcome to the Anatomy Lab, where we explore the human body as a integrated move
 ---
 
 **Ready to explore the anatomy of tennis?** Start with [DD1: The Player in Motion](DD1_The_Player_in_Motion/) or choose a specific region above.
+
 ## Pages in this folder
 - [Dd1 The Player In Motion](DD1_The_Player_in_Motion.md)
 - [Dd2 Shoulders](DD2_Shoulders.md)
@@ -50,3 +57,11 @@ Welcome to the Anatomy Lab, where we explore the human body as a integrated move
 - [Dd8 Control System](DD8_Control_System.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

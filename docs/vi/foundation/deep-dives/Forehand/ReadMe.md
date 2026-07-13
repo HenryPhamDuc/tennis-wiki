@@ -1,4 +1,10 @@
+---
+title: Readme
+lang: en
+---
+
 Done. Deep dive saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Cú Thuận Tay L-Angle and Late Acceleration.md` (327 lines, 27 KB, EN-VI bilingual)
+
 ### What's inside (the 5-step pipeline, executed)
 | Step | What I did |
 | --- | --- |
@@ -7,18 +13,21 @@ Done. Deep dive saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Di
 | ORGANIZE | 4 chapters: Setup → The L → Late Acceleration → Putting It Together |
 | SYNTHESIZE | Wrote in master huấn luyện viên Giọng nói, used the skill's whip-not-hammer principle, 3.5 cues (not frame-by-frame physics) |
 | FORMAT | EN-VI side-by-side tables, ⚠️ warning boxes, 🛠️ bài tập boxes, 🧠 mental cues, printable cheat sheet at the end |
+
 ### Key 3.5-level choices I made
 * Skipped the frame counts (0.02s, 7 frames, 11 frames) from your Sinner analysis — those belong at 4.5+, would overwhelm a 3.5
 * Translated "pronation" and "side bend" into body cues ("lét the chest fire," "feel the weight")
 * Added the 50+ reality check chapter — pulled from your "2 types of engine" note, since you wrote it specifically for that audience
 * Kept the "redirect don't kill" theme prominent — it came from your own 7-page note and is the single biggest unlock for 3.5
 * Ended with a printable 1-page cheat sheet in both languages, since you said you play in Surrey (need it on the bag)
+
 ### Want me to also:
 1. Save the skill file in the Hermes skills system so I can use it automatically in future tennis questions? (It's a one-time setup.)
 2. Produce a PDF or HTML version of the cheat sheet for your phone?
 3. Move on to another deep dive (Unit Turn, Khóa-Vai axis, Racket Embodiment)?
 Chỉ cần nói "làm tiếp cái [tên]" và tôi sẽ chạy. 🎾
 Done. Deep dive #2 saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Unit Turn and Racket Head Position.md` (26 KB, EN-VI bilingual)
+
 ### How this one connects to the L-Angle deep dive
 I designed it as Chapter 0 of the Cú Thuận Tay series — the setup before the swing:
 | Deep Dive #1 (L-Angle) | Deep Dive #2 (Unit Turn) |
@@ -27,16 +36,19 @@ I designed it as Chapter 0 of the Cú Thuận Tay series — the setup before th
 | "Drop the vợt, don't pull the arm" | "Left hand on throat, elbow at shoulder" |
 | Chest pushes late | Shoulders turn early |
 | Builds on... | This one comes first |
+
 ### What's new in this deep dive (compared to #1)
 * The 2-beat rhythm (hop → turn) — critical timing concept 3.5 players miss
 * The 2 mirror checkđiểms — left hand on throat + elbow at shoulder, with a single 2-second bài tập
 * The 50+ adjustments chapter — bridge leg, low COG, hip rotation vs lower back rotation (your Footwork analysis called this out as "tension not overload")
 * The reaction bóng bài tập — for timing, not just shape
 * The "revolving door" mental model — hips are the pole, shoulders are the panel, vợt is the flag
+
 ### Your Deep Dives folder now has
 Deep Dives/
 ├── Cú Thuận Tay L-Angle and Late Acceleration.md (27 KB)
 └── Unit Turn and Racket Head Position.md (26 KB)
+
 ### Want me to continue?
 | Next | What it covers |
 | --- | --- |
@@ -46,26 +58,31 @@ Deep Dives/
 | Something else | Just say the word |
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build compléte_manual", anh. 🎾
 Done. Deep dive #3 saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Khoa Vai Thuc Hu Axis.md` (36 KB — the longest of the three, because this one ties everything together)
+
 ### How this one connects to the series
 | Deep Dive #1 (L-Angle) | Deep Dive #2 (Unit Turn) | Deep Dive #3 (Thực-Hư) |
 | --- | --- | --- |
 | The swing | The setup | The rotational core |
 | "Drop the vợt" | "Hop, then turn" | "Thực = away, hư = on the side" |
 | The whip | The loading | The axis that makes the whip possible |
+
 ### What's new in this one (compared to #1 and #2)
 * The thực-hư framework — Tai chi's 200-year-old principle translated to tennis
 * The 3-tier body model — top stable / middle soft / bottom springy (from your Swing technique notes)
 * The kilướiic chain — Hips → chest → arms → vợt, in that order
 * The 50+ safety tests — the wall check and the towel test, both 2-min bài tậps
 * The "thực = away, hư = side" rule — the single sentence that explains Cú Thuận Tay vs Cú Trái Tay
+
 ### The 3 deep dives now form a system
 Deep Dives/
 ├── Cú Thuận Tay L-Angle and Late Acceleration.md (27 KB) ← the swing
 ├── Unit Turn and Racket Head Position.md (26 KB) ← the setup
 └── Khoa Vai Thuc Hu Axis.md (36 KB) ← the axis
 Read them in this order: #3 (axis) → #2 (turn) → #1 (swing) — the axis is the foundation, the unit turn loads it, and the L-angle swing is what happens when it all works.
+
 ### The single most important line from this deep dive
 > *"Nếu anh chỉ học một kỹ thuật từ cả loạt, hãy học cái này."* — The thực-hư axis is the most 50+-friendly technique in the whole series.
+
 ### Want me to continue?
 | Next | What it covers |
 | --- | --- |
@@ -75,6 +92,7 @@ Read them in this order: #3 (axis) → #2 (turn) → #1 (swing) — the axis is 
 | Something else | Just say the word |
 Chỉ cần nói "làm tiếp" hoặc "build compléte_manual" và tôi sẽ chạy. 🎾
 Done. Deep dive #4 saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Racket Embodiment.md` (38 KB — the longest of all four, fittingly the "feel" layer is the deepest)
+
 ### The compléte series is now done
 | # | Deep Dive | Role | Size |
 | --- | --- | --- | --- |
@@ -83,15 +101,18 @@ Done. Deep dive #4 saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep
 | 3 | Khóa-Vai / Thực-Hư Axis | The axis (L3) | 36 KB |
 | 4 | Racket Embodiment ← this one | The feel (L4) | 38 KB |
 | | | Total | 127 KB |
+
 ### What's new in this one (compared to #1-3)
 * The 3 levels of embodiment — Foundation (barefoot) → Body Schema (vợt as finger) → Perception-Action (see-move)
 * The 2-second pause trick — the single most important habit for the 50+ player
 * The 50+ lợi thế — proprioception doesn't slow down with age, so luyện tập it gives you a real edge over vision-cú đẩyn younger players
 * The 4-layer building metaphor — L1 is foundation, L4 is paint and windows
 * The 4-week thực hành plan — read in order, build up layer by layer
+
 ### The most important line from this deep dive
 > *"You can't turn back the clock on vision. You can train proprioception at any age."*
 That's the 50+ truth of tennis. Your eyes will slow down. Your body doesn't have to.
+
 ### What to do with the 4 deep dives
 Read them in order, 1 week each:
 Week 1: Read #1 (L-Angle). Practice the 4 bài tậps.
@@ -100,6 +121,7 @@ Week 3: Read #3 (Thực-Hư). Add the 4 bài tậps. Do all 12.
 Week 4: Read #4 (Embodiment). Add the 4 bài tậps. Do all 16.
 After: Keep doing L4 bài tậps forever. They're the insurance.
 4 weeks from now, the difference won't be in your head. It'll be in your hand.
+
 ### What next?
 You have a few options:
 | Option | What it is |
@@ -110,3 +132,6 @@ You have a few options:
 | Stop here | Sometimes the best next step is to do the work |
 Chỉ cần nói "làm compléte_manual", "make thực hành plan", "topic [tên]", hoặc "stop" và tôi sẽ theo. 🎾
 Chúc anh tập vui ở Surrey. Hy vọng 4 tuần nữa anh sẽ thấy bóng "cắn" dây nhiều hơn mà tay không mỏi.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

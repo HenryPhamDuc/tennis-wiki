@@ -1,3 +1,9 @@
+---
+title: Readme
+lang: en
+---
+
+
 
 
 ### What this deep dive does differently
@@ -57,3 +63,11 @@ Unlike the 4 forehand deep dives (which were organized by L1-L4 layers), this on
 
 
 5. **Share your knowledge** - Teach what you've learned to others to reinforce your own understanding.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

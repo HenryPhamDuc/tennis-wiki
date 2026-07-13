@@ -1,8 +1,16 @@
+---
+title: 🎾 Phân Tích Chi Tiết — The Phát Bóng
+lang: en
+---
+
 Saved. Here's the deep dive:
+
 # 🎾 Phân Tích Chi Tiết — The Phát Bóng
+
 ### Bản dịch cho người chơi 3.5*
 File: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Phát Bóng\Phát Bóng — The Gravity & Rotation Phát Bóng.md` (48 KB, 6 chapters, EN-VI bilingual)
 ---
+
 ## What's inside
 | Chapter | Title | Key concept |
 |---|---|---|
@@ -13,6 +21,7 @@ File: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Phát Bóng\Phá
 | 5 | Putting It Together: 4 Drills This Week | Shadow, Palm Hold, Toss-Only, 50% Phát Bóng |
 | 6 | Cues, Warnings & 50+ Reality Check | 5 cues, 5 warnings, elbow/back/knee protection |
 ---
+
 ## How this fits the series
 | Deep Dive | Role | What it covers |
 |---|---|---|
@@ -21,14 +30,17 @@ File: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Phát Bóng\Phá
 | Khóa-Vai / Thực-Hư | L3 — The axis | Rotation core, kilướiic chain |
 | Racket Embodiment | L4 — The feel | Proprioception, automaticity |
 | The Phát Bóng ← this one | The 5th stroke | Grip, kilướiic chain, toss, contact, finish |
-This is the first non-Cú Thuận Tay deep dive. It carries forward the same master-huấn luyện viên Giọng nói, the 50+ adjustments, and the EN-VI side-by-side format — but applies them to a different biomechanical system (vertical whip + toss, not horizontal whip + ground contact).
+This is the first non-Cú Thuận Tay deep dive. It carries forward the same master-huấn luyện viên Giọng nói, the 50+ adjustments, and the EN-VI side-by-side format — but applies them to a different bio
+mechanical system (vertical whip + toss, not horizontal whip + ground contact).
 ---
-1. Continental cách cầm vợt + lateral palm plane — from your "Tennis Phát Bóng cách cầm vợt analysis" notes. The "lateral, not vertical" distinction is the single biggest unlock for elbow health. I made it a whole cue.
+1. Continental cách cầm vợt + lateral palm plane — from your "Tennis Phát Bóng cách cầm vợt analysis" notes. The "lateral, not vertical" distinction is the single biggest unlock for elbow health.
+I made it a whole cue.
 2. Pronation over wrist snap — from your "Phát Bóng technique" notes. Modern biomechanics (and modern elbow health) reject the "snap your wrist" teaching. Pronation is shoulder + forearm, not wrist.
 3. The "heavy weight" vợt drop — your exact phrase, used as the central visual cue for the swing. The vợt is the slingshot stone, not the muscle.
 4. The 1-2 count — your "1 = trophy, 2 = hip thrust" formulation. I formalized it as the rhythm of the Phát Bóng.
 5. Toss thực hành as the hidden 50% — your own focus in the source notes. I gave it a dedicated bài tập.
 ---
+
 ## Key 3.5-level choices I made
 - Skipped the frame counts (0.03s, 5ms, 180°) from your pronation analysis — those belong at 4.5+, would overwhelm a 3.5
 - Translated "internal shoulder rotation" and "scapular load" into body cues ("heavy weight pulling the arm," "lét the slingshot launch the stone")
@@ -36,10 +48,12 @@ This is the first non-Cú Thuận Tay deep dive. It carries forward the same mas
 - Kept the "waiter's tray" warning prominent — your own framework, with the biomechanics study showing waiter's tray inflates joint torque with zero speed gain
 - Ended with a printable 1-page cheat sheet in both languages, since you said you play in Surrey (need it on the bag)
 ---
+
 ## The most important line from this deep dive
 > *"You're playing a 20-year sport. Protect the engine."*
 A gravity Phát Bóng at 80% pás with good plásment beats a muscle Phát Bóng at 100% with aching shoulder. The Continental + loose arm + pronation system is your 20-year insurance policy.
 ---
+
 ## Your Deep Dives folder now has
 Deep Dives/
 ├── Cú Thuận Tay/
@@ -53,3 +67,6 @@ Deep Dives/
 ├── ReadMe.md
 └── Phát Bóng — The Gravity & Rotation Phát Bóng.md
 ---
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

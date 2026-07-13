@@ -1,3 +1,8 @@
+---
+title: 🧠 Nâng Cao - Làm Chủ Chiến Thuật Quần Vợt
+lang: vi
+---
+
 # 🧠 Nâng Cao - Làm Chủ Chiến Thuật Quần Vợt
 
 Chào mừng bạn đến với phần Nâng Cao, nơi bạn biến những kỹ thuật nền tảng vững chắc thành chiến thuật chiến thắng. Đây là nơi những người chơi giỏi trở nên xuất sắc.
@@ -42,3 +47,6 @@ Bắt đầu với [Cơ Bản](basics/) để tinh chỉnh nguyên tắc nâng c
 
 **Phần Trước**: [Nền Tảng](../foundation/) - Xây dựng kỹ năng cốt lõi  
 **Phần Tiếp Theo**: [Elite](../elite/) - Hiệu suất cấp vô địch
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

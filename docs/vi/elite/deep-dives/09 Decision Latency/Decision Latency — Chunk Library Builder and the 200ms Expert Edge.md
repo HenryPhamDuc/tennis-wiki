@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #9 — Decision Latency — Your Personal Chunk Library and the 200ms Expert Edge
+lang: en
+---
+
 # Deep-Dive #9 — Decision Latency — Your Personal Chunk Library and the 200ms Expert Edge
+
 # Deep-Dive #9 — Độ Trễ Quyết Định — Thư Viện Chunk Cá Nhân và Lợi Thế Chuyên Gia 200ms
 *Why 5.0+ Players Seem to Have More Time — A 25-minute deep-dive for the 5.0+ player.*
 *Tại Sao Người 5.0+ Có Vẻ Có Nhiều Thời Gian Hơn — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai cảm thấy "không có thời gian" để quyết. Bất cứ ai có đối thủ luôn có vẻ "biết phải làm gì." Bất cứ ai đầu "trắng xóa" ở điểm lớn (vì không chunk nào vừa). |
 | Thời gian đọc. ~25 phút. Xây thư viện chunk: 60-90 ngày khoan chiến thuật nhất quán. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | The Tactical Decision Tree | Cây Quyết Định Chiến Thuật |
 | 8 | Your Chunk Library Card | Thẻ Thư Viện Chunk Của Bạn |
 * * *
+
 # Chương 1 — Chunk Thực Sự Là Gì (Chi Tiết)
 * * *
 | |
@@ -34,6 +43,7 @@
 | Khoảng cách 200ms. Người chơi có 20 chunk mạnh có thể tạo quyết định trong 200ms. Người có 5 chunk yếu tạo trong 400ms. *Cùng cơ thể. Cùng vợt. Khác 200ms.* Đây là lợi thế chuyên gia. |
 | Tại sao chunk là cá nhân. Chunk là tên *của anh* cho một mẫu. Thư viện chunk của pro có tên và cò truy xuất khác của anh. *Thư viện chunk là vân tay chiến thuật của anh.* |
 * * *
+
 # Chương 2 — Giới Hạn Bộ Nhớ Làm Việc 7±2
 * * *
 | |
@@ -43,6 +53,7 @@
 | Nhân tố áp lực. Dưới áp lực, chunk hiệu quả HƠN vì chúng vòng qua đường suy xét chậm. Chunk đã *được tính sẵn* — nó chỉ được truy xuất. *Đó là lý do người chơi có kinh nghiệm chơi tốt hơn người mới dưới áp lực — không phải vì họ bình tĩnh hơn, mà vì họ có nhiều chunk hơn.* |
 | "Tính tự động" của người chơi chuyên gia. Cái trông như "bản năng" ở người 5.0+ là *truy xuất,* không phải phép thuật. Cơ thể truy xuất chunk từ trí nhớ. Quyết định tức thì. Thực hiện theo sau. *Không suy xét. Không tê liệt chọn. Chỉ truy xuất.* |
 * * *
+
 # Chương 3 — Lợi Thế Chuyên Gia 200ms (Thần Kinh Học)
 * * *
 | |
@@ -57,6 +68,7 @@
 | Cấp 3 — 30-50 chunk xuyên loại. Quyết bằng truy xuất cho gần như mọi mẫu, 150-220ms. 5.0+. |
 | Cấp 4 — 50+ chunk với kết nối phong phú. Quyết bằng *kết hợp* chunk, 120-180ms. Chuyên gia 5.5+. |
 * * *
+
 # Chương 4 — Kiểm Kho Chunk Hiện Có
 * * *
 | |
@@ -82,6 +94,7 @@
 | 200-500ms: chunk là *bình thường* — tập truy xuất. |
 | <200ms: chunk là *nhanh* — đã myelin hóa. Dùng nó. |
 * * *
+
 # Chương 5 — Phác Đồ Xây Chunk (30 ngày)
 * * *
 | |
@@ -110,6 +123,7 @@
 | • "Set ba, 4-4" → chunk tôi: "Giữ giao." |
 | Thư viện sau 30 ngày. 12 chunk mới. Kết hợp với 10-20 hiện có, anh giờ có 22-32 chunk. *Ở tốc độ truy xuất 200-300ms, điều này đặt anh vững trong băng chunk 5.0+.* |
 * * *
+
 # Chương 6 — Đặt Tên và Truy Xuất Chunk
 * * *
 | |
@@ -129,6 +143,7 @@
 | Mục tiêu. Thời gian truy xuất <200ms. Nếu trên, lặp chunk trong tập cho đến khi dưới. |
 | Truy xuất "trên không." Trong điểm thật, truy xuất xảy ra trong 50-150ms — quá nhanh để đo ý thức. *Anh chỉ biết phải đánh gì.* Đó là mục tiêu. |
 * * *
+
 # Chương 7 — Cây Quyết Định Chiến Thuật
 * * *
 | |
@@ -151,8 +166,10 @@
 | Bài xây cây. |
 | Vẽ cây quyết định chiến thuật CỦA ANH cho Cú Thuận Tay, Cú Trái Tay, giao, trả, Vôlei. Mỗi cây nên có 5-10 lá. *Đó là 25-50 chunk tổng khi xong.* |
 * * *
+
 # Chương 8 — Thẻ Thư Viện Chunk Của Bạn
 * * *
+
 ### 📋 Deep-Dive #9 Master Card — Printable / Thẻ Tổng Deep-Dive #9
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM ║
@@ -227,6 +244,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -240,3 +258,6 @@ Sources / Nguồn:
 - Miller (1956) — The magical number seven, plus or minus two — working memory limit
 - Futuristic Tennis Manual by Olama.md (Adaptive Intelligence — decision in 200ms via pattern recognition)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

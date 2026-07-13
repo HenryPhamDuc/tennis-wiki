@@ -1,6 +1,12 @@
+---
+title: 🔬 Phòng Thí Nghiệm Giải Phẫu - Người Chơi Trong Chuyển Động
+lang: en
+---
+
 # 🔬 Phòng Thí Nghiệm Giải Phẫu - Người Chơi Trong Chuyển Động
 
-Chào mừng bạn đến với Phòng Thí Nghiệm Giải Phẫu, nơi chúng tôi khám phá cơ thể con người như một hệ thống vận động tích hợp. Mỗi chuyên sâu kiểm tra một khu vực cụ thể qua lăng kính cơ sinh học đặc thù quần vợt.
+Chào mừng bạn đến với Phòng Thí Nghiệm Giải Phẫu, nơi chúng tôi khám phá cơ thể con người như một hệ thống vận động tích hợp.
+Mỗi chuyên sâu kiểm tra một khu vực cụ thể qua lăng kính cơ sinh học đặc thù quần vợt.
 
 ---
 
@@ -39,6 +45,7 @@ Chào mừng bạn đến với Phòng Thí Nghiệm Giải Phẫu, nơi chúng 
 ---
 
 **Sẵn sàng khám phá giải phẫu của quần vợt?** Bắt đầu với [DD1: The Player in Motion](DD1_The_Player_in_Motion/) hoặc chọn một khu vực cụ thể ở trên.
+
 ## Pages in this folder
 - [Dd1 The Player In Motion](DD1_The_Player_in_Motion.md)
 - [Dd2 Shoulders](DD2_Shoulders.md)
@@ -50,3 +57,7 @@ Chào mừng bạn đến với Phòng Thí Nghiệm Giải Phẫu, nơi chúng 
 - [Dd8 Control System](DD8_Control_System.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

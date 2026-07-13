@@ -1,3 +1,8 @@
+---
+title: Readme
+lang: en
+---
+
 Done. Deep dive saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Forehand L-Angle and Late Acceleration.md`**(327 lines, 27 KB, EN-VI bilingual)
 
 ### What's inside (the 5-step pipeline, executed)
@@ -158,3 +163,6 @@ You have a few options:
 Chỉ cần nói "làm complete_manual", "make practice plan", "topic [tên]", hoặc "stop" và tôi sẽ theo. 🎾
 
 Chúc anh tập vui ở Surrey. Hy vọng 4 tuần nữa anh sẽ thấy bóng "cắn" dây nhiều hơn mà tay không mỏi.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

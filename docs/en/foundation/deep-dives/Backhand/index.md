@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 The journey to mastering backhand was full of frustrating moments. In this section, I’ll walk you through the breakthroughs that finally changed my game.
 
 ## Navigation
@@ -13,3 +18,7 @@ The journey to mastering backhand was full of frustrating moments. In this secti
 - [Slice   Low Ball Variation](Slice - Low Ball Variation.md)
 - [Slice   Return Variation](Slice - Return Variation.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

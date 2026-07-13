@@ -1,3 +1,8 @@
+---
+title: 📗 Cẩm Nang Làm Chủ Quần Vợt Elite
+lang: vi
+---
+
 # 📗 Cẩm Nang Làm Chủ Quần Vợt Elite
 
 ## Phá Vỡ Phương Pháp Chính Thống
@@ -49,6 +54,11 @@ Cẩm nang cách mạng này thách thức giảng dạy quần vợt thông th�
 ---
 
 **Sẵn sàng phá vỡ và tìm hệ thống của riêng bạn?** Nhấp vào liên kết ở trên để bắt đầu cẩm nang elite.
+
 ## Pages in this folder
 - [The Elite Tennis Mastery Manual — Break Free From Orthodox Methodology](The Elite Tennis Mastery Manual — Break-Free from Orthodox Methodology.md)
 
+
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

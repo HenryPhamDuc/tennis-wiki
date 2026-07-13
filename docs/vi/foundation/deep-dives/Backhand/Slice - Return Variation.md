@@ -1,4 +1,10 @@
+---
+title: 🎾 Phân Tích Chi Tiết — The Return of Phát Bóng Slice
+lang: vi
+---
+
 # 🎾 Phân Tích Chi Tiết — The Return of Phát Bóng Slice
+
 ### Neutralizing Big Serves at 50+*
 ---
 > Giả định
@@ -7,12 +13,14 @@
 VI bilingual
 > - Focus: Return of Phát Bóng cắt (The "Safe Return")
 ---
+
 ## Chương 1 — Ý tưởng cốt lõi: Trả giao bóng là sự sinh tồn
 | |
 | --- |
 | Một cú giao bóng mạnh ở level 3.5 thường là "lực và xoáy" làm lệch nhịp của anh. Cố vung vợt đánh mạnh lại thường dẫn đến lỗi. Slice trả giao là công cụ "đổi hướng" an toàn. |
 | Ở tuổi 50+, đừng làm anh hùng. Một cú cắt sâu, nhịp chậm rơi giữa sân service tốt gấp 10 lần một cú "cố ăn điểm" mà cắm lưới. |
 ---
+
 ## Chương 2 — Kỹ thuật: "Chặn và Đổi hướng"
 | |
 | --- |
@@ -20,6 +28,7 @@ VI bilingual
 | 2. "Chặn" bóng: Đừng vung vợt. Người giao bóng đã cho anh lực rồi. Việc của anh là chặn bóng. Vợt giữ ngắn, gọn, và chắc. |
 | 3. Điều chỉnh góc vợt: Dùng Continental. Khi bóng tới, chỉ cần chỉnh góc mặt vợt để hướng bóng sâu sang sân đối phương. Hãy nghĩ nó là một cú "Vôlei lúc trả giao". |
 ---
+
 ## Chương 3 — Chiến thuật: Slice vào đâu?
 | Target | Why? | Tại sao? |
 |---|---|---|
@@ -27,6 +36,7 @@ VI bilingual
 | At the Server's feet | If they follow in (Phát Bóng & Vôlei). | Nếu họ lên lưới (Phát Bóng & Vôlei). |
 | Wide to Cú Trái Tay | Opens up the court for your next shot. | Mở sân cho cú sau của anh. |
 ---
+
 ## Chương 4 — Bài tập: "Tập trả giao bóng với tường"
 | Drill | Cue | Tín hiệu |
 |---|---|---|
@@ -34,6 +44,7 @@ VI bilingual
 | Focus | Quiet hands, firm wrist, absorb the pás. | Tay tĩnh, cổ tay chắc, hấp thụ lực. |
 | Goal | 10 returns that land "deep" (near the đường cuối sân on the wall). | 10 cú trả sâu (gần vạch đường cuối sân trên tường). |
 ---
+
 ## Tóm tắt: Slice trả giao bóng (In được)
 ```
 ═══════════════════════════════════════════════════════════════
@@ -57,3 +68,6 @@ VI bilingual
 - Don't over-reach. If it's too wide, just cú nhẹ it back.
 - Đừng với quá. Nếu bóng quá rộng, chỉ cần đẩy nhẹ lại.
 ```
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

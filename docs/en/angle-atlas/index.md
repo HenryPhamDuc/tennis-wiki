@@ -1,3 +1,9 @@
+---
+title: 📐 Angle Atlas - Joint Geometry for Tennis
+lang: en
+---
+
+
 # 📐 Angle Atlas - Joint Geometry for Tennis
 
 Welcome to the Angle Atlas, where we explore the geometric and neurological foundations of elite tennis movement. These deep dives reveal how your joints store and release energy like springs.
@@ -38,6 +44,7 @@ Welcome to the Angle Atlas, where we explore the geometric and neurological foun
 ---
 
 **Ready to understand the geometry of power?** Start with [DD1: The Angle Atlas](DD1%20-%20The%20Angle%20Atlas/) or explore a specific concept above.
+
 ## Pages in this folder
 - [Dd1   The Angle Atlas](DD1 - The Angle Atlas.md)
 - [Dd2   Joints As Springs](DD2 - Joints as Springs.md)
@@ -48,3 +55,11 @@ Welcome to the Angle Atlas, where we explore the geometric and neurological foun
 - [Dd7   The Sensor System](DD7 - The Sensor System.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

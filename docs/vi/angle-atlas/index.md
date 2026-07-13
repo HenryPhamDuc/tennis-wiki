@@ -1,6 +1,12 @@
+---
+title: 📐 Angle Atlas - Hình Học Khớp Cho Quần Vợt
+lang: en
+---
+
 # 📐 Angle Atlas - Hình Học Khớp Cho Quần Vợt
 
-Chào mừng bạn đến với Angle Atlas, nơi chúng tôi khám phá nền tảng hình học và thần kinh của vận động quần vợt ưu tú. Những khám phá chuyên sâu này tiết lộ cách khớp của bạn lưu trữ và giải phóng năng lượng như lò xo.
+Chào mừng bạn đến với Angle Atlas, nơi chúng tôi khám phá nền tảng hình học và thần kinh của vận động quần vợt ưu tú.
+Những khám phá chuyên sâu này tiết lộ cách khớp của bạn lưu trữ và giải phóng năng lượng như lò xo.
 
 ---
 
@@ -38,6 +44,7 @@ Chào mừng bạn đến với Angle Atlas, nơi chúng tôi khám phá nền t
 ---
 
 **Sẵn sàng hiểu hình học của năng lực?** Bắt đầu với [DD1: The Angle Atlas](DD1%20-%20The%20Angle%20Atlas/) hoặc khám phá một khái niệm cụ thể ở trên.
+
 ## Pages in this folder
 - [Dd1   The Angle Atlas](DD1 - The Angle Atlas.md)
 - [Dd2   Joints As Springs](DD2 - Joints as Springs.md)
@@ -48,3 +55,7 @@ Chào mừng bạn đến với Angle Atlas, nơi chúng tôi khám phá nền t
 - [Dd7   The Sensor System](DD7 - The Sensor System.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

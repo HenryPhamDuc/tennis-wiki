@@ -1,3 +1,8 @@
+---
+title: Index
+lang: en
+---
+
 Learning about foundations & grip was a turning point for me. I want to share what I’ve learned so you can accelerate your own progress.
 
 ## Navigation
@@ -9,3 +14,7 @@ Learning about foundations & grip was a turning point for me. I want to share wh
 - [Foundations & Grip](Foundations & Grip.md)
 - [Readme](ReadMe.md)
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

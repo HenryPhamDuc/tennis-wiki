@@ -1,6 +1,15 @@
-Done. 1-Page Match Pocket Card saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\1-Page Match Pocket Card — The Compléte Grip System.md` (~34 KB, EN-VI bilingual, 1 page + 2 expanded versions)
+---
+title: Readme
+lang: en
+---
+
+Done. 1-Page Match Pocket Card saved to: `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\1-Page Match Pocket Card — The Compléte Grip System.md` (~34 KB, EN-VI bilingual, 
+1 page + 2 expanded versions)
+
 ### Ý Tưởng Chính: "The compléte cách cầm vợt system in 1 page"
-The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidates the entire cách cầm vợt system from 4 deep dives (Continental, Eastern/Semi-Western, Grip Change Map, Foundations) into a single 1-page card. The 50+ player who prints this card and carries it to every trận has the system at hand, not in their head.
+The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidates the entire cách cầm vợt system from 4 deep dives (Continental, Eastern/Semi-Western, Grip Change Map, Foundations) into
+ a single 1-page card. The 50+ player who prints this card and carries it to every trận has the system at hand, not in their head.
+
 ### What's on the card
 | Section | Content | Source Deep Dive |
 |---|---|---|
@@ -21,10 +30,12 @@ The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidat
 | The 5 Cues to Remember | Continental home base, 5-second reset, V at 11, etc. | All 4 cách cầm vợt deep dives |
 | The 50+ Longevity Rule | The cách cầm vợt that respects joints plays 20+ years | All 4 cách cầm vợt deep dives |
 | The Master Cue | The 1-sentence summary | All 4 cách cầm vợt deep dives |
+
 ### 3 versions on the file
 1. Bilingual compressed version (top of file) — the actual 1-page card, EN + VI side-by-side, dense
 2. English-only expanded version (middle of file) — for English printing, larger text
 3. Vietnamese-only expanded version (bottom of file) — for Vietnamese printing, larger text
+
 ### Print specifications
 | Spec | Recommendation |
 |---|---|
@@ -34,6 +45,7 @@ The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidat
 | Laminate | Yes (matte, 3-5 mil) |
 | Fold | Bi-fold or tri-fold |
 | Pocket | Side pocket of tennis bag (not vợt compartment) |
+
 ### Key 3.5-level choices I made
 - Made the card PRINTABLE, not just readable. The card is designed for card stock, lamination, and folding. The 50+ player who prints it and carries it has the system at hand.
 - Made the card the CONSOLIDATION of 4 deep dives, not a new deep dive. The card is the QUICK Tham khảo; the deep dives are the FULL Tham khảo. Print the card, read the deep dives at home.
@@ -43,6 +55,7 @@ The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidat
 - Added the 4 protected joints to remind the 50+ player of the WHY (joint protection, not just the HOW).
 - Added the 4 numbers to show the cost of fumbling (6-7.5 min/trận) and the benefit of the map (20% win rate impact).
 - Phrased the longevity framing: *"20+ years of tennis starts with 1 card. The 50+ player with the card plays tennis. The 50+ player without plays 'search for the cách cầm vợt.'"*
+
 ### How this connects to the existing series
 | Deep Dive | Connection to Pocket Card |
 |---|---|
@@ -51,15 +64,21 @@ The Pocket Card is a printable, foldable, bag-pocket Tham khảo that consolidat
 | Grip Change Map | The 4 điểm types, the 8 transitions, the 5-second reset, the 4 numbers — all on the card |
 | Foundations & Grip | The 3 master cách cầm vợts, the 3 sound cues, the death cách cầm vợt warning — all on the card |
 | Compléte Manual | The Compléte Manual will Tham khảo this card as the "pocket Tham khảo" for the cách cầm vợt system |
+
 ### The most important sentence from this card
-> *"Continental is home base. Semi-Western is the Cú Thuận Tay. 5-second reset. Baby bird → Slingshot stone → Wrist lock. At 50+, the player with this card plays 20 years. The player without fumbles 7 minutes per trận."*
+> *"Continental is home base. Semi-Western is the Cú Thuận Tay. 5-second reset. Baby bird → Slingshot stone → Wrist lock. At 50+, the player with this card plays 20 years.
+The player without fumbles 7 minutes per trận."*
 A 50+ player with the card has the system at hand. A 50+ player without the card has the system in their head — and forgets under pressure. The card is the difference.
+
 ### The master cue
-> *"Continental là sân nhà. Semi-Western là Cú Thuận Tay. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. Ở tuổi 50+, người chơi dùng thẻ này chơi 20 năm. Người chơi không có thẻ lóng ngóng 7 phút mỗi trận."*
+> *"Continental là sân nhà. Semi-Western là Cú Thuận Tay. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. Ở tuổi 50+, người chơi dùng thẻ này chơi 20 năm.
+Người chơi không có thẻ lóng ngóng 7 phút mỗi trận."*
+
 ### File summary
 - 📁 `C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\`
 - 📄 `1-Page Match Pocket Card — The Compléte Grip System.md` (~34 KB, 3 versions: bilingual + EN-only + VI-only)
 - 📄 `ReadMe.md` (this file)
+
 ### Want me to continue?
 | Next | What it covers |
 |---|---|
@@ -69,4 +88,8 @@ A 50+ player with the card has the system at hand. A 50+ player without the card
 | Giọng nói Note Pocket Card | A 1-page card with AUDIO cues (record yourself saying the 5 cues) for 50+ players with vision loss |
 Chỉ cần nói "làm tiếp [tên]", "build compléte_manual", hoặc "make thực hành plan" và tôi sẽ chạy. 🎾
 ---
-Hy vọng tuần này anh sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy cách cầm vợt thay đổi từ "tìm cách cầm vợt" sang "đã có cách cầm vợt."
+Hy vọng tuần này anh sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây.
+Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy cách cầm vợt thay đổi từ "tìm cách cầm vợt" sang "đã có cách cầm vợt."
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

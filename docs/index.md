@@ -1,3 +1,9 @@
+---
+title: 🎾 Tennis Knowledge Base
+lang: en
+---
+
+
 # 🎾 Tennis Knowledge Base
 
 > The Complete Tennis Manual — Master Reference v2 | Bản dịch cho người chơi 3.5 ở tuổi 50+
@@ -6,9 +12,11 @@
 
 ## 🌍 Welcome / Chào Mừng
 
-A comprehensive resource for tennis players, coaches, and enthusiasts. This manual is designed as a master reference for the 3.5+ player, covering all aspects of the game from fundamentals to advanced techniques.
+A comprehensive resource for tennis players, coaches, and enthusiasts.
+This manual is designed as a master reference for the 3.5+ player, covering all aspects of the game from fundamentals to advanced techniques.
 
-Tài liệu tham khảo toàn diện dành cho người chơi, huấn luyện viên và những người đam mê quần vợt. Được thiết kế như cẩm nang tham khảo cho trình độ 3.5+, bao quát tất cả các khía cạnh từ nền tảng đến kỹ thuật nâng cao.
+Tài liệu tham khảo toàn diện dành cho người chơi, huấn luyện viên và những người đam mê quần vợt.
+Được thiết kế như cẩm nang tham khảo cho trình độ 3.5+, bao quát tất cả các khía cạnh từ nền tảng đến kỹ thuật nâng cao.
 
 ### 🎾 5 Subsites / 5 Thư viện con
 
@@ -25,29 +33,36 @@ Tài liệu tham khảo toàn diện dành cho người chơi, huấn luyện vi
 ## 🌐 Choose Your Language / Chọn Ngôn Ngữ
 
 <div style="display: flex; gap: 1rem; margin: 2rem 0;">
-  <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" style="flex: 1; padding: 1.5rem; background: #306998; color: white; text-align: center; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.2em;">
+  <a href="https://henryphamduc.github.io/tennisknowledgebase/en/index.html" style="flex: 1; padding: 1.5rem; background: #306998; color: white; text-align: center; border-radius: 8px; text-decoration
+: none; font-weight: 700; font-size: 1.2em;">
     🇬🇧 Tennis Knowledge Base
   </a>
-  <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" style="flex: 1; padding: 1.5rem; background: #2c3e50; color: white; text-align: center; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.2em;">
+  <a href="https://henryphamduc.github.io/tennisknowledgebase/vi/index.html" style="flex: 1; padding: 1.5rem; background: #2c3e50; color: white; text-align: center; border-radius: 8px; text-decoration
+: none; font-weight: 700; font-size: 1.2em;">
     🇻🇳 Thư Viện Kiến Thức Tennis
   </a>
 </div>
 
-**Explore:** [Tennis Knowledge Base →](https://henryphamduc.github.io/tennisknowledgebase/en/index.html) — Full content in English | [Thư Viện Kiến Thức Tennis →](https://henryphamduc.github.io/tennisknowledgebase/vi/index.html) — Nội dung đầy đủ bằng tiếng Việt
+**Explore:** [Tennis Knowledge Base →](https://henryphamduc.github.io/tennisknowledgebase/en/index.html) — Full content in English | [Thư Viện Kiến Thức Tennis →](https://henryphamduc.github.io/tennis
+knowledgebase/vi/index.html) — Nội dung đầy đủ bằng tiếng Việt
 
 ---
 
 ## 🎾 Featured Manuals / Cẩm Nang Nổi Bật
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1.5rem 0;">
-  <a href="vi/cam-nang-quan-vot-toan-dien/" style="display: block; padding: 1.5rem; background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  <a href="vi/cam-nang-quan-vot-toan-dien/" style="display: block; padding: 1.5rem; background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; border-radius: 10px; text-decoration: n
+one; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
     <div style="font-size: 1.4em; font-weight: 700; margin-bottom: 0.5rem;">🇻🇳 CẨM NANG QUẦN VỢT TOÀN DIỆN</div>
-    <div style="font-size: 0.95em; opacity: 0.95; line-height: 1.4;">Marty Smith (2017) — Vietnamese translation. 16 chương: Thăng bằng, Giao bóng, Forehand, Backhand, Volley, Đơn, Đôi, Tâm lý, Thể lực &amp; hơn thế nữa. Đọc online miễn phí.</div>
+    <div style="font-size: 0.95em; opacity: 0.95; line-height: 1.4;">Marty Smith (2017) — Vietnamese translation.
+16 chương: Thăng bằng, Giao bóng, Forehand, Backhand, Volley, Đơn, Đôi, Tâm lý, Thể lực &amp; hơn thế nữa. Đọc online miễn phí.</div>
     <div style="margin-top: 0.8rem; font-size: 0.85em; opacity: 0.85;">📖 16 chương · Mục lục theo sách gốc →</div>
   </a>
-  <a href="en/manual/absolute-tennis/" style="display: block; padding: 1.5rem; background: linear-gradient(135deg, #306998 0%, #1f4e79 100%); color: white; border-radius: 10px; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  <a href="en/manual/absolute-tennis/" style="display: block; padding: 1.5rem; background: linear-gradient(135deg, #306998 0%, #1f4e79 100%); color: white; border-radius: 10px; text-decoration: none; 
+box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
     <div style="font-size: 1.4em; font-weight: 700; margin-bottom: 0.5rem;">🇬🇧 ABSOLUTE TENNIS Manual</div>
-    <div style="font-size: 0.95em; opacity: 0.95; line-height: 1.4;">Marty Smith's complete tennis method (English) + 5 elite player training programs (Agassi, Djokovic, Federer, Nadal, Sampras) + 2 technical analyses.</div>
+    <div style="font-size: 0.95em; opacity: 0.95; line-height: 1.4;">Marty Smith's complete tennis method (English) + 5 elite player training programs (Agassi, Djokovic, Federer, Nadal, Sampras) + 2 t
+echnical analyses.</div>
     <div style="margin-top: 0.8rem; font-size: 0.85em; opacity: 0.85;">📖 Full manual + 5 programs + 2 analyses →</div>
   </a>
 </div>
@@ -76,3 +91,11 @@ Cơ sở kiến thức này là kết quả của nhiều năm nghiên cứu, ki
 ---
 
 *© 2026 Henry Phạm Đức · Tennis Future Lab · All content is for educational purposes.*
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,8 +1,14 @@
+---
+title: Readme
+lang: en
+---
+
 
 
 ### What this deep dive does differently
 
-The Return of Serve is a **bundled-family topic** (per the skill's reference), so I organized it as **one chapter per variation** (block + drive), with a strong Chapter 2 on reading — because reading is the foundational skill that decides which return to use.
+The Return of Serve is a **bundled-family topic** (per the skill's reference), so I organized it as **one chapter per variation** (block + drive), with a strong Chapter 2 on reading — because reading 
+is the foundational skill that decides which return to use.
 
 | Chapter | What it covers | Role in the 3.5 game |
 |---|---|---|
@@ -24,8 +30,10 @@ The Return of Serve is a **bundled-family topic** (per the skill's reference), s
 
 ### Key 3.5-level choices I made
 
-- **Made reading Chapter 2, not Chapter 1** — because the BIG idea is the survival mindset (Ch 1), but the *technical* foundation is reading. Most deep dives put reading late; I put it early so the user can practice it from day 1.
-- **Wove the chip/slice return into the block chapter as a "variation"** — because at 50+, the chip is essentially a block with a small underspin component. Splitting it into its own chapter would have over-emphasized it.
+- **Made reading Chapter 2, not Chapter 1** — because the BIG idea is the survival mindset (Ch 1), but the *technical* foundation is reading.
+Most deep dives put reading late; I put it early so the user can practice it from day 1.
+- **Wove the chip/slice return into the block chapter as a "variation"** — because at 50+, the chip is essentially a block with a small underspin component.
+Splitting it into its own chapter would have over-emphasized it.
 - **Used the "70% swing" rule on the drive return** — the second serve doesn't need a full L-release swing. A shorter, controlled swing is the 3.5 reality.
 - **Translated the "physics of the toss"** into body cues ("front = flat, side = slice, behind = kick") instead of frame counts or joint angles. The user is 50+; the eyes need the simple map.
 - **Added the "20-ball block" service-line drill** — this trains the block return WITHOUT needing actual serves. It can be done at any club with a hitting partner.
@@ -59,3 +67,7 @@ The Return of Serve is a **bundled-family topic** (per the skill's reference), s
 
  🎾
 
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

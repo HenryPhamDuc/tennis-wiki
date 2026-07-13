@@ -1,3 +1,8 @@
+---
+title: Dominic Thiem
+lang: en
+---
+
 # Dominic Thiem
 
 ## Overview
@@ -73,3 +78,6 @@
 *Part of the Tennis Legends Research Project*  
 *Last Updated: July 8, 2026*  
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

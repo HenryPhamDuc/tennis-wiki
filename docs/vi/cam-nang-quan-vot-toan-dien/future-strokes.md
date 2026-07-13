@@ -1,25 +1,63 @@
+---
+title: CÁC CÚ ĐÁNH MỚI
+lang: vi
+---
+
 # CÁC CÚ ĐÁNH MỚI
 
-CÁC CHƯƠNG TRƯỚC ĐÃ THẢO LUẬN VỀ HIỆN TẠI CỦA TENNIS, chi tiết về các cú đánh và phương pháp được sử dụng khi trò chơi được chơi ngày nay. Nhưng tennis sẽ trông như thế nào trong tương lai? Những cú đánh phổ biến hiện nay có thể được sửa đổi? Những cú đánh hoàn toàn mới nào có thể xuất hiện trong trò chơi?
+CÁC CHƯƠNG TRƯỚC ĐÃ THẢO LUẬN VỀ HIỆN TẠI CỦA TENNIS, chi tiết về các cú đánh và phương pháp được sử dụng khi trò chơi được chơi ngày nay.
+Nhưng tennis sẽ trông như thế nào trong tương lai? Những cú đánh phổ biến hiện nay có thể được sửa đổi? Những cú đánh hoàn toàn mới nào có thể xuất hiện trong trò chơi?
 
-Thể thao không tĩnh tại. Điều này đặc biệt đúng trong trò chơi tennis ngày càng mạnh mẽ. Trên thực tế, các pha rally trên tour chuyên nghiệp hiện nay nhanh đến mức trò chơi đôi khi giống bóng bàn hơn là tennis của ngày xưa. Khi trò chơi trở nên nhanh hơn, các phương pháp chơi đã được sửa đổi, mặc dù ban đầu những thay đổi này thường bị phản đối. Trong chương này, tôi sẽ phác thảo ba cú đánh có thể mang lại kết quả vượt trội khi trò chơi tiếp tục phát triển: cú thuận tay hai tay - overlapping dual forehand (ODF), cú giao bóng ngược - reverse serve (RS), và cú giao bóng kiểu bóng chuyền - volleyball serve (VS).
+Thể thao không tĩnh tại. Điều này đặc biệt đúng trong trò chơi tennis ngày càng mạnh mẽ.
+Trên thực tế, các pha rally trên tour chuyên nghiệp hiện nay nhanh đến mức trò chơi đôi khi giống bóng bàn hơn là tennis của ngày xưa.
+Khi trò chơi trở nên nhanh hơn, các phương pháp chơi đã được sửa đổi, mặc dù ban đầu những thay đổi này thường bị phản đối.
+Trong chương này, tôi sẽ phác thảo ba cú đánh có thể mang lại kết quả vượt trội khi trò chơi tiếp tục phát triển: cú thuận tay hai tay - overlapping dual forehand (ODF), cú giao bóng ngược - reverse s
+erve (RS), và cú giao bóng kiểu bóng chuyền - volleyball serve (VS).
 
 "Tất cả sự thật đều trải qua ba giai đoạn. Đầu tiên, nó bị chế giễu. Thứ hai, nó bị phản đối mạnh mẽ. Thứ ba, nó được chấp nhận như là hiển nhiên." - Triết gia người Đức Arthur Schopenhauer
 
-TENNIS ĐÃ CHỨNG KIẾN NHIỀU ĐỔI MỚI trong các cú đánh, chẳng hạn như cú trái tay hai tay và các phiên bản "flamingo" và "squat" của cú đánh đó, các cú đánh mặt đất với tư thế mở, cú thuận tay bên trong, cú thuận tay đảo ngược, cú swinging volley, và cú giao bóng "nhảy" — tất cả các cú đánh đã được thảo luận trước đó trong cuốn sách. Một số cú đánh này đã phát triển vì thiết bị mới tăng tốc độ và spin của bóng, trong khi những cú đánh khác là kết quả của sự cải thiện về thể chất và kích thước của người chơi. Các phương pháp huấn luyện ngoài sân hiện nay vượt trội so với ngày xưa, và các tay vợt WTA cao hơn sáu feet hiện nay rất phổ biến, trong khi các tay vợt ATP dưới chiều cao đó ngày càng ít được thấy. Một số thay đổi xuất phát từ nhu cầu, trong khi những thay đổi khác chỉ là những ý tưởng tốt trước đây chưa được xem xét đầy đủ do sự miễn cưỡng tự nhiên của chúng ta khi bước vào lĩnh vực kém an toàn của những ý tưởng mới. Thú vị là nhiều thay đổi này chỉ trở nên được củng cố hoặc "chấp nhận" sau khi được sử dụng nhất quán và thành công bởi một tay vợt chuyên nghiệp hàng đầu. Dường như chúng ta thường cần bằng chứng từ sự xuất sắc trước khi quyết định rằng khác biệt thực sự tốt hơn. Hãy thảo luận về cách những đổi mới trong cú đánh này xảy ra.
+TENNIS ĐÃ CHỨNG KIẾN NHIỀU ĐỔI MỚI trong các cú đánh, chẳng hạn như cú trái tay hai tay và các phiên bản "flamingo" và "squat" của cú đánh đó, các cú đánh mặt đất với tư thế mở, cú thuận tay bên trong
+, cú thuận tay đảo ngược, cú swinging volley, và cú giao bóng "nhảy" — tất cả các cú đánh đã được thảo luận trước đó trong cuốn sách.
+Một số cú đánh này đã phát triển vì thiết bị mới tăng tốc độ và spin của bóng, trong khi những cú đánh khác là kết quả của sự cải thiện về thể chất và kích thước của người chơi.
+Các phương pháp huấn luyện ngoài sân hiện nay vượt trội so với ngày xưa, và các tay vợt WTA cao hơn sáu feet hiện nay rất phổ biến, trong khi các tay vợt ATP dưới chiều cao đó ngày càng ít được thấy.
+Một số thay đổi xuất phát từ nhu cầu, trong khi những thay đổi khác chỉ là những ý tưởng tốt trước đây chưa được xem xét đầy đủ do sự miễn cưỡng tự nhiên của chúng ta khi bước vào lĩnh vực kém an toàn
+ của những ý tưởng mới. Thú vị là nhiều thay đổi này chỉ trở nên được củng cố hoặc "chấp nhận" sau khi được sử dụng nhất quán và thành công bởi một tay vợt chuyên nghiệp hàng đầu.
+Dường như chúng ta thường cần bằng chứng từ sự xuất sắc trước khi quyết định rằng khác biệt thực sự tốt hơn. Hãy thảo luận về cách những đổi mới trong cú đánh này xảy ra.
 
-ĐIỀU CÓ THỂ TRỞ THÀNH MỘT CÁCH CHƠI MẶT ĐẤT VƯỢT TRỘI cho một số người là sử dụng ODF và phong cách chơi mà tôi gọi là "Ambitennis." Trong cú đánh này, hoặc phong cách chơi, các tay vợt sử dụng kỹ thuật cầm vợt chồng lấn kết hợp với cú vung thuận tay sử dụng cả tay phải và tay trái, do đó loại bỏ cú trái tay (dưới).
+ĐIỀU CÓ THỂ TRỞ THÀNH MỘT CÁCH CHƠI MẶT ĐẤT VƯỢT TRỘI cho một số người là sử dụng ODF và phong cách chơi mà tôi gọi là "Ambitennis." Trong cú đánh này, hoặc phong cách chơi, các tay vợt sử dụng kỹ thu
+ật cầm vợt chồng lấn kết hợp với cú vung thuận tay sử dụng cả tay phải và tay trái, do đó loại bỏ cú trái tay (dưới).
 
-Tại sao áp dụng cú đánh này? Chủ yếu là vì những phẩm chất vật lý vượt trội của cú thuận tay (xem trang 194) so với cú trái tay. Ở cấp độ chuyên nghiệp và nghiệp dư, cú thuận tay thường mạnh hơn cú trái tay. Đối với hầu hết các bạn, khi bóng đến cú thuận tay của bạn, tâm trí của bạn nâng lên trong sự mong đợi của một tình huống tấn công sắp diễn ra. Khi bóng đến cú trái tay của bạn, kỳ vọng tấn công của bạn giảm xuống. Nếu bạn, giống như hầu hết các tay vợt, ưa thích cú thuận tay của mình, Ambitennis có thể khiến bạn mong đợi mọi quả bóng vượt qua lưới.
+Tại sao áp dụng cú đánh này? Chủ yếu là vì những phẩm chất vật lý vượt trội của cú thuận tay (xem trang 194) so với cú trái tay.
+Ở cấp độ chuyên nghiệp và nghiệp dư, cú thuận tay thường mạnh hơn cú trái tay.
+Đối với hầu hết các bạn, khi bóng đến cú thuận tay của bạn, tâm trí của bạn nâng lên trong sự mong đợi của một tình huống tấn công sắp diễn ra.
+Khi bóng đến cú trái tay của bạn, kỳ vọng tấn công của bạn giảm xuống.
+Nếu bạn, giống như hầu hết các tay vợt, ưa thích cú thuận tay của mình, Ambitennis có thể khiến bạn mong đợi mọi quả bóng vượt qua lưới.
 
-Nhiều đội đôi thành công nhất trong lịch sử — Mike và Bob Bryan, Todd Wood-bridge và Mark Woodforde, Martina Navratilova và Pam Shriver, và John McEnroe và Peter Fleming — có một đặc điểm quan trọng chung: họ là sự kết hợp giữa tay phải và tay trái. Tại sao sự kết hợp này lại có lợi thế? Một lý do là các tay vợt thi đấu chống lại sự kết hợp đôi như vậy phải điều chỉnh để trả giao bóng cong phải và sau đó, trong trận đấu trả giao bóng tiếp theo, một cú giao bóng cong trái, trong mỗi trường hợp vượt qua lưới ở một góc khác nhau.
+Nhiều đội đôi thành công nhất trong lịch sử — Mike và Bob Bryan, Todd Wood-bridge và Mark Woodforde, Martina Navratilova và Pam Shriver, và John McEnroe và Peter Fleming — có một đặc điểm quan trọng c
+hung: họ là sự kết hợp giữa tay phải và tay trái. Tại sao sự kết hợp này lại có lợi thế? Một lý do là các tay vợt thi đấu chống lại sự kết hợp đôi như vậy phải điều chỉnh để trả giao bóng cong phải và
+ sau đó, trong trận đấu trả giao bóng tiếp theo, một cú giao bóng cong trái, trong mỗi trường hợp vượt qua lưới ở một góc khác nhau.
 
-TẠI SAO CÁC VẬN ĐỘNG VIÊN NHẢY CAO thực hiện một đường chạy dài trước khi nhảy và vượt qua xà? Đó là vì động lượng về phía trước của đường chạy cho phép họ nhảy cao hơn. Chính vì lý do này mà tôi tin rằng cú giao bóng bóng chuyền (VS) có thể trở thành một phần của từ điển tennis. Bạn bắt đầu VS bằng cách thiết lập tư thế giao bóng thông thường của mình nhưng đứng cách đường baseline từ 12 đến 18 inch (bên trái đối diện). Sau khi bắt đầu vung vợt, bước về phía trước bằng chân trái từ 12 đến 18 inch trước khi thực hiện một cú giao bóng chính xác thông thường (trung tâm và phải đối diện). Bước này về phía trước bằng chân trái không chỉ tăng tốc độ vợt mà còn tạo ra một cú nhảy dài hơn và cao hơn khỏi mặt đất.
+TẠI SAO CÁC VẬN ĐỘNG VIÊN NHẢY CAO thực hiện một đường chạy dài trước khi nhảy và vượt qua xà? Đó là vì động lượng về phía trước của đường chạy cho phép họ nhảy cao hơn.
+Chính vì lý do này mà tôi tin rằng cú giao bóng bóng chuyền (VS) có thể trở thành một phần của từ điển tennis.
+Bạn bắt đầu VS bằng cách thiết lập tư thế giao bóng thông thường của mình nhưng đứng cách đường baseline từ 12 đến 18 inch (bên trái đối diện).
+Sau khi bắt đầu vung vợt, bước về phía trước bằng chân trái từ 12 đến 18 inch trước khi thực hiện một cú giao bóng chính xác thông thường (trung tâm và phải đối diện).
+Bước này về phía trước bằng chân trái không chỉ tăng tốc độ vợt mà còn tạo ra một cú nhảy dài hơn và cao hơn khỏi mặt đất.
 
-CÓ MỘT TƯ THẾ GIAO BÓNG KHÁC có thể nâng cao cú giao bóng của bạn. Nó tận dụng các lợi thế khác nhau được cung cấp bởi các cú giao bóng platform và pinpoint (xem trang 40–41) để giúp tất cả các tay vợt theo những cách khác nhau.
+CÓ MỘT TƯ THẾ GIAO BÓNG KHÁC có thể nâng cao cú giao bóng của bạn.
+Nó tận dụng các lợi thế khác nhau được cung cấp bởi các cú giao bóng platform và pinpoint (xem trang 40–41) để giúp tất cả các tay vợt theo những cách khác nhau.
 
-TRONG SUỐT LỊCH SỬ CỦA TENNIS, các tay vợt và huấn luyện viên đã tạo ra các kỹ thuật đổi mới ban đầu gặp phải sự phản đối trước khi được chấp nhận như những phương pháp vượt trội. ODF, RS, và VS hiện không được giảng dạy, nhưng giống như tennis đã áp dụng nhiều thay đổi trong kỹ thuật trong quá khứ, những cú đánh này cũng có thể trở nên quen thuộc với chúng ta trong tương lai. Cú trái tay lai được đề cập trong Chương Tám, đó là, sử dụng cú trái tay hai tay khi trả giao bóng và cú trái tay một tay trong pha rally, là một cú đánh khác có thể được áp dụng. Chắc chắn, tennis hiện nay đã trở nên thể thao, tấn công và khoa học hơn bao giờ hết, và cộng đồng tennis mở cửa hơn với những ý tưởng thay thế này so với quá khứ.
+TRONG SUỐT LỊCH SỬ CỦA TENNIS, các tay vợt và huấn luyện viên đã tạo ra các kỹ thuật đổi mới ban đầu gặp phải sự phản đối trước khi được chấp nhận như những phương pháp vượt trội.
+ODF, RS, và VS hiện không được giảng dạy, nhưng giống như tennis đã áp dụng nhiều thay đổi trong kỹ thuật trong quá khứ, những cú đánh này cũng có thể trở nên quen thuộc với chúng ta trong tương lai.
+Cú trái tay lai được đề cập trong Chương Tám, đó là, sử dụng cú trái tay hai tay khi trả giao bóng và cú trái tay một tay trong pha rally, là một cú đánh khác có thể được áp dụng.
+Chắc chắn, tennis hiện nay đã trở nên thể thao, tấn công và khoa học hơn bao giờ hết, và cộng đồng tennis mở cửa hơn với những ý tưởng thay thế này so với quá khứ.
 
-Tôi nói, hãy dũng cảm và nhớ đến những tay vợt vĩ đại đã bỏ qua những người hoài nghi, tiên phong những cú đánh mới và gặt hái những phần thưởng lớn. Giống như Courier đã thiết lập cú forehand bên trong, Agassi cú swinging volley, các chị em Williams cú trái tay với tư thế mở, và Nadal, cú forehand đảo ngược, ODF, RS, và VS có thể cần được áp dụng bởi một tay vợt chuyên nghiệp hàng đầu trước khi được chấp nhận rộng rãi. Nhưng ngay cả khi những cú đánh này còn cách xa một thập kỷ hoặc hơn để được giảng dạy, bạn không phải đợi — bạn có thể là người tiên phong và bắt đầu từ hôm nay.
+Tôi nói, hãy dũng cảm và nhớ đến những tay vợt vĩ đại đã bỏ qua những người hoài nghi, tiên phong những cú đánh mới và gặt hái những phần thưởng lớn.
+Giống như Courier đã thiết lập cú forehand bên trong, Agassi cú swinging volley, các chị em Williams cú trái tay với tư thế mở, và Nadal, cú forehand đảo ngược, ODF, RS, và VS có thể cần được áp dụng 
+bởi một tay vợt chuyên nghiệp hàng đầu trước khi được chấp nhận rộng rãi.
+Nhưng ngay cả khi những cú đánh này còn cách xa một thập kỷ hoặc hơn để được giảng dạy, bạn không phải đợi — bạn có thể là người tiên phong và bắt đầu từ hôm nay.
 
 
+
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

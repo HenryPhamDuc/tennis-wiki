@@ -1,6 +1,12 @@
+---
+title: Gối
+lang: en
+---
+
 # Gối
 *Patella, Meniscus, ACL, and Why 50–80° Flexion Is the Only Safe Loading Zone*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Không bao gồm: hông (DD5), cổ chân/bàn chân (DD7), cơ đùi chi tiết (DD5). |
 | Thời gian đọc: 30–40 phút. |
 ---
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -21,11 +28,13 @@
 | 7 | The 50+ Knee Longevity Protocol | Phác Đồ Gối Lâu Bền Cho 50+ |
 ---
 * * *
+
 ## Chương 1 — Khớp Gối (4 Xương, 4 Dây Chằng, 2 Sụn Chêm)
 | |
 | --- |
 | Gối là khớp LỚN NHẤT cơ thể và là khớp hay chấn thương nhất trong thể thao. Nó là khớp BẢN LỀ (chủ yếu gập/duỗi) với thành phần xoay nhỏ (30° duỗi cuối, gọi là "cơ chế screw-home"). |
 | 4 xương, 4 dây chằng chính, 2 sụn chêm, ~14 túi hoạt dịch, nhiều gân. Việc của gối là truyền lực giữa xương đùi (trên) và xương chày (dưới) trong khi cho phép chuyển động có kiểm soát. Bánh chè đóng vai trò ròng rọc cho quadriceps. |
+
 ### 4 Xương Của Gối
 | Bone | Location | Tennis Role |
 |---|---|---|
@@ -33,6 +42,7 @@
 | Tibia (shin) | Below the knee | The "output" — forces pass through to the foot. |
 | Patella (kneecap) | Front of the knee | The "pulley" — increases the lever arm of the quadriceps by 30–50%. |
 | Fibula (calf) | Lateral to the tibia | The "anchor" — provides attachment for the LCL and biceps femoris. Not part of the knee joint proper. |
+
 ### 4 Dây Chằng Chính
 | Livánnt | Location | Function | Injury Mechanism |
 |---|---|---|---|
@@ -40,6 +50,7 @@
 | PCL (posterior cruciate) | Inside the knee, center | Prevents posterior tibial translation | Falling on a flexed knee with plantarflexed foot |
 | MCL (medial collateral) | Inside of knee | Resists valgus force (knee bending inward) | Lateral blow to the knee |
 | LCL (lateral collateral) | Outside of knee | Resists varus force (knee bending outward) | Medial blow to the knee (less common) |
+
 ### 2 Sụn Chêm
 | Meniscus | Shape | Function | Tennis Vulnerability |
 |---|---|---|---|
@@ -48,23 +59,27 @@
 *Source: Tennis Anatomy Ch.7 (Legs), pages 181–185. Tham khảo: chuẩn orthopaedic anatomy texts.*
 ---
 * * *
+
 ## Chương 2 — ACL (Vì Sao Valgus + Xoay Làm Đứt)
 | |
 | --- |
 | ACL là dây chằng gối nổi tiếng nhất vì đứt nó kết thúc sự nghiệp và đẩy người chơi ra ngoài 9–12 tháng. Cơ chế gần như luôn giống nhau: VALGUS (gối sụp vào trong) + XOAY (chân trồng trên đất, thân xoay) + thường ở vị trí gối gập. |
 | Trong tennis, khoảnh khắc nguy hiểm nhất là BƯỚC ĐẨY NGANG sau Cú Thuận Tay hoặc Cú Trái Tay rộng. Chân ngoài là "cầu" (DD1). Nếu gối sụp vào trong (valgus) lúc đẩy, ACL có nguy cơ. Stance càng rộng và xoay càng nhiều, nguy cơ càng cao. |
+
 ### 3 Cơ Chế Đứt ACL Trong Tennis
 | # | Mechanism | When It Happens | Prevention |
 |---|---|---|---|
 | 1 | Lateral push-off valgus | Open-tư thế Cú Thuận Tay recovery. Outside leg bridges, knee caves. | Glute med strengthening (DD5). Land with knee over 2nd toe. |
 | 2 | Deceleration pivot | Sprinting forward, plant to stop, rotate to chase a bóng. | Deceleration luyện tập. Bend knee more on stopping. |
 | 3 | Landing from jump | Overhead smash or jump Phát Bóng, landing on one leg. | Soft landing bài tậps. Both feet if possible. |
+
 ### Quy Tắc "Gối Trên Ngón Chân Thứ 2" — Tự Kiểm Tra
 | |
 | --- |
 | Đứng nghiêng cạnh gương, chân rộng bằng vai. Nhìn gối so với bàn chân. Xương bánh chè phải căn giữa trên ngón chân thứ 2 (ngón cạnh ngón cái). |
 | Nếu gối Ở TRONG ngón thứ 2 (gối sụp vào), bạn có sụp valgus. Đây là vị trí đứt ACL. |
 | Nếu gối Ở NGOÀI ngón thứ 2 (gối cong ra), bạn có varus. Ít phổ biến hơn, nhưng LCL có nguy cơ. |
+
 ### Thực Tế ACL 50+ — 3 Con Số
 | Number | What It Means | Tennis Implication |
 |---|---|---|
@@ -74,23 +89,27 @@
 *Source: Tennis Anatomy Ch.10 (Common Tennis Injuries). Tham khảo: Hewett et al., 2005 — biomechanical ACL injury mechanisms.*
 ---
 * * *
+
 ## Chương 3 — Sụn Chêm (Bộ Giảm Xóc Hình C Của Gối)
 | |
 | --- |
 | Sụn chêm là 2 mảnh sụn sợi hình chữ C giữa xương đùi và xương chày. Chúng không phải "đệm." Chúng là BỘ PHÂN PHỐI TẢI. Chúng tăng diện tích tiếp xúc giữa xương đùi và xương chày từ ~6 cm² (chỉ xương) lên ~14 cm² (có sụn chêm). |
 | Mỗi sụn chêm có 2 vùng: 1/3 NGOÀI (có mạch máu nuôi, có thể lành nếu rách) và 2/3 TRONG (không có mạch máu, không thể lành nếu rách). Đây là vì sao một số rách sụn chêm cần phẫu thuật và một số tự lành. |
+
 ### Vùng Sụn Chêm — Vì Sao Vị Trí Quan Trọng
 | Zone | Vascularity | Healing Potential | Tennis Implication |
 |---|---|---|---|
 | Outer 1/3 (red zone) | Good blood supply | High — can heal with rest + PT | Conservative treatment often works. 6–12 weeks. |
 | Middle 1/3 (red-white zone) | Limited | Variable | Partial healing. May need surgery. |
 | Inner 1/3 (white zone) | No blood supply | None — must be removed or sutured | Surgery usually required. |
+
 ### 3 Mô Hình Rách Sụn Chêm Trong Tennis
 | Pattern | Mechanism | Pain Location | Fix |
 |---|---|---|---|
 | Bucket handle (most common) | Valgus + rotation on a flexed knee. Inner edge of meniscus flips into the joint. | Joint line pain + LOCKING (can't fully extend) | Arthroscopic surgery (repair if in red zone, removal if in white zone) |
 | Radial | Direct compressive force on a flexed knee | Joint line pain. No locking. | Often heals if small. |
 | Degenerative (50+ players) | Wear over time. Often asymptomatic until small twist. | Diffuse joint line pain. Mild swelling. | PT + activity modification. Removal only if mechanical symptoms. |
+
 ### Sự Thật Sụn Chêm 50+ — Đừng Vội Phẫu Thuật
 | |
 | --- |
@@ -100,12 +119,14 @@
 *Source: Tennis Anatomy Ch.7 (Legs), Ch.10 (Common Tennis Injuries). Tham khảo: Sihvonen et al., 2013 — degenerative meniscus tear treatment.*
 ---
 * * *
+
 ## Chương 4 — Bánh Chè (Vì Sao Đường Đi Quan Trọng)
 | |
 | --- |
 | Bánh chè là xương vừng lớn nhất cơ thể — xương nằm trong gân (gân bánh chè, tiếp nối của gân quadriceps). Nó đóng vai trò RÒNG RỌC cho quadriceps. |
 | Việc của bánh chè là TĂNG cánh tay đòn của quadriceps. Không có bánh chè, quad sẽ có ~30% đòn bẩy ít hơn để duỗi gối. Bánh chè làm quad trở thành cơ duỗi mạnh hơn nhiều. |
 | Bánh chè phải TRƯỢT trong rãnh ở mặt trước xương đùi (rãnh liên lồi cầu). Nếu nó trượt sang bên (trượt ngoài), sụn ở mặt sau bánh chè mòn không đều. Đây là "hội chứng đau bánh chè-đùi" — đau gối phổ biến nhất ở người chơi 50+ phong trào. |
+
 ### Đường Đi Bánh Chè — Lên, Xuống, Trong, Ngoài
 | Movement | Bone Action | Common Dysfunction |
 |---|---|---|
@@ -113,27 +134,25 @@
 | Down (knee flexion) | Patella glides DOWN into the groove | Patella baja (low-riding patella) — less common |
 | In (medial glide) | VMO contracts, pulls patella medially | VMO weakness → lateral tracking |
 | Out (lateral glide) | Lateral retinaculum + IT band pull | Tight lateral structures → lateral tracking |
+
 ### 3 Nguyên Nhân Trượt Ngoài Bánh Chè
 | # | Cause | Mechanism | Fix |
 |---|---|---|---|
 | 1 | Weak VMO (vastus medialis oblique) | The only medial stabilizer of the patella. When weak, the lateral structures win. | VMO activation: terminal knee extension with internal rotation, 3×15. |
 | 2 | Tight IT band / lateral retinaculum | Lateral structures pull the patella outward. | Foam roll the IT band. Side-lying hip abduction stretches. |
 | 3 | Hip weakness (glute med) | The femur collapses into valgus → the patella tracks latetranh bóng relative to the femur. | Glute med strengthening (DD5 clamshell). |
+
 ### Thực Tế Bánh Chè 50+ — Vì Sao Cầu Thang Đau
-| 🇻🇳 Tiệt Việt |
-| --- |
-| Leo cầu thang tạo lực khớp bánh chè-đùi bằng 3–4 lần trọng lượng cơ thể. Đi XUỐNG cầu thang tạo lực cao hơn nữa (4–5 lần) do tải eccentric của quadriceps. |
-| Cách sửa cho 50+: tránh cầu thang như bài tập. Nếu phải dùng cầu thang, bước TỪNG BẬC MỘT, với chân tốt lên trước và xuống sau. Cái này giảm thiểu tải bánh chè-đùi. |
-| Câu nhắc sân tennis: dùng đường dốc, không dùng bậc thang. Hầu hết cơ sở tennis có đường dốc tiếp cận. Chúng trông "mềm" nhưng chúng bảo vệ khớp. |
-*Source: Tennis Anatomy Ch.7, Ch.10. Tham khảo: patellofemoral joint force calculations from multiple orthopaedic sources.*
 ---
 * * *
+
 ## Chương 5 — Quy Tắc Nạp 50–80° (Vùng An Toàn Cho Tennis)
 | |
 | --- |
 | Nguồn DOCX của bạn nêu quy tắc quan trọng: "Gối: Giữ 50–80° khi nạp lực, tránh >90° trong lunge sâu. Đáp chân dưới hông, ống chân gần thẳng đứng." |
 | Đây là cùng tầm với gập an toàn của báo (báo dùng 135–150° cho chạy nước rút, nhưng gối người trong tennis nên giữ 50–80° cho lunge). Tầm 50–80° tối đa hóa lưu trữ đàn hồi gân bánh chè trong khi giữ lực cắt ACL thấp. |
 | Vì sao <50° cũng không hiệu quả: gối thẳng (gần 0°) tải khớp với lực nén cao nhưng ít lưu trữ đàn hồi. Gân bánh chè hầu như không kéo giãn. Không có lò xo. Quad phải làm hết — mỏi và viêm gân. |
+
 ### 4 Vùng Nạp Của Gối
 | Flexion | Zone | What's Happening | Tennis Use |
 |---|---|---|---|
@@ -142,12 +161,14 @@
 | 50–80° | OPTIMAL loading | Maximum elastic storage, low ACL shear | The safe zone for lunges and cú đánh nềns |
 | 80–90° | Borderline | High load, high patellar tendon stress | Only in deep vôleis, not for sustained loading |
 | >90° | Deep flexion | Patella jams into the femur. ACL at high risk. | Avoid in tennis. |
+
 ### Quy Tắc Góc Ống Chân — Vì Sao "Ống Chân Thẳng Đứng" Quan Trọng
 | |
 | --- |
 | Ở gập gối 50–80°, ống chân phải GẦN THẲNG ĐỨNG (hoặc hơi nghiêng về trước so với thẳng đứng). Cái này giữ gối trên bàn chân. Vector lực đi từ đất, qua bàn chân, lên ống chân, qua gối, vào xương đùi — tất cả trong đường gần thẳng. |
 | Nếu ống chân nghiêng về trước quá thẳng đứng (gối quá xa phía trước bàn chân), xương chày tịnh tiến ra trước. ACL phải kháng tịnh tiến này. Qua thời gian, ACL giãn → lỏng → nguy cơ đứt cao hơn. |
 | Nếu ống chân nghiêng ra sau (gối sau bàn chân), gối quá thẳng. Không lưu trữ đàn hồi. Quad làm hết. Nguy cơ viêm gân bánh chè. |
+
 ### 4 Sai Lầm Lunge — và Cách Sửa
 | Mistake | What It Looks Like | The Fix |
 |---|---|---|
@@ -158,6 +179,7 @@
 *Source: Anatomy_Chuyen_Dong.docx Ch.7 (Nguyên tắc gập khớp an toàn khi đánh bóng).*
 ---
 * * *
+
 ## Chương 6 — 4 Chấn Thương Gối Riêng Của Tennis
 | Injury | Mechanism | Pain Location | The Fix |
 |---|---|---|---|
@@ -165,12 +187,14 @@
 | Iliotibial (IT) band syndrome | Tight IT band rubs over the lateral femoral epicondyle | Lateral knee, sharp during bending | Foam roll IT band. Hip abduction strengthening. |
 | Pes anserine bursitis | Tight adductors/gracilis pull on the inner tibia | Medial knee, 5–7 cm below joint | Stretch adductors. Ice. Cushioned insole. |
 | Patellofemoral pain syndrome (most common) | Lateral patellar tracking. Cartilage wear. | Diffuse anterior knee pain, worse with stairs | VMO strengthening + IT band stretch + glute med. |
+
 ### Sự Thật Viêm Gân Bánh Chè — Squat Eccentric Cứu Nó
 | |
 | --- |
 | Viêm gân bánh chè là chấn thương gối do quá tải phổ biến nhất ở người chơi tennis 50+. Gân có rách vi thể không lành. Điều trị thông thường (nghỉ, đá, NSAIDs) không hiệu quả. Điều trị ĐÃ CHỨNG MINH là SQUAT ECCENTRIC trên ván nghiêng 25°. |
 | Phác đồ: 3 hiệp 15 lần, 2 lần/ngày, trên ván nghiêng. Từ từ hạ người xuống (3 giây eccentric), rồi dùng chân TỐT đẩy lên. Chân xấu chỉ làm pha XUỐNG. Sau 12 tuần, hầu hết các ca giải quyết. |
 | Khoa học: tải eccentric kích thích tái cấu trúc gân. Gân phát triển mạnh hơn theo hướng tải. Sợi collagen mới sắp xếp. Rách vi thể lành. |
+
 ### Sự Thật IT Band — Nó Không Căng, Nó Bị Nén
 | |
 | --- |
@@ -179,6 +203,7 @@
 *Source: Tennis Anatomy Ch.10. Tham khảo: eccentric squat protocol from Purdam et al., 2009 (the original Alfredson-protocol adaptation for patellar tendon).*
 ---
 * * *
+
 ## Chương 7 — Phác Đồ Gối Lâu Bền Cho 50+
 | |
 | --- |
@@ -188,6 +213,7 @@
 | 2. 3 lần/tuần: tăng sức quad (tập trung VMO) + kích hoạt glute med. |
 | 3. 2 lần/tuần: squat eccentric (nếu viêm gân bánh chè) HOẶC knee CARs (nếu cứng). |
 | 4. Luôn luôn: gối trên ngón thứ 2. Chân dưới hông khi lunge. Stance rộng khi đánh cú đánh nềns. |
+
 ### Hệ Thẻ 5 Màu Cho Sức Khỏe Gối
 | Color | Tag | Meaning | Action |
 |---|---|---|---|
@@ -196,6 +222,7 @@
 | 🟡 | Glute med | Knee position via femur control | Clamshells 2×15 daily |
 | 🟢 | Patellar tendon | Eccentric loading capacity | Eccentric squats 3×15, 2×/day if symptomatic |
 | 🔵 | Hip hinge | The protective movement | Hip hinge (DD4) instead of squat-deep |
+
 ### 3 Câu Nhắc Gối Hàng Ngày
 | Cue | When | Why |
 |---|---|---|
@@ -205,6 +232,7 @@
 *Source: Tennis Anatomy Ch.7, Ch.10. User's source: Anatomy_Chuyen_Dong.docx (50–80° rule).*
 ---
 * * *
+
 ## 📋 DD6 CARD — Printable / THẺ IN ĐƯỢC DD6
 ╔═══════════════════════════════════════════════════════════╗
 ║ DD6 CARD — KNEES ║
@@ -301,14 +329,17 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════╝
 ---
+
 ## 🖼️ ILLUSTRATIONS / HÌNH MINH HỌA
 *27 images available in `Anatomy_Lab/images/DD6_knees/` (all from Tennis Anatomy PDF Ch.7: Legs and Ch.10: Common Tennis Injuries).*
+
 ### Hình 1–3
 | Figure | Description | Image |
 |---|---|---|
 | 1 | Muscles of the front of the leg | `DD6_knees_pdf01.jpeg` (Tennis Anatomy Fig.7.1) |
 | 2 | Muscles of the back of the leg | `DD6_knees_pdf02.jpeg` (Fig.7.2) |
 | 3 | Lower leg and foot: (a) back and (b) front | `DD6_knees_pdf03.jpeg` (Fig.7.3) |
+
 ### Hình 4–10
 | Figure | Description | Image |
 |---|---|---|
@@ -319,6 +350,7 @@
 | 8 | Squat — bar position on trapezius | `DD6_knees_pdf08.jpeg` |
 | 9 | Romanian deadlift — start | `DD6_knees_pdf09.jpeg` (Fig.7.8) |
 | 10 | Romanian deadlift — bottom (hip hinge) | `DD6_knees_pdf10.jpeg` (Fig.7.9) |
+
 ### Hình 11–20
 | Figure | Description | Image |
 |---|---|---|
@@ -332,6 +364,7 @@
 | 18 | Calf raise — single leg | `DD6_knees_pdf18.jpeg` (Fig.7.17) |
 | 19 | Seated calf raise | `DD6_knees_pdf19.jpeg` (Fig.7.18) |
 | 20 | Tibialis anterior raise | `DD6_knees_pdf20.jpeg` (Fig.7.19) |
+
 ### Hình 21–27
 | Figure | Description | Image |
 |---|---|---|
@@ -344,6 +377,7 @@
 | 27 | Knee range of motion diagram | `DD6_knees_pdf27.jpeg` |
 *All image filenames verified to exist in `Anatomy_Lab/images/DD6_knees/`.*
 ---
+
 ## 🔗 CROSS-REFERENCES / THAM CHIẾU CHÉO
 | Topic in DD6 | See Also |
 |---|---|
@@ -355,6 +389,7 @@
 | Meniscus tear vs degenerative | DD8 Control System — proprioception, motor control |
 | Stair avoidance | DD7 Ankles & Feet — windlass, calf stretch |
 ---
+
 ## 📚 SOURCES / NGUỒN
 | Source | Type | What It Contributed |
 |---|---|---|
@@ -366,3 +401,6 @@
 ---
 Hết DD6 — Gối*
 Tiếp: DD7 — Cổ Chân & Bàn Chân (26 Xương, 33 Khớp, Windlass, Happy Feet)*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

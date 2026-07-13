@@ -1,10 +1,8 @@
 ---
-title: "CẨM NANG QUẦN VỢT TOÀN DIỆN"
-language: vi
-vault: Tennis Wiki-Tiếng Việt
-category: "cam-nang"
-created: 2026-07-11
+title: CẨM NANG QUẦN VỢT TOÀN DIỆN
+lang: en
 ---
+
 
 # CẨM NANG QUẦN VỢT TOÀN DIỆN
 
@@ -48,3 +46,7 @@ CC BY-SA 4.0 — giống phần còn lại của wiki. Chia sẻ, phối lại, 
 ---
 
 > 🎾 Biên soạn & duy trì bởi [Tennis Future Lab](https://henryphamduc.github.io/tennis-wiki/) · © 2026 Henry Phạm Đức
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

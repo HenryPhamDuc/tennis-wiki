@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #12 — Choking & Amygdala — The Exposure Therapy Protocol and Your Anti-Choking Kit
+lang: en
+---
+
 # Deep-Dive #12 — Choking & Amygdala — The Exposure Therapy Protocol and Your Anti-Choking Kit
+
 # Deep-Dive #12 — Choking & Hạch Hạnh Nhân — Phác Đồ Liệu Pháp Tiếp Xúc và Bộ Kit Chống Choking Của Bạn
 *Why "Just Relax" Doesn't Work and What Does — A 25-minute deep-dive for the 5.0+ player.*
 *Tại Sao "Cứ Thư Giãn" Không Hiệu Quả và Cái Gì Hiệu Quả — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai đã thua trận vì "thần kinh." Bất cứ ai cơ thể "tắt" ở điểm lớn. Bất cứ ai đã thử bài tập thở và thấy chúng chỉ hiệu quả một phần. |
 | Thời gian đọc. ~25 phút. Phác đồ tiếp xúc đầy đủ: 90-180 ngày. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | When Choking Becomes More Serious | Khi Choking Trở Nên Nghiêm Trọng Hơn |
 | 8 | Your Anti-Choking Kit Card | Thẻ Kit Chống Choking Của Bạn |
 * * *
+
 # Chương 1 — Choking Thực Sự Là Gì
 * * *
 | |
@@ -38,6 +47,7 @@
 | 2. Kích hoạt phó giao cảm. Dùng mẫu thở trực tiếp kích hoạt trương phế vị. |
 | 3. Tái tập hạch hạnh nhân theo thời gian. Dùng liệu pháp tiếp xúc giảm dần phản ứng bảo vệ. |
 * * *
+
 # Chương 2 — Khoa Học Liệu Pháp Tiếp Xúc
 * * *
 | |
@@ -52,6 +62,7 @@
 | Toán "ở với nó." Nếu anh hủy tiếp xúc lúc khó chịu đầu tiên, hạch hạnh nhân học: "kích thích NÀY nguy hiểm; chúng ta thoát." Nếu anh ở, hạch hạnh nhân học: "kích thích không nguy hiểm; chúng ta sống sót." *Mỗi tiếp xúc bị hủy tăng cường sợ. Mỗi tiếp xúc hoàn thành yếu đi.* |
 | Kỷ luật 7-1 xét lại. Dưới choking không điều trị, người chơi mắc 7 lỗi cho mỗi 1 winner sạch. *Sau 90 ngày liệu pháp tiếp xúc hoàn thành,* tỷ lệ chuyển về 1:1, rồi 1:0.5. *Giảm bảo vệ của hạch hạnh nhân giảm.* |
 * * *
+
 # Chương 3 — Bộ Kit Chống Choking 3 Công Cụ
 * * *
 | |
@@ -74,6 +85,7 @@
 | 60-90 giây. Ổn định lại Vùng 3 (Sẵn sàng). |
 | Tổng. 60-90 giây giữa các điểm là *nhịp tennis bình thường.* Bộ kit vừa trong cửa sổ giữa điểm hiện có. *Không cần thời gian thêm.* |
 * * *
+
 # Chương 4 — Tiến Trình Tiếp Xúc 90 Ngày
 * * *
 | |
@@ -94,6 +106,7 @@
 | Nếu phản ứng thấp hơn 25-50%: thành công một phần. Tiếp tục Bậc 5 thêm 30-60 ngày. |
 | Nếu phản ứng thấp hơn <25%: phác đồ cần điều chỉnh. Gặp nhà tâm lý thể thao. |
 * * *
+
 # Chương 5 — Chẩn Đoán 2 Nỗi Kinh Hoàng
 * * *
 | |
@@ -119,6 +132,7 @@
 | Tần suất. 2-3 buổi mỗi tuần trong 4-6 tuần. |
 | Kết quả kỳ vọng. Đến tuần 4-6, tình huống trận-điểm không còn tạo hưng phấn thảm họa. Phản ứng giảm 50-70%. |
 * * *
+
 # Chương 6 — Danh Sách Kiểm Choking Trước Trận
 * * *
 | |
@@ -145,6 +159,7 @@
 | • Cái gì không hiệu quả? |
 | • Một điều chỉnh cho trận sau? |
 * * *
+
 # Chương 7 — Khi Choking Trở Nên Nghiêm Trọng Hơn
 * * *
 | |
@@ -164,8 +179,10 @@
 | • Đôi khi, thuốc (tham khảo bác sĩ tâm thần). |
 | Nguyên tắc trung thực 5.0+. Người 5.0+ chịu trách nhiệm cho phát triển. *Bao gồm biết khi phát triển cần hỗ trợ chuyên nghiệp.* Những người 5.0+ mạnh nhất tôi biết *tất cả* đã làm việc với nhà tâm lý thể thao ở thời điểm nào đó. *Không có xấu hổ. Chỉ có hệ thống.* |
 * * *
+
 # Chương 8 — Thẻ Kit Chống Choking Của Bạn
 * * *
+
 ### 📋 Deep-Dive #12 Master Card — Printable / Thẻ Tổng Deep-Dive #12
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE ANTI-CHOKING KIT CARD — YOUR 3 TOOLS + 2 TERRORS ║
@@ -242,6 +259,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -254,3 +272,6 @@ Sources / Nguồn:
 - Bouton (2002) — Context, learning and extinction — fear extinction mechanisms
 - Advanced Tennis Kilướiic-Chain Manual.md (mental performance section, choking recovery bài tậps, sports psychology integration)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

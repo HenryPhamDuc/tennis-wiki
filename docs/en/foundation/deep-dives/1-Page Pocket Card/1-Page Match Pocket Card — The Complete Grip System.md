@@ -1,4 +1,10 @@
+---
+title: 🎾 1-Page Match Pocket Card
+lang: en
+---
+
 # 🎾 1-Page Match Pocket Card
+
 ### *Thẻ Túi Trận 1 Trang
 
 ---
@@ -426,28 +432,16 @@
 
 | Step |  | Tiếng Việt |
 |---|---|---|
-| **1** | 🇺🇸 Read the card on the way to the court | 🇻🇳 Đọc thẻ trên đường tới sân |
-| **2** | 🇺🇸 Pick the 3-5 cues that fit today's situation | 🇻🇳 Chọn 3-5 câu nhắc phù hợp hôm nay |
-| **3** | 🇺🇸 Carry the card in the side pocket of your bag | 🇻🇳 Mang thẻ trong túi bên của túi |
 
 ### During the Match
 
 | Moment |  | Tiếng Việt |
 |---|---|---|
-| **Before each serve** | 🇺🇸 Glance at the V (11 or 1 o'clock?) | 🇻🇳 Nhìn V (11 hay 1 giờ?) |
-| **Between points** | 🇺🇸 Use the 5-second reset (walk-look-check-walk) | 🇻🇳 Dùng reset 5 giây (đi-nhìn-kiểm tra-đi) |
-| **At changeover** | 🇺🇸 Read 1 section of the card (15 sec) | 🇻🇳 Đọc 1 phần thẻ (15 giây) |
-| **After a bad point** | 🇺🇸 Find the cue that fits (e.g., "V at 11 = Continental") | 🇻🇳 Tìm câu nhắc phù hợp (VD: "V ở 11 = Continental") |
-| **After a good point** | 🇺🇸 Find the cue that fits (e.g., "Forearm rotation, not wrist") | 🇻🇳 Tìm câu nhắc phù hợp (VD: "Xoay cẳng tay, không cổ tay") |
 
 ### After the Match
 
 | Step |  | Tiếng Việt |
 |---|---|---|
-| **1** | 🇺🇸 Review: which cues worked? Which didn't? | 🇻🇳 Xem lại: câu nào hiệu quả? Câu nào không? |
-| **2** | 🇺🇸 Note: which errors did you make? (6 common errors) | 🇻🇳 Ghi nhận: lỗi nào bạn mắc? (6 lỗi thường gặp) |
-| **3** | 🇺🇸 Pick 1 cue to focus on next match | 🇻🇳 Chọn 1 câu nhắc để tập trung trận sau |
-| **4** | 🇺🇸 Carry the card again (or print a fresh one) | 🇻🇳 Mang thẻ lại (hoặc in thẻ mới) |
 
 ### Print Specifications
 
@@ -464,12 +458,19 @@
 
 ## 🏁 END OF POCKET CARD
 
-> *Thẻ này là hệ thống grip đầy đủ trong 1 trang. In, gấp, mang. Continental là sân nhà. Semi-Western là forehand. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay. **Anh có thể in nó, mang nó, và tham khảo nó ở Surrey.** Anh sẽ chơi tennis thay vì tìm grip. **20+ năm tennis bắt đầu từ 1 thẻ.***
+> *Thẻ này là hệ thống grip đầy đủ trong 1 trang. In, gấp, mang. Continental là sân nhà. Semi-Western là forehand. Reset 5 giây. Baby bird → Đá ná → Khóa cổ tay.
+**Anh có thể in nó, mang nó, và tham khảo nó ở Surrey.** Anh sẽ chơi tennis thay vì tìm grip. **20+ năm tennis bắt đầu từ 1 thẻ.***
 >
-> *This card is the complete grip system in 1 page. Print, fold, carry. Continental is home base. Semi-Western is forehand. 5-second reset. Baby bird → Slingshot stone → Wrist lock. **You can print it, carry it, and reference it in Surrey.** You'll play tennis instead of searching for the grip. **20+ years of tennis starts with 1 card.***
+> *This card is the complete grip system in 1 page. Print, fold, carry. Continental is home base. Semi-Western is forehand. 5-second reset. Baby bird → Slingshot stone → Wrist lock.
+**You can print it, carry it, and reference it in Surrey.** You'll play tennis instead of searching for the grip. **20+ years of tennis starts with 1 card.***
 
-Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. **Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."** 🎾
+Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau.
+**Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."** 🎾
 
 ---
 
 *See you on the court, champion. — Hermes*
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

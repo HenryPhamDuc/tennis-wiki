@@ -1,7 +1,13 @@
+---
+title: Cơ Thể Tensigrity — Bộ Xương Biết Nổi
+lang: vi
+---
+
 # Cơ Thể Tensigrity — Bộ Xương Biết Nổi
 *Your bones don't touch — they float in a web of fascia. Once you understand this, you stop fighting your body.*
 *Xương bạn không chạm nhau — chúng nổi trong mạng lưới fascia. Một khi hiểu điều này, bạn ngừng chống lại cơ thể.*
 * * *
+
 ## 🎾 FOREWORD / LỜI MỞ ĐẦU
 | |
 | --- |
@@ -9,6 +15,7 @@
 | Tên của nguyên lý này là tensegrity — *toàn vẹn căng*. Cấu trúc tensegrity được giữ vững bởi căng liên tục và nén không liên tục. Xương là phần nén không liên tục. Fascia là phần căng liên tục. Chúng không bao giờ chạm trực tiếp — chúng nổi. |
 | Hệ quả tennis là rất lớn. Nếu fascia của bạn bị căng (do tập quá mức, lăn quá ít, hoặc chỉ ngồi bàn 30 năm), cơ thể bạn không thể truyền lực hiệu quả. Bạn sẽ cảm thấy "kẹt" — tay khỏe nhưng đầu vợt chậm. Cách sửa không phải tập sức mạnh thêm. Cách sửa là khôi phục tính đàn hồi cho fascia. |
 * * *
+
 ## 📑 TABLE OF CONTENTS / MỤC LỤC
 | # | English | Tiếng Việt |
 |---|---|---|
@@ -18,6 +25,7 @@
 | 4 | Why Muscles Release, Not Create | Tại Sao Cơ Giải Phóng, Không Tạo |
 | 5 | The 50+ Protocol — Elasticity Over Strength | Giao Thức 50+ — Đàn Hồi Hơn Sức Mạnh |
 * * *
+
 ## Chương 1 — Tensigrity là gì?
 | |
 | --- |
@@ -28,6 +36,7 @@
 | |
 | Ghi chú 50+: ở tuổi 50+, fascia mất nước và căng tự nhiên. Không có biện pháp đối phó, bạn sẽ mất 10-20% hiệu quả truyền lực mỗi thập kỷ. Cách sửa là lăn hàng ngày + giãn hàng tuần — không phải tạ nặng hơn. |
 * * *
+
 ## Chương 2 — Cơ Thể Bạn như Cột Buồm Tensigrity
 | |
 | --- |
@@ -46,6 +55,7 @@
 | |
 | Ghi chú 50+: ở tuổi 50+, đường sau mất đàn hồi trước tiên. Tư thế trophy cảm thấy "căng." Biện pháp đối phó: cat-cow hàng ngày + ưỡn lưng đứng tựa tường. Khôi phục đàn hồi đường sau thêm 5-10 dặm/giờ vào tốc độ giao bóng mà không cần tập sức mạnh nào. |
 * * *
+
 ## Chương 3 — 3 Trương Lực — Mềm, Mềm, ĐẤM
 | |
 | --- |
@@ -60,6 +70,7 @@
 | |
 | Ghi chú 50+: cửa sổ trương lực biểu đạt *thu hẹp* khi có tuổi (twitch chậm hơn). Bạn không thể dựa vào các đợt lực dài ở 50+. Hãy tập phản hồi đàn hồi thay thế — nó bắn nhanh hơn co cơ. |
 * * *
+
 ## Chương 4 — Tại Sao Cơ Giải Phóng, Không Tạo
 | |
 | --- |
@@ -75,6 +86,7 @@
 | |
 | Ghi chú 50+: ở tuổi 50+, nạp ly tâm *quan trọng hơn* đồng tâm. Pha "nạp" của mỗi chu kỳ giãn-co là thứ giữ gân và fascia khỏe. Tập ly tâm (hạ chậm, hạ có kiểm soát) cũng là phòng thủ tốt nhất chống chấn thương gân. |
 * * *
+
 ## Chương 5 — Giao Thức 50+ — Đàn Hồi Hơn Sức Mạnh
 | |
 | --- |
@@ -101,6 +113,7 @@
 | |
 | Hiểu biết 50+: fascia có rất ít thụ thể đau. Nó mất đàn hồi âm thầm — bạn không cảm thấy cho đến khi cái gì đó rách. Giao thức lăn 7 ngày là *phòng ngừa*, không phải chữa bệnh. Hãy bắt đầu trước khi rách, không phải sau. |
 * * *
+
 ### Drills / Bài Tập
 | Drill | What It Does | Cách Làm |
 |---|---|---|
@@ -112,6 +125,7 @@
 | Pogo hops | Builds pure ankle elastic recoil | Hop on both feet, knees straight, 30s × 3. |
 | World's greatest stretch | Opens all 4 lines simultaneously | Lunge + rotate + reach up + look up. 5 each side. |
 * * *
+
 ### 📋 COMMON MISTAKES / LỖI PHỔ BIẾN
 | # | Mistake | Why It's Wrong | Lỗi | Tại Sao Sai |
 |---|---|---|---|---|
@@ -122,10 +136,12 @@
 | 5 | Using the roller like a weapon | Fast hard rolling irritates fascia. Slow gentle rolling heals it. | Dùng con lăn như vũ khí | Lăn nhanh mạnh gây kích ứng fascia. Lăn chậm nhẹ chữa lành nó. |
 | 6 | Skipping eccentric luyện tập | Skipping eccentric = no elastic energy to release | Bỏ qua tập ly tâm | Bỏ qua ly tâm = không có năng lượng đàn hồi để giải phóng |
 * * *
+
 ### 🧠 MASTER CUE / CÂU NHẮC TỔNG
 > Don't be the engine. Be the release valve. Your muscles don't create force — they release the fascia's stored elastic energy. Train the release. Train the elasticity. Strength can wait.
 > Đừng là động cơ. Hãy là van giải phóng. Cơ bạn không tạo lực — chúng giải phóng năng lượng đàn hồi đã lưu của fascia. Hãy tập giải phóng. Hãy tập đàn hồi. Sức mạnh có thể chờ.
 * * *
+
 ### 📋 MASTER CHEAT SHEET — PRINTABLE / THẺ IN ĐƯỢC
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║ TENSEGRITY BODY — CƠ THỂ TENSIGRITY ║
@@ -221,3 +237,6 @@
 ║ "Đừng là động cơ. Hãy là van giải phóng." ║
 ║ ║
 ╚════════════════════════════════════════════════════════════════════════════╝
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

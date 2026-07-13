@@ -1,6 +1,12 @@
+---
+title: 🌟 Elite - Làm Chủ Quần Vợt Không Chính Thống
+lang: vi
+---
+
 # 🌟 Elite - Làm Chủ Quần Vợt Không Chính Thống
 
-Chào mừng bạn đến với phần **Elite**, nơi chúng tôi vượt qua giảng dạy quần vợt thông thường và khám phá ranh giới của khoa học hiệu suất. Đây là nơi phương pháp chính thống kết thúc và khám phá cá nhân bắt đầu.
+Chào mừng bạn đến với phần **Elite**, nơi chúng tôi vượt qua giảng dạy quần vợt thông thường và khám phá ranh giới của khoa học hiệu suất.
+Đây là nơi phương pháp chính thống kết thúc và khám phá cá nhân bắt đầu.
 
 ---
 
@@ -66,3 +72,6 @@ Phần Elite tích hợp:
 ---
 
 **Sẵn sàng phá vỡ và tìm hệ thống của riêng bạn?** Bắt đầu với [Elite Manual](basics/Elite%20Manual/) hoặc khám phá các khái niệm cụ thể trong [Chuyên Sâu](deep-dives/).
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

@@ -1,3 +1,8 @@
+---
+title: Grip Pressure Deep Dive — ReadMe
+lang: en
+---
+
 # Grip Pressure Deep Dive — ReadMe
 
 ## What was produced
@@ -6,7 +11,9 @@
 |---|---|---|---|
 | `Grip Pressure — The Dial You Control Every Shot.md` | ~38 KB / 357 lines | 5 (Philosophy, Scale, Stroke Map, Problems, Drills & Cheat Sheet) | `topic_deep_dive` (standard depth, EN-VI bilingual) |
 
-This is the **22nd** deep dive in the library (after Forehand × 4, Backhand × 4 incl. slice variations, Serve, Volley, Footwork, Return of Serve, Doubles Tactics, Foundations & Grip, Complete Manual, Lob and Overhead, Mental Game, Slice Approach, Slice Family Doubles, Slice Variations, Doubles Serves, Doubles Patterns, Continental Grip, Eastern Semi-Western Grip, Grip Change Map).
+This is the **22nd** deep dive in the library (after Forehand × 4, Backhand × 4 incl.
+slice variations, Serve, Volley, Footwork, Return of Serve, Doubles Tactics, Foundations & Grip, Complete Manual, Lob and Overhead, Mental Game, Slice Approach, Slice Family Doubles, Slice Variations,
+ Doubles Serves, Doubles Patterns, Continental Grip, Eastern Semi-Western Grip, Grip Change Map).
 
 ## The 5-step pipeline summary
 
@@ -54,3 +61,6 @@ This is the **22nd** deep dive in the library (after Forehand × 4, Backhand × 
 
 - `Grip Pressure — The Dial You Control Every Shot.md` — the deep dive itself
 - `ReadMe.md` — this file
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

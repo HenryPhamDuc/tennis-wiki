@@ -1,3 +1,8 @@
+---
+title: 📘 Cẩm Nang Làm Chủ Quần Vợt Nâng Cao
+lang: vi
+---
+
 # 📘 Cẩm Nang Làm Chủ Quần Vợt Nâng Cao
 
 ## Thần Kinh Học & Giải Phẫu Cho Người Chơi 3.5→4.5
@@ -43,6 +48,11 @@ Cẩm nang toàn diện này thu hẹp khoảng cách giữa quần vợt giải
 ---
 
 **Sẵn sàng chuyển hóa trò chơi của bạn?** Nhấp vào liên kết ở trên để bắt đầu cẩm nang hoàn chỉnh.
+
 ## Pages in this folder
 - [The Advanced Tennis Mastery Manual — Neurology & Anatomy For 3.5→4.5](The Advanced Tennis Mastery Manual — Neurology & Anatomy for 3.5→4.5.md)
 
+
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

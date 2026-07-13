@@ -1,3 +1,9 @@
+---
+title: DD7 — Ankles & Feet
+lang: en
+---
+
+
 # DD7 — Ankles & Feet
 
 *26 Bones, 33 Joints, the Windlass Mechanism, and Why Your Footwear Matters More Than Your Racket*
@@ -5,13 +11,6 @@
 ---
 
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
-
-| 🇺🇸  |
-| --- |
-| The foot is **a 26-bone, 33-joint, 19-muscle, 7,000+ nerve ending machine**. It is the only part of your body in constant contact with the ground. It is the foundation of the kinetic chain (DD1). Get the foot wrong and nothing above it works right. |
-| **What it covers:** the 26 bones in 3 zones (hindfoot, midfoot, forefoot), the windlass mechanism (the plantar fascia as a tension cable), the intrinsic vs extrinsic muscles, the 7,000 nerve endings and 30-millisecond reflex, the outside-leg bridge foot position (30–45°), and how tennis shoes affect (or destroy) foot function. |
-| **What it does NOT cover:** the knee (DD6), the ankle joint in detail with ligament injuries (Tennis Anatomy Ch.10), or running shoe selection (beyond the tennis-specific note). |
-| **Reading time:** 35–45 minutes. |
 
 ---
 
@@ -33,10 +32,6 @@
 * * *
 
 ## Chapter 1 — The 26 Bones in 3 Zones
-
-| 🇺🇸  |
-| --- |
-| **The human foot has 26 bones, organized in 3 functional zones:** hindfoot (ankle area), midfoot (arch), forefoot (toes and metatarsals). Together they form 33 joints. The foot is NOT a rigid platform. It's an ADAPTIVE structure that changes shape with every step. |
 
 ### The 3 Zones of the Foot
 
@@ -71,11 +66,6 @@
 
 ## Chapter 2 — The 19 Muscles (Intrinsic vs Extrinsic)
 
-| 🇺🇸  |
-| --- |
-| **The foot has TWO sets of muscles:** INTRINSIC muscles (11 small muscles entirely within the foot) and EXTRINSIC muscles (8 muscles originating in the leg and inserting into the foot). They have different jobs. |
-| **The user's source makes the distinction:** "Cơ chày trước, cơ mác dài, cơ tam đầu cẳng chân bám vào bàn chân từ xa. Chúng tạo lực lớn nhưng phản ứng chậm." (Tibialis anterior, peroneus longus, gastrocnemius attach to the foot from afar. They create large force but react slowly.) |
-
 ### The 19 Foot Muscles — Intrinsic vs Extrinsic
 
 | Type | # | Examples | Primary Role | Tennis Translation |
@@ -85,12 +75,6 @@
 
 ### The Intrinsic Muscles — The Forgotten Heroes
 
-| 🇺🇸  |
-| --- |
-| **The intrinsic foot muscles do NOT produce large force.** They produce FINE CONTROL. They adjust the foot's shape to the ground. They maintain the arch during dynamic loading. They fire 30 milliseconds BEFORE the extrinsic muscles — pre-activating the foot for the upcoming load. |
-| **The 50+ truth:** the intrinsic foot muscles atrophy from shoe wearing. Modern shoes SUPPORT the arch, so the intrinsic muscles don't need to work. They atrophy. By age 60, the intrinsic foot muscle mass is ~30% less than at age 20. |
-| **The fix:** barefoot time. 5–10 minutes a day on grass or carpet. Walk, stand, do "short foot" exercises (try to shorten the foot without curling the toes). After 4 weeks, intrinsic strength returns. |
-
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.3-4.*
 
 ---
@@ -98,12 +82,6 @@
 * * *
 
 ## Chapter 3 — The Plantar Fascia and the Windlass Mechanism
-
-| 🇺🇸  |
-| --- |
-| **The plantar fascia is a thick band of connective tissue that runs from the calcaneus (heel) to the bases of the toes.** It's like a CABLE running under the foot. When the big toe extends (during push-off), the cable tightens. This tightens the arch. This is the WINDLASS mechanism — the foot becomes a rigid lever for push-off. |
-| **The windlass is the reason you can SPRINT.** Without it, the foot would collapse on push-off. With it, the foot becomes a rigid lever — pushing 2–3× more efficiently. |
-| **The windlass for tennis:** every split-step, every push-off, every wide recovery — the windlass activates. A foot with poor windlass (collapsed arch, restricted toe extension) loses 20–30% of push-off power. The knee compensates → patellar tendonitis. The hip compensates → adductor strain. |
 
 ### The Windlass Mechanism — Step by Step
 
@@ -125,12 +103,6 @@
 
 ### The 50+ Windlass Reality — Why Push-Off Power Drops
 
-| 🇺🇸  |
-| --- |
-| **By age 60, big toe extension typically decreases by 15–25°.** The windlass engages less effectively. Push-off power drops 20–30%. |
-| **The fix:** big toe mobility exercises. Sit with foot on opposite knee. Pull big toe back (extension) gently. Hold 30 sec. 5 reps × 3/day. After 4 weeks, extension improves 10–15°. |
-| **The tennis cue:** "press through the big toe." When you push off for a forehand, the LAST thing touching the ground should be the big toe pad. If the push-off is on the ball of the foot or the small toes, the windlass isn't engaging. |
-
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.5 (Cân gan chân và cơ chế windlass).*
 
 ---
@@ -138,12 +110,6 @@
 * * *
 
 ## Chapter 4 — The Arches (Longitudinal and Transverse)
-
-| 🇺🇸  |
-| --- |
-| **The foot has TWO arches that work together:** the MEDIAL LONGITUDINAL ARCH (the inside of the foot, from heel to big toe) and the TRANSVERSE ARCH (across the foot, between the metatarsals). Together they create the spring and the strut. |
-| **The medial longitudinal arch:** the more famous one. It absorbs shock during heel strike and rebounds during push-off. Supported by the plantar fascia, tibialis posterior tendon, spring ligament, and intrinsic muscles. |
-| **The transverse arch:** the unsung hero. It runs across the foot at the level of the cuneiforms and metatarsal bases. It prevents the foot from splaying during push-off. In tennis, the OUTSIDE LEG uses the transverse arch as a STRUT — the foot is angled 30–45°, and the transverse arch converts horizontal force into vertical compression. |
 
 ### The 2 Arches — Different Roles
 
@@ -153,12 +119,6 @@
 | **Transverse** | Curves across the cuneiforms + metatarsal bases | Prevents splay, provides lateral rigidity | "Strut" — converts horizontal force into vertical compression in wider stance |
 
 ### The Arch Collapse Chain (Pronation → Valgus → Knee)
-
-| 🇺🇸  |
-| --- |
-| **When the medial longitudinal arch collapses (over-pronation):** the foot rolls inward. The tibia rotates internally. The knee goes into valgus. The hip drops. |
-| **The kinetic chain reaction:** foot → tibia → knee → hip → lumbar. Each link rotates inward. The chain ends at L4-L5 (DD4). |
-| **The tennis trap:** players with collapsed arches feel "slower." They're not slower in the legs. They're losing force in the chain. The arch absorbs the force that should go to the ball. |
 
 ### The "Short Foot" Exercise — Arches Activation
 
@@ -177,12 +137,6 @@
 
 ## Chapter 5 — The 7,000 Nerve Endings (The 30-ms Foot Reflex)
 
-| 🇺🇸  |
-| --- |
-| **The sole of the foot has more than 7,000 nerve endings.** They are the body's first line of information about the world. They detect pressure, vibration, temperature, pain. They send signals UP the spinal cord in 30 milliseconds — FASTER than conscious awareness (~80 ms). |
-| **The 30-ms reflex:** when the foot slips on a wet court, the nerve endings fire. The signal reaches the spinal cord in 30 ms. The spinal cord sends a CORRECTION back to the muscles in another 30 ms. Total response: 60 ms. You have already braced yourself BEFORE you consciously know you slipped. |
-| **The 50+ decline:** by age 65, the number of nerve endings in the sole decreases by ~30%. Proprioception declines. The 30-ms reflex becomes 50-ms reflex. Recovery time from a slip increases. The risk of falling increases. |
-
 ### The Pressure Distribution Map
 
 | Pressure Zone | Pro Player | 3.5 Club Player | Why It Matters |
@@ -195,13 +149,6 @@
 
 ### The Tennis Foot Reflex Test — A Self-Check
 
-| 🇺🇸  |
-| --- |
-| **Stand on one leg, eyes closed. Have a friend time you.** |
-| **Pro standard:** 30+ seconds, no wobble. |
-| **50+ standard:** 10–15 seconds is normal. Below 10 seconds = high fall risk. |
-| **The fix:** practice daily. Eyes-closed standing on one leg is the only exercise that has been shown to REDUCE fall risk in 50+ adults. 3×30 sec each side, daily. |
-
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.7-8 (7,000 nerve endings, 30 ms reflex, pressure distribution).*
 
 ---
@@ -209,13 +156,6 @@
 * * *
 
 ## Chapter 6 — The Outside-Leg Bridge (Foot Position at 30–45°)
-
-| 🇺🇸  |
-| --- |
-| **When you hit a forehand in open stance, your OUTSIDE LEG (front leg, left for right-hander) is the BRIDGE.** It supports up to 3–5× body weight in compressive load. The foot MUST be angled 30–45° (not straight). |
-| **Why 30–45°?** the angle uses the TRANSVERSE ARCH as a STRUT. Horizontal force from the swing decomposes into vertical compression. The force travels up through the talus, tibia, knee, and into the femur — all in a near-straight line. |
-| **If the foot is straight (0°):** all the horizontal force becomes valgus stress on the knee → medial meniscus load → IT band friction. The knee hurts. The lateral foot collapses. |
-| **If the foot is angled >60° (over-rotated):** the foot loses its strut function. The transverse arch collapses. The force becomes shear on the knee. |
 
 ### The Outside Leg Foot Position — 3 Zones
 
@@ -227,11 +167,6 @@
 
 ### The 3-Point Foot Anchor — Tripod Foot
 
-| 🇺🇸  |
-| --- |
-| **The tripod foot is the GOLDEN position for groundstrokes.** Three points of contact: heel (center), ball of foot under big toe, ball of foot under pinky toe. These three points form a triangle. The triangle is RIGID. The center of the triangle is the "tripod" — the load-bearing center. |
-| **The test:** stand barefoot. Try to lift just the big toe while keeping the ball of foot under the pinky toe on the ground. If you can't, your tripod is collapsed. Practice "short foot" daily until you can. |
-
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.9-11.*
 
 ---
@@ -239,11 +174,6 @@
 * * *
 
 ## Chapter 7 — The Happy Feet Cue (Pre-Tension the Plantar Fascia)
-
-| 🇺🇸  |
-| --- |
-| **"Happy feet" in tennis means the feet are constantly in motion — never flat on the ground for long.** The user defines it more specifically: "Giữ gót lơ lửng giúp cân gan chân ở trạng thái tiền căng." (Keeping the heel floating keeps the plantar fascia in pre-tension.) |
-| **The pre-tension principle:** when the plantar fascia is pre-tensioned (heel off ground), the foot is ready to spring into action. The split-step can launch in any direction instantly. No delay. No "loading time." |
 
 ### The Happy Feet Position — Anatomy
 
@@ -257,12 +187,6 @@
 
 ### The Cost of Flat Feet in Tennis
 
-| 🇺🇸  |
-| --- |
-| **If your heel stays flat on the ground for >2 seconds during a point, you have "lazy feet."** The plantar fascia goes slack. The split-step reaction time increases from 100 ms to 250 ms. You lose 150 ms — enough for an opponent to hit a winner. |
-| **The 50+ habit:** most recreational players let the heel drop between shots. They're waiting for the next ball. They're flat-footed. The pro keeps the heel up — always ready. The pro's split-step is half the time of the recreational player. |
-| **The fix:** the "elevator heel." Between every shot, lift the heel 1 cm. Count: split-step → hit → recover → HEEL UP. Make it a rhythm. After 2 weeks of conscious practice, it becomes automatic. |
-
 *Source: Giai_phau_Ban_chan_Tennis.docx Ch.10 (Liên hệ với happy feet).*
 
 ---
@@ -270,12 +194,6 @@
 * * *
 
 ## Chapter 8 — The Tennis Shoe Trap (10 mm Heel Lift, 15 mm Toe Box)
-
-| 🇺🇸  |
-| --- |
-| **The user's source has a SHOCKING statistic:** "Hầu hết giày tennis nâng gót 10 mm, thu hẹp mũi 15 mm so với bàn chân tự nhiên. Hệ quả là ngón cái không duỗi được, windlass giảm hiệu quả, cơ nội sinh teo dần." (Most tennis shoes lift the heel 10 mm and narrow the toe box by 15 mm compared to the natural foot. The result is the big toe can't extend, the windlass is less effective, and intrinsic muscles atrophy over time.) |
-| **The 10 mm heel lift** shortens the calf. Over time, the calf adapts to the shorter length. When you take the shoe off, the calf "feels" too long. You feel tight. You stretch the calf. The calf SHORTENS further. A vicious cycle. |
-| **The 15 mm toe box narrowing** prevents the big toe from extending 60–90° at push-off. The windlass doesn't engage. Push-off power drops 20–30%. |
 
 ### The Tennis Shoe Numbers — What to Look For
 
@@ -514,3 +432,10 @@
 *End of DD7 — Ankles & Feet
 
 *Next: DD8 — The Control System (Vestibular, Proprioception, Vision, 50+ Body)
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

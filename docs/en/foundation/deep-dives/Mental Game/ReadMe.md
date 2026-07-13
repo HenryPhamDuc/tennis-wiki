@@ -1,4 +1,10 @@
-Done. Deep Dive on the Mental Game saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Mental Game\Mental Game — The Match Inside Your Head.md`** (~69 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on the Mental Game saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Mental Game\Mental Game — The Match Inside Your Head.md`** (~69 KB, EN-VI bilingual, 5 chapters
+)
 
 ### The big idea: "The 5-phase match map"
 
@@ -10,7 +16,8 @@ The mental game is not a single thing — it's a **5-phase cycle** that runs thr
 4. **BETWEEN POINTS** (15-25 sec) → Reset, the 4-step ritual
 5. **CHANGEOVER** (90 sec) → Recover, hydrate, re-strategize
 
-Most 3.5 players only know 2 of the 5 phases (rally and changeover). They skip warmup rituals, skip between-point rituals, and have no protocol for the pressure points. **The result: 80% of the mental game is invisible to them.**
+Most 3.5 players only know 2 of the 5 phases (rally and changeover). They skip warmup rituals, skip between-point rituals, and have no protocol for the pressure points.
+**The result: 80% of the mental game is invisible to them.**
 
 The deep dive teaches all 5 phases plus a 4-action loss recovery sequence for after lost games.
 
@@ -36,13 +43,22 @@ The deep dive teaches all 5 phases plus a 4-action loss recovery sequence for af
 
 ### Key 3.5-level choices I made
 
-- **Made the 5-phase match map the framing** (not "mental toughness" or "pressure management" — those are abstract). The 5 phases are CONCRETE: warmup, pre-point, during point, between points, changeover. **Each phase has a specific optimal mental state.** The 3.5 player who uses the same script for all 5 phases fails in 4.
-- **Built the pre-point ritual as a precise 4-step sequence** ("bounce-breathe-body-build") with specific timing (2 seconds total). The Complete Manual had the 2-second ritual, but the specific 4-step structure with EN-VI tables is new. **The ritual is the daily practice of mental fitness.**
-- **Made the "body leads the mind" the central principle** (embodied cognition, the body-mind loop). **The fastest way to fix the mind is to fix the body** — drop shoulders, unclench jaw, shake hands, lengthen spine. This is the 50+ friendly approach: works even with hearing loss, works even when tired, works even when the mind is panicking.
-- **Created a specific protocol for each of the 5 pressure points** (serving for set, serving for match, double-fault on break point, 0-40 trap, almost held trap). Each protocol is a 3-4 step tactical response. **Knowing the protocol in advance means the body executes when the mind panics.** Like a fire drill — you learn the exit now.
-- **Made the 4-action loss recovery a 90-second sequence** (Drop-Drift-Document-Drink). The Complete Manual had the 2-second ritual but not the post-game recovery. **The 90 seconds after a lost game determine the next 3-4 games.** The 4 actions are a factory reset for the whole game, not just the next point.
-- **Phrased the 50+ mental edge as a superpower, not a weakness.** Most 50+ framing is about LOSS (declining reflexes, slower recovery). This deep dive frames the 50+ player as having an ADVANTAGE younger players don't: **perspective.** *"The 30-year-old rages at the lost 40-0. The 50-year-old shrugs."* The shrug is the embodied cue.
-- **Used the 5 taichi principles** (Tùng/Tĩnh/Tỉnh/Quy/Hô Hấp) to anchor each phase of the loss recovery. Action 1 (Drop) is *Tùng* (release). Action 2 (Drift) is *Tĩnh* (stillness). Action 3 (Document) is *Tỉnh* (clarity). Action 4 (Drink) is *Quy* (return). **The 4 actions are a micro-meditation disguised as a tactical protocol.**
+- **Made the 5-phase match map the framing** (not "mental toughness" or "pressure management" — those are abstract).
+The 5 phases are CONCRETE: warmup, pre-point, during point, between points, changeover.
+**Each phase has a specific optimal mental state.** The 3.5 player who uses the same script for all 5 phases fails in 4.
+- **Built the pre-point ritual as a precise 4-step sequence** ("bounce-breathe-body-build") with specific timing (2 seconds total).
+The Complete Manual had the 2-second ritual, but the specific 4-step structure with EN-VI tables is new. **The ritual is the daily practice of mental fitness.**
+- **Made the "body leads the mind" the central principle** (embodied cognition, the body-mind loop).
+**The fastest way to fix the mind is to fix the body** — drop shoulders, unclench jaw, shake hands, lengthen spine.
+This is the 50+ friendly approach: works even with hearing loss, works even when tired, works even when the mind is panicking.
+- **Created a specific protocol for each of the 5 pressure points** (serving for set, serving for match, double-fault on break point, 0-40 trap, almost held trap).
+Each protocol is a 3-4 step tactical response. **Knowing the protocol in advance means the body executes when the mind panics.** Like a fire drill — you learn the exit now.
+- **Made the 4-action loss recovery a 90-second sequence** (Drop-Drift-Document-Drink). The Complete Manual had the 2-second ritual but not the post-game recovery.
+**The 90 seconds after a lost game determine the next 3-4 games.** The 4 actions are a factory reset for the whole game, not just the next point.
+- **Phrased the 50+ mental edge as a superpower, not a weakness.** Most 50+ framing is about LOSS (declining reflexes, slower recovery).
+This deep dive frames the 50+ player as having an ADVANTAGE younger players don't: **perspective.** *"The 30-year-old rages at the lost 40-0. The 50-year-old shrugs."* The shrug is the embodied cue.
+- **Used the 5 taichi principles** (Tùng/Tĩnh/Tỉnh/Quy/Hô Hấp) to anchor each phase of the loss recovery. Action 1 (Drop) is *Tùng* (release). Action 2 (Drift) is *Tĩnh* (stillness).
+Action 3 (Document) is *Tỉnh* (clarity). Action 4 (Drink) is *Quy* (return). **The 4 actions are a micro-meditation disguised as a tactical protocol.**
 
 ### How this connects to the existing series
 
@@ -63,15 +79,18 @@ The deep dive teaches all 5 phases plus a 4-action loss recovery sequence for af
 
 > *"You don't win tennis in your head. You win it in your BODY. Drop the shoulders. Unclench the jaw. Shake the hands. Lengthen the spine. The mind follows."*
 
-A 3.5 player who uses the 4-step ritual will save 2-3 games per match from mental errors. A 3.5 player who uses the 4-action loss recovery will save 1-2 sets per tournament. **The body that has lived is calmer than the body that has only won.**
+A 3.5 player who uses the 4-step ritual will save 2-3 games per match from mental errors. A 3.5 player who uses the 4-action loss recovery will save 1-2 sets per tournament.
+**The body that has lived is calmer than the body that has only won.**
 
 ### The master cue
 
-> *"Anh không thắng trận tennis trong đầu. Anh thắng trong CƠ THỂ. Thả vai. Mở hàm. Lắc tay. Kéo cột sống. Tâm theo sau. You don't win tennis in your head. You win it in your BODY. Drop the shoulders. Unclench the jaw. Shake the hands. Lengthen the spine. The mind follows."*
+> *"Anh không thắng trận tennis trong đầu. Anh thắng trong CƠ THỂ. Thả vai. Mở hàm. Lắc tay. Kéo cột sống. Tâm theo sau. You don't win tennis in your head. You win it in your BODY.
+Drop the shoulders. Unclench the jaw. Shake the hands. Lengthen the spine. The mind follows."*
 
 ### The 50+ mental edge
 
-> *"The 50+ player has a mental advantage most younger players don't: perspective. The 30-year-old's whole identity is on the line. The 50-year-old knows the match is a match. By 60, you'll be the calmest player on the court. By 70, you'll be the calmest player in the club. The 50+ mental edge is the only tennis advantage that GROWS with age."*
+> *"The 50+ player has a mental advantage most younger players don't: perspective. The 30-year-old's whole identity is on the line. The 50-year-old knows the match is a match.
+By 60, you'll be the calmest player on the court. By 70, you'll be the calmest player in the club. The 50+ mental edge is the only tennis advantage that GROWS with age."*
 
 ### File summary
 
@@ -92,4 +111,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "5 pha" và "4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, anh sẽ thấy mình bình tĩnh hơn người 30 trên sân.
+Hy vọng tuần này anh sẽ thêm "5 pha" và "4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm.
+Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, anh sẽ thấy mình bình tĩnh hơn người 30 trên sân.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

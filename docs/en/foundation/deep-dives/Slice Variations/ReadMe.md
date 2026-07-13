@@ -1,4 +1,10 @@
-Done. Deep Dive on the 7 Slice Variations Family saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\Slice Variations — The 7-Shot Swiss Army Knife.md`** (~59 KB, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on the 7 Slice Variations Family saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\Slice Variations — The 7-Shot Swiss Army Knife.md`** (~59 KB, EN
+-VI bilingual, 5 chapters)
 
 ### The big idea: "The slice is the 50+ Swiss Army knife"
 
@@ -38,13 +44,20 @@ The slice is **NOT one shot** — it's a **FAMILY of 7 variations**, all sharing
 
 ### Key 3.5-level choices I made
 
-- **Unified the existing slice family** (4 separate files: Slice Approach, Slice Return, Slice Low Ball, plus the slice in Lob & Overhead and Volley) into ONE master reference. **2 NEW variations added** (Slice Drop Shot, Slice Counter-Punch) that weren't deep-dived before.
-- **Grouped the 7 variations into 3 sub-families** for the 50+ learning sequence: **Survival** (Return, Low Ball, Counter-Punch) → master first; **Construction** (Approach, Volley) → master second; **Touch** (Drop Shot, Defensive Lob) → master third. This is the 50+ decision logic: defensive first, approach second, offensive third.
-- **Made the Continental grip the foundation.** All 7 variations share the SAME grip. **The 50+ player who has the Continental in their hand has 7 options, not 1.** The variation comes from the swing path, contact point, and footwork — NOT the grip.
-- **Translated the "survive first" principle:** the 3.5 player who masters the survival group (Return, Low Ball, Counter-Punch) first will win 30% more points. Why? Because most 3.5 points are lost on ERRORS, not winners. The survival group reduces errors.
-- **Phrased the 50+ longevity framing:** *"A 50+ player who uses 7 slice variations plays 20+ years. A 50+ player who uses 1-2 topspin groundstrokes plays 10 years. The slice family is the difference."*
+- **Unified the existing slice family** (4 separate files: Slice Approach, Slice Return, Slice Low Ball, plus the slice in Lob & Overhead and Volley) into ONE master reference.
+**2 NEW variations added** (Slice Drop Shot, Slice Counter-Punch) that weren't deep-dived before.
+- **Grouped the 7 variations into 3 sub-families** for the 50+ learning sequence: **Survival** (Return, Low Ball, Counter-Punch) → master first; **Construction** (Approach, Volley) → master second; **
+Touch** (Drop Shot, Defensive Lob) → master third. This is the 50+ decision logic: defensive first, approach second, offensive third.
+- **Made the Continental grip the foundation.** All 7 variations share the SAME grip.
+**The 50+ player who has the Continental in their hand has 7 options, not 1.** The variation comes from the swing path, contact point, and footwork — NOT the grip.
+- **Translated the "survive first" principle:** the 3.5 player who masters the survival group (Return, Low Ball, Counter-Punch) first will win 30% more points.
+Why? Because most 3.5 points are lost on ERRORS, not winners. The survival group reduces errors.
+- **Phrased the 50+ longevity framing:** *"A 50+ player who uses 7 slice variations plays 20+ years. A 50+ player who uses 1-2 topspin groundstrokes plays 10 years.
+The slice family is the difference."*
 - **Added specific cues for each variation** (block, scoop, press, soft hands, rainbow, lean) — each variation has its own body cue, not just "slice and hope."
-- **Connected the slice family to the rest of the series.** The Slice Approach deep dive covers 1 of the 7 variations in detail. The Mental Game deep dive covers the 4-step ritual that applies before every slice. The Volley deep dive covers the L-shape that the slice volley uses. The Lob and Overhead deep dive covers the defensive lob in detail. **This deep dive is the master reference — the others are specialized sub-deep-dives.**
+- **Connected the slice family to the rest of the series.** The Slice Approach deep dive covers 1 of the 7 variations in detail.
+The Mental Game deep dive covers the 4-step ritual that applies before every slice. The Volley deep dive covers the L-shape that the slice volley uses.
+The Lob and Overhead deep dive covers the defensive lob in detail. **This deep dive is the master reference — the others are specialized sub-deep-dives.**
 
 ### How this connects to the existing series
 
@@ -64,17 +77,22 @@ The slice is **NOT one shot** — it's a **FAMILY of 7 variations**, all sharing
 
 ### The most important sentence from this deep dive
 
-> *"The slice is not one shot. The slice is a family: 7 variations, 1 grip. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years. The slice family is the difference."*
+> *"The slice is not one shot. The slice is a family: 7 variations, 1 grip. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years.
+The slice family is the difference."*
 
-A 3.5 player who uses 7 slice variations has 7 tools for 7 situations. A 3.5 player who uses 1-2 has 1-2 tools for 7 situations — and loses 60% of the time. **The slice family is the 50+ longevity system.**
+A 3.5 player who uses 7 slice variations has 7 tools for 7 situations. A 3.5 player who uses 1-2 has 1-2 tools for 7 situations — and loses 60% of the time.
+**The slice family is the 50+ longevity system.**
 
 ### The master cue
 
-> *"Slice không phải một cú. Slice là một gia đình: 7 biến thể, 1 grip. Continental mở khóa cả 7. Ở tuổi 50+, người chơi dùng cả 7 sống 20 năm. Người chơi dùng 1-2 sống 10 năm. Gia đình slice là khác biệt. The slice is not one shot. The slice is a family: 7 variations, 1 grip. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years. The player who uses 1-2 plays 10 years. The slice family is the difference."*
+> *"Slice không phải một cú. Slice là một gia đình: 7 biến thể, 1 grip. Continental mở khóa cả 7. Ở tuổi 50+, người chơi dùng cả 7 sống 20 năm. Người chơi dùng 1-2 sống 10 năm.
+Gia đình slice là khác biệt. The slice is not one shot. The slice is a family: 7 variations, 1 grip. Continental unlocks all 7. At 50+, the player who uses all 7 plays 20 years.
+The player who uses 1-2 plays 10 years. The slice family is the difference."*
 
 ### The 50+ slice principle
 
-> *"The slice is the 50+ longevity system. Every variation reduces the load on the shoulder, the elbow, the knee, the back, and the heart. The slice is a CONTROL system, not a power system. The body that uses 7 slice variations lives 20+ years on the court."*
+> *"The slice is the 50+ longevity system. Every variation reduces the load on the shoulder, the elbow, the knee, the back, and the heart. The slice is a CONTROL system, not a power system.
+The body that uses 7 slice variations lives 20+ years on the court."*
 
 ### File summary
 
@@ -95,4 +113,9 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "gia đình slice" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+Hy vọng tuần này anh sẽ thêm "gia đình slice" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7.
+Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

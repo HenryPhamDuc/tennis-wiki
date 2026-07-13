@@ -1,7 +1,13 @@
+---
+title: Forehand Evolution Analysis: From Classic to Modern
+lang: en
+---
+
 # Forehand Evolution Analysis: From Classic to Modern
 
 ## Overview
-This document analyzes the evolution of the forehand stroke in tennis from the classic era of the 1970s-1980s to the modern power and spin-oriented game of today. We examine changes in grip, stance, swing path, and equipment that have transformed the forehand from a primarily flat, defensive shot to a dominant offensive weapon.
+This document analyzes the evolution of the forehand stroke in tennis from the classic era of the 1970s-1980s to the modern power and spin-oriented game of today.
+We examine changes in grip, stance, swing path, and equipment that have transformed the forehand from a primarily flat, defensive shot to a dominant offensive weapon.
 
 ## Historical Overview
 
@@ -189,7 +195,10 @@ This document analyzes the evolution of the forehand stroke in tennis from the c
 3. **Reaction and Hit**: Random ball feeds requiring quick stance adjustment before hitting
 
 ## Conclusion
-The evolution of the forehand reflects broader changes in tennis technology, athleticism, and tactical approaches. The modern forehand, with its emphasis on topspin, power, and versatility, has become the dominant shot in the game. However, the principles of timing, balance, and kinetic chain efficiency remain constant across eras. Players and coaches should understand these evolutionary trends to make informed decisions about technique development while respecting individual physical attributes and playing styles.
+The evolution of the forehand reflects broader changes in tennis technology, athleticism, and tactical approaches.
+The modern forehand, with its emphasis on topspin, power, and versatility, has become the dominant shot in the game.
+However, the principles of timing, balance, and kinetic chain efficiency remain constant across eras.
+Players and coaches should understand these evolutionary trends to make informed decisions about technique development while respecting individual physical attributes and playing styles.
 
 ## References and Further Study
 - **High-Speed Video Analysis**: Study of modern professionals (Nadal, Federer, Djokovic) in slow motion
@@ -199,3 +208,6 @@ The evolution of the forehand reflects broader changes in tennis technology, ath
 
 ---
 *Analysis compiled based on technical tennis resources, biomechanical studies, and observation of professional tennis evolution.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

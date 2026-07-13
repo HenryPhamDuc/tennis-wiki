@@ -1,3 +1,9 @@
+---
+title: 🎾 Basics - Core Tennis Skills
+lang: en
+---
+
+
 # 🎾 Basics - Core Tennis Skills
 
 Welcome to the Basics section, where you'll master the fundamental skills every tennis player needs. This is your complete reference for building a reliable, effective game.
@@ -48,3 +54,10 @@ Organized by skill area for easy navigation:
 ---
 
 **Ready to build your foundation?** Start with [Grips](Foundations%20and%20Grip/) or jump to your priority skill above.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

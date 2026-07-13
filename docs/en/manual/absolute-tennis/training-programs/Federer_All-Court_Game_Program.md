@@ -1,7 +1,14 @@
+---
+title: Federer All-Court Game Program
+lang: en
+---
+
 # Federer All-Court Game Program
 
 ## Overview
-This training program is designed to develop an all-court game modeled after Roger Federer, widely regarded as having one of the most complete and versatile games in tennis history. The program focuses on developing exceptional shot variety, court coverage, transition play, and the ability to dictate points from any position on the court—hallmarks of Federer's game that allowed him to dominate across all surfaces and eras.
+This training program is designed to develop an all-court game modeled after Roger Federer, widely regarded as having one of the most complete and versatile games in tennis history.
+The program focuses on developing exceptional shot variety, court coverage, transition play, and the ability to dictate points from any position on the court—hallmarks of Federer's game that allowed h
+im to dominate across all surfaces and eras.
 
 ## Program Overview
 - **Duration**: 12 weeks (can be adjusted based on athlete level)
@@ -19,6 +26,7 @@ Federer's game is built on:
 5. **Mental Calm**: Maintaining composure and executing under pressure
 
 ## Phase 1: Foundation & Stroke Variety Development (Weeks 1-3)
+
 ### Goals: Develop spin variety, depth control, and basic transition movement
 
 #### Technical Work
@@ -99,6 +107,7 @@ Federer's game is built on:
 - Sunday: Match Play Application (90 min) - focus on implementing variety
 
 ## Phase 2: Transition Game & Court Positioning (Weeks 4-6)
+
 ### Goals: Develop ability to take time away from opponent, improve net play, enhance anticipation
 
 #### Technical Work
@@ -178,6 +187,7 @@ Federer's game is built on:
 - Sunday: Review & Light Practice (60 min)
 
 ## Phase 3: Match Play Integration & Mental Game (Weeks 7-9)
+
 ### Goals: Integrate all-court game into match situations, develop mental routines, enhance tactical awareness
 
 #### Technical Work
@@ -257,6 +267,7 @@ Federer's game is built on:
 - Sunday: Practice Match (90 min) - full match with post-match analysis
 
 ## Phase 4: Refinement & Competition Preparation (Weeks 10-12)
+
 ### Goals: Refine all-court game, peak for competition, develop consistency under pressure
 
 #### Technical Work
@@ -368,6 +379,7 @@ Federer's game is built on:
 | Sunday | Light Practice or Rest | 60 min |
 
 ## Key Drills Library
+
 ### Stroke Variety & Control
 1. **Spin Rainbow**: Hit forehand with flat, topspin, slice in sequence to same target
 2. **Direction Ladder**: Hit to wide, body, T locations in progression
@@ -397,6 +409,7 @@ Federer's game is built on:
 5. **Video Feedback Drill**: Record play, review, implement one change next session
 
 ## Physical Conditioning Guidelines
+
 ### Agility & Footwork Focus
 - **Frequency**: 4 times per week
 - **Intensity**: High effort, short bursts (10-20 seconds)
@@ -421,6 +434,7 @@ Federer's game is built on:
 - **Active Recovery**: 2-3 times per week (light swimming, cycling, yoga)
 
 ## Evaluation and Progress Tracking
+
 ### Weekly Metrics to Track
 1. **Shot Variety Percentage**: % of shots hit with different spins/speeds from same preparation
 2. **Net Approach Success**: % of approach shots won point or forced error
@@ -440,6 +454,7 @@ Federer's game is built on:
 5. **Mental Game Rating**: Self-rating on focus, composure, and adaptability (1-10)
 
 ## Adaptation for Different Levels
+
 ### Beginner Focus (NTRP 2.5-3.5)
 - **Weeks 1-3**: Extended focus on basic stroke mechanics and consistency
 - **Weeks 4-6**: Slower pace feeds, emphasis on making contact and basic movement
@@ -494,3 +509,6 @@ Federer's game is built on:
 *Program developed based on analysis of Roger Federer's all-court game, training methodologies, and match performance data.*
 *Adapt volume, intensity, and focus based on individual athlete needs, age, and competitive level.*
 *Consult with qualified tennis coach and fitness professional before beginning any intensive training program.*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

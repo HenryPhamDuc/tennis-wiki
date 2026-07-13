@@ -1,6 +1,12 @@
+---
+title: 📖 Deep Dives - Complete Tennis Manuals
+lang: en
+---
+
 # 📖 Deep Dives - Complete Tennis Manuals
 
-Welcome to the Deep Dives section, where you'll find comprehensive, extended guides to every fundamental tennis skill. These are your complete reference manuals - detailed, thorough, and designed for deep study.
+Welcome to the Deep Dives section, where you'll find comprehensive, extended guides to every fundamental tennis skill.
+These are your complete reference manuals - detailed, thorough, and designed for deep study.
 
 ## 📚 Complete Manuals & Extended Guides
 
@@ -52,3 +58,6 @@ Welcome to the Deep Dives section, where you'll find comprehensive, extended gui
 ---
 
 **Ready to master the fundamentals?** Start with the [Complete Tennis Manual](Complete%20Manual/) or dive into your priority skill above.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

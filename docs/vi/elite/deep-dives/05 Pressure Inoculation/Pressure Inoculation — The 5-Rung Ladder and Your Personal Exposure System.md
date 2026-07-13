@@ -1,8 +1,15 @@
+---
+title: Deep-Dive #5 — Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System
+lang: en
+---
+
 # Deep-Dive #5 — Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System
+
 # Deep-Dive #5 — Tiêm Chủng Áp Lực — Thang 5 Nấc và Hệ Thống Tiếp Xúc Cá Nhân
 *Building a Nervous System That Performs Under Arousal — A 25-minute deep-dive for the 5.0+ player.*
 *Xây Hệ Thần Kinh Thi Đấu Dưới Hưng Phấn — Deep-dive 25 phút cho người chơi 5.0+.*
 ---
+
 ## 📋 DOCUMENT MAP / BẢN ĐỒ TÀI LIỆU
 | |
 | --- |
@@ -10,6 +17,7 @@
 | Ai nên đọc. Bất cứ ai chơi tốt lúc tập nhưng sụp ở điểm lớn. Bất cứ ai cơ thể "gồng" trong trận quan trọng. Bất cứ ai được bảo "cứ thư giãn" và thấy lời khuyên vô dụng. |
 | Thời gian đọc. ~25 phút. Phác đồ tiêm chủng đầy đủ: 90-180 ngày leo thang nhất quán. |
 ---
+
 ## 📖 TABLE OF CONTENTS / MỤC LỤC
 | Chapter | English | Tiếng Việt |
 |---|---|---|
@@ -22,6 +30,7 @@
 | 7 | The Pressure Journal | Nhật Ký Áp Lực |
 | 8 | Your Pressure Inoculation Card | Thẻ Tiêm Chủng Áp Lực Của Bạn |
 * * *
+
 # Chương 1 — Khoa Học Thần Kinh về Áp Lực (Chi Tiết)
 * * *
 | |
@@ -36,6 +45,7 @@
 | Kỷ luật 7-1. Ở 4.0, sự bảo vệ đủ nghiêm trọng người chơi mắc 7 lỗi cho mỗi 1 winner sạch. Ở 5.0+, người chơi đã *tiêm chủng* — hạch hạnh nhân bắn ít, bảo vệ một phần, tỷ lệ chuyển. Mục tiêu 5.0+: 1 lỗi cho mỗi 1 winner, hoặc tốt hơn. |
 | Mẫu thời gian. Kích hoạt hạch hạnh nhân không phải nhị phân bật/tắt. Nó có *trình tự thời gian:* tăng đột biến → đỉnh → suy giảm dần (nếu không có mối đe dọa mới). Kỹ năng 5.0+ là quản lý *suy giảm* — rút ngắn đột biến, hạ thấp đỉnh, tăng tốc suy giảm. |
 * * *
+
 # Chương 2 — Tại Sao "Bình Tĩnh Lại" Thất Bại
 * * *
 | |
@@ -46,6 +56,7 @@
 | Nghịch lý hơi thở. "Hít thở sâu" cũng có thể thất bại nếu kích hoạt Self 1. Nhưng hơi thở hộp (4-4-4-4) thường hiệu quả vì nó là *nhịp nhàng và bên ngoài* — không phải mệnh lệnh "bình tĩnh lại" mà là *mẫu vật lý.* Hạch hạnh nhân không thể kìm nhịp 4-4-4-4. Nó có thể kìm một ý nghĩ. |
 | Hiểu biết 5.0+. Tiêm chủng áp lực KHÔNG dạy anh bình tĩnh. Nó dạy anh thi đấu *ở hưng phấn cao.* Người 5.0+ tập hệ thần kinh hoạt động khi hạch hạnh nhân bắn. Bình tĩnh là *một* trạng thái có thể; năng lực hưng-phấn-cao là *mục tiêu.* |
 * * *
+
 # Chương 3 — Thang 5 Nấc Mặc Định (và Giới Hạn)
 * * *
 | |
@@ -59,6 +70,7 @@
 | Giới hạn. Thang mặc định giả định *stressor cơ sở* — điểm, tỉ số, đối thủ. *Stressor của anh* có thể khác. Người chơi choking về lỗi biên cần *nấc stress biên.* Người choking trước cha mẹ cần *nấc gia-đình-xem.* Người choking trong trận *dài* cần *nấc bền bỉ.* |
 | Nguyên tắc cá nhân hóa. Thang phải được xây từ dữ liệu choking quan sát được CỦA ANH. Không phải từ mặc định. *Thang của anh là của anh.* |
 * * *
+
 # Chương 4 — Thiết Kế Thang Cá Nhân
 * * *
 | |
@@ -79,6 +91,7 @@
 | Bước 5 — Xác nhận thứ tự thang. |
 | Làm kiểm tra nhanh: thử nấc 3 trước nấc 1. Nếu nấc 3 khó hơn nấc 1, thứ tự đúng. Nếu nấc 3 dễ hơn, thứ tự sai — xếp lại. |
 * * *
+
 # Chương 5 — Phác Đồ Liệu Pháp Tiếp Xúc
 * * *
 | |
@@ -93,6 +106,7 @@
 | Sau 7 ngày ở nấc 1, phản ứng hưng phấn với nấc 1 của anh là *một nửa.* Sau 7 ngày ở nấc 2, phản ứng với nấc 1-2 là một nửa. *Mỗi nấc dịch chuyển cả đường cơ sở xuống.* Đó là lý do chương trình tiêm chủng 6 tháng hiệu quả: sự dịch chuyển dần là vĩnh viễn. |
 | Kiểm tra "mệt mỏi tiếp xúc." Sau Ngày 7, nếu anh cảm thấy *tê* với trigger thay vì *có năng lực,* anh đã đi quá nhanh quá xa. Quay lại Ngày 3-4. |
 * * *
+
 # Chương 6 — Kết Hợp Tiêm Chủng với Kình & HRV
 * * *
 | |
@@ -110,6 +124,7 @@
 | Kình: tôi có tìm Kình dưới mỗi nấc không? Câu nhắc nào hiệu quả? |
 | HRV: ngày nào xanh/vàng/đỏ? Áp lực hoạt động thế nào mỗi loại? |
 * * *
+
 # Chương 7 — Nhật Ký Áp Lực
 * * *
 | |
@@ -125,8 +140,10 @@
 | Nhật ký "cái này hiệu quả." |
 | Mỗi lần một bài tập hoặc câu nhắc giúp dưới áp lực, ghi lại. *Đây là thắng tiêm chủng của anh.* Theo thời gian, anh xây sách cẩm nang cá nhân các kỹ thuật đã thử dưới áp lực. |
 * * *
+
 # Chương 8 — Thẻ Tiêm Chủng Áp Lực Của Bạn
 * * *
+
 ### 📋 Deep-Dive #5 Master Card — Printable / Thẻ Tổng Deep-Dive #5
 ╔═══════════════════════════════════════════════════════════════╗
 ║ THE PRESSURE INOCULATION CARD — YOUR PERSONAL LADDER ║
@@ -229,6 +246,7 @@
 ║ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ---
+
 ## 🎯 FINAL WORD / LỜI CUỐI
 | |
 | --- |
@@ -240,3 +258,6 @@ Sources / Nguồn:
 - Futuristic Tennis Manual by Olama.md (Ch 4 APS — Adaptive Performance State, HRV/Cortisol formula, in-trận bio-feedback regulation)
 - Advanced Tennis Kilướiic-Chain Manual.md (Conditioning & Recovery section — neuro-muscular reset, CNS fatigue, real-time biomarker tracking)
 See you on the court, engineer. / Hẹn gặp trên sân, kỹ sư.
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

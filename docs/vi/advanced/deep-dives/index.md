@@ -1,6 +1,12 @@
+---
+title: 🔬 Chuyên Sâu - Khoa Học Quần Vợt Nâng Cao
+lang: vi
+---
+
 # 🔬 Chuyên Sâu - Khoa Học Quần Vợt Nâng Cao
 
-Chào mừng bạn đến với phần Chuyên Sâu, nơi chúng tôi khám phá nền tảng khoa học đằng sau hiệu suất quần vợt ưu tú. Những hướng dẫn toàn diện này kết nối lý thuyết với thực hành, mang lại cho bạn "tại sao" đằng sau mỗi kỹ thuật.
+Chào mừng bạn đến với phần Chuyên Sâu, nơi chúng tôi khám phá nền tảng khoa học đằng sau hiệu suất quần vợt ưu tú.
+Những hướng dẫn toàn diện này kết nối lý thuyết với thực hành, mang lại cho bạn "tại sao" đằng sau mỗi kỹ thuật.
 
 ## 📚 Chuyên Sâu Hiện Tại
 
@@ -64,3 +70,6 @@ Chào mừng bạn đến với phần Chuyên Sâu, nơi chúng tôi khám phá
 ---
 
 **Sẵn sàng đi sâu?** Bắt đầu với [Embodied Cognition](01%20Embodied%20Cognition/) - nền tảng để hiểu cách cơ thể bạn học quần vợt.
+---
+
+**Tiếng Việt** | English: [xem bản dịch](../en/)

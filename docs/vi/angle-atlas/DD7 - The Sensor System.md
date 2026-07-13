@@ -1,10 +1,17 @@
+---
+title: DD7 — The Sensor System — Feedback Loops, PV vs SV, and Error Correction
+lang: en
+---
+
 # DD7 — The Sensor System — Feedback Loops, PV vs SV, and Error Correction
+
 # DD7 — Hệ Cảm Biến — Vòng Phản Hồi, PV vs SV, và Sửa Lỗi
 *Deep Dive #7 — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5*
 *Chuyên Đề Số 7 — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5*
 *Built from the 20-chapter body perception handbook at `Cẩm nang về cảm nhận cơ thể trong tennis/` and `Proprioception in Tennis` (Claude coauthor)*
 *Xây từ cẩm nang 20 chương nhận thức cơ thể tại `Cẩm nang về cảm nhận cơ thể trong tennis/` và `Proprioception in Tennis` (đồng tác giả Claude)*
 ---
+
 ## Document Map / Bản Đồ Tài Liệu
 | |
 | --- |
@@ -12,6 +19,7 @@
 | 5 kênh cảm biến — cảm giác sâu (khớp tôi ở đâu), bàn chân (đất ở đâu), bàn tay (vợt đang làm gì), mắt (bóng ở đâu + sân ở đâu), tai + tiền đình (đầu tôi ở đâu trong không gian + âm thanh tiếp xúc vợt đến từ đâu). |
 | Vòng điều khiển PV/SV — mỗi cú đánh là bộ điều khiển cố làm PV khớp SV. Khi PV ≠ SV, có sai số. Cơ thể có 3 cách sửa: (1) phản hồi trực tiếp (tốt — thấy trong cú), (2) phản hồi sau cú (tốt hơn — qua nhiều cú), (3) sửa dự đoán (tốt nhất — trước khi cú bắt đầu). |
 ---
+
 ## Table of Contents / Mục Lục
 | # | Chapter | Chương |
 |---|---|---|
@@ -29,7 +37,9 @@
 | 📋 | Sensor System Cheat Sheet | Bảng Tóm Tắt Hệ Cảm Biến |
 ---
 * * *
+
 # Chapter 1 — The Control Engineering View of Tennis
+
 # Chương 1 — Góc Nhìn Kỹ Thuật Điều Khiển Của Tennis
 | |
 | --- |
@@ -40,7 +50,9 @@
 | 5 kênh cảm biến là 5 nguồn PV. Não nhận PV từ cả 5, so với SV, và hoặc (a) xác nhận khớp (không sửa), (b) phát hiện sai (sửa trực tiếp), hoặc (c) điều chỉnh SV cho cú sau (sửa dự đoán). |
 | *Câu nhắc tổng:* "Tập cảm biến, không chỉ tập vung." |
 * * *
+
 # Chapter 2 — The 5 Sensor Channels
+
 # Chương 2 — 5 Kênh Cảm Biến
 | # | Channel / Kênh | What It Senses / Nó Cảm Nhận | Where the Sensors Are / Vị Trí Cảm Biến | Speed / Tốc Độ |
 |---|---|---|---|---|
@@ -69,7 +81,9 @@
 | Với Phát Bóng (toàn quyền kiểm soát) : cảm giác sâu (thời gian chuỗi) > bàn tay (cầm và phóng) > mắt (mục tiêu) > bàn chân (tung) > tai (xác nhận) |
 | *Câu nhắc tổng:* "5 cảm biến. 5 tốc độ. Não cân đó theo cú." |
 * * *
+
 # Chapter 3 — Channel 1 — Proprioception (The Hidden 6th Sense)
+
 # Chương 3 — Kênh 1 — Cảm Giác Sâu (Giác Quan Thứ 6 Ẩn)
 | |
 | --- |
@@ -100,7 +114,9 @@
 | Suy giảm 50+ — cảm giác sâu giảm ~10%–15% mỗi thập kỷ sau 50 tuổi. Đây là lý do người chơi lớn tuổi mất thăng bằng. Không phải "vấn đề thăng bằng" — là vấn đề CẢM BIẾN. Tập cảm biến. |
 | *Câu nhắc tổng:* "Nhắm mắt. Tin khớp bạn. Chúng biết." |
 * * *
+
 # Chapter 4 — Channel 2 — Feet (Ground Contact as PV)
+
 # Chương 4 — Kênh 2 — Bàn Chân (Tiếp Đất làm PV)
 | |
 | --- |
@@ -123,7 +139,9 @@
 | Câu nhắc "rễ cây" — tài liệu nguồn (Ch.1) dùng thuật ngữ "Rễ Cây". Hình dung chân bạn như rễ cây — lan ra, bám, cảm nhận. Mỗi đẩy bắt đầu bằng chân cảm nhận. |
 | *Câu nhắc tổng:* "Bàn chân là cảm biến trước, động cơ sau." |
 * * *
+
 # Chapter 5 — Channel 3 — Hands (Racket Grip as PV)
+
 # Chương 5 — Kênh 3 — Bàn Tay (Cầm Vợt làm PV)
 | |
 | --- |
@@ -147,7 +165,9 @@
 | Quy tắc "tay mềm tiếp xúc chắc" — tài liệu nguồn (Ch.12 Cú Trái Tay): "Tay mềm tiếp xúc chắc." Tay đủ mềm để hấp thụ phản hồi, đủ chắc để truyền lực. Đây là cân bằng căng tối đa hóa cả độ nhạy PV lẫn lực. |
 | *Câu nhắc tổng:* "Tay chủ động, ngón mềm. PV mỗi mili-giây." |
 * * *
+
 # Chapter 6 — Channel 4 — Eyes (Vision as PV + SV Source)
+
 # Chương 6 — Kênh 4 — Mắt (Thị Giác làm PV + Nguồn SV)
 | |
 | --- |
@@ -171,7 +191,9 @@
 | Suy giảm thị giác 50+ — lão thị (mất khả năng tập trung gần) bắt đầu ở 40–45 tuổi. Thị giác ngoại vi hẹp ~10°–20° đến 70 tuổi. Dùng bóng vàng trên sân tối cho tương phản tối đa. Xoay đầu thường xuyên hơn để bù thu hẹp ngoại vi. |
 | *Câu nhắc tổng:* "Mắt đặt mục tiêu. Mắt kiểm kết quả. Cả hai mắt, cả hai việc." |
 * * *
+
 # Chapter 7 — Channel 5 — Ears + Vestibular (Sound + Head Position)
+
 # Chương 7 — Kênh 5 — Tai + Tiền Đình (Âm Thanh + Vị Trí Đầu)
 | |
 | --- |
@@ -212,7 +234,9 @@
 | Combo tai + tiền đình cho thăng bằng — tai + tiền đình làm việc cùng nhau cho thăng bằng. Tai nghe cơ thể ngã, tiền đình phát hiện đầu xoay. Tennis đòi hỏi CẢ HAI đồng thời. |
 | *Câu nhắc tổng:* "Nghe cú. Cảm đầu. Cả hai cho bạn PV." |
 * * *
+
 ## 7.1 — Reading the Balance Control Loop (A Walk-Through)
+
 ## 7.1 — Đọc Vòng Kiểm Soát Thăng Bằng (Đi Từng Bước)
 | |
 | --- |
@@ -229,7 +253,9 @@
 | 3 bài học từ sơ đồ này — (1) Thăng bằng không phải một thứ — đó là hệ 6 thành phần, (2) VOR là người hùng thầm lặng — không có nó, mắt bạn nảy mỗi lần đầu chuyển động, (3) Vòng phản hồi nghĩa là thăng bằng không bao giờ "xong" — nó chạy liên tục, ngay cả khi bạn nghĩ mình đang đứng yên. |
 | *Câu nhắc tổng:* "Sơ đồ là chương. Đọc chậm. Mỗi ô là cảm biến. Mỗi mũi tên là vòng phản hồi. Mỗi khoảnh khắc trên sân là vòng này chạy." |
 * * *
+
 # Chapter 8 — The 3 Feedback Loop Types
+
 # Chương 8 — 3 Loại Vòng Phản Hồi
 | |
 | --- |
@@ -254,7 +280,9 @@
 | Loại bị bỏ qua nhiều nhất — LOẠI 3 (dự đoán) là loại ít được tập nhất. Hầu hết người chơi lặp CÙNG cú 1000 lần mà không thích ứng. Họ chỉ thích ứng khi ai đó bảo họ. Thích ứng tự trị đến từ tập Loại 3. |
 | *Câu nhắc tổng:* "Ba vòng phản hồi. Tập cả ba. Đa số chỉ tập một." |
 * * *
+
 # Chapter 9 — Error Correction: From Error to Refinement
+
 # Chương 9 — Sửa Lỗi: Từ Sai Số Đến Tinh Chỉnh
 | |
 | --- |
@@ -275,7 +303,9 @@
 | Quy tắc "tập có chủ đích" — nghiên cứu Anders Ericsson (1993): khác biệt giữa chuyên gia và nghiệp dư KHÔNG phải lượng tập. Đó là CHẤT LƯỢNG phản hồi trong tập. Pro tập với chú ý đầy đủ + sửa ngay. Nghiệp dư tập trên tự động. |
 | *Câu nhắc tổng:* "Sai số là thầy. Làm chúng to. Rồi sửa." |
 * * *
+
 # Chapter 10 — The 5-Phase Body Perception Cycle (Internal vs External Focus)
+
 # Chương 10 — Chu Kỳ Nhận Thức Cơ Thể 5 Pha (Tập Trung Trong vs Ngoài)
 | |
 | --- |
@@ -295,7 +325,9 @@
 | Câu nhắc thở 3-3-3 — nguồn (Ch.5) khuyến nghị: 3 giây hít vào trong nhận thức rộng, 3 giây giữ trong rễ cây, 3 giây thở ra trong vung.Cái này đồng bộ hơi thở với nhận PV. Thở ra trong vung cũng ổn định cột sống qua áp lực trong lồng ngực. |
 | *Câu nhắc tổng:* "Trong cho cơ thể, ngoài cho bóng. Chuyển lúc tiếp xúc." |
 * * *
+
 # Chapter 11 — Training the Sensors (Drills)
+
 # Chương 11 — Tập Các Cảm Biến (Bài Tập)
 | |
 | --- |
@@ -313,18 +345,24 @@
 | Bước — bạn cùng tung bóng. Bạn theo bóng bình thường. Ở 0.5 giây trước tiếp xúc, NHẮM MẮT. Đánh bóng mắt nhắm. Giữ kết thúc 2 giây. Mở mắt. Kiểm vị trí bóng. |
 | Cái nó tiết lộ — độ chính xác cảm giác sâu của bạn. Nếu dáng cú giống hệt mắt nhắm vs mắt mở, cảm giác sâu bạn đã hiệu chỉnh. Nếu dáng sụp, cảm giác sâu bạn cần tập. |
 * * *
+
 # Chapter 12 — The Sensor Atlas — A Visual Synthesis of the 5 Channels
+
 # Chương 12 — Tập Bản Đồ Cảm Biến — Tổng Hợp Trực Quan 5 Kênh
 | |
 | --- |
 | Chương này là tóm tắt trực quan — mỗi hình còn lại minh họa một khái niệm then chốt từ các chương trước. In chương này thành một tờ để trong túi vợt. |
+
 ## 12.1 — Reaction Time Cascade (The Aging Sensor)
+
 ## 12.1 — Thác Phản Xạ (Cảm Biến Lão Hóa)
 | |
 | --- |
 | ![Thác phản xạ](images/DD7_sensor_system/DD7_sensors_06_reaction_time_cascade.png) |
 | Hình 7 — Thác phản xạ theo tuổi: 25 = 400 ms, 50 = 500 ms, 65 = 600 ms, 75 = 700 ms. Đây là GIỚI HẠN TRÊN tốc độ Phát Bóng mà mỗi tuổi có thể trả. |
+
 ## 12.2 — The 50+ Sensory Triad (Three Sensors Decline Together)
+
 ## 12.2 — Bộ Ba Cảm Biến 50+ (Ba Cảm Biến Cùng Suy Giảm)
 | |
 | --- |
@@ -332,7 +370,9 @@
 | Hình 8 — Bộ ba cảm biến 50+: thị giác, tiền đình, VÀ cảm giác sâu đều suy giảm ĐỒNG THỜI. Hầu hết chương trình tập tập trung một — chương trình thông minh tập cả ba. |
 | ![Chiến lược bù](images/DD7_sensor_system/DD7_sensors_09_compensation_strategy.png) |
 | Hình 9 — Cách bù: khi một cảm biến suy giảm, tập các cảm biến khác cật lực hơn. Vd: nếu tiền đình giảm → dựa nhiều hơn vào thị giác + cảm giác sâu. Dư thừa là vũ khí bí mật của người chơi 50+. |
+
 ## 12.3 — Brain Region Integration (The Sensor + Controller Wiring)
+
 ## 12.3 — Tích Hợp Vùng Não (Đấu Nối Cảm Biến + Bộ Điều Khiển)
 | |
 | --- |
@@ -340,13 +380,17 @@
 | Hình 10 — Cách tất cả vùng não làm việc cùng nhau: vỏ thị giác (PV-mắt) → tiểu não (định giờ) → vỏ vận động (bộ điều khiển) → cơ (cơ cấu chấp hành) → cảm giác sâu (PV phản hồi). Vòng đóng qua phản hồi cảm giác. |
 | ![Đường thần kinh](images/DD7_sensor_system/DD7_sensors_11_neural_pathway.png) |
 | Hình 11 — Đường thần kinh: nơ-ron cảm giác → tủy sống → thân não → đồi thị → vỏ cảm giác → vỏ vận động → tủy sống → cơ. Tổng khứ hồi: ~50 ms. Đây là nhanh nhất cơ thể bạn có thể sửa một cú. |
+
 ## 12.4 — The Use-It-Or-Lose-It Principle (Tennis Is Protective)
+
 ## 12.4 — Nguyên Tắc Dùng-Hoặc-Mất (Tennis Là Bảo Vệ)
 | |
 | --- |
 | ![Dùng hoặc mất - tiếp tục chơi](images/DD7_sensor_system/DD7_sensors_12_use_it_or_lose_it.png) |
 | Hình 12 — Nguyên tắc dùng-hoặc-mất 50+. Bản thân tennis là thuốc giải cho suy giảm cảm giác. Người chơi 50+ chơi 3 lần/tuần duy trì 70-80% dung lượng. Người chơi 50+ ngừng mất ở tốc độ gấp 2 lần. |
+
 ## 12.5 — The Compléte Sensor System Map (One Page)
+
 ## 12.5 — Bản Đồ Hệ Cảm Biến Hoàn Chỉnh (Một Trang)
 | |
 | --- |
@@ -372,6 +416,7 @@ SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing
 | Mệnh lệnh 50+ — đến 50 tuổi, bạn đã mất 10–30% mỗi cảm biến. Bạn không thể chơi tennis giống trước. Nhưng bạn có thể chơi tennis TỐT HƠN bằng THÍCH ỨNG hỗn hợp cảm biến: dựa nhiều hơn vào thị giác (bóng vàng, tương phản), nhiều hơn vào cảm giác sâu (bài chậm), nhiều hơn vào tiền đình (thăng bằng xoay đầu). |
 | *Câu nhắc tổng:* "Năm cảm biến, ba vòng, một cơ thể. Tập cả năm, tập cả ba, rồi chơi tennis." |
 * * *
+
 ## 📋 Chapter Card — Printable / Thẻ In Được
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -429,6 +474,7 @@ SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing
 ╚═══════════════════════════════════════════════════════════╝
 ```
 * * *
+
 ## 🎯 Final Word / Lời Cuối
 | |
 | --- |
@@ -439,9 +485,14 @@ SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing
 | Tổng khái niệm tích hợp từ nguồn và tài liệu thần kinh/cảm biến rộng hơn: 70+ bao phủ 5 kênh cảm biến, 3 loại vòng phản hồi, khung PV vs SV, hệ thống phân cấp sửa sai, chu kỳ nhận thức cơ thể 5 pha, nghiên cứu tập trung trong/ngoài của Wulf, 5 bài tập cảm biến, và bài blink. |
 * * *
 Sources / Nguồn :
-- Primary : 20-chapter body perception handbook (`Cẩm nang về cảm nhận cơ thể trong tennis/Vi_Nhan_Thuc_Co_The_Tennis_20_Chuong.docx` and per-chapter MDs Ch.1–Ch.20) — your master source for proprioception, foot grounding, split-step as system reset, kilướiic chain awareness, breath, and tactile vợt feedback.
+- Primary : 20-chapter body perception handbook (`Cẩm nang về cảm nhận cơ thể trong tennis/Vi_Nhan_Thuc_Co_The_Tennis_20_Chuong.docx` and per-chapter MDs Ch.1–Ch.20) — your master source for proprioce
+ption, foot grounding, split-step as system reset, kilướiic chain awareness, breath, and tactile vợt feedback.
 - Supporting : `proprioception_in_tennis.md` (Claude coauthor, 4.3 KB English) + `proprioception_in_tennis_detailed_vi.md` (Claude coauthor, 1.4 KB Vietnamese).
-- Cross-references : DD1 (Angle Atlas), DD2 (Joints as Springs), DD3 (Neurological Foundation), DD4 (Muscle Hierarchy), DD5 (Skelétal Architecture), DD6 (The 50+ Body), Anatomy_Lab DD7 (feet + 7,000 nerves), Anatomy_Lab DD8 (control system).
+- Cross-references : DD1 (Angle Atlas), DD2 (Joints as Springs), DD3 (Neurological Foundation), DD4 (Muscle Hierarchy), DD5 (Skelétal Architecture), DD6 (The 50+ Body), Anatomy_Lab DD7 (feet + 7,000 n
+erves), Anatomy_Lab DD8 (control system).
 - Research : Gabriele Wulf (2007, 2013) on internal vs external focus; Anders Ericsson (1993) on deliberate thực hành; Vickers (1996, 2007) on quiet eye.
 *End of Deep Dive #7 — The Sensor System*
 *Hết Chuyên Đề Số 7 — Hệ Cảm Biến*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

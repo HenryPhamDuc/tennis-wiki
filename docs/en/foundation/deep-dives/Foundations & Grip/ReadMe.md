@@ -1,3 +1,8 @@
+---
+title: ReadMe.md
+lang: en
+---
+
 # ReadMe.md
 
 ## Topic: Foundations & Grip
@@ -21,3 +26,7 @@ This deep dive covers the fundamental interface between the player, the racket, 
 - **Footwork**: How these grips adapt when your feet are perfectly positioned vs. scrambling.
 - **Groundstrokes (L-Angle)**: Connecting the grip to the L-shape drop.
 - **Troubleshooting**: Fixing "shanks" caused by improper contact-to-grip alignment.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

@@ -1,8 +1,15 @@
-Done. Deep Dive on Lob and Overhead saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Lob and Overhead\Lob and Overhead — The Vertical Game.md`** (~67 KB, 574 lines, EN-VI bilingual, 5 chapters)
+---
+title: Readme
+lang: en
+---
+
+Done. Deep Dive on Lob and Overhead saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Lob and Overhead\Lob and Overhead — The Vertical Game.md`** (~67 KB, 574 lines, EN-VI bilingua
+l, 5 chapters)
 
 ### The big idea: "The Vertical Game"
 
-This deep dive frames the lob and the overhead as **two answers to the same problem — the ball is in the air** — rather than two separate strokes. The "vertical" axis (up-down) is what decides points at 3.5+ when opponents are good enough to retrieve everything from side to side.
+This deep dive frames the lob and the overhead as **two answers to the same problem — the ball is in the air** — rather than two separate strokes.
+The "vertical" axis (up-down) is what decides points at 3.5+ when opponents are good enough to retrieve everything from side to side.
 
 | Chapter | What it covers | Role in the 3.5 game |
 |---|---|---|
@@ -24,12 +31,16 @@ This deep dive frames the lob and the overhead as **two answers to the same prob
 
 ### Key 3.5-level choices I made
 
-- **Led with the defensive slice lob, not the offensive topspin lob.** Most 3.5 players try the offensive lob first because Federer does it — but it requires precise margin and strong grip management. The defensive slice lob is the rational default at 50+: low stress, high percentage, no shoulder load. **The defensive lob is the 3.5's insurance policy.**
-- **Named the overhead the "Sane Smash."** Recreational players default to "swing hard, hit it long." The Sane Smash is the opposite: track, position, turn, fall. **Gravity does the work, not the arm.** This is joint protection disguised as technique.
+- **Led with the defensive slice lob, not the offensive topspin lob.** Most 3.5 players try the offensive lob first because Federer does it — but it requires precise margin and strong grip management.
+ The defensive slice lob is the rational default at 50+: low stress, high percentage, no shoulder load. **The defensive lob is the 3.5's insurance policy.**
+- **Named the overhead the "Sane Smash."** Recreational players default to "swing hard, hit it long." The Sane Smash is the opposite: track, position, turn, fall.
+**Gravity does the work, not the arm.** This is joint protection disguised as technique.
 - **Framed the lob + overhead as ONE topic ("the vertical game").** They're not separate shots. They're two answers to the same problem. Seeing them as a pair is the master-coach insight.
-- **Tied the lob volley + counter-overhead to the existing Volley deep dive (Ch 4).** Avoided duplication — the Volley deep dive already has the 1-paragraph treatment. This deep dive expands them with the 3.5+ decision tree.
+- **Tied the lob volley + counter-overhead to the existing Volley deep dive (Ch 4).** Avoided duplication — the Volley deep dive already has the 1-paragraph treatment.
+This deep dive expands them with the 3.5+ decision tree.
 - **Skipped frame counts and joint angles.** Translated "lift the racket head" into "scratch your back" and "sane smash" into "PUT IT DOWN." The 3.5 player needs the body image, not the physics.
-- **Added the doubles pattern callout.** "My partner serves, I hit a deep defensive lob, partner poaches the reply. Three shots, one point." — this is the 50+ doubles cheat code, mentioned as a sidebar in Ch 4.
+- **Added the doubles pattern callout.** "My partner serves, I hit a deep defensive lob, partner poaches the reply.
+Three shots, one point." — this is the 50+ doubles cheat code, mentioned as a sidebar in Ch 4.
 - **Ended with a printable 1-page cheat sheet** in both languages, with the "phập vs bộp" sound-cue pair for slice lob diagnosis (Surrey bag-ready).
 
 ### How this connects to the existing series
@@ -48,7 +59,8 @@ This deep dive frames the lob and the overhead as **two answers to the same prob
 
 > *"Lob mua thời gian. Overhead đổi thời gian thành điểm. The lob buys you time. The overhead cashes it in."*
 
-A player who can hit a deep defensive lob AND a Sane Smash will win more points at 3.5 than a player with a bigger forehand but no vertical game. The vertical game is the chess move that breaks the rally rhythm.
+A player who can hit a deep defensive lob AND a Sane Smash will win more points at 3.5 than a player with a bigger forehand but no vertical game.
+The vertical game is the chess move that breaks the rally rhythm.
 
 ### Want me to continue?
 
@@ -70,3 +82,7 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
   - 📄 `ReadMe.md` (this file)
 
 Hy vọng tuần này anh sẽ thêm "trò chơi dọc" vào toolkit ở Surrey. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — backswing cao là chìa khóa của mọi lob.
+
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)

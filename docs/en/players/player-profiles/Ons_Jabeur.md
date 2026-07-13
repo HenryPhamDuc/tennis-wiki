@@ -1,3 +1,8 @@
+---
+title: Ons Jabeur
+lang: en
+---
+
 # Ons Jabeur
 
 ## Overview
@@ -62,7 +67,8 @@
 - **Off-Season**: Focus on building strength and power, particularly in the core and legs to support her movement and shot production.
 - **Pre-Season**: Increased on-court work, focusing on serve development, return of serve, and point construction.
 - **In-Season**: Maintenance work, recovery focus, and opponent-specific preparation.
-- **Specific Drills**: Extensive drop shot and volley practice, one-handed backhand drills focusing on variety and precision, movement work focusing on lateral quickness and recovery, and mental toughness exercises.
+- **Specific Drills**: Extensive drop shot and volley practice, one-handed backhand drills focusing on variety and precision, movement work focusing on lateral quickness and recovery, and mental tough
+ness exercises.
 
 ## Resources for Further Study
 - **Match to Watch**: 2022 Wimbledon Final vs. Elena Rybakina (showcasing her variety and shot-making ability)
@@ -74,3 +80,6 @@
 *Part of the Tennis Legends Research Project*
 *Last Updated: July 9, 2026*
 *Connected to: Tennis Legends Research - Chapter 1.md*
+---
+
+**English** | Tiếng Việt: [xem bản dịch](../vi/)
